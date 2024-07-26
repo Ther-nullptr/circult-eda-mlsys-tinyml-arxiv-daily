@@ -10,6 +10,7 @@ max_results: 10
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
+update_paper_links: True
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'
