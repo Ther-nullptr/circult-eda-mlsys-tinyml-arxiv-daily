@@ -378,7 +378,7 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
-    config['update_paper_links'] = True
+
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
@@ -424,10 +424,10 @@ def demo(**config):
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
         # TODO: duplicated update paper links!!!
-        # if True:
-        update_paper_links(json_file)
-        # else:
-        #    update_json_file(json_file, data_collector_web)
+        if config['update_paper_links']:
+            update_paper_links(json_file)
+        else:
+            update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
