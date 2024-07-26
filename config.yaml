@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "Ther-nullptr"
+repo_name: "circult-eda-mlsys-tinyml-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -22,18 +22,17 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Quantization": 
+        filters: ["Post-Training Quantization", "Quantization-Aware Training", "Low-bit Quantization"]
+    "Pruning":
+        filters: ["Network Pruning", "Structured Pruning", "Unstructured Pruning", "Neural Architecture Search"]
+    "Hardware-Software Co-Design":
+        filters: ["Hardware-Software Co-Design", "Hardware Accelerator", "AI Compiler"]
+    "TinyML":
+        filters: ["TinyML", "Edge AI", "Embedded AI"]
+    "Domain Specific Accelerator":
+        filters: ["Domain Specific Accelerator", "DNN Accelerator", "AI Chip"]
+    "Low-Rank Adaptation":
+        filters: ["LoRA", "Low-Rank Adaptation"]
+    "Model Compression":
+        filters: ["Model Compression", "Knowledge Distillation", "Model Pruning"]
