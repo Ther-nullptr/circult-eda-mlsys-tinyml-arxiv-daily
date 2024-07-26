@@ -424,10 +424,10 @@ def demo(**config):
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
         # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            update_json_file(json_file, data_collector_web)
+        # if True:
+        update_paper_links(json_file)
+        # else:
+        #    update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
