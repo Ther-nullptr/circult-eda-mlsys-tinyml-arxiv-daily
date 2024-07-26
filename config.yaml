@@ -22,10 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Quantization": 
-        filters: ["Post Training Quantization", "Quantization Aware Training", "Low Bit Quantization"]
-    "Pruning":
-        filters: ["Network Pruning", "Structured Pruning", "Unstructured Pruning", "Neural Architecture Search"]
     "Hardware-Software Co-Design":
         filters: ["Hardware Software Codesign", "Hardware Accelerator", "AI Compiler"]
     "TinyML":
