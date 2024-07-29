@@ -223,6 +223,7 @@ def update_json_file(filename,data_dict):
         if not content:
             m = {}
         else:
+            print(content)
             m = json.loads(content)
 
     json_data = m.copy()
