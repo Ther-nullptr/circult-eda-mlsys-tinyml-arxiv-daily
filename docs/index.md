@@ -62,6 +62,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**TinyChirp: Bird Song Recognition Using TinyML Models on Low-power Wireless Acoustic Sensors**|Zhaolan Huang et.al.|[2407.21453](http://arxiv.org/abs/2407.21453)|null|
+|**2024-07-31**|**SHA-CNN: Scalable Hierarchical Aware Convolutional Neural Network for Edge AI**|Narendra Singh Dhakad et.al.|[2407.21370](http://arxiv.org/abs/2407.21370)|null|
 |**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
 |**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
 |**2024-07-25**|**A Sensitivity Analysis of Cellular Automata and Heterogeneous Topology Networks: Partially-Local Cellular Automata and Homogeneous Homogeneous Random Boolean Networks**|Tom Eivind Glover et.al.|[2407.18017](http://arxiv.org/abs/2407.18017)|null|
@@ -79,6 +81,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Optical Computing for Deep Neural Network Acceleration: Foundations, Recent Developments, and Emerging Directions**|Sudeep Pasricha et.al.|[2407.21184](http://arxiv.org/abs/2407.21184)|null|
 |**2024-07-29**|**Realizing Unaligned Block-wise Pruning for DNN Acceleration on Mobile Devices**|Hayun Lee et.al.|[2407.19644](http://arxiv.org/abs/2407.19644)|null|
 |**2024-07-24**|**The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems**|Sabrina M. Neuman et.al.|[2407.17311](http://arxiv.org/abs/2407.17311)|null|
 |**2024-07-17**|**StoX-Net: Stochastic Processing of Partial Sums for Efficient In-Memory Computing DNN Accelerators**|Ethan G Rogers et.al.|[2407.12378](http://arxiv.org/abs/2407.12378)|null|
@@ -95,6 +98,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Ge-based Clinopyroxene series: first principles and experimental local probe study**|Ricardo P. Moreira et.al.|[2407.21749](http://arxiv.org/abs/2407.21749)|null|
+|**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739](http://arxiv.org/abs/2407.21739)|null|
+|**2024-07-31**|**Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation**|Xiang Luo et.al.|[2407.21633](http://arxiv.org/abs/2407.21633)|null|
 |**2024-07-30**|**CELLM: An Efficient Communication in Large Language Models Training for Federated Learning**|Raja Vavekanand et.al.|[2407.20557](http://arxiv.org/abs/2407.20557)|null|
 |**2024-07-29**|**Generative Diffusion Model Bootstraps Zero-shot Classification of Fetal Ultrasound Images In Underrepresented African Populations**|Fangyijie Wang et.al.|[2407.20072](http://arxiv.org/abs/2407.20072)|null|
 |**2024-07-28**|**Memory-efficient Training of LLMs with Larger Mini-batches**|Dang Nguyen et.al.|[2407.19580](http://arxiv.org/abs/2407.19580)|null|
@@ -120,6 +126,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
+|**2024-07-31**|**Learning Effective Representations for Retrieval Using Self-Distillation with Adaptive Relevance Margins**|Lukas Gienapp et.al.|[2407.21515](http://arxiv.org/abs/2407.21515)|null|
+|**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
+|**2024-07-31**|**Lifelong Person Search**|Jae-Won Yang et.al.|[2407.21252](http://arxiv.org/abs/2407.21252)|null|
 |**2024-07-29**|**SalNAS: Efficient Saliency-prediction Neural Architecture Search with self-knowledge distillation**|Chakkrit Termritthikun et.al.|[2407.20062](http://arxiv.org/abs/2407.20062)|**[link](https://github.com/chakkritte/SalNAS)**|
 |**2024-07-29**|**ActivityCLIP: Enhancing Group Activity Recognition by Mining Complementary Information from Text to Supplement Image Modality**|Guoliang Xu et.al.|[2407.19820](http://arxiv.org/abs/2407.19820)|null|
 |**2024-07-29**|**Realizing Unaligned Block-wise Pruning for DNN Acceleration on Mobile Devices**|Hayun Lee et.al.|[2407.19644](http://arxiv.org/abs/2407.19644)|null|
