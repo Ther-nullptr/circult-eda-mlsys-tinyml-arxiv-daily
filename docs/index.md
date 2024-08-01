@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -120,7 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-29**|**SalNAS: Efficient Saliency-prediction Neural Architecture Search with self-knowledge distillation**|Chakkrit Termritthikun et.al.|[2407.20062](http://arxiv.org/abs/2407.20062)|null|
+|**2024-07-29**|**SalNAS: Efficient Saliency-prediction Neural Architecture Search with self-knowledge distillation**|Chakkrit Termritthikun et.al.|[2407.20062](http://arxiv.org/abs/2407.20062)|**[link](https://github.com/chakkritte/SalNAS)**|
 |**2024-07-29**|**ActivityCLIP: Enhancing Group Activity Recognition by Mining Complementary Information from Text to Supplement Image Modality**|Guoliang Xu et.al.|[2407.19820](http://arxiv.org/abs/2407.19820)|null|
 |**2024-07-29**|**Realizing Unaligned Block-wise Pruning for DNN Acceleration on Mobile Devices**|Hayun Lee et.al.|[2407.19644](http://arxiv.org/abs/2407.19644)|null|
 |**2024-07-28**|**Mixture of Modular Experts: Distilling Knowledge from a Multilingual Teacher into Specialized Modular Language Models**|Mohammed Al-Maamari et.al.|[2407.19610](http://arxiv.org/abs/2407.19610)|**[link](https://github.com/padas-lab-de/multi-language-dataset-creator)**|
