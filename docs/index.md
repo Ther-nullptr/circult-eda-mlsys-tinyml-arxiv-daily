@@ -45,6 +45,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Noise-augmented Chaotic Ising Machines for Combinatorial Optimization and Sampling**|Kyle Lee et.al.|[2408.04744](http://arxiv.org/abs/2408.04744)|null|
 |**2024-08-07**|**Hardware-Assisted Virtualization of Neural Processing Units for Cloud Platforms**|Yuqi Xue et.al.|[2408.04104](http://arxiv.org/abs/2408.04104)|null|
 |**2024-08-07**|**Real-time Event Recognition of Long-distance Distributed Vibration Sensing with Knowledge Distillation and Hardware Acceleration**|Zhongyao Luo et.al.|[2408.03647](http://arxiv.org/abs/2408.03647)|null|
 |**2024-08-06**|**LLM-Aided Compilation for Tensor Accelerators**|Charles Hong et.al.|[2408.03408](http://arxiv.org/abs/2408.03408)|null|
@@ -93,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Scaling Deep Learning Computation over the Inter-Core Connected Intelligence Processor**|Yiqi Liu et.al.|[2408.04808](http://arxiv.org/abs/2408.04808)|null|
 |**2024-07-30**|**Optical Computing for Deep Neural Network Acceleration: Foundations, Recent Developments, and Emerging Directions**|Sudeep Pasricha et.al.|[2407.21184](http://arxiv.org/abs/2407.21184)|null|
 |**2024-07-29**|**Realizing Unaligned Block-wise Pruning for DNN Acceleration on Mobile Devices**|Hayun Lee et.al.|[2407.19644](http://arxiv.org/abs/2407.19644)|null|
 |**2024-07-24**|**The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems**|Sabrina M. Neuman et.al.|[2407.17311](http://arxiv.org/abs/2407.17311)|null|
@@ -110,6 +112,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
+|**2024-08-09**|**LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description**|Yizhang Jin et.al.|[2408.04957](http://arxiv.org/abs/2408.04957)|null|
+|**2024-08-09**|**Energy performance of LR-FHSS: analysis and evaluation**|Roger Sanchez-Vital et.al.|[2408.04908](http://arxiv.org/abs/2408.04908)|null|
 |**2024-08-08**|**Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models**|Yupeng Chang et.al.|[2408.04556](http://arxiv.org/abs/2408.04556)|**[link](https://github.com/cyp-jlu-ai/ba-lora)**|
 |**2024-08-08**|**UNLEARN Efficient Removal of Knowledge in Large Language Models**|Tyler Lizzo et.al.|[2408.04140](http://arxiv.org/abs/2408.04140)|null|
 |**2024-08-07**|**Image-to-LaTeX Converter for Mathematical Formulas and Text**|Daniil Gurgurov et.al.|[2408.04015](http://arxiv.org/abs/2408.04015)|**[link](https://github.com/d-gurgurov/im2latex)**|
