@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -47,7 +47,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
 |**2024-08-16**|**Cross-Chip Partial Reconfiguration for the Initialisation of Modular and Scalable Heterogeneous Systems**|Marvin Fuchs et.al.|[2408.08626](http://arxiv.org/abs/2408.08626)|null|
-|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|**[link](https://github.com/xcw-1010/hlspilot)**|
 |**2024-08-12**|**Hardware Architecture Design of Model-Based Image Reconstruction Towards Palm-size Photoacoustic Tomography**|Yuwei Zheng et.al.|[2408.06049](http://arxiv.org/abs/2408.06049)|null|
 |**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
 |**2024-08-10**|**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**|Jaehong Cho et.al.|[2408.05499](http://arxiv.org/abs/2408.05499)|**[link](https://github.com/casys-kaist/llmservingsim)**|
@@ -196,7 +196,7 @@ layout: default
 |**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
 |**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250](http://arxiv.org/abs/2408.08250)|**[link](https://github.com/venturusbr/cv-model-compression)**|
 |**2024-08-15**|**MIDAS: Multi-level Intent, Domain, And Slot Knowledge Distillation for Multi-turn NLU**|Yan Li et.al.|[2408.08144](http://arxiv.org/abs/2408.08144)|null|
-|**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
+|**2024-08-19**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
 |**2024-08-14**|**FedQUIT: On-Device Federated Unlearning via a Quasi-Competent Virtual Teacher**|Alessio Mora et.al.|[2408.07587](http://arxiv.org/abs/2408.07587)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530](http://arxiv.org/abs/2408.07530)|**[link](https://github.com/mcao92/mobilesci)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476](http://arxiv.org/abs/2408.07476)|**[link](https://github.com/learninghx/tad-sr)**|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Pruning
 
@@ -52,7 +52,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -60,7 +60,7 @@
 |---|---|---|---|---|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
 |**2024-08-16**|**Cross-Chip Partial Reconfiguration for the Initialisation of Modular and Scalable Heterogeneous Systems**|Marvin Fuchs et.al.|[2408.08626](http://arxiv.org/abs/2408.08626)|null|
-|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|**[link](https://github.com/xcw-1010/hlspilot)**|
 |**2024-08-12**|**Hardware Architecture Design of Model-Based Image Reconstruction Towards Palm-size Photoacoustic Tomography**|Yuwei Zheng et.al.|[2408.06049](http://arxiv.org/abs/2408.06049)|null|
 |**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
 |**2024-08-10**|**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**|Jaehong Cho et.al.|[2408.05499](http://arxiv.org/abs/2408.05499)|**[link](https://github.com/casys-kaist/llmservingsim)**|
@@ -85,7 +85,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## TinyML
 
@@ -114,7 +114,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -135,7 +135,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -207,7 +207,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Model Compression
 
@@ -217,7 +217,7 @@
 |**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
 |**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250](http://arxiv.org/abs/2408.08250)|**[link](https://github.com/venturusbr/cv-model-compression)**|
 |**2024-08-15**|**MIDAS: Multi-level Intent, Domain, And Slot Knowledge Distillation for Multi-turn NLU**|Yan Li et.al.|[2408.08144](http://arxiv.org/abs/2408.08144)|null|
-|**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
+|**2024-08-19**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
 |**2024-08-14**|**FedQUIT: On-Device Federated Unlearning via a Quasi-Competent Virtual Teacher**|Alessio Mora et.al.|[2408.07587](http://arxiv.org/abs/2408.07587)|null|
 |**2024-08-14**|**Towards Real-time Video Compressive Sensing on Mobile Devices**|Miao Cao et.al.|[2408.07530](http://arxiv.org/abs/2408.07530)|**[link](https://github.com/mcao92/mobilesci)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476](http://arxiv.org/abs/2408.07476)|**[link](https://github.com/learninghx/tad-sr)**|
@@ -283,7 +283,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|null|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
