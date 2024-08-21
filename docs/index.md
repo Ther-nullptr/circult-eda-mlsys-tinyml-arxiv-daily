@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -202,7 +202,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-19**|**Transferring Backdoors between Large Language Models by Knowledge Distillation**|Pengzhou Cheng et.al.|[2408.09878](http://arxiv.org/abs/2408.09878)|null|
-|**2024-08-19**|**MoDeGPT: Modular Decomposition for Large Language Model Compression**|Chi-Heng Lin et.al.|[2408.09632](http://arxiv.org/abs/2408.09632)|null|
+|**2024-08-20**|**MoDeGPT: Modular Decomposition for Large Language Model Compression**|Chi-Heng Lin et.al.|[2408.09632](http://arxiv.org/abs/2408.09632)|null|
 |**2024-08-18**|**MedMAP: Promoting Incomplete Multi-modal Brain Tumor Segmentation with Alignment**|Tianyi Liu et.al.|[2408.09465](http://arxiv.org/abs/2408.09465)|null|
 |**2024-08-18**|**CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination**|Kaicheng Yang et.al.|[2408.09441](http://arxiv.org/abs/2408.09441)|null|
 |**2024-08-18**|**OVOSE: Open-Vocabulary Semantic Segmentation in Event-Based Cameras**|Muhammad Rameez Ur Rahman et.al.|[2408.09424](http://arxiv.org/abs/2408.09424)|**[link](https://github.com/ram95d/ovose)**|
