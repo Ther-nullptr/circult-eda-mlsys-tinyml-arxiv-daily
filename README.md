@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**A machine learning approach for computing solar flare locations in X-rays on-board Solar Orbiter/STIX**|Paolo Massa et.al.|[2408.16642](http://arxiv.org/abs/2408.16642)|null|
+|**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
 |**2024-08-27**|**The Uniqueness of LLaMA3-70B with Per-Channel Quantization: An Empirical Study**|Minghai Qin et.al.|[2408.15301](http://arxiv.org/abs/2408.15301)|null|
 |**2024-08-25**|**MobileQuant: Mobile-friendly Quantization for On-device Language Models**|Fuwen Tan et.al.|[2408.13933](http://arxiv.org/abs/2408.13933)|**[link](https://github.com/saic-fi/mobilequant)**|
 |**2024-08-25**|**Infrared Domain Adaptation with Zero-Shot Quantization**|Burak Sevsay et.al.|[2408.13925](http://arxiv.org/abs/2408.13925)|null|
@@ -76,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
 |**2024-08-29**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|null|
 |**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
 |**2024-08-29**|**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**|G Abarajithan et.al.|[2408.15561](http://arxiv.org/abs/2408.15561)|null|
@@ -120,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**TinyTNAS: GPU-Free, Time-Bound, Hardware-Aware Neural Architecture Search for TinyML Time Series Classification**|Bidyut Saha et.al.|[2408.16535](http://arxiv.org/abs/2408.16535)|null|
 |**2024-08-08**|**An Edge AI System Based on FPGA Platform for Railway Fault Detection**|Jiale Li et.al.|[2408.15245](http://arxiv.org/abs/2408.15245)|null|
 |**2024-08-23**|**S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis**|Kamal Basha S et.al.|[2408.12833](http://arxiv.org/abs/2408.12833)|null|
 |**2024-08-20**|**Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-Tuning**|Bei Ouyang et.al.|[2408.10746](http://arxiv.org/abs/2408.10746)|null|
@@ -176,6 +180,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**LoraMap: Harnessing the Power of LoRA Connections**|Hyeryun Park et.al.|[2408.16264](http://arxiv.org/abs/2408.16264)|null|
+|**2024-08-28**|**LeMON: Learning to Learn Multi-Operator Networks**|Jingmin Sun et.al.|[2408.16168](http://arxiv.org/abs/2408.16168)|**[link](https://github.com/jingminsun/lemon_prose)**|
 |**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
 |**2024-08-28**|**StyleRemix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements**|Jillian Fisher et.al.|[2408.15666](http://arxiv.org/abs/2408.15666)|**[link](https://github.com/jfisher52/StyleRemix)**|
 |**2024-08-28**|**TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**|Junbao Zhou et.al.|[2408.15657](http://arxiv.org/abs/2408.15657)|**[link](https://github.com/junbao-zhou/track-no-forgetting)**|
@@ -281,6 +287,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737](http://arxiv.org/abs/2408.16737)|null|
+|**2024-08-29**|**MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**|Eduarda Caldeira et.al.|[2408.16563](http://arxiv.org/abs/2408.16563)|**[link](https://github.com/eduardacaldeira/mst-kd)**|
+|**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
 |**2024-08-28**|**LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**|Fangxun Shu et.al.|[2408.15881](http://arxiv.org/abs/2408.15881)|**[link](https://github.com/shufangxun/llava-mod)**|
 |**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803](http://arxiv.org/abs/2408.15803)|null|
 |**2024-08-28**|**Online pre-training with long-form videos**|Itsuki Kato et.al.|[2408.15651](http://arxiv.org/abs/2408.15651)|null|
