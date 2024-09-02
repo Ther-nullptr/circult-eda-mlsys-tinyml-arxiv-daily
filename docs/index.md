@@ -65,6 +65,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
+|**2024-08-29**|**Serial and Parallel Two-Column Probing for Mixed-Integer Programming**|Yongzheng Dai et.al.|[2408.16927](http://arxiv.org/abs/2408.16927)|null|
 |**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
 |**2024-08-29**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|**[link](https://github.com/bomps4/tafe_pest_detection)**|
 |**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
@@ -161,6 +163,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](http://arxiv.org/abs/2408.17433)|null|
+|**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383](http://arxiv.org/abs/2408.17383)|**[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)**|
+|**2024-08-30**|**Wireless Integrated Authenticated Communication System (WIA-Comm)**|Amith N Bharadwaj et.al.|[2408.17112](http://arxiv.org/abs/2408.17112)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
+|**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
 |**2024-08-29**|**LoraMap: Harnessing the Power of LoRA Connections**|Hyeryun Park et.al.|[2408.16264](http://arxiv.org/abs/2408.16264)|null|
 |**2024-08-28**|**LeMON: Learning to Learn Multi-Operator Networks**|Jingmin Sun et.al.|[2408.16168](http://arxiv.org/abs/2408.16168)|**[link](https://github.com/jingminsun/lemon_prose)**|
 |**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
@@ -266,6 +273,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**How Knowledge Distillation Mitigates the Synthetic Gap in Fair Face Recognition**|Pedro C. Neto et.al.|[2408.17399](http://arxiv.org/abs/2408.17399)|**[link](https://github.com/ivonacolakovic/synthgap-mitigation-using-kd-in-ffr)**|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
+|**2024-08-29**|**VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition**|Zaiwei Zhang et.al.|[2408.16930](http://arxiv.org/abs/2408.16930)|null|
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737](http://arxiv.org/abs/2408.16737)|null|
 |**2024-08-29**|**MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**|Eduarda Caldeira et.al.|[2408.16563](http://arxiv.org/abs/2408.16563)|**[link](https://github.com/eduardacaldeira/mst-kd)**|
 |**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
