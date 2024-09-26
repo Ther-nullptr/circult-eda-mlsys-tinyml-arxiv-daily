@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|
+|**2024-09-25**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Yifei Liu et.al.|[2409.17066](http://arxiv.org/abs/2409.17066)|**[link](https://github.com/microsoft/vptq)**|
+|**2024-09-25**|**PTQ4RIS: Post-Training Quantization for Referring Image Segmentation**|Xiaoyan Jiang et.al.|[2409.17020](http://arxiv.org/abs/2409.17020)|**[link](https://github.com/gugu511yy/ptq4ris)**|
+|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
+|**2024-09-20**|**PTQ4ADM: Post-Training Quantization for Efficient Text Conditional Audio Diffusion Models**|Jayneel Vora et.al.|[2409.13894](http://arxiv.org/abs/2409.13894)|null|
 |**2024-09-18**|**Art and Science of Quantizing Large-Scale Models: A Comprehensive Overview**|Yanshu Wang et.al.|[2409.11650](http://arxiv.org/abs/2409.11650)|null|
 |**2024-09-12**|**LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs**|Han Xu et.al.|[2409.11424](http://arxiv.org/abs/2409.11424)|null|
 |**2024-09-12**|**DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**|Zhenyuan Dong et.al.|[2409.07756](http://arxiv.org/abs/2409.07756)|null|
@@ -46,6 +51,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515](http://arxiv.org/abs/2409.14515)|null|
+|**2024-09-20**|**CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information**|Yuxin Wang et.al.|[2409.13199](http://arxiv.org/abs/2409.13199)|null|
 |**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057](http://arxiv.org/abs/2409.11057)|null|
 |**2024-09-11**|**HESSO: Towards Automatic Efficient and User Friendly Any Neural Network Training and Pruning**|Tianyi Chen et.al.|[2409.09085](http://arxiv.org/abs/2409.09085)|**[link](https://github.com/microsoft/only_train_once)**|
 |**2024-09-12**|**Structured Pruning for Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2409.07834](http://arxiv.org/abs/2409.07834)|null|
@@ -75,6 +82,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Microsecond-Latency Feedback at a Particle Accelerator by Online Reinforcement Learning on Hardware**|Luca Scomparin et.al.|[2409.16177](http://arxiv.org/abs/2409.16177)|null|
+|**2024-09-25**|**Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA**|Lorenzo Borella et.al.|[2409.16075](http://arxiv.org/abs/2409.16075)|null|
+|**2024-09-19**|**Enhancing Performance and Scalability of Large-Scale Recommendation Systems with Jagged Flash Attention**|Rengan Xu et.al.|[2409.15373](http://arxiv.org/abs/2409.15373)|null|
+|**2024-09-23**|**Efficient Tabular Data Preprocessing of ML Pipelines**|Yu Zhu et.al.|[2409.14912](http://arxiv.org/abs/2409.14912)|null|
+|**2024-09-21**|**FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs**|Ehsan Kabir et.al.|[2409.14023](http://arxiv.org/abs/2409.14023)|null|
+|**2024-09-21**|**ProTEA: Programmable Transformer Encoder Acceleration on FPGA**|Ehsan Kabir et.al.|[2409.13975](http://arxiv.org/abs/2409.13975)|null|
+|**2024-09-23**|**Towards Efficient Neuro-Symbolic AI: From Workload Characterization to Hardware Architecture**|Zishen Wan et.al.|[2409.13153](http://arxiv.org/abs/2409.13153)|null|
+|**2024-09-20**|**Learning to Compare Hardware Designs for High-Level Synthesis**|Yunsheng Bai et.al.|[2409.13138](http://arxiv.org/abs/2409.13138)|null|
+|**2024-09-19**|**Performance and Power: Systematic Evaluation of AI Workloads on Accelerators with CARAML**|Chelsea Maria John et.al.|[2409.12994](http://arxiv.org/abs/2409.12994)|**[link](https://github.com/FZJ-JSC/CARAML)**|
+|**2024-09-19**|**CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**|Vladimir Frolov et.al.|[2409.12617](http://arxiv.org/abs/2409.12617)|null|
 |**2024-09-15**|**Pack my weights and run! Minimizing overheads for in-memory computing accelerators**|Pouya Houshmand et.al.|[2409.11437](http://arxiv.org/abs/2409.11437)|null|
 |**2024-09-11**|**Next-generation Probabilistic Computing Hardware with 3D MOSAICs, Illusion Scale-up, and Co-design**|Tathagata Srimani et.al.|[2409.11422](http://arxiv.org/abs/2409.11422)|null|
 |**2024-09-09**|**Hardware Acceleration of Kolmogorov-Arnold Network (KAN) for Lightweight Edge Inference**|Wei-Hsing Huang et.al.|[2409.11418](http://arxiv.org/abs/2409.11418)|null|
@@ -136,6 +153,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Susceptibility Formulation of Density Matrix Perturbation Theory**|Anders M. N. Niklasson et.al.|[2409.17033](http://arxiv.org/abs/2409.17033)|null|
+|**2024-09-25**|**Ethical and Scalable Automation: A Governance and Compliance Framework for Business Applications**|Haocheng Lin et.al.|[2409.16872](http://arxiv.org/abs/2409.16872)|null|
+|**2024-09-25**|**Accelerating TinyML Inference on Microcontrollers through Approximate Kernels**|Giorgos Armeniakos et.al.|[2409.16815](http://arxiv.org/abs/2409.16815)|null|
+|**2024-09-23**|**Benchmarking Edge AI Platforms for High-Performance ML Inference**|Rakshith Jayanth et.al.|[2409.14803](http://arxiv.org/abs/2409.14803)|null|
+|**2024-09-24**|**CamelEval: Advancing Culturally Aligned Arabic Language Models and Benchmarks**|Zhaozhi Qian et.al.|[2409.12623](http://arxiv.org/abs/2409.12623)|null|
 |**2024-09-17**|**AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances**|Dhruv Agarwal et.al.|[2409.11360](http://arxiv.org/abs/2409.11360)|null|
 |**2024-09-17**|**Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers**|Riya Samanta et.al.|[2409.10942](http://arxiv.org/abs/2409.10942)|null|
 |**2024-09-13**|**Pushing the boundaries of event subsampling in event-based video classification using CNNs**|Hesam Araghi et.al.|[2409.08953](http://arxiv.org/abs/2409.08953)|null|
@@ -178,6 +200,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs**|Jiapeng Guan et.al.|[2409.14837](http://arxiv.org/abs/2409.14837)|null|
+|**2024-09-20**|**LoopTree: Exploring the Fused-layer Dataflow Accelerator Design Space**|Michael Gilbert et.al.|[2409.13625](http://arxiv.org/abs/2409.13625)|null|
 |**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
 |**2024-09-08**|**BBS: Bi-directional Bit-level Sparsity for Deep Learning Acceleration**|Yuzong Chen et.al.|[2409.05227](http://arxiv.org/abs/2409.05227)|**[link](https://github.com/yc2367/bbs-micro)**|
 |**2024-09-08**|**HYDRA: Hybrid Data Multiplexing and Run-time Layer Configurable DNN Accelerator**|Sonu Kumar et.al.|[2409.04976](http://arxiv.org/abs/2409.04976)|null|
@@ -202,6 +226,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
+|**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
+|**2024-09-25**|**PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning**|Qibin Wang et.al.|[2409.16722](http://arxiv.org/abs/2409.16722)|null|
+|**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670](http://arxiv.org/abs/2409.16670)|null|
+|**2024-09-25**|**Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models**|Deepak Sridhar et.al.|[2409.16535](http://arxiv.org/abs/2409.16535)|**[link](https://github.com/deepaksridhar/promptsliders)**|
+|**2024-09-24**|**Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering**|Ziyu Zhao et.al.|[2409.16167](http://arxiv.org/abs/2409.16167)|null|
+|**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
+|**2024-09-24**|**Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs**|Yang Yuhang et.al.|[2409.16005](http://arxiv.org/abs/2409.16005)|null|
+|**2024-09-24**|**Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM**|Fengrun Zhang et.al.|[2409.15905](http://arxiv.org/abs/2409.15905)|null|
+|**2024-09-24**|**Aided design of bridge aesthetics based on Stable Diffusion fine-tuning**|Leye Zhang et.al.|[2409.15812](http://arxiv.org/abs/2409.15812)|**[link](https://github.com/zhangleye/Bridge-SD)**|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
 |**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
 |**2024-09-17**|**LoRa Communication for Agriculture 4.0: Opportunities, Challenges, and Future Directions**|Lameya Aldhaheri et.al.|[2409.11200](http://arxiv.org/abs/2409.11200)|null|
@@ -353,6 +387,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**MT2KD: Towards A General-Purpose Encoder for Speech, Speaker, and Audio Events**|Xiaoyu Yang et.al.|[2409.17010](http://arxiv.org/abs/2409.17010)|null|
+|**2024-09-25**|**Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation**|Hanyu Zhou et.al.|[2409.17001](http://arxiv.org/abs/2409.17001)|null|
+|**2024-09-25**|**SelectiveKD: A semi-supervised framework for cancer detection in DBT through Knowledge Distillation and Pseudo-labeling**|Laurent Dillard et.al.|[2409.16581](http://arxiv.org/abs/2409.16581)|null|
+|**2024-09-24**|**AIM 2024 Challenge on UHD Blind Photo Quality Assessment**|Vlad Hosu et.al.|[2409.16271](http://arxiv.org/abs/2409.16271)|null|
+|**2024-09-25**|**Privacy Evaluation Benchmarks for NLP Models**|Wei Huang et.al.|[2409.15868](http://arxiv.org/abs/2409.15868)|**[link](https://github.com/user2311717757/nlp_doctor)**|
+|**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849](http://arxiv.org/abs/2409.15849)|null|
+|**2024-09-23**|**TS-TCD: Triplet-Level Cross-Modal Distillation for Time-Series Forecasting Using Large Language Models**|Pengfei Wang et.al.|[2409.14978](http://arxiv.org/abs/2409.14978)|null|
+|**2024-09-23**|**DSG-KD: Knowledge Distillation from Domain-Specific to General Language Models**|Sangyeon Cho et.al.|[2409.14904](http://arxiv.org/abs/2409.14904)|**[link](https://github.com/josangyeon/dsg-kd)**|
+|**2024-09-23**|**Pre-trained Language Model and Knowledge Distillation for Lightweight Sequential Recommendation**|Li Li et.al.|[2409.14810](http://arxiv.org/abs/2409.14810)|null|
+|**2024-09-23**|**An Adverse Weather-Immune Scheme with Unfolded Regularization and Foundation Model Knowledge Distillation for Street Scene Understanding**|Wei-Bin Kou et.al.|[2409.14737](http://arxiv.org/abs/2409.14737)|null|
 |**2024-09-18**|**Applications of Knowledge Distillation in Remote Sensing: A Survey**|Yassine Himeur et.al.|[2409.12111](http://arxiv.org/abs/2409.12111)|null|
 |**2024-09-18**|**Data Efficient Acoustic Scene Classification using Teacher-Informed Confusing Class Instruction**|Jin Jie Sean Yeo et.al.|[2409.11964](http://arxiv.org/abs/2409.11964)|null|
 |**2024-09-18**|**Distillation-free Scaling of Large SSMs for Images and Videos**|Hamid Suleman et.al.|[2409.11867](http://arxiv.org/abs/2409.11867)|null|
