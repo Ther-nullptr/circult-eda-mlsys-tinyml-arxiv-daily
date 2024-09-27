@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
 |**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515](http://arxiv.org/abs/2409.14515)|null|
 |**2024-09-20**|**CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information**|Yuxin Wang et.al.|[2409.13199](http://arxiv.org/abs/2409.13199)|null|
 |**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057](http://arxiv.org/abs/2409.11057)|null|
@@ -95,6 +96,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
 |**2024-09-24**|**Microsecond-Latency Feedback at a Particle Accelerator by Online Reinforcement Learning on Hardware**|Luca Scomparin et.al.|[2409.16177](http://arxiv.org/abs/2409.16177)|null|
 |**2024-09-25**|**Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA**|Lorenzo Borella et.al.|[2409.16075](http://arxiv.org/abs/2409.16075)|null|
 |**2024-09-19**|**Enhancing Performance and Scalability of Large-Scale Recommendation Systems with Jagged Flash Attention**|Rengan Xu et.al.|[2409.15373](http://arxiv.org/abs/2409.15373)|null|
@@ -245,6 +247,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**MARS: Multi-radio Architecture with Radio Selection using Decision Trees for emerging mesoscale CPS/IoT applications**|Jothi Prasanna Shanmuga Sundaram et.al.|[2409.18043](http://arxiv.org/abs/2409.18043)|null|
+|**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834](http://arxiv.org/abs/2409.17834)|null|
+|**2024-09-26**|**Efficient In-Domain Question Answering for Resource-Constrained Environments**|Isaac Chung et.al.|[2409.17648](http://arxiv.org/abs/2409.17648)|null|
+|**2024-09-26**|**On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy**|Saber Malekmohammadi et.al.|[2409.17538](http://arxiv.org/abs/2409.17538)|null|
+|**2024-09-26**|**A Time Series is Worth Five Experts: Heterogeneous Mixture of Experts for Traffic Flow Prediction**|Guangyu Wang et.al.|[2409.17440](http://arxiv.org/abs/2409.17440)|**[link](https://github.com/sqlcow/TITAN)**|
 |**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
 |**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
 |**2024-09-25**|**PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning**|Qibin Wang et.al.|[2409.16722](http://arxiv.org/abs/2409.16722)|null|
@@ -408,6 +415,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
+|**2024-09-26**|**Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation**|Shuai Zhao et.al.|[2409.17946](http://arxiv.org/abs/2409.17946)|null|
+|**2024-09-26**|**Kendall's $τ$ Coefficient for Logits Distillation**|Yuchen Guan et.al.|[2409.17823](http://arxiv.org/abs/2409.17823)|null|
+|**2024-09-26**|**General Compression Framework for Efficient Transformer Object Tracking**|Lingyi Hong et.al.|[2409.17564](http://arxiv.org/abs/2409.17564)|null|
+|**2024-09-26**|**Shape-intensity knowledge distillation for robust medical image segmentation**|Wenhui Dong et.al.|[2409.17503](http://arxiv.org/abs/2409.17503)|**[link](https://github.com/whdong-whu/sikd)**|
+|**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
 |**2024-09-25**|**MT2KD: Towards A General-Purpose Encoder for Speech, Speaker, and Audio Events**|Xiaoyu Yang et.al.|[2409.17010](http://arxiv.org/abs/2409.17010)|null|
 |**2024-09-25**|**Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation**|Hanyu Zhou et.al.|[2409.17001](http://arxiv.org/abs/2409.17001)|null|
 |**2024-09-25**|**SelectiveKD: A semi-supervised framework for cancer detection in DBT through Knowledge Distillation and Pseudo-labeling**|Laurent Dillard et.al.|[2409.16581](http://arxiv.org/abs/2409.16581)|null|
