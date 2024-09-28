@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|Huixin Sun et.al.|[2409.17634](http://arxiv.org/abs/2409.17634)|null|
 |**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|
 |**2024-09-25**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Yifei Liu et.al.|[2409.17066](http://arxiv.org/abs/2409.17066)|**[link](https://github.com/microsoft/vptq)**|
 |**2024-09-25**|**PTQ4RIS: Post-Training Quantization for Referring Image Segmentation**|Xiaoyan Jiang et.al.|[2409.17020](http://arxiv.org/abs/2409.17020)|**[link](https://github.com/gugu511yy/ptq4ris)**|
