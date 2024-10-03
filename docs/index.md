@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
 |**2024-09-30**|**Constraint Guided Model Quantization of Neural Networks**|Quinten Van Baelen et.al.|[2409.20138](http://arxiv.org/abs/2409.20138)|null|
 |**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|Huixin Sun et.al.|[2409.17634](http://arxiv.org/abs/2409.17634)|null|
 |**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|
@@ -86,6 +87,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
 |**2024-09-26**|**Leader Selection and Follower Association for UE-centric Distributed Learning in Future Wireless Networks**|Saeedeh Parsaeefard et.al.|[2409.18268](http://arxiv.org/abs/2409.18268)|null|
 |**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
 |**2024-09-24**|**Microsecond-Latency Feedback at a Particle Accelerator by Online Reinforcement Learning on Hardware**|Luca Scomparin et.al.|[2409.16177](http://arxiv.org/abs/2409.16177)|null|
@@ -235,6 +237,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?**|Xi Chen et.al.|[2410.01623](http://arxiv.org/abs/2410.01623)|**[link](https://github.com/xichen-fy/fira)**|
+|**2024-10-02**|**DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models**|Yuxuan Zhang et.al.|[2410.01497](http://arxiv.org/abs/2410.01497)|**[link](https://github.com/mecuping/dlp-lora)**|
+|**2024-10-02**|**Selective Aggregation for Low-Rank Adaptation in Federated Learning**|Pengxin Guo et.al.|[2410.01463](http://arxiv.org/abs/2410.01463)|null|
+|**2024-10-02**|**FlashMask: Efficient and Rich Mask Extension of FlashAttention**|Guoxia Wang et.al.|[2410.01359](http://arxiv.org/abs/2410.01359)|**[link](https://github.com/PaddlePaddle/Paddle)**|
+|**2024-10-01**|**MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards**|Sheng Wang et.al.|[2410.00938](http://arxiv.org/abs/2410.00938)|null|
+|**2024-10-02**|**Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models**|Saurav Jha et.al.|[2410.00700](http://arxiv.org/abs/2410.00700)|null|
+|**2024-10-01**|**PrivTuner with Homomorphic Encryption and LoRA: A P3EFT Scheme for Privacy-Preserving Parameter-Efficient Fine-Tuning of AI Foundation Models**|Yang Li et.al.|[2410.00433](http://arxiv.org/abs/2410.00433)|null|
+|**2024-09-30**|**Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models**|Ji Liu et.al.|[2410.00131](http://arxiv.org/abs/2410.00131)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-30**|**BSharedRAG: Backbone Shared Retrieval-Augmented Generation for the E-commerce Domain**|Kaisi Guan et.al.|[2409.20075](http://arxiv.org/abs/2409.20075)|null|
 |**2024-09-30**|**HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models**|Bingshen Mu et.al.|[2409.19878](http://arxiv.org/abs/2409.19878)|null|
@@ -407,6 +417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**PHI-S: Distribution Balancing for Label-Free Multi-Teacher Distillation**|Mike Ranzinger et.al.|[2410.01680](http://arxiv.org/abs/2410.01680)|null|
+|**2024-10-02**|**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**|Seanie Lee et.al.|[2410.01524](http://arxiv.org/abs/2410.01524)|**[link](https://github.com/imnotkind/HarmAug)**|
+|**2024-10-02**|**Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks**|Edan Kinderman et.al.|[2410.01483](http://arxiv.org/abs/2410.01483)|**[link](https://github.com/idankinderman/fs_merge)**|
+|**2024-10-02**|**PairDistill: Pairwise Relevance Distillation for Dense Retrieval**|Chao-Wei Huang et.al.|[2410.01383](http://arxiv.org/abs/2410.01383)|**[link](https://github.com/miulab/pairdistill)**|
+|**2024-10-02**|**"No Matter What You Do!": Mitigating Backdoor Attacks in Graph Neural Networks**|Jiale Zhang et.al.|[2410.01272](http://arxiv.org/abs/2410.01272)|**[link](https://github.com/graph-axis/gcleaner)**|
+|**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
+|**2024-10-01**|**Local-to-Global Self-Supervised Representation Learning for Diabetic Retinopathy Grading**|Mostafa Hajighasemloua et.al.|[2410.00779](http://arxiv.org/abs/2410.00779)|null|
+|**2024-10-01**|**Efficient Technical Term Translation: A Knowledge Distillation Approach for Parenthetical Terminology Translation**|Jiyoon Myung et.al.|[2410.00683](http://arxiv.org/abs/2410.00683)|null|
+|**2024-10-01**|**AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation**|Ziyang Luo et.al.|[2410.00558](http://arxiv.org/abs/2410.00558)|**[link](https://github.com/chiyeunglaw/amr-evol)**|
+|**2024-10-01**|**Self-Updatable Large Language Models with Parameter Integration**|Yu Wang et.al.|[2410.00487](http://arxiv.org/abs/2410.00487)|null|
 |**2024-09-30**|**Enhancing Romanian Offensive Language Detection through Knowledge Distillation, Multi-Task Learning, and Data Augmentation**|Vlad-Cristian Matei et.al.|[2409.20498](http://arxiv.org/abs/2409.20498)|null|
 |**2024-10-02**|**Linear Projections of Teacher Embeddings for Few-Class Distillation**|Noel Loo et.al.|[2409.20449](http://arxiv.org/abs/2409.20449)|null|
 |**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237](http://arxiv.org/abs/2409.20237)|null|
