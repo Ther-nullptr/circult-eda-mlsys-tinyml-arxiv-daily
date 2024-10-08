@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -59,7 +59,7 @@ layout: default
 |**2024-09-29**|**Investigating the Effect of Network Pruning on Performance and Interpretability**|Jonathan von Rad et.al.|[2409.19727](http://arxiv.org/abs/2409.19727)|null|
 |**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
 |**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515](http://arxiv.org/abs/2409.14515)|null|
-|**2024-09-20**|**CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information**|Yuxin Wang et.al.|[2409.13199](http://arxiv.org/abs/2409.13199)|null|
+|**2024-09-20**|**CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information**|Yuxin Wang et.al.|[2409.13199](http://arxiv.org/abs/2409.13199)|**[link](https://github.com/wyxscir/cfsp)**|
 |**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057](http://arxiv.org/abs/2409.11057)|null|
 |**2024-09-11**|**HESSO: Towards Automatic Efficient and User Friendly Any Neural Network Training and Pruning**|Tianyi Chen et.al.|[2409.09085](http://arxiv.org/abs/2409.09085)|**[link](https://github.com/microsoft/only_train_once)**|
 |**2024-09-12**|**Structured Pruning for Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2409.07834](http://arxiv.org/abs/2409.07834)|null|
@@ -89,7 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**CAX: Cellular Automata Accelerated in JAX**|Maxence Faldor et.al.|[2410.02651](http://arxiv.org/abs/2410.02651)|null|
+|**2024-10-03**|**CAX: Cellular Automata Accelerated in JAX**|Maxence Faldor et.al.|[2410.02651](http://arxiv.org/abs/2410.02651)|**[link](https://github.com/maxencefaldor/cax)**|
 |**2024-10-03**|**Extracting the Potential of Emerging Hardware Accelerators for Symmetric Eigenvalue Decomposition**|Hansheng Wang et.al.|[2410.02170](http://arxiv.org/abs/2410.02170)|null|
 |**2024-10-01**|**Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging**|Ismail Erbas et.al.|[2410.00948](http://arxiv.org/abs/2410.00948)|null|
 |**2024-09-26**|**Leader Selection and Follower Association for UE-centric Distributed Learning in Future Wireless Networks**|Saeedeh Parsaeefard et.al.|[2409.18268](http://arxiv.org/abs/2409.18268)|null|
@@ -216,7 +216,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-23**|**MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs**|Jiapeng Guan et.al.|[2409.14837](http://arxiv.org/abs/2409.14837)|null|
-|**2024-09-20**|**LoopTree: Exploring the Fused-layer Dataflow Accelerator Design Space**|Michael Gilbert et.al.|[2409.13625](http://arxiv.org/abs/2409.13625)|null|
+|**2024-10-07**|**LoopTree: Exploring the Fused-layer Dataflow Accelerator Design Space**|Michael Gilbert et.al.|[2409.13625](http://arxiv.org/abs/2409.13625)|null|
 |**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
 |**2024-09-08**|**BBS: Bi-directional Bit-level Sparsity for Deep Learning Acceleration**|Yuzong Chen et.al.|[2409.05227](http://arxiv.org/abs/2409.05227)|**[link](https://github.com/yc2367/bbs-micro)**|
 |**2024-09-08**|**HYDRA: Hybrid Data Multiplexing and Run-time Layer Configurable DNN Accelerator**|Sonu Kumar et.al.|[2409.04976](http://arxiv.org/abs/2409.04976)|null|
