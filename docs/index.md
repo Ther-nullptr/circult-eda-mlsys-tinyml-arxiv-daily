@@ -165,6 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-06**|**SONAR: A Synthetic AI-Audio Detection Framework~and Benchmark**|Xiang Li et.al.|[2410.04324](http://arxiv.org/abs/2410.04324)|**[link](https://github.com/jessegator/sonar)**|
 |**2024-09-28**|**MicroFlow: An Efficient Rust-Based Inference Engine for TinyML**|Matteo Carnelos et.al.|[2409.19432](http://arxiv.org/abs/2409.19432)|**[link](https://github.com/matteocarnelos/microflow-rs)**|
 |**2024-09-27**|**Analog fast Fourier transforms for scalable and efficient signal processing**|T. Patrick Xiao et.al.|[2409.19071](http://arxiv.org/abs/2409.19071)|null|
 |**2024-09-26**|**Development of an Edge Resilient ML Ensemble to Tolerate ICS Adversarial Attacks**|Likai Yao et.al.|[2409.18244](http://arxiv.org/abs/2409.18244)|null|
@@ -241,6 +242,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
+|**2024-10-07**|**PAMLR: A Passive-Active Multi-Armed Bandit-Based Solution for LoRa Channel Allocation**|Jihoon Yun et.al.|[2410.05147](http://arxiv.org/abs/2410.05147)|null|
+|**2024-10-07**|**HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation**|Xinyu Zhou et.al.|[2410.05090](http://arxiv.org/abs/2410.05090)|**[link](https://github.com/blackzxy/hyperinf)**|
+|**2024-10-07**|**Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation**|Vince Zhu et.al.|[2410.04689](http://arxiv.org/abs/2410.04689)|null|
+|**2024-10-06**|**Learning De-Biased Representations for Remote-Sensing Imagery**|Zichen Tian et.al.|[2410.04546](http://arxiv.org/abs/2410.04546)|null|
+|**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
+|**2024-10-05**|**LoRTA: Low Rank Tensor Adaptation of Large Language Models**|Ignacio Hounie et.al.|[2410.04060](http://arxiv.org/abs/2410.04060)|null|
+|**2024-10-05**|**Hyperbolic Fine-tuning for Large Language Models**|Menglin Yang et.al.|[2410.04010](http://arxiv.org/abs/2410.04010)|null|
+|**2024-10-04**|**AutoLoRA: AutoGuidance Meets Low-Rank Adaptation for Diffusion Models**|Artur Kasymov et.al.|[2410.03941](http://arxiv.org/abs/2410.03941)|null|
 |**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497](http://arxiv.org/abs/2410.03497)|null|
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
 |**2024-10-03**|**Encryption-Friendly LLM Architecture**|Donghwan Rho et.al.|[2410.02486](http://arxiv.org/abs/2410.02486)|null|
@@ -425,6 +435,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168](http://arxiv.org/abs/2410.05168)|null|
+|**2024-10-06**|**CAPEEN: Image Captioning with Early Exits and Knowledge Distillation**|Divya Jyoti Bajpai et.al.|[2410.04433](http://arxiv.org/abs/2410.04433)|**[link](https://github.com/div290/capeen)**|
+|**2024-10-06**|**DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs**|Divya Jyoti Bajpai et.al.|[2410.04424](http://arxiv.org/abs/2410.04424)|**[link](https://github.com/div290/dadee)**|
+|**2024-10-05**|**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution**|Jianze Li et.al.|[2410.04224](http://arxiv.org/abs/2410.04224)|**[link](https://github.com/jianzeli-114/dfosd)**|
+|**2024-10-05**|**Accelerating Diffusion Models with One-to-Many Knowledge Distillation**|Linfeng Zhang et.al.|[2410.04191](http://arxiv.org/abs/2410.04191)|null|
+|**2024-10-05**|**DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech**|Dominika Woszczyk et.al.|[2410.04188](http://arxiv.org/abs/2410.04188)|null|
+|**2024-10-05**|**Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher**|Yong Guo et.al.|[2410.04140](http://arxiv.org/abs/2410.04140)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
 |**2024-10-04**|**DocKD: Knowledge Distillation from LLMs for Open-World Document Understanding Models**|Sungnyun Kim et.al.|[2410.03061](http://arxiv.org/abs/2410.03061)|null|
 |**2024-10-03**|**Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models**|Mingxue Xu et.al.|[2410.03040](http://arxiv.org/abs/2410.03040)|null|
