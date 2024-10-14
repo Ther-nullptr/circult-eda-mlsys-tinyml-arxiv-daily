@@ -73,6 +73,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients**|Yan Li et.al.|[2410.08457](http://arxiv.org/abs/2410.08457)|null|
 |**2024-10-11**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|**[link](https://github.com/qq-mm/chiptuning)**|
 |**2024-10-09**|**LLM Compression with Neural Architecture Search**|Rhea Sanjay Sukthanker et.al.|[2410.06479](http://arxiv.org/abs/2410.06479)|null|
 |**2024-09-29**|**Investigating the Effect of Network Pruning on Performance and Interpretability**|Jonathan von Rad et.al.|[2409.19727](http://arxiv.org/abs/2409.19727)|null|
@@ -110,6 +111,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
 |**2024-10-09**|**Optimized Spatial Architecture Mapping Flow for Transformer Accelerators**|Haocheng Xu et.al.|[2410.07407](http://arxiv.org/abs/2410.07407)|null|
 |**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364](http://arxiv.org/abs/2410.07364)|null|
 |**2024-10-03**|**CAX: Cellular Automata Accelerated in JAX**|Maxence Faldor et.al.|[2410.02651](http://arxiv.org/abs/2410.02651)|**[link](https://github.com/maxencefaldor/cax)**|
@@ -190,6 +192,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
+|**2024-10-11**|**Edge AI Collaborative Learning: Bayesian Approaches to Uncertainty Estimation**|Gleb Radchenko et.al.|[2410.08651](http://arxiv.org/abs/2410.08651)|null|
+|**2024-10-10**|**Neural Architecture Search of Hybrid Models for NPU-CIM Heterogeneous AR/VR Devices**|Yiwei Zhao et.al.|[2410.08326](http://arxiv.org/abs/2410.08326)|null|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
 |**2024-10-10**|**Towards Robust IoT Defense: Comparative Statistics of Attack Detection in Resource-Constrained Scenarios**|Zainab Alwaisi et.al.|[2410.07810](http://arxiv.org/abs/2410.07810)|null|
 |**2024-10-10**|**vCLIC: Towards Fast Interrupt Handling in Virtualized RISC-V Mixed-criticality Systems**|Enrico Zelioli et.al.|[2410.07798](http://arxiv.org/abs/2410.07798)|null|
@@ -247,6 +252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
 |**2024-09-23**|**MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs**|Jiapeng Guan et.al.|[2409.14837](http://arxiv.org/abs/2409.14837)|null|
 |**2024-10-08**|**LoopTree: Exploring the Fused-layer Dataflow Accelerator Design Space**|Michael Gilbert et.al.|[2409.13625](http://arxiv.org/abs/2409.13625)|null|
 |**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
@@ -275,6 +281,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
+|**2024-10-10**|**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation**|Grigory Malinovsky et.al.|[2410.08305](http://arxiv.org/abs/2410.08305)|null|
 |**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
 |**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659](http://arxiv.org/abs/2410.07659)|null|
 |**2024-10-09**|**SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers**|Viktoriia Chekalina et.al.|[2410.07383](http://arxiv.org/abs/2410.07383)|null|
@@ -480,6 +488,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
+|**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
+|**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
+|**2024-10-11**|**GAI-Enabled Explainable Personalized Federated Semi-Supervised Learning**|Yubo Peng et.al.|[2410.08634](http://arxiv.org/abs/2410.08634)|null|
+|**2024-10-11**|**Simultaneous Reward Distillation and Preference Learning: Get You a Language Model Who Can Do Both**|Abhijnan Nath et.al.|[2410.08458](http://arxiv.org/abs/2410.08458)|null|
+|**2024-10-10**|**What is Left After Distillation? How Knowledge Transfer Impacts Fairness and Bias**|Aida Mohammadshahi et.al.|[2410.08407](http://arxiv.org/abs/2410.08407)|null|
 |**2024-10-10**|**Non-transferable Pruning**|Ruyi Ding et.al.|[2410.08015](http://arxiv.org/abs/2410.08015)|null|
 |**2024-10-10**|**A Lightweight Target-Driven Network of Stereo Matching for Inland Waterways**|Jing Su et.al.|[2410.07915](http://arxiv.org/abs/2410.07915)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857](http://arxiv.org/abs/2410.07857)|**[link](https://github.com/event-ahu/openpar)**|
