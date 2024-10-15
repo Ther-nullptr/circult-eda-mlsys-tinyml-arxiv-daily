@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-12**|**SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs**|Mohammad Mozaffari et.al.|[2410.09615](http://arxiv.org/abs/2410.09615)|**[link](https://github.com/mohammad-mozaffari/slim)**|
+|**2024-10-12**|**FlatQuant: Flatness Matters for LLM Quantization**|Yuxuan Sun et.al.|[2410.09426](http://arxiv.org/abs/2410.09426)|**[link](https://github.com/ruikangliu/flatquant)**|
 |**2024-10-10**|**Q-VLM: Post-training Quantization for Large Vision-Language Models**|Changyuan Wang et.al.|[2410.08119](http://arxiv.org/abs/2410.08119)|**[link](https://github.com/changyuanwang17/qvlm)**|
 |**2024-10-10**|**Post-Training Quantization in Brain-Computer Interfaces based on Event-Related Potential Detection**|Hubert Cecotti et.al.|[2410.07920](http://arxiv.org/abs/2410.07920)|null|
 |**2024-10-10**|**CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression**|Wenyuan Liu et.al.|[2410.07505](http://arxiv.org/abs/2410.07505)|null|
@@ -73,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-13**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
 |**2024-10-11**|**Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients**|Yan Li et.al.|[2410.08457](http://arxiv.org/abs/2410.08457)|null|
 |**2024-10-11**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|**[link](https://github.com/qq-mm/chiptuning)**|
 |**2024-10-09**|**LLM Compression with Neural Architecture Search**|Rhea Sanjay Sukthanker et.al.|[2410.06479](http://arxiv.org/abs/2410.06479)|null|
@@ -111,7 +114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
+|**2024-10-14**|**SLaNC: Static LayerNorm Calibration**|Mahsa Salmani et.al.|[2410.10553](http://arxiv.org/abs/2410.10553)|null|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|**[link](https://github.com/eml-eda/match)**|
 |**2024-10-09**|**Optimized Spatial Architecture Mapping Flow for Transformer Accelerators**|Haocheng Xu et.al.|[2410.07407](http://arxiv.org/abs/2410.07407)|null|
 |**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364](http://arxiv.org/abs/2410.07364)|null|
 |**2024-10-03**|**CAX: Cellular Automata Accelerated in JAX**|Maxence Faldor et.al.|[2410.02651](http://arxiv.org/abs/2410.02651)|**[link](https://github.com/maxencefaldor/cax)**|
@@ -192,7 +196,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
+|**2024-10-14**|**ABBA-VSM: Time Series Classification using Symbolic Representation on the Edge**|Meerzhan Kanatbekova et.al.|[2410.10285](http://arxiv.org/abs/2410.10285)|null|
+|**2024-10-12**|**Token Pruning using a Lightweight Background Aware Vision Transformer**|Sudhakar Sah et.al.|[2410.09324](http://arxiv.org/abs/2410.09324)|null|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|**[link](https://github.com/eml-eda/match)**|
 |**2024-10-11**|**Edge AI Collaborative Learning: Bayesian Approaches to Uncertainty Estimation**|Gleb Radchenko et.al.|[2410.08651](http://arxiv.org/abs/2410.08651)|null|
 |**2024-10-10**|**Neural Architecture Search of Hybrid Models for NPU-CIM Heterogeneous AR/VR Devices**|Yiwei Zhao et.al.|[2410.08326](http://arxiv.org/abs/2410.08326)|null|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
@@ -252,7 +258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|**[link](https://github.com/eml-eda/match)**|
 |**2024-09-23**|**MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs**|Jiapeng Guan et.al.|[2409.14837](http://arxiv.org/abs/2409.14837)|null|
 |**2024-10-14**|**LoopTree: Exploring the Fused-layer Dataflow Accelerator Design Space**|Michael Gilbert et.al.|[2409.13625](http://arxiv.org/abs/2409.13625)|null|
 |**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
@@ -281,6 +287,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**LoLCATs: On Low-Rank Linearizing of Large Language Models**|Michael Zhang et.al.|[2410.10254](http://arxiv.org/abs/2410.10254)|**[link](https://github.com/hazyresearch/lolcats)**|
+|**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
+|**2024-10-14**|**Scalable Multi-Domain Adaptation of Language Models using Modular Experts**|Peter Schafhalter et.al.|[2410.10181](http://arxiv.org/abs/2410.10181)|null|
+|**2024-10-14**|**Is Parameter Collision Hindering Continual Learning in LLMs?**|Shuo Yang et.al.|[2410.10179](http://arxiv.org/abs/2410.10179)|null|
+|**2024-10-14**|**AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality**|Peijun Qing et.al.|[2410.10054](http://arxiv.org/abs/2410.10054)|**[link](https://github.com/morelife2017/alphalora)**|
+|**2024-10-13**|**Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning**|Pengfei Jin et.al.|[2410.09908](http://arxiv.org/abs/2410.09908)|null|
+|**2024-10-13**|**A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning**|Chen-Yu Liu et.al.|[2410.09846](http://arxiv.org/abs/2410.09846)|null|
+|**2024-10-13**|**Understanding Robustness of Parameter-Efficient Tuning for Image Classification**|Jiacheng Ruan et.al.|[2410.09845](http://arxiv.org/abs/2410.09845)|**[link](https://github.com/jcruan519/petrobustness)**|
+|**2024-10-13**|**BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation**|Peijia Qin et.al.|[2410.09758](http://arxiv.org/abs/2410.09758)|null|
+|**2024-10-13**|**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model**|Yuchen Li et.al.|[2410.09714](http://arxiv.org/abs/2410.09714)|null|
 |**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
 |**2024-10-10**|**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation**|Grigory Malinovsky et.al.|[2410.08305](http://arxiv.org/abs/2410.08305)|null|
 |**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
@@ -488,6 +504,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
+|**2024-10-14**|**QIANets: Quantum-Integrated Adaptive Networks for Reduced Latency and Improved Inference Times in CNN Models**|Zhumazhan Balapanov et.al.|[2410.10318](http://arxiv.org/abs/2410.10318)|null|
+|**2024-10-14**|**Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**|Siru Ouyang et.al.|[2410.10141](http://arxiv.org/abs/2410.10141)|null|
+|**2024-10-14**|**Edge Unlearning is Not "on Edge"! An Adaptive Exact Unlearning System on Resource-Constrained Devices**|Xiaoyu Xia et.al.|[2410.10128](http://arxiv.org/abs/2410.10128)|**[link](https://github.com/xlab-hub/cause)**|
+|**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097](http://arxiv.org/abs/2410.10097)|null|
+|**2024-10-12**|**SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs**|Mohammad Mozaffari et.al.|[2410.09615](http://arxiv.org/abs/2410.09615)|**[link](https://github.com/mohammad-mozaffari/slim)**|
+|**2024-10-12**|**Distilling Invariant Representations with Dual Augmentation**|Nikolaos Giakoumoglou et.al.|[2410.09474](http://arxiv.org/abs/2410.09474)|null|
+|**2024-10-12**|**Declarative Knowledge Distillation from Large Language Models for Visual Question Answering Datasets**|Thomas Eiter et.al.|[2410.09428](http://arxiv.org/abs/2410.09428)|**[link](https://github.com/pudumagico/kr2024)**|
 |**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
 |**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
 |**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
