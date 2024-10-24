@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -74,13 +74,13 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Pruning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
+|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|**[link](https://github.com/ist-daslab/evopress)**|
 |**2024-10-15**|**DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models**|Shangqian Gao et.al.|[2410.11988](http://arxiv.org/abs/2410.11988)|null|
 |**2024-10-15**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
 |**2024-10-11**|**Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients**|Yan Li et.al.|[2410.08457](http://arxiv.org/abs/2410.08457)|null|
@@ -115,7 +115,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -206,7 +206,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## TinyML
 
@@ -271,7 +271,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -302,18 +302,18 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-22**|**Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups**|Charvi Rastogi et.al.|[2410.17032](http://arxiv.org/abs/2410.17032)|null|
-|**2024-10-22**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
+|**2024-10-23**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
 |**2024-10-22**|**LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices**|Chuntao Ding et.al.|[2410.16954](http://arxiv.org/abs/2410.16954)|null|
 |**2024-10-22**|**Can Large Language Models Act as Ensembler for Multi-GNNs?**|Hanqi Duan et.al.|[2410.16822](http://arxiv.org/abs/2410.16822)|null|
 |**2024-10-22**|**Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models**|Yuheng Lu et.al.|[2410.16801](http://arxiv.org/abs/2410.16801)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
+|**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs**|Kang Zhao et.al.|[2410.16135](http://arxiv.org/abs/2410.16135)|null|
 |**2024-10-21**|**Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning**|Arijit Das et.al.|[2410.16029](http://arxiv.org/abs/2410.16029)|**[link](https://github.com/selfsupervised-ai/natural-galore)**|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[2410.15885](http://arxiv.org/abs/2410.15885)|null|
@@ -548,7 +548,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Model Compression
 
@@ -557,7 +557,7 @@
 |**2024-10-22**|**MiniPLM: Knowledge Distillation for Pre-Training Language Models**|Yuxian Gu et.al.|[2410.17215](http://arxiv.org/abs/2410.17215)|**[link](https://github.com/thu-coai/miniplm)**|
 |**2024-10-22**|**Self-calibration for Language Model Quantization and Pruning**|Miles Williams et.al.|[2410.17170](http://arxiv.org/abs/2410.17170)|null|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
-|**2024-10-22**|**Mitigating Vanishing Activations in Deep CapsNets Using Channel Pruning**|Siddharth Sahu et.al.|[2410.16908](http://arxiv.org/abs/2410.16908)|null|
+|**2024-10-22**|**Mitigating Vanishing Activations in Deep CapsNets Using Channel Pruning**|Siddharth Sahu et.al.|[2410.16908](http://arxiv.org/abs/2410.16908)|**[link](https://github.com/sidsahu88/leeds_msc_ocom5300m_project)**|
 |**2024-10-22**|**CK4Gen: A Knowledge Distillation Framework for Generating High-Utility Synthetic Survival Datasets in Healthcare**|Nicholas I-Hsien Kuo et.al.|[2410.16872](http://arxiv.org/abs/2410.16872)|null|
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
@@ -833,7 +833,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
