@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -15,8 +15,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Data Generation for Hardware-Friendly Post-Training Quantization**|Lior Dikstein et.al.|[2410.22110](http://arxiv.org/abs/2410.22110)|null|
-|**2024-10-29**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
-|**2024-10-26**|**DQRM: Deep Quantized Recommendation Models**|Yang Zhou et.al.|[2410.20046](http://arxiv.org/abs/2410.20046)|null|
+|**2024-10-30**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
+|**2024-10-26**|**DQRM: Deep Quantized Recommendation Models**|Yang Zhou et.al.|[2410.20046](http://arxiv.org/abs/2410.20046)|**[link](https://github.com/YangZhou08/Deep_Quantized_Recommendation_Model_DQRM)**|
 |**2024-10-14**|**Real-Time Stress Detection via Photoplethysmogram Signals: Implementation of a Combined Continuous Wavelet Transform and Convolutional Neural Network on Resource-Constrained Microcontrollers**|Yasin Hasanpoor et.al.|[2410.19776](http://arxiv.org/abs/2410.19776)|null|
 |**2024-10-24**|**TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**|Yuhang Li et.al.|[2410.19103](http://arxiv.org/abs/2410.19103)|null|
 |**2024-10-18**|**Understanding the difficulty of low-precision post-training quantization of large language models**|Zifei Xu et.al.|[2410.14570](http://arxiv.org/abs/2410.14570)|null|
@@ -300,7 +300,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Meta-Learning Adaptable Foundation Models**|Jacob L. Block et.al.|[2410.22264](http://arxiv.org/abs/2410.22264)|null|
-|**2024-10-29**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
+|**2024-10-30**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
 |**2024-10-28**|**LoRA vs Full Fine-tuning: An Illusion of Equivalence**|Reece Shuttleworth et.al.|[2410.21228](http://arxiv.org/abs/2410.21228)|null|
 |**2024-10-28**|**Skip2-LoRA: A Lightweight On-device DNN Fine-tuning Method for Low-cost Edge Devices**|Hiroki Matsutani et.al.|[2410.21073](http://arxiv.org/abs/2410.21073)|null|
 |**2024-10-28**|**KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation**|Rambod Azimi et.al.|[2410.20777](http://arxiv.org/abs/2410.20777)|**[link](https://github.com/rambodazimi/kd-lora)**|
