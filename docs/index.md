@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -303,9 +303,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203](http://arxiv.org/abs/2410.24203)|**[link](https://github.com/zju3dv/diffpano)**|
-|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
+|**2024-11-01**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
 |**2024-10-30**|**Model-free Low-Rank Reinforcement Learning via Leveraged Entry-wise Matrix Estimation**|Stefan Stojanovic et.al.|[2410.23434](http://arxiv.org/abs/2410.23434)|null|
-|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-31**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
 |**2024-10-31**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111](http://arxiv.org/abs/2410.23111)|null|
 |**2024-10-30**|**Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation**|Wei Dong et.al.|[2410.22952](http://arxiv.org/abs/2410.22952)|null|
 |**2024-10-30**|**CopRA: A Progressive LoRA Training Strategy**|Zhan Zhuang et.al.|[2410.22911](http://arxiv.org/abs/2410.22911)|null|
@@ -583,7 +583,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-30**|**IP-MOT: Instance Prompt Learning for Cross-Domain Multi-Object Tracking**|Run Luo et.al.|[2410.23907](http://arxiv.org/abs/2410.23907)|null|
 |**2024-10-29**|**ML Research Benchmark**|Matthew Kenney et.al.|[2410.22553](http://arxiv.org/abs/2410.22553)|**[link](https://github.com/algorithmicresearchgroup/ml-research-agent)**|
-|**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
+|**2024-11-01**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
 |**2024-10-28**|**Unveiling Context-Aware Criteria in Self-Assessing LLMs**|Taneesh Gupta et.al.|[2410.21545](http://arxiv.org/abs/2410.21545)|null|
 |**2024-10-28**|**Knowledge Distillation for Real-Time Classification of Early Media in Voice Communications**|Kemal Altwlkany et.al.|[2410.21478](http://arxiv.org/abs/2410.21478)|null|
 |**2024-10-31**|**LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment**|Ge Yang et.al.|[2410.21352](http://arxiv.org/abs/2410.21352)|**[link](https://github.com/aboveparadise/llmcbench)**|
