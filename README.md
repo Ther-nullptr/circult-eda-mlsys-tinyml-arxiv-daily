@@ -29,7 +29,7 @@
 |**2024-10-14**|**Real-Time Stress Detection via Photoplethysmogram Signals: Implementation of a Combined Continuous Wavelet Transform and Convolutional Neural Network on Resource-Constrained Microcontrollers**|Yasin Hasanpoor et.al.|[2410.19776](http://arxiv.org/abs/2410.19776)|null|
 |**2024-10-24**|**TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction**|Yuhang Li et.al.|[2410.19103](http://arxiv.org/abs/2410.19103)|null|
 |**2024-10-18**|**Understanding the difficulty of low-precision post-training quantization of large language models**|Zifei Xu et.al.|[2410.14570](http://arxiv.org/abs/2410.14570)|null|
-|**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|null|
+|**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|**[link](https://github.com/enyac-group/quamba)**|
 |**2024-10-17**|**Scaling laws for post-training quantized large language models**|Zifei Xu et.al.|[2410.12119](http://arxiv.org/abs/2410.12119)|null|
 |**2024-10-15**|**Error Diffusion: Post Training Quantization with Block-Scaled Number Formats for Neural Networks**|Alireza Khodamoradi et.al.|[2410.11203](http://arxiv.org/abs/2410.11203)|**[link](https://github.com/rocm/tensorcast)**|
 |**2024-10-06**|**Continuous Approximations for Improving Quantization Aware Training of LLMs**|He Li et.al.|[2410.10849](http://arxiv.org/abs/2410.10849)|null|
@@ -85,7 +85,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-04**|**Automatic Structured Pruning for Efficient Architecture in Federated Learning**|Thai Vu Nguyen et.al.|[2411.01759](http://arxiv.org/abs/2411.01759)|null|
+|**2024-11-05**|**Layer-Adaptive State Pruning for Deep State Space Models**|Minseon Gwak et.al.|[2411.02824](http://arxiv.org/abs/2411.02824)|**[link](https://github.com/msgwak/last)**|
+|**2024-11-04**|**Automatic Structured Pruning for Efficient Architecture in Federated Learning**|Thai Vu Nguyen et.al.|[2411.01759](http://arxiv.org/abs/2411.01759)|**[link](https://github.com/NguyenThaiVu/prune_fl_project)**|
 |**2024-10-31**|**Mutual Information Preserving Neural Network Pruning**|Charles Westphal et.al.|[2411.00147](http://arxiv.org/abs/2411.00147)|null|
 |**2024-10-24**|**Tailored-LLaMA: Optimizing Few-Shot Learning in Pruned LLaMA Models with Task-Specific Prompts**|Danyal Aftab et.al.|[2410.19185](http://arxiv.org/abs/2410.19185)|null|
 |**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|**[link](https://github.com/ist-daslab/evopress)**|
@@ -132,13 +133,13 @@
 |**2024-11-03**|**Stochastic Communication Avoidance for Recommendation Systems**|Lutfi Eren Erdogan et.al.|[2411.01611](http://arxiv.org/abs/2411.01611)|null|
 |**2024-11-01**|**Inducing Semi-Structured Sparsity by Masking for Efficient Model Inference in Convolutional Networks**|David A. Danhofer et.al.|[2411.00288](http://arxiv.org/abs/2411.00288)|null|
 |**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|null|
-|**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|null|
+|**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|**[link](https://github.com/michaeltmatthews/jax2d)**|
 |**2024-10-24**|**Watermarking Large Language Models and the Generated Content: Opportunities and Challenges**|Ruisi Zhang et.al.|[2410.19096](http://arxiv.org/abs/2410.19096)|null|
 |**2024-10-21**|**Hacking the Fabric: Targeting Partial Reconfiguration for Fault Injection in FPGA Fabrics**|Jayeeta Chaudhuri et.al.|[2410.16497](http://arxiv.org/abs/2410.16497)|null|
 |**2024-10-21**|**Hyperparameter Optimisation in Deep Learning from Ensemble Methods: Applications to Proton Structure**|Juan Cruz-Martinez et.al.|[2410.16248](http://arxiv.org/abs/2410.16248)|null|
 |**2024-10-20**|**A Remedy to Compute-in-Memory with Dynamic Random Access Memory: 1FeFET-1C Technology for Neuro-Symbolic AI**|Xunzhao Yin et.al.|[2410.15296](http://arxiv.org/abs/2410.15296)|null|
 |**2024-10-18**|**Self-Satisfied: An end-to-end framework for SAT generation and prediction**|Christopher R. Serrano et.al.|[2410.14888](http://arxiv.org/abs/2410.14888)|null|
-|**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|null|
+|**2024-10-17**|**Quamba: A Post-Training Quantization Recipe for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2410.13229](http://arxiv.org/abs/2410.13229)|**[link](https://github.com/enyac-group/quamba)**|
 |**2024-10-16**|**Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration**|M. Croci et.al.|[2410.12614](http://arxiv.org/abs/2410.12614)|**[link](https://github.com/croci/mpfem-paper-experiments-2024)**|
 |**2024-10-15**|**Fast Local Neural Regression for Low-Cost, Path Traced Lambertian Global Illumination**|Arturo Salmi et.al.|[2410.11625](http://arxiv.org/abs/2410.11625)|null|
 |**2024-10-15**|**Efficiera Residual Networks: Hardware-Friendly Fully Binary Weight with 2-bit Activation Model Achieves Practical ImageNet Accuracy**|Shuntaro Takahashi et.al.|[2410.11553](http://arxiv.org/abs/2410.11553)|**[link](https://github.com/leapmind/ern)**|
@@ -229,7 +230,7 @@
 |**2024-11-01**|**On the Impact of White-box Deployment Strategies for Edge AI on Latency and Model Performance**|Jaskirat Singh et.al.|[2411.00907](http://arxiv.org/abs/2411.00907)|null|
 |**2024-10-30**|**Profiling AI Models: Towards Efficient Computation Offloading in Heterogeneous Edge AI Systems**|Juan Marcelo Parra-Ullauri et.al.|[2411.00859](http://arxiv.org/abs/2411.00859)|null|
 |**2024-11-01**|**GPT for Games: An Updated Scoping Review (2020-2024)**|Daijin Yang et.al.|[2411.00308](http://arxiv.org/abs/2411.00308)|null|
-|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|null|
+|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|**[link](https://github.com/esl-epfl/Cough-E)**|
 |**2024-10-28**|**FusedInf: Efficient Swapping of DNN Models for On-Demand Serverless Inference Services on the Edge**|Sifat Ut Taki et.al.|[2410.21120](http://arxiv.org/abs/2410.21120)|**[link](https://github.com/sifattaj/fusedinf)**|
 |**2024-10-28**|**Edge Perception: Intelligent Wireless Sensing at Network Edge**|Yuanhao Cui et.al.|[2410.21017](http://arxiv.org/abs/2410.21017)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
@@ -330,6 +331,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**LLM-based Framework for Bearing Fault Diagnosis**|Laifa Tao et.al.|[2411.02718](http://arxiv.org/abs/2411.02718)|null|
+|**2024-11-04**|**TeleOracle: Fine-Tuned Retrieval-Augmented Generation with Long-Context Support for Network**|Nouf Alabbasi et.al.|[2411.02617](http://arxiv.org/abs/2411.02617)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
+|**2024-11-04**|**Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test Generation: An Empirical Study**|André Storhaug et.al.|[2411.02462](http://arxiv.org/abs/2411.02462)|null|
 |**2024-11-04**|**Expanding Sparse Tuning for Low Memory Usage**|Shufan Shen et.al.|[2411.01800](http://arxiv.org/abs/2411.01800)|**[link](https://github.com/ssfgunner/snell)**|
 |**2024-11-02**|**PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment**|Dongxu Liu et.al.|[2411.01245](http://arxiv.org/abs/2411.01245)|null|
 |**2024-11-02**|**One Arrow, Many Targets: Probing LLMs for Multi-Attribute Controllable Text Summarization**|Tathagato Roy et.al.|[2411.01213](http://arxiv.org/abs/2411.01213)|null|
@@ -618,8 +622,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
+|**2024-11-05**|**Centerness-based Instance-aware Knowledge Distillation with Task-wise Mutual Lifting for Object Detection on Drone Imagery**|Bowei Du et.al.|[2411.02861](http://arxiv.org/abs/2411.02861)|null|
+|**2024-11-05**|**Brewing Vodka: Distilling Pure Knowledge for Lightweight Threat Detection in Audit Logs**|Weiheng Wu et.al.|[2411.02775](http://arxiv.org/abs/2411.02775)|null|
+|**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722](http://arxiv.org/abs/2411.02722)|null|
 |**2024-11-04**|**Information plane and compression-gnostic feedback in quantum machine learning**|Nathan Haboury et.al.|[2411.02313](http://arxiv.org/abs/2411.02313)|null|
-|**2024-11-04**|**Training on the Test Model: Contamination in Ranking Distillation**|Vishakha Suresh Kalal et.al.|[2411.02284](http://arxiv.org/abs/2411.02284)|null|
+|**2024-11-04**|**Training on the Test Model: Contamination in Ranking Distillation**|Vishakha Suresh Kalal et.al.|[2411.02284](http://arxiv.org/abs/2411.02284)|**[link](https://github.com/Parry-Parry/ContaminatedDistillation)**|
 |**2024-11-03**|**Decoupling Dark Knowledge via Block-wise Logit Distillation for Feature-level Alignment**|Chengting Yu et.al.|[2411.01547](http://arxiv.org/abs/2411.01547)|null|
 |**2024-11-01**|**On the Impact of White-box Deployment Strategies for Edge AI on Latency and Model Performance**|Jaskirat Singh et.al.|[2411.00907](http://arxiv.org/abs/2411.00907)|null|
 |**2024-11-01**|**Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation**|Bohan Lyu et.al.|[2411.00412](http://arxiv.org/abs/2411.00412)|null|
