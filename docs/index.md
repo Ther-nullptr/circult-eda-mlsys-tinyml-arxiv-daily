@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -87,7 +87,7 @@ layout: default
 |**2024-10-24**|**Tailored-LLaMA: Optimizing Few-Shot Learning in Pruned LLaMA Models with Task-Specific Prompts**|Danyal Aftab et.al.|[2410.19185](http://arxiv.org/abs/2410.19185)|null|
 |**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|**[link](https://github.com/ist-daslab/evopress)**|
 |**2024-11-04**|**DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models**|Shangqian Gao et.al.|[2410.11988](http://arxiv.org/abs/2410.11988)|null|
-|**2024-10-15**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
+|**2024-11-12**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
 |**2024-10-11**|**Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients**|Yan Li et.al.|[2410.08457](http://arxiv.org/abs/2410.08457)|null|
 |**2024-10-11**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|**[link](https://github.com/qq-mm/chiptuning)**|
 |**2024-11-04**|**Large Language Model Compression with Neural Architecture Search**|Rhea Sanjay Sukthanker et.al.|[2410.06479](http://arxiv.org/abs/2410.06479)|null|
@@ -634,7 +634,7 @@ layout: default
 |**2024-11-11**|**ScaleKD: Strong Vision Transformers Could Be Excellent Teachers**|Jiawei Fan et.al.|[2411.06786](http://arxiv.org/abs/2411.06786)|**[link](https://github.com/deep-optimization/scalekd)**|
 |**2024-11-11**|**An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning**|Dong Li et.al.|[2411.06659](http://arxiv.org/abs/2411.06659)|**[link](https://github.com/arvin0313/mecoin-gfscil)**|
 |**2024-11-10**|**CULL-MT: Compression Using Language and Layer pruning for Machine Translation**|Pedram Rostami et.al.|[2411.06506](http://arxiv.org/abs/2411.06506)|null|
-|**2024-11-10**|**Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation**|Yu-Liang Zhan et.al.|[2411.06448](http://arxiv.org/abs/2411.06448)|null|
+|**2024-11-10**|**Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation**|Yu-Liang Zhan et.al.|[2411.06448](http://arxiv.org/abs/2411.06448)|**[link](https://github.com/intell-sci-comput/opdf)**|
 |**2024-11-09**|**Dynamic Textual Prompt For Rehearsal-free Lifelong Person Re-identification**|Hongyu Chen et.al.|[2411.06023](http://arxiv.org/abs/2411.06023)|null|
 |**2024-11-09**|**Multi-hop RIS-aided Learning Model Sharing for Urban Air Mobility**|Kai Xiong et.al.|[2411.06015](http://arxiv.org/abs/2411.06015)|null|
 |**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936](http://arxiv.org/abs/2411.05936)|null|
