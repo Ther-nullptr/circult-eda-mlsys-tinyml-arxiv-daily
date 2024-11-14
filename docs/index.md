@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -638,12 +638,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
-|**2024-11-12**|**Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820](http://arxiv.org/abs/2411.07820)|null|
+|**2024-11-13**|**Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820](http://arxiv.org/abs/2411.07820)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
 |**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752](http://arxiv.org/abs/2411.07752)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711](http://arxiv.org/abs/2411.07711)|null|
-|**2024-11-12**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
+|**2024-11-13**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
 |**2024-11-12**|**Quantifying Knowledge Distillation Using Partial Information Decomposition**|Pasan Dissanayake et.al.|[2411.07483](http://arxiv.org/abs/2411.07483)|null|
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models**|Runming Yang et.al.|[2411.06839](http://arxiv.org/abs/2411.06839)|null|
