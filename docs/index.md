@@ -673,7 +673,7 @@ layout: default
 |**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691](http://arxiv.org/abs/2411.05691)|null|
 |**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[2411.05618](http://arxiv.org/abs/2411.05618)|null|
 |**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544](http://arxiv.org/abs/2411.05544)|null|
-|**2024-11-07**|**ZipNN: Lossless Compression for AI Models**|Moshik Hershcovitch et.al.|[2411.05239](http://arxiv.org/abs/2411.05239)|null|
+|**2024-11-07**|**ZipNN: Lossless Compression for AI Models**|Moshik Hershcovitch et.al.|[2411.05239](http://arxiv.org/abs/2411.05239)|**[link](https://github.com/zipnn/zipnn)**|
 |**2024-11-07**|**Performance-Guided LLM Knowledge Distillation for Efficient Text Classification at Scale**|Flavio Di Palo et.al.|[2411.05045](http://arxiv.org/abs/2411.05045)|null|
 |**2024-11-06**|**From Word Vectors to Multimodal Embeddings: Techniques, Applications, and Future Directions For Large Language Models**|Charles Zhang et.al.|[2411.05036](http://arxiv.org/abs/2411.05036)|null|
 |**2024-11-07**|**Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers**|Zhichao Geng et.al.|[2411.04403](http://arxiv.org/abs/2411.04403)|null|
