@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-17**|**EfQAT: An Efficient Framework for Quantization-Aware Training**|Saleh Ashkboos et.al.|[2411.11038](http://arxiv.org/abs/2411.11038)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-09**|**Optimizing Large Language Models through Quantization: A Comparative Analysis of PTQ and QAT Techniques**|Jahid Hasan et.al.|[2411.06084](http://arxiv.org/abs/2411.06084)|null|
 |**2024-11-08**|**SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
@@ -92,6 +93,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-17**|**Electrostatic Force Regularization for Neural Structured Pruning**|Abdesselam Ferdi et.al.|[2411.11079](http://arxiv.org/abs/2411.11079)|null|
 |**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
 |**2024-11-15**|**Scaling Law for Post-training after Model Pruning**|Xiaodong Chen et.al.|[2411.10272](http://arxiv.org/abs/2411.10272)|null|
 |**2024-11-10**|**RL-Pruner: Structured Pruning Using Reinforcement Learning for CNN Compression and Acceleration**|Boyao Wang et.al.|[2411.06463](http://arxiv.org/abs/2411.06463)|**[link](https://github.com/beryex/rlpruner-cnn)**|
@@ -140,6 +142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-Specific LLVM Passes for Compute-Intensive FPGA Accelerators**|Giovanni Brignone et.al.|[2411.11384](http://arxiv.org/abs/2411.11384)|null|
 |**2024-11-14**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543](http://arxiv.org/abs/2411.09543)|null|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-18**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
@@ -147,7 +150,7 @@
 |**2024-11-10**|**AMAZE: Accelerated MiMC Hardware Architecture for Zero-Knowledge Applications on the Edge**|Anees Ahmed et.al.|[2411.06350](http://arxiv.org/abs/2411.06350)|**[link](https://github.com/ACES-STAM/AMAZE)**|
 |**2024-11-03**|**Stochastic Communication Avoidance for Recommendation Systems**|Lutfi Eren Erdogan et.al.|[2411.01611](http://arxiv.org/abs/2411.01611)|null|
 |**2024-11-01**|**Inducing Semi-Structured Sparsity by Masking for Efficient Model Inference in Convolutional Networks**|David A. Danhofer et.al.|[2411.00288](http://arxiv.org/abs/2411.00288)|null|
-|**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|null|
+|**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|**[link](https://github.com/argonne-lcf/llm-inference-bench)**|
 |**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|**[link](https://github.com/michaeltmatthews/jax2d)**|
 |**2024-10-24**|**Watermarking Large Language Models and the Generated Content: Opportunities and Challenges**|Ruisi Zhang et.al.|[2410.19096](http://arxiv.org/abs/2410.19096)|null|
 |**2024-10-21**|**Hacking the Fabric: Targeting Partial Reconfiguration for Fault Injection in FPGA Fabrics**|Jayeeta Chaudhuri et.al.|[2410.16497](http://arxiv.org/abs/2410.16497)|null|
@@ -241,6 +244,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-16**|**DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing**|Nikhil P Ghanathe et.al.|[2411.10692](http://arxiv.org/abs/2411.10692)|null|
 |**2024-11-14**|**ABCI 3.0: Evolution of the leading AI infrastructure in Japan**|Ryousei Takano et.al.|[2411.09134](http://arxiv.org/abs/2411.09134)|null|
 |**2024-11-13**|**A Cost-effective, Stand-alone, and Real-time TinyML-Based Gait Diagnosis Unit Aimed at Lower-limb Robotic Prostheses and Exoskeletons**|Zarin Anjum Madhiha et.al.|[2411.08474](http://arxiv.org/abs/2411.08474)|null|
 |**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
@@ -354,6 +358,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions**|Shuo Zhang et.al.|[2411.11530](http://arxiv.org/abs/2411.11530)|null|
+|**2024-11-16**|**Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts**|Jinqiang Long et.al.|[2411.10669](http://arxiv.org/abs/2411.10669)|**[link](https://github.com/metabrainagi/awaker)**|
+|**2024-11-15**|**AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment**|Yonggan Fu et.al.|[2411.10606](http://arxiv.org/abs/2411.10606)|null|
 |**2024-11-15**|**Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning**|Yushen Zuo et.al.|[2411.10130](http://arxiv.org/abs/2411.10130)|null|
 |**2024-11-15**|**LoRA-LiteE: A Computationally Efficient Framework for Chatbot Preference-Tuning**|Yahe Yang et.al.|[2411.09947](http://arxiv.org/abs/2411.09947)|null|
 |**2024-11-12**|**Structured Pattern Expansion with Diffusion Models**|Marzia Riso et.al.|[2411.08930](http://arxiv.org/abs/2411.08930)|null|
@@ -670,6 +677,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Federated Incremental Named Entity Recognition**|Duzhen Zhang et.al.|[2411.11623](http://arxiv.org/abs/2411.11623)|null|
+|**2024-11-18**|**Bridging the Resource Gap: Deploying Advanced Imitation Learning Models onto Affordable Embedded Platforms**|Haizhou Ge et.al.|[2411.11406](http://arxiv.org/abs/2411.11406)|null|
+|**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
+|**2024-11-16**|**Hybrid Attention Model Using Feature Decomposition and Knowledge Distillation for Glucose Forecasting**|Ebrahim Farahmand et.al.|[2411.10703](http://arxiv.org/abs/2411.10703)|null|
+|**2024-11-16**|**Multi-perspective Contrastive Logit Distillation**|Qi Wang et.al.|[2411.10693](http://arxiv.org/abs/2411.10693)|null|
+|**2024-11-16**|**Exploring Feature-based Knowledge Distillation For Recommender System: A Frequency Perspective**|Zhangchi Zhu et.al.|[2411.10676](http://arxiv.org/abs/2411.10676)|null|
 |**2024-11-15**|**Scaling Law for Post-training after Model Pruning**|Xiaodong Chen et.al.|[2411.10272](http://arxiv.org/abs/2411.10272)|null|
 |**2024-11-15**|**Evidential Federated Learning for Skin Lesion Image Classification**|Rutger Hendrix et.al.|[2411.10071](http://arxiv.org/abs/2411.10071)|null|
 |**2024-11-14**|**VPBSD:Vessel-Pattern-Based Semi-Supervised Distillation for Efficient 3D Microscopic Cerebrovascular Segmentation**|Xi Lin et.al.|[2411.09567](http://arxiv.org/abs/2411.09567)|null|
