@@ -82,6 +82,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Layer Pruning with Consensus: A Triple-Win Solution**|Leandro Giusti Mugnaini et.al.|[2411.14345](http://arxiv.org/abs/2411.14345)|**[link](https://github.com/carolinatavaresduarte/consensus-layer-pruning)**|
+|**2024-11-21**|**DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**|Hexuan Deng et.al.|[2411.14055](http://arxiv.org/abs/2411.14055)|**[link](https://github.com/hexuandeng/drpruning)**|
 |**2024-11-19**|**FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning**|Qingsong Lv et.al.|[2411.12781](http://arxiv.org/abs/2411.12781)|**[link](https://github.com/fgp-code/fgp)**|
 |**2024-11-17**|**Electrostatic Force Regularization for Neural Structured Pruning**|Abdesselam Ferdi et.al.|[2411.11079](http://arxiv.org/abs/2411.11079)|null|
 |**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
@@ -130,10 +132,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Hardware Accelerators for Artificial Intelligence**|S M Mojahidul Ahsan et.al.|[2411.13717](http://arxiv.org/abs/2411.13717)|null|
 |**2024-11-20**|**Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training**|Jared Fernandez et.al.|[2411.13055](http://arxiv.org/abs/2411.13055)|null|
 |**2024-11-19**|**FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning**|Qingsong Lv et.al.|[2411.12781](http://arxiv.org/abs/2411.12781)|**[link](https://github.com/fgp-code/fgp)**|
 |**2024-11-19**|**Design of an FPGA-Based Neutral Atom Rearrangement Accelerator for Quantum Computing**|Xiaorang Guo et.al.|[2411.12401](http://arxiv.org/abs/2411.12401)|null|
-|**2024-11-18**|**SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-Specific LLVM Passes for Compute-Intensive FPGA Accelerators**|Giovanni Brignone et.al.|[2411.11384](http://arxiv.org/abs/2411.11384)|null|
+|**2024-11-18**|**SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-Specific LLVM Passes for Compute-Intensive FPGA Accelerators**|Giovanni Brignone et.al.|[2411.11384](http://arxiv.org/abs/2411.11384)|**[link](https://github.com/brigio345/SILVIA)**|
 |**2024-11-21**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543](http://arxiv.org/abs/2411.09543)|null|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-18**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
@@ -233,6 +236,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Federated Continual Learning for Edge-AI: A Comprehensive Survey**|Zi Wang et.al.|[2411.13740](http://arxiv.org/abs/2411.13740)|null|
+|**2024-11-16**|**Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems**|Javier Conde et.al.|[2411.13583](http://arxiv.org/abs/2411.13583)|null|
 |**2024-11-19**|**Signformer is all you need: Towards Edge AI for Sign Language**|Eta Yang et.al.|[2411.12901](http://arxiv.org/abs/2411.12901)|**[link](https://github.com/EtaEnding/Signformer)**|
 |**2024-11-16**|**DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing**|Nikhil P Ghanathe et.al.|[2411.10692](http://arxiv.org/abs/2411.10692)|null|
 |**2024-11-14**|**ABCI 3.0: Evolution of the leading AI infrastructure in Japan**|Ryousei Takano et.al.|[2411.09134](http://arxiv.org/abs/2411.09134)|null|
@@ -345,6 +350,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model**|Ege Kesim et.al.|[2411.14064](http://arxiv.org/abs/2411.14064)|null|
+|**2024-11-21**|**Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning**|Ziqi Wang et.al.|[2411.13949](http://arxiv.org/abs/2411.13949)|null|
+|**2024-11-21**|**Dressing the Imagination: A Dataset for AI-Powered Translation of Text into Fashion Outfits and A Novel KAN Adapter for Enhanced Feature Adaptation**|Gayatri Deshmukh et.al.|[2411.13901](http://arxiv.org/abs/2411.13901)|null|
+|**2024-11-21**|**AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning**|Changhai Zhou et.al.|[2411.13814](http://arxiv.org/abs/2411.13814)|null|
 |**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
 |**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405](http://arxiv.org/abs/2411.13405)|null|
 |**2024-11-19**|**Visual Cue Enhancement and Dual Low-Rank Adaptation for Efficient Visual Instruction Fine-Tuning**|Pengkun Jiao et.al.|[2411.12787](http://arxiv.org/abs/2411.12787)|null|
@@ -666,6 +675,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**TaQ-DiT: Time-aware Quantization for Diffusion Transformers**|Xinyan Liu et.al.|[2411.14172](http://arxiv.org/abs/2411.14172)|null|
+|**2024-11-21**|**DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**|Hexuan Deng et.al.|[2411.14055](http://arxiv.org/abs/2411.14055)|**[link](https://github.com/hexuandeng/drpruning)**|
+|**2024-11-21**|**Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference**|Yunhui Liu et.al.|[2411.14035](http://arxiv.org/abs/2411.14035)|**[link](https://github.com/cloudy1225/hg2m)**|
+|**2024-11-21**|**CLFace: A Scalable and Resource-Efficient Continual Learning Framework for Lifelong Face Recognition**|Md Mahedi Hasan et.al.|[2411.13886](http://arxiv.org/abs/2411.13886)|null|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
 |**2024-11-20**|**FASTNav: Fine-tuned Adaptive Small-language-models Trained for Multi-point Robot Navigation**|Yuxuan Chen et.al.|[2411.13262](http://arxiv.org/abs/2411.13262)|null|
 |**2024-11-20**|**Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning**|Gang Zhao et.al.|[2411.13045](http://arxiv.org/abs/2411.13045)|null|
