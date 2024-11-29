@@ -381,7 +381,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
-|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530](http://arxiv.org/abs/2411.18530)|null|
+|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530](http://arxiv.org/abs/2411.18530)|**[link](https://github.com/BrainJellyPie/self)**|
 |**2024-11-27**|**Adaptive Blind All-in-One Image Restoration**|David Serrano-Lozano et.al.|[2411.18412](http://arxiv.org/abs/2411.18412)|**[link](https://github.com/davidserra9/abair)**|
 |**2024-11-27**|**Thai Financial Domain Adaptation of THaLLE -- Technical Report**|KBTG Labs et.al.|[2411.18242](http://arxiv.org/abs/2411.18242)|null|
 |**2024-11-27**|**ROICtrl: Boosting Instance Control for Visual Generation**|Yuchao Gu et.al.|[2411.17949](http://arxiv.org/abs/2411.17949)|null|
@@ -735,7 +735,7 @@
 |**2024-11-27**|**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**|Yiming Wu et.al.|[2411.18375](http://arxiv.org/abs/2411.18375)|null|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-27**|**Improved implicit diffusion model with knowledge distillation to estimate the spatial distribution density of carbon stock in remote sensing imagery**|Zhenyu Yu et.al.|[2411.17973](http://arxiv.org/abs/2411.17973)|null|
-|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|**[link](https://github.com/abdelfattah-lab/attamba)**|
 |**2024-11-26**|**Large-Scale Data-Free Knowledge Distillation for ImageNet via Multi-Resolution Data Generation**|Minh-Tuan Tran et.al.|[2411.17046](http://arxiv.org/abs/2411.17046)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 |**2024-11-25**|**Dynamic Self-Distillation via Previous Mini-batches for Fine-tuning Small Language Models**|Yao Fu et.al.|[2411.16991](http://arxiv.org/abs/2411.16991)|null|
