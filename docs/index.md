@@ -147,6 +147,7 @@ layout: default
 |**2024-11-19**|**FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning**|Qingsong Lv et.al.|[2411.12781](http://arxiv.org/abs/2411.12781)|**[link](https://github.com/fgp-code/fgp)**|
 |**2024-11-19**|**Design of an FPGA-Based Neutral Atom Rearrangement Accelerator for Quantum Computing**|Xiaorang Guo et.al.|[2411.12401](http://arxiv.org/abs/2411.12401)|null|
 |**2024-11-18**|**SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-Specific LLVM Passes for Compute-Intensive FPGA Accelerators**|Giovanni Brignone et.al.|[2411.11384](http://arxiv.org/abs/2411.11384)|**[link](https://github.com/brigio345/SILVIA)**|
+|**2024-12-01**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|**[link](https://github.com/yuanjiayiy/InvestESG)**|
 |**2024-11-21**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543](http://arxiv.org/abs/2411.09543)|null|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-18**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
@@ -371,7 +372,7 @@ layout: default
 |**2024-11-28**|**Enhancing Parameter-Efficient Fine-Tuning of Vision Transformers through Frequency-Based Adaptation**|Son Thai Ly et.al.|[2411.19297](http://arxiv.org/abs/2411.19297)|**[link](https://github.com/tsly123/freqfit)**|
 |**2024-11-28**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156](http://arxiv.org/abs/2411.19156)|null|
 |**2024-11-28**|**DESIRE: Dynamic Knowledge Consolidation for Rehearsal-Free Continual Learning**|Haiyang Guo et.al.|[2411.19154](http://arxiv.org/abs/2411.19154)|null|
-|**2024-11-28**|**Personalized Federated Fine-Tuning for LLMs via Data-Driven Heterogeneous Model Architectures**|Yicheng Zhang et.al.|[2411.19128](http://arxiv.org/abs/2411.19128)|null|
+|**2024-11-28**|**Personalized Federated Fine-Tuning for LLMs via Data-Driven Heterogeneous Model Architectures**|Yicheng Zhang et.al.|[2411.19128](http://arxiv.org/abs/2411.19128)|**[link](https://github.com/zyc140345/fedamole)**|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
 |**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530](http://arxiv.org/abs/2411.18530)|**[link](https://github.com/BrainJellyPie/self)**|
 |**2024-11-27**|**Adaptive Blind All-in-One Image Restoration**|David Serrano-Lozano et.al.|[2411.18412](http://arxiv.org/abs/2411.18412)|**[link](https://github.com/davidserra9/abair)**|
