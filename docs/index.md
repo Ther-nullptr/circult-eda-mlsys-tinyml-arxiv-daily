@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -744,7 +744,7 @@ layout: default
 |**2024-12-01**|**QABISAR: Query-Article Bipartite Interactions for Statutory Article Retrieval**|T. Y. S. S. Santosh et.al.|[2412.00934](http://arxiv.org/abs/2412.00934)|null|
 |**2024-12-01**|**Local vs. Global: Local Land-Use and Land-Cover Models Deliver Higher Quality Maps**|Girmaw Abebe Tadesse et.al.|[2412.00777](http://arxiv.org/abs/2412.00777)|null|
 |**2024-11-30**|**Continuous Concepts Removal in Text-to-image Diffusion Models**|Tingxu Han et.al.|[2412.00580](http://arxiv.org/abs/2412.00580)|null|
-|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|null|
+|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|**[link](https://github.com/AI4CogComm/PCA-WSSNet)**|
 |**2024-11-30**|**Toward Fair Graph Neural Networks Via Dual-Teacher Knowledge Distillation**|Chengyu Li et.al.|[2412.00382](http://arxiv.org/abs/2412.00382)|null|
 |**2024-11-29**|**Reverse Thinking Makes LLMs Stronger Reasoners**|Justin Chih-Yao Chen et.al.|[2411.19865](http://arxiv.org/abs/2411.19865)|null|
 |**2024-11-28**|**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG**|Xinxu Wei et.al.|[2411.19230](http://arxiv.org/abs/2411.19230)|null|
