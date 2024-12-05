@@ -97,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Effortless Efficiency: Low-Cost Pruning of Diffusion Models**|Yang Zhang et.al.|[2412.02852](http://arxiv.org/abs/2412.02852)|null|
 |**2024-11-25**|**Deep Convolutional Neural Networks Structured Pruning via Gravity Regularization**|Abdesselam Ferdi et.al.|[2411.16901](http://arxiv.org/abs/2411.16901)|null|
 |**2024-11-21**|**FuseGPT: Learnable Layers Fusion of Generative Pre-trained Transformers**|Zehua Pei et.al.|[2411.14507](http://arxiv.org/abs/2411.14507)|null|
 |**2024-11-21**|**Layer Pruning with Consensus: A Triple-Win Solution**|Leandro Giusti Mugnaini et.al.|[2411.14345](http://arxiv.org/abs/2411.14345)|**[link](https://github.com/carolinatavaresduarte/consensus-layer-pruning)**|
@@ -389,6 +390,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
+|**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
+|**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|null|
+|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
 |**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588](http://arxiv.org/abs/2412.02588)|null|
 |**2024-12-03**|**LoRA Diffusion: Zero-Shot LoRA Synthesis for Diffusion Model Personalization**|Ethan Smith et.al.|[2412.02352](http://arxiv.org/abs/2412.02352)|null|
 |**2024-12-03**|**SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models**|Sabina Martyniak et.al.|[2412.02332](http://arxiv.org/abs/2412.02332)|**[link](https://github.com/sanoscience/simuscope)**|
@@ -758,8 +763,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**KKLIP: Knowledge Distillation Exploiting K-means Clustering for Language-Image Pre-Training**|Kuei-Chun Kao et.al.|[2412.03513](http://arxiv.org/abs/2412.03513)|null|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-03**|**Efficient Model Compression Techniques with FishLeg**|Jamie McGowan et.al.|[2412.02328](http://arxiv.org/abs/2412.02328)|null|
-|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model**|Qianhan Feng et.al.|[2412.01282](http://arxiv.org/abs/2412.01282)|**[link](https://github.com/fqhank/align-kd)**|
 |**2024-12-02**|**Reducing Inference Energy Consumption Using Dual Complementary CNNs**|Michail Kinnas et.al.|[2412.01039](http://arxiv.org/abs/2412.01039)|null|
 |**2024-12-01**|**QABISAR: Query-Article Bipartite Interactions for Statutory Article Retrieval**|T. Y. S. S. Santosh et.al.|[2412.00934](http://arxiv.org/abs/2412.00934)|null|
