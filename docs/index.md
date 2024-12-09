@@ -341,6 +341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**MC3: Memory Contention based Covert Channel Communication on Shared DRAM System-on-Chips**|Ismet Dagli et.al.|[2412.05228](http://arxiv.org/abs/2412.05228)|null|
 |**2024-11-28**|**PREBA: A Hardware/Software Co-Design for Multi-Instance GPU based AI Inference Servers**|Gwangoo Yeo et.al.|[2411.19114](http://arxiv.org/abs/2411.19114)|null|
 |**2024-12-06**|**FAMES: Fast Approximate Multiplier Substitution for Mixed-Precision Quantized DNNs--Down to 2 Bits!**|Yi Ren et.al.|[2411.18055](http://arxiv.org/abs/2411.18055)|null|
 |**2024-11-19**|**Travel Time Based Task Mapping for NoC-Based DNN Accelerator**|Yizhi Chen et.al.|[2411.12710](http://arxiv.org/abs/2411.12710)|null|
@@ -374,6 +375,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**QueEn: A Large Language Model for Quechua-English Translation**|Junhao Chen et.al.|[2412.05184](http://arxiv.org/abs/2412.05184)|null|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
+|**2024-12-05**|**Performance Evaluation of LoRa Technology for Rural Connectivity: An Experimental Analysis in Nepal**|Atit Pokharel et.al.|[2412.04563](http://arxiv.org/abs/2412.04563)|null|
+|**2024-12-04**|**Prompting Large Language Models for Clinical Temporal Relation Extraction**|Jianping He et.al.|[2412.04512](http://arxiv.org/abs/2412.04512)|null|
 |**2024-12-05**|**UnZipLoRA: Separating Content and Style from a Single Image**|Chang Liu et.al.|[2412.04465](http://arxiv.org/abs/2412.04465)|null|
 |**2024-12-05**|**Discriminative Fine-tuning of LVLMs**|Yassine Ouali et.al.|[2412.04378](http://arxiv.org/abs/2412.04378)|null|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
@@ -750,6 +755,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**BEExformer: A Fast Inferencing Transformer Architecture via Binarization with Multiple Early Exits**|Wazib Ansar et.al.|[2412.05225](http://arxiv.org/abs/2412.05225)|null|
+|**2024-12-06**|**One-shot Federated Learning via Synthetic Distiller-Distillate Communication**|Junyuan Zhang et.al.|[2412.05186](http://arxiv.org/abs/2412.05186)|**[link](https://github.com/carkham/fedsd2c)**|
+|**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
+|**2024-12-05**|**Diffusion-Augmented Coreset Expansion for Scalable Dataset Distillation**|Ali Abbasi et.al.|[2412.04668](http://arxiv.org/abs/2412.04668)|null|
+|**2024-12-05**|**FedDW: Distilling Weights through Consistency Optimization in Heterogeneous Federated Learning**|Jiayu Liu et.al.|[2412.04521](http://arxiv.org/abs/2412.04521)|**[link](https://github.com/liuvvvvv1/feddw)**|
 |**2024-12-05**|**Expanding Deep Learning-based Sensing Systems with Multi-Source Knowledge Transfer**|Gaole Dai et.al.|[2412.04060](http://arxiv.org/abs/2412.04060)|null|
 |**2024-12-04**|**Designing DNNs for a trade-off between robustness and processing performance in embedded devices**|Jon Gutiérrez-Zaballa et.al.|[2412.03682](http://arxiv.org/abs/2412.03682)|null|
 |**2024-12-04**|**Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**|Jon Gutiérrez-Zaballa et.al.|[2412.03630](http://arxiv.org/abs/2412.03630)|**[link](https://github.com/jonguti13/parameterprotection)**|
