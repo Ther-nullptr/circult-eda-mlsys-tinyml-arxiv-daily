@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Post-Training Non-Uniform Quantization for Convolutional Neural Networks**|Ahmed Luqman et.al.|[2412.07391](http://arxiv.org/abs/2412.07391)|null|
+|**2024-12-09**|**FP=xINT:A Low-Bit Series Expansion Algorithm for Post-Training Quantization**|Boyang Zhang et.al.|[2412.06865](http://arxiv.org/abs/2412.06865)|null|
 |**2024-12-09**|**Efficiency Meets Fidelity: A Novel Quantization Framework for Stable Diffusion**|Shuaiting Li et.al.|[2412.06661](http://arxiv.org/abs/2412.06661)|null|
 |**2024-12-07**|**GAQAT: gradient-adaptive quantization-aware training for domain generalization**|Jiacheng Jiang et.al.|[2412.05551](http://arxiv.org/abs/2412.05551)|null|
 |**2024-12-07**|**SKIM: Any-bit Quantization Pushing The Limits of Post-Training Quantization**|Runsheng Bai et.al.|[2412.04180](http://arxiv.org/abs/2412.04180)|null|
@@ -272,6 +274,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[2412.07485](http://arxiv.org/abs/2412.07485)|null|
+|**2024-12-07**|**Innovative Sentiment Analysis and Prediction of Stock Price Using FinBERT, GPT-4 and Logistic Regression: A Data-Driven Approach**|Olamilekan Shobayo et.al.|[2412.06837](http://arxiv.org/abs/2412.06837)|null|
 |**2024-12-09**|**DEX: Data Channel Extension for Efficient CNN Inference on Tiny AI Accelerators**|Taesik Gong et.al.|[2412.06566](http://arxiv.org/abs/2412.06566)|**[link](https://github.com/nokia-bell-labs/data-channel-extension)**|
 |**2024-12-09**|**Sequential Printed MLP Circuits for Super TinyML Multi-Sensory Applications**|Gurol Saglam et.al.|[2412.06542](http://arxiv.org/abs/2412.06542)|null|
 |**2024-12-02**|**Optimizing LoRa for Edge Computing with TinyML Pipeline for Channel Hopping**|Marla Grunewald et.al.|[2412.01609](http://arxiv.org/abs/2412.01609)|null|
@@ -401,6 +405,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition**|Kartik Narayan et.al.|[2412.07771](http://arxiv.org/abs/2412.07771)|null|
+|**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746](http://arxiv.org/abs/2412.07746)|null|
+|**2024-12-10**|**ChocoLlama: Lessons Learned From Teaching Llamas Dutch**|Matthieu Meeus et.al.|[2412.07633](http://arxiv.org/abs/2412.07633)|null|
+|**2024-12-10**|**MoDULA: Mixture of Domain-Specific and Universal LoRA for Multi-Task Learning**|Yufei Ma et.al.|[2412.07405](http://arxiv.org/abs/2412.07405)|null|
+|**2024-12-10**|**Attention Head Purification: A New Perspective to Harness CLIP for Domain Generalization**|Yingfan Wang et.al.|[2412.07226](http://arxiv.org/abs/2412.07226)|null|
+|**2024-12-09**|**Optimal Routing and Link Configuration for Covert Heterogeneous Wireless Networks**|Amna Gillani et.al.|[2412.07059](http://arxiv.org/abs/2412.07059)|null|
+|**2024-12-09**|**Sequential Compression Layers for Efficient Federated Learning in Foundational Models**|Navyansh Mahla et.al.|[2412.07021](http://arxiv.org/abs/2412.07021)|null|
 |**2024-12-09**|**BoRA: Bi-dimensional Weight-Decomposed Low-Rank Adaptation**|Qiushi Wang et.al.|[2412.06441](http://arxiv.org/abs/2412.06441)|null|
 |**2024-12-10**|**S $^{2}$ FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity**|Xinyu Yang et.al.|[2412.06289](http://arxiv.org/abs/2412.06289)|null|
 |**2024-12-08**|**Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling**|Kaleel Mahmood et.al.|[2412.06106](http://arxiv.org/abs/2412.06106)|null|
@@ -789,6 +800,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Unlocking the Potential of Reverse Distillation for Anomaly Detection**|Xinyue Liu et.al.|[2412.07579](http://arxiv.org/abs/2412.07579)|**[link](https://github.com/hito2448/urd)**|
+|**2024-12-10**|**TT-MPD: Test Time Model Pruning and Distillation**|Haihang Wu et.al.|[2412.07114](http://arxiv.org/abs/2412.07114)|null|
+|**2024-12-09**|**FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**|Amirhossein Abaskohi et.al.|[2412.07030](http://arxiv.org/abs/2412.07030)|null|
+|**2024-12-09**|**VQ4ALL: Efficient Neural Network Representation via a Universal Codebook**|Juncan Deng et.al.|[2412.06875](http://arxiv.org/abs/2412.06875)|null|
+|**2024-12-09**|**Compression for Better: A General and Stable Lossless Compression Framework**|Boyang Zhang et.al.|[2412.06868](http://arxiv.org/abs/2412.06868)|null|
+|**2024-12-09**|**Lossless Model Compression via Joint Low-Rank Factorization Optimization**|Boyang Zhang et.al.|[2412.06867](http://arxiv.org/abs/2412.06867)|null|
+|**2024-12-08**|**GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model**|Haotong Yang et.al.|[2412.06849](http://arxiv.org/abs/2412.06849)|null|
 |**2024-12-10**|**Federated Split Learning with Model Pruning and Gradient Quantization in Wireless Networks**|Junhe Zhang et.al.|[2412.06414](http://arxiv.org/abs/2412.06414)|null|
 |**2024-12-09**|**U-Know-DiffPAN: An Uncertainty-aware Knowledge Distillation Diffusion Framework with Details Enhancement for PAN-Sharpening**|Sungpyo Kim et.al.|[2412.06243](http://arxiv.org/abs/2412.06243)|null|
 |**2024-12-08**|**Enhancing Content Representation for AR Image Quality Assessment Using Knowledge Distillation**|Aymen Sekhri et.al.|[2412.06003](http://arxiv.org/abs/2412.06003)|null|
