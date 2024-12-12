@@ -386,6 +386,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|null|
+|**2024-12-10**|**Accretion onto WD 2226 $-$ 210, the central star of the Helix Nebula**|S. Estrada-Dorado et.al.|[2412.07863](http://arxiv.org/abs/2412.07863)|null|
 |**2024-12-10**|**PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition**|Kartik Narayan et.al.|[2412.07771](http://arxiv.org/abs/2412.07771)|null|
 |**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746](http://arxiv.org/abs/2412.07746)|null|
 |**2024-12-10**|**ChocoLlama: Lessons Learned From Teaching Llamas Dutch**|Matthieu Meeus et.al.|[2412.07633](http://arxiv.org/abs/2412.07633)|null|
@@ -779,6 +781,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation**|Jiaming Lv et.al.|[2412.08139](http://arxiv.org/abs/2412.08139)|null|
+|**2024-12-11**|**DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**|Jaeho Moon et.al.|[2412.08116](http://arxiv.org/abs/2412.08116)|null|
+|**2024-12-10**|**Low-Rank Correction for Quantized LLMs**|Meyer Scetbon et.al.|[2412.07902](http://arxiv.org/abs/2412.07902)|null|
 |**2024-12-10**|**Unlocking the Potential of Reverse Distillation for Anomaly Detection**|Xinyue Liu et.al.|[2412.07579](http://arxiv.org/abs/2412.07579)|**[link](https://github.com/hito2448/urd)**|
 |**2024-12-10**|**TT-MPD: Test Time Model Pruning and Distillation**|Haihang Wu et.al.|[2412.07114](http://arxiv.org/abs/2412.07114)|null|
 |**2024-12-09**|**FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**|Amirhossein Abaskohi et.al.|[2412.07030](http://arxiv.org/abs/2412.07030)|null|
