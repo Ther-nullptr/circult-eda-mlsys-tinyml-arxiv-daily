@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**TTAQ: Towards Stable Post-training Quantization in Continuous Domain Adaptation**|Junrui Xiao et.al.|[2412.09899](http://arxiv.org/abs/2412.09899)|null|
 |**2024-12-12**|**CRVQ: Channel-relaxed Vector Quantization for Extreme Compression of LLMs**|Yuzhuang Xu et.al.|[2412.09282](http://arxiv.org/abs/2412.09282)|null|
 |**2024-12-10**|**Post-Training Non-Uniform Quantization for Convolutional Neural Networks**|Ahmed Luqman et.al.|[2412.07391](http://arxiv.org/abs/2412.07391)|null|
 |**2024-12-09**|**FP=xINT:A Low-Bit Series Expansion Algorithm for Post-Training Quantization**|Boyang Zhang et.al.|[2412.06865](http://arxiv.org/abs/2412.06865)|null|
@@ -148,6 +149,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Strong Structural Bounds for MaxSAT: The Fine Details of Using Neuromorphic and Quantum Hardware Accelerators**|Max Bannach et.al.|[2412.10289](http://arxiv.org/abs/2412.10289)|null|
+|**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
+|**2024-12-12**|**MPAX: Mathematical Programming in JAX**|Haihao Lu et.al.|[2412.09734](http://arxiv.org/abs/2412.09734)|**[link](https://github.com/mit-lu-lab/mpax)**|
 |**2024-12-12**|**Evaluating the Potential of In-Memory Processing to Accelerate Homomorphic Encryption**|Mpoki Mwaisela et.al.|[2412.09144](http://arxiv.org/abs/2412.09144)|null|
 |**2024-12-12**|**Analyzing Practical Policies for Multiresource Job Scheduling**|Zhongrui Chen et.al.|[2412.08915](http://arxiv.org/abs/2412.08915)|null|
 |**2024-12-09**|**LLM-BIP: Structured Pruning for Large Language Models with Block-Wise Forward Importance Propagation**|Haihang Wu et.al.|[2412.06419](http://arxiv.org/abs/2412.06419)|null|
@@ -262,6 +266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**|Hanchu Zhou et.al.|[2412.09782](http://arxiv.org/abs/2412.09782)|null|
 |**2024-12-12**|**Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices**|Thanaphon Suwannaphong et.al.|[2412.09289](http://arxiv.org/abs/2412.09289)|null|
 |**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[2412.07485](http://arxiv.org/abs/2412.07485)|null|
 |**2024-12-07**|**Innovative Sentiment Analysis and Prediction of Stock Price Using FinBERT, GPT-4 and Logistic Regression: A Data-Driven Approach**|Olamilekan Shobayo et.al.|[2412.06837](http://arxiv.org/abs/2412.06837)|null|
@@ -355,6 +360,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Panacea: Novel DNN Accelerator using Accuracy-Preserving Asymmetric Quantization and Energy-Saving Bit-Slice Sparsity**|Dongyun Kam et.al.|[2412.10059](http://arxiv.org/abs/2412.10059)|null|
 |**2024-12-06**|**HiVeGen -- Hierarchical LLM-based Verilog Generation for Scalable Chip Design**|Jinwei Tang et.al.|[2412.05393](http://arxiv.org/abs/2412.05393)|null|
 |**2024-12-06**|**MC3: Memory Contention based Covert Channel Communication on Shared DRAM System-on-Chips**|Ismet Dagli et.al.|[2412.05228](http://arxiv.org/abs/2412.05228)|null|
 |**2024-11-28**|**PREBA: A Hardware/Software Co-Design for Multi-Instance GPU based AI Inference Servers**|Gwangoo Yeo et.al.|[2411.19114](http://arxiv.org/abs/2411.19114)|null|
@@ -390,6 +396,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
+|**2024-12-13**|**ASLoRA: Adaptive Sharing Low-Rank Adaptation Across Layers**|Junyan Hu et.al.|[2412.10135](http://arxiv.org/abs/2412.10135)|null|
+|**2024-12-13**|**CaLoRAify: Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models**|Dongyu Yao et.al.|[2412.09936](http://arxiv.org/abs/2412.09936)|**[link](https://github.com/kennyyao2001/16824-caloraify)**|
+|**2024-12-13**|**Low-Rank Adaptation with Task-Relevant Feature Enhancement for Fine-tuning Language Models**|Changqun Li et.al.|[2412.09827](http://arxiv.org/abs/2412.09827)|null|
 |**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622](http://arxiv.org/abs/2412.09622)|null|
 |**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
 |**2024-12-12**|**Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**|Zhisheng Zhong et.al.|[2412.09501](http://arxiv.org/abs/2412.09501)|**[link](https://github.com/dvlab-research/Lyra)**|
@@ -792,6 +802,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Can Students Beyond The Teacher? Distilling Knowledge from Teacher's Bias**|Jianhua Zhang et.al.|[2412.09874](http://arxiv.org/abs/2412.09874)|null|
+|**2024-12-13**|**ScaleOT: Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression**|Kai Yao et.al.|[2412.09812](http://arxiv.org/abs/2412.09812)|null|
+|**2024-12-13**|**LLM Distillation for Efficient Few-Shot Multiple Choice Question Answering**|Patrick Sutanto et.al.|[2412.09807](http://arxiv.org/abs/2412.09807)|null|
 |**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619](http://arxiv.org/abs/2412.09619)|null|
 |**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
 |**2024-12-12**|**All You Need in Knowledge Distillation Is a Tailored Coordinate System**|Junjie Zhou et.al.|[2412.09388](http://arxiv.org/abs/2412.09388)|null|
