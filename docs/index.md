@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**Efficient Quantization-Aware Training on Segment Anything Model in Medical Images and Its Deployment**|Haisheng Lu et.al.|[2412.11186](http://arxiv.org/abs/2412.11186)|**[link](https://github.com/avc2-uestc/qmedsam)**|
 |**2024-12-13**|**TTAQ: Towards Stable Post-training Quantization in Continuous Domain Adaptation**|Junrui Xiao et.al.|[2412.09899](http://arxiv.org/abs/2412.09899)|null|
 |**2024-12-12**|**CRVQ: Channel-relaxed Vector Quantization for Extreme Compression of LLMs**|Yuzhuang Xu et.al.|[2412.09282](http://arxiv.org/abs/2412.09282)|null|
 |**2024-12-10**|**Post-Training Non-Uniform Quantization for Convolutional Neural Networks**|Ahmed Luqman et.al.|[2412.07391](http://arxiv.org/abs/2412.07391)|null|
@@ -95,6 +96,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Designing Semi-Structured Pruning of Graph Convolutional Networks for Skeleton-based Recognition**|Hichem Sahbi et.al.|[2412.11813](http://arxiv.org/abs/2412.11813)|null|
+|**2024-12-16**|**QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models**|Changhai Zhou et.al.|[2412.11629](http://arxiv.org/abs/2412.11629)|null|
 |**2024-12-09**|**LLM-BIP: Structured Pruning for Large Language Models with Block-Wise Forward Importance Propagation**|Haihang Wu et.al.|[2412.06419](http://arxiv.org/abs/2412.06419)|null|
 |**2024-12-03**|**Effortless Efficiency: Low-Cost Pruning of Diffusion Models**|Yang Zhang et.al.|[2412.02852](http://arxiv.org/abs/2412.02852)|null|
 |**2024-11-25**|**Deep Convolutional Neural Networks Structured Pruning via Gravity Regularization**|Abdesselam Ferdi et.al.|[2411.16901](http://arxiv.org/abs/2411.16901)|null|
@@ -266,6 +269,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Flex-PE: Flexible and SIMD Multi-Precision Processing Element for AI Workloads**|Mukul Lokhande et.al.|[2412.11702](http://arxiv.org/abs/2412.11702)|null|
+|**2024-12-13**|**Edge AI-based Radio Frequency Fingerprinting for IoT Networks**|Ahmed Mohamed Hussain et.al.|[2412.10553](http://arxiv.org/abs/2412.10553)|null|
 |**2024-12-13**|**EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**|Hanchu Zhou et.al.|[2412.09782](http://arxiv.org/abs/2412.09782)|null|
 |**2024-12-12**|**Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices**|Thanaphon Suwannaphong et.al.|[2412.09289](http://arxiv.org/abs/2412.09289)|null|
 |**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[2412.07485](http://arxiv.org/abs/2412.07485)|null|
@@ -396,6 +401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
+|**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004](http://arxiv.org/abs/2412.12004)|null|
+|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-16**|**IDEA-Bench: How Far are Generative Models from Professional Designing?**|Chen Liang et.al.|[2412.11767](http://arxiv.org/abs/2412.11767)|**[link](https://github.com/ali-vilab/idea-bench)**|
+|**2024-12-16**|**Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing**|Anika Tabassum et.al.|[2412.11381](http://arxiv.org/abs/2412.11381)|null|
+|**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
+|**2024-12-15**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|null|
+|**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026](http://arxiv.org/abs/2412.11026)|null|
+|**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|null|
+|**2024-12-13**|**SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation**|Runtao Liu et.al.|[2412.10493](http://arxiv.org/abs/2412.10493)|null|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-16**|**ASLoRA: Adaptive Sharing Low-Rank Adaptation Across Layers**|Junyan Hu et.al.|[2412.10135](http://arxiv.org/abs/2412.10135)|null|
 |**2024-12-13**|**CaLoRAify: Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models**|Dongyu Yao et.al.|[2412.09936](http://arxiv.org/abs/2412.09936)|**[link](https://github.com/kennyyao2001/16824-caloraify)**|
@@ -802,6 +817,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Neural Collapse Inspired Knowledge Distillation**|Shuoxi Zhang et.al.|[2412.11788](http://arxiv.org/abs/2412.11788)|null|
+|**2024-12-16**|**Relation-Guided Adversarial Learning for Data-free Knowledge Transfer**|Yingping Liang et.al.|[2412.11380](http://arxiv.org/abs/2412.11380)|null|
+|**2024-12-16**|**BiM-VFI: directional Motion Field-Guided Frame Interpolation for Video with Non-uniform Motions**|Wonyong Seo et.al.|[2412.11365](http://arxiv.org/abs/2412.11365)|null|
+|**2024-12-15**|**Wearable Accelerometer Foundation Models for Health via Knowledge Distillation**|Salar Abbaspourazad et.al.|[2412.11276](http://arxiv.org/abs/2412.11276)|null|
+|**2024-12-15**|**TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs**|Lanxiang Hu et.al.|[2412.11242](http://arxiv.org/abs/2412.11242)|null|
+|**2024-12-15**|**ProFe: Communication-Efficient Decentralized Federated Learning via Distillation and Prototypes**|Pedro Miguel Sánchez Sánchez et.al.|[2412.11207](http://arxiv.org/abs/2412.11207)|null|
+|**2024-12-15**|**Leveraging Large Language Models for Active Merchant Non-player Characters**|Byungjun Kim et.al.|[2412.11189](http://arxiv.org/abs/2412.11189)|null|
+|**2024-12-15**|**Knowledge Migration Framework for Smart Contract Vulnerability Detection**|Luqi Wang et.al.|[2412.11175](http://arxiv.org/abs/2412.11175)|null|
+|**2024-12-15**|**Redefining Normal: A Novel Object-Level Approach for Multi-Object Novelty Detection**|Mohammadreza Salehi et.al.|[2412.11148](http://arxiv.org/abs/2412.11148)|**[link](https://github.com/smsd75/redefining_normal_accv24)**|
+|**2024-12-15**|**On Distilling the Displacement Knowledge for Few-Shot Class-Incremental Learning**|Pengfei Fang et.al.|[2412.11017](http://arxiv.org/abs/2412.11017)|null|
 |**2024-12-13**|**Can Students Beyond The Teacher? Distilling Knowledge from Teacher's Bias**|Jianhua Zhang et.al.|[2412.09874](http://arxiv.org/abs/2412.09874)|null|
 |**2024-12-13**|**ScaleOT: Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression**|Kai Yao et.al.|[2412.09812](http://arxiv.org/abs/2412.09812)|null|
 |**2024-12-13**|**LLM Distillation for Efficient Few-Shot Multiple Choice Question Answering**|Patrick Sutanto et.al.|[2412.09807](http://arxiv.org/abs/2412.09807)|null|
