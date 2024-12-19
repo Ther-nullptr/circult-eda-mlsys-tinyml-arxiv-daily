@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Pattern Matching in AI Compilers and its Formalization (Extended Version)**|Joseph W. Cutler et.al.|[2412.13398](http://arxiv.org/abs/2412.13398)|null|
 |**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
 |**2024-12-13**|**Strong Structural Bounds for MaxSAT: The Fine Details of Using Neuromorphic and Quantum Hardware Accelerators**|Max Bannach et.al.|[2412.10289](http://arxiv.org/abs/2412.10289)|null|
 |**2024-12-16**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
@@ -406,6 +407,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**CoRa: A Collision-Resistant LoRa Symbol Detector of Low Complexity**|José Álamos et.al.|[2412.13930](http://arxiv.org/abs/2412.13930)|null|
+|**2024-12-18**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection**|Beiqi Zhang et.al.|[2412.13801](http://arxiv.org/abs/2412.13801)|null|
+|**2024-12-18**|**Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**|Xuhan Zuo et.al.|[2412.13551](http://arxiv.org/abs/2412.13551)|null|
+|**2024-12-18**|**Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models**|Xinxin Liu et.al.|[2412.13488](http://arxiv.org/abs/2412.13488)|null|
+|**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|null|
+|**2024-12-17**|**Expansion Span: Combining Fading Memory and Retrieval in Hybrid State Space Models**|Elvis Nunez et.al.|[2412.13328](http://arxiv.org/abs/2412.13328)|null|
 |**2024-12-17**|**FineGates: LLMs Finetuning with Compression using Stochastic Gates**|Jonathan Svirsky et.al.|[2412.12951](http://arxiv.org/abs/2412.12951)|null|
 |**2024-12-17**|**Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion**|Syed Zohaib Hassan et.al.|[2412.12710](http://arxiv.org/abs/2412.12710)|null|
 |**2024-12-17**|**Train More Parameters But Mind Their Placement: Insights into Language Adaptation with PEFT**|Jenny Kunz et.al.|[2412.12674](http://arxiv.org/abs/2412.12674)|**[link](https://github.com/jekunz/peft-la)**|
@@ -828,6 +835,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
+|**2024-12-18**|**On Explaining Knowledge Distillation: Measuring and Visualising the Knowledge Transfer Process**|Gereziher Adhane et.al.|[2412.13943](http://arxiv.org/abs/2412.13943)|null|
+|**2024-12-18**|**Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN**|Pengxiang Li et.al.|[2412.13795](http://arxiv.org/abs/2412.13795)|**[link](https://github.com/pixeli99/mixln)**|
+|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
+|**2024-12-18**|**On the Compression of Language Models for Code: An Empirical Study on CodeBERT**|Giordano d'Aloisio et.al.|[2412.13737](http://arxiv.org/abs/2412.13737)|null|
+|**2024-12-18**|**Hybrid Data-Free Knowledge Distillation**|Jialiang Tang et.al.|[2412.13525](http://arxiv.org/abs/2412.13525)|**[link](https://github.com/tangjialiang97/hidfd)**|
+|**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|
+|**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243](http://arxiv.org/abs/2412.13243)|null|
 |**2024-12-17**|**Modality-Inconsistent Continual Learning of Multimodal Large Language Models**|Weiguo Pian et.al.|[2412.13050](http://arxiv.org/abs/2412.13050)|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
 |**2024-12-17**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guanwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|null|
