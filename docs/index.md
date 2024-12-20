@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -99,7 +99,7 @@ layout: default
 |**2024-12-17**|**Learning Coarse-to-Fine Pruning of Graph Convolutional Networks for Skeleton-based Recognition**|Hichem Sahbi et.al.|[2412.12887](http://arxiv.org/abs/2412.12887)|null|
 |**2024-12-17**|**A Comparative Study of Pruning Methods in Transformer-based Time Series Forecasting**|Nicholas Kiefer et.al.|[2412.12883](http://arxiv.org/abs/2412.12883)|null|
 |**2024-12-17**|**Structural Pruning via Spatial-aware Information Redundancy for Semantic Segmentation**|Dongyue Wu et.al.|[2412.12672](http://arxiv.org/abs/2412.12672)|**[link](https://github.com/dywu98/SIRFP)**|
-|**2024-12-17**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guanwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|null|
+|**2024-12-19**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guangwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|**[link](https://github.com/1e12Leon/RemoteTrimmer)**|
 |**2024-12-16**|**Designing Semi-Structured Pruning of Graph Convolutional Networks for Skeleton-based Recognition**|Hichem Sahbi et.al.|[2412.11813](http://arxiv.org/abs/2412.11813)|null|
 |**2024-12-16**|**QPruner: Probabilistic Decision Quantization for Structured Pruning in Large Language Models**|Changhai Zhou et.al.|[2412.11629](http://arxiv.org/abs/2412.11629)|null|
 |**2024-12-09**|**LLM-BIP: Structured Pruning for Large Language Models with Block-Wise Forward Importance Propagation**|Haihang Wu et.al.|[2412.06419](http://arxiv.org/abs/2412.06419)|null|
