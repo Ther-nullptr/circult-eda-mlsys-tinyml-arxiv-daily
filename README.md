@@ -451,11 +451,11 @@
 |**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004](http://arxiv.org/abs/2412.12004)|null|
 |**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-16**|**IDEA-Bench: How Far are Generative Models from Professional Designing?**|Chen Liang et.al.|[2412.11767](http://arxiv.org/abs/2412.11767)|**[link](https://github.com/ali-vilab/idea-bench)**|
-|**2024-12-16**|**Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing**|Anika Tabassum et.al.|[2412.11381](http://arxiv.org/abs/2412.11381)|null|
+|**2024-12-16**|**Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing**|Anika Tabassum et.al.|[2412.11381](http://arxiv.org/abs/2412.11381)|**[link](https://github.com/anikat1/sam-material-gan)**|
 |**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
 |**2024-12-15**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|null|
 |**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026](http://arxiv.org/abs/2412.11026)|null|
-|**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|null|
+|**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|**[link](https://github.com/ryujimorita/tokyo_whisperers)**|
 |**2024-12-13**|**SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation**|Runtao Liu et.al.|[2412.10493](http://arxiv.org/abs/2412.10493)|null|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-16**|**ASLoRA: Adaptive Sharing Low-Rank Adaptation Across Layers**|Junyan Hu et.al.|[2412.10135](http://arxiv.org/abs/2412.10135)|null|
@@ -490,7 +490,7 @@
 |**2024-12-05**|**UnZipLoRA: Separating Content and Style from a Single Image**|Chang Liu et.al.|[2412.04465](http://arxiv.org/abs/2412.04465)|null|
 |**2024-12-08**|**Discriminative Fine-tuning of LVLMs**|Yassine Ouali et.al.|[2412.04378](http://arxiv.org/abs/2412.04378)|null|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
-|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
+|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|**[link](https://github.com/ysj9909/DG-SoRA)**|
 |**2024-12-04**|**Personalizing Multimodal Large Language Models for Image Captioning: An Experimental Analysis**|Davide Bucciarelli et.al.|[2412.03665](http://arxiv.org/abs/2412.03665)|null|
 |**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
 |**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
@@ -880,10 +880,10 @@
 |**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243](http://arxiv.org/abs/2412.13243)|null|
 |**2024-12-17**|**Modality-Inconsistent Continual Learning of Multimodal Large Language Models**|Weiguo Pian et.al.|[2412.13050](http://arxiv.org/abs/2412.13050)|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
-|**2024-12-17**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guanwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|null|
+|**2024-12-17**|**RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification**|Guanwenjie Zou et.al.|[2412.12603](http://arxiv.org/abs/2412.12603)|**[link](https://github.com/1e12Leon/RemoteTrimmer)**|
 |**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
 |**2024-12-16**|**Neural Collapse Inspired Knowledge Distillation**|Shuoxi Zhang et.al.|[2412.11788](http://arxiv.org/abs/2412.11788)|null|
-|**2024-12-16**|**Relation-Guided Adversarial Learning for Data-free Knowledge Transfer**|Yingping Liang et.al.|[2412.11380](http://arxiv.org/abs/2412.11380)|null|
+|**2024-12-16**|**Relation-Guided Adversarial Learning for Data-free Knowledge Transfer**|Yingping Liang et.al.|[2412.11380](http://arxiv.org/abs/2412.11380)|**[link](https://github.com/sharpiless/rgal)**|
 |**2024-12-16**|**BiM-VFI: directional Motion Field-Guided Frame Interpolation for Video with Non-uniform Motions**|Wonyong Seo et.al.|[2412.11365](http://arxiv.org/abs/2412.11365)|null|
 |**2024-12-15**|**Wearable Accelerometer Foundation Models for Health via Knowledge Distillation**|Salar Abbaspourazad et.al.|[2412.11276](http://arxiv.org/abs/2412.11276)|null|
 |**2024-12-15**|**TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs**|Lanxiang Hu et.al.|[2412.11242](http://arxiv.org/abs/2412.11242)|null|
@@ -899,7 +899,7 @@
 |**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
 |**2024-12-12**|**All You Need in Knowledge Distillation Is a Tailored Coordinate System**|Junjie Zhou et.al.|[2412.09388](http://arxiv.org/abs/2412.09388)|null|
 |**2024-12-12**|**Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices**|Thanaphon Suwannaphong et.al.|[2412.09289](http://arxiv.org/abs/2412.09289)|null|
-|**2024-12-15**|**DASK: Distribution Rehearsing via Adaptive Style Kernel Learning for Exemplar-Free Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2412.09224](http://arxiv.org/abs/2412.09224)|null|
+|**2024-12-15**|**DASK: Distribution Rehearsing via Adaptive Style Kernel Learning for Exemplar-Free Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2412.09224](http://arxiv.org/abs/2412.09224)|**[link](https://github.com/zhoujiahuan1991/aaai2025-dask)**|
 |**2024-12-12**|**Multimodal Industrial Anomaly Detection by Crossmodal Reverse Distillation**|Xinyue Liu et.al.|[2412.08949](http://arxiv.org/abs/2412.08949)|**[link](https://github.com/hito2448/CRD)**|
 |**2024-12-12**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
 |**2024-12-11**|**Efficient Gravitational Wave Parameter Estimation via Knowledge Distillation: A ResNet1D-IAF Approach**|Xihua Zhu et.al.|[2412.08672](http://arxiv.org/abs/2412.08672)|null|
