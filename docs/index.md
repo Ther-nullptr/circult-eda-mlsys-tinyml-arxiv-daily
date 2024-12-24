@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -419,7 +419,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-20**|**Adaptable and Precise: Enterprise-Scenario LLM Function-Calling Capability Training Pipeline**|Guancheng Zeng et.al.|[2412.15660](http://arxiv.org/abs/2412.15660)|null|
-|**2024-12-20**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
+|**2024-12-23**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
 |**2024-12-20**|**AutoRank: MCDA Based Rank Personalization for LoRA-Enabled Distributed Learning**|Shuaijun Chen et.al.|[2412.15553](http://arxiv.org/abs/2412.15553)|null|
 |**2024-12-19**|**Knowledge Injection via Prompt Distillation**|Kalle Kujanpää et.al.|[2412.14964](http://arxiv.org/abs/2412.14964)|null|
 |**2024-12-20**|**All-in-One Tuning and Structural Pruning for Domain-Specific LLMs**|Lei Lu et.al.|[2412.14426](http://arxiv.org/abs/2412.14426)|null|
