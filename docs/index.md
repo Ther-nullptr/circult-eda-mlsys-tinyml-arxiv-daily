@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -864,7 +864,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
 |**2024-12-23**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference**|Chao Zeng et.al.|[2412.17560](http://arxiv.org/abs/2412.17560)|null|
-|**2024-12-23**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
+|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
 |**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317](http://arxiv.org/abs/2412.17317)|null|
 |**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/abs/2412.17282)|null|
 |**2024-12-22**|**Lightweight Design and Optimization methods for DCNNs: Progress and Futures**|Hanhua Long et.al.|[2412.16886](http://arxiv.org/abs/2412.16886)|null|
