@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -107,7 +107,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Pruning
 
@@ -175,7 +175,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -302,7 +302,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## TinyML
 
@@ -312,7 +312,7 @@
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-19**|**ElectraSight: Smart Glasses with Fully Onboard Non-Invasive Eye Tracking Using Hybrid Contact and Contactless EOG**|Nicolas Schärer et.al.|[2412.14848](http://arxiv.org/abs/2412.14848)|null|
 |**2024-12-17**|**Design of an AI-Enhanced Digital Stethoscope: Advancing Cardiovascular Diagnostics Through Smart Auscultation**|Abraham G. Taye et.al.|[2412.14206](http://arxiv.org/abs/2412.14206)|null|
-|**2024-12-16**|**Flex-PE: Flexible and SIMD Multi-Precision Processing Element for AI Workloads**|Mukul Lokhande et.al.|[2412.11702](http://arxiv.org/abs/2412.11702)|null|
+|**2024-12-16**|**Flex-PE: Flexible and SIMD Multi-Precision Processing Element for AI Workloads**|Mukul Lokhande et.al.|[2412.11702](http://arxiv.org/abs/2412.11702)|**[link](https://github.com/mukullokhande99/cordic-code)**|
 |**2024-12-13**|**Edge AI-based Radio Frequency Fingerprinting for IoT Networks**|Ahmed Mohamed Hussain et.al.|[2412.10553](http://arxiv.org/abs/2412.10553)|null|
 |**2024-12-13**|**EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**|Hanchu Zhou et.al.|[2412.09782](http://arxiv.org/abs/2412.09782)|null|
 |**2024-12-12**|**Optimising TinyML with Quantization and Distillation of Transformer and Mamba Models for Indoor Localisation on Edge Devices**|Thanaphon Suwannaphong et.al.|[2412.09289](http://arxiv.org/abs/2412.09289)|null|
@@ -404,7 +404,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -443,7 +443,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -451,7 +451,7 @@
 |---|---|---|---|---|
 |**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419](http://arxiv.org/abs/2412.18419)|null|
 |**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|**[link](https://github.com/alonso130r/knowledge-distillation)**|
-|**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644](http://arxiv.org/abs/2412.17644)|null|
+|**2024-12-25**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644](http://arxiv.org/abs/2412.17644)|null|
 |**2024-12-23**|**Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and Multi-Domain Testing**|Prakash Aryan et.al.|[2412.17548](http://arxiv.org/abs/2412.17548)|**[link](https://github.com/prakash-aryan/qwen-arabic-project)**|
 |**2024-12-21**|**Label Privacy in Split Learning for Large Models with Parameter-Efficient Training**|Philip Zmushko et.al.|[2412.16669](http://arxiv.org/abs/2412.16669)|**[link](https://github.com/p3eft-iclr-2025/p3eft-iclr-2025)**|
 |**2024-12-20**|**Adaptable and Precise: Enterprise-Scenario LLM Function-Calling Capability Training Pipeline**|Guancheng Zeng et.al.|[2412.15660](http://arxiv.org/abs/2412.15660)|null|
@@ -883,7 +883,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Model Compression
 
@@ -1382,7 +1382,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
