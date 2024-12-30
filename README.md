@@ -675,7 +675,7 @@
 |**2024-10-14**|**LoLCATs: On Low-Rank Linearizing of Large Language Models**|Michael Zhang et.al.|[2410.10254](http://arxiv.org/abs/2410.10254)|**[link](https://github.com/hazyresearch/lolcats)**|
 |**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
 |**2024-10-14**|**Scalable Multi-Domain Adaptation of Language Models using Modular Experts**|Peter Schafhalter et.al.|[2410.10181](http://arxiv.org/abs/2410.10181)|null|
-|**2024-10-14**|**Is Parameter Collision Hindering Continual Learning in LLMs?**|Shuo Yang et.al.|[2410.10179](http://arxiv.org/abs/2410.10179)|null|
+|**2024-10-14**|**Is Parameter Collision Hindering Continual Learning in LLMs?**|Shuo Yang et.al.|[2410.10179](http://arxiv.org/abs/2410.10179)|**[link](https://github.com/pku-yuangroup/n-lora)**|
 |**2024-10-14**|**AlphaLoRA: Assigning LoRA Experts Based on Layer Training Quality**|Peijun Qing et.al.|[2410.10054](http://arxiv.org/abs/2410.10054)|**[link](https://github.com/morelife2017/alphalora)**|
 |**2024-10-13**|**Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning**|Pengfei Jin et.al.|[2410.09908](http://arxiv.org/abs/2410.09908)|null|
 |**2024-10-13**|**A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning**|Chen-Yu Liu et.al.|[2410.09846](http://arxiv.org/abs/2410.09846)|null|
@@ -914,7 +914,7 @@
 |**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
 |**2024-12-18**|**On Explaining Knowledge Distillation: Measuring and Visualising the Knowledge Transfer Process**|Gereziher Adhane et.al.|[2412.13943](http://arxiv.org/abs/2412.13943)|null|
 |**2024-12-18**|**Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN**|Pengxiang Li et.al.|[2412.13795](http://arxiv.org/abs/2412.13795)|**[link](https://github.com/pixeli99/mixln)**|
-|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|null|
+|**2024-12-18**|**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2412.13742](http://arxiv.org/abs/2412.13742)|**[link](https://github.com/taozh2017/knowsam)**|
 |**2024-12-18**|**On the Compression of Language Models for Code: An Empirical Study on CodeBERT**|Giordano d'Aloisio et.al.|[2412.13737](http://arxiv.org/abs/2412.13737)|null|
 |**2024-12-18**|**Hybrid Data-Free Knowledge Distillation**|Jialiang Tang et.al.|[2412.13525](http://arxiv.org/abs/2412.13525)|**[link](https://github.com/tangjialiang97/hidfd)**|
 |**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|
