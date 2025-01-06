@@ -174,6 +174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**DSLR-CNN: Efficient CNN Acceleration using Digit-Serial Left-to-Right Arithmetic**|Malik Zohaib Nisar et.al.|[2501.01737](http://arxiv.org/abs/2501.01737)|null|
 |**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169](http://arxiv.org/abs/2501.00169)|null|
 |**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393](http://arxiv.org/abs/2412.20393)|null|
@@ -444,6 +445,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation**|Mingjie Li et.al.|[2501.01765](http://arxiv.org/abs/2501.01765)|null|
+|**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
+|**2025-01-03**|**Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption**|Zhang Ruoyan et.al.|[2501.01672](http://arxiv.org/abs/2501.01672)|null|
 |**2025-01-02**|**Towards Interactive Deepfake Analysis**|Lixiong Qin et.al.|[2501.01164](http://arxiv.org/abs/2501.01164)|null|
 |**2025-01-01**|**Alzheimer's disease detection based on large language model prompt engineering**|Tian Zheng et.al.|[2501.00861](http://arxiv.org/abs/2501.00861)|null|
 |**2025-01-01**|**Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility**|Yulong Li et.al.|[2501.00765](http://arxiv.org/abs/2501.00765)|null|
@@ -899,6 +903,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) for Passive Sonar Classification**|Jarin Ritu et.al.|[2501.01921](http://arxiv.org/abs/2501.01921)|null|
+|**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
+|**2025-01-02**|**DiagrammaticLearning: A Graphical Language for Compositional Training Regimes**|Mason Lary et.al.|[2501.01515](http://arxiv.org/abs/2501.01515)|null|
+|**2024-12-31**|**Pan-infection Foundation Framework Enables Multiple Pathogen Prediction**|Lingrui Zhang et.al.|[2501.01462](http://arxiv.org/abs/2501.01462)|null|
 |**2025-01-01**|**A Survey of Secure Semantic Communications**|Rui Meng et.al.|[2501.00842](http://arxiv.org/abs/2501.00842)|null|
 |**2025-01-01**|**LENS-XAI: Redefining Lightweight and Explainable Network Security through Knowledge Distillation and Variational Autoencoders for Scalable Intrusion Detection in Cybersecurity**|Muhammet Anil Yagiz et.al.|[2501.00790](http://arxiv.org/abs/2501.00790)|null|
 |**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152](http://arxiv.org/abs/2501.00152)|null|
