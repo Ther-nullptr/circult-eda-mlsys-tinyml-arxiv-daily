@@ -383,7 +383,7 @@
 |**2024-09-17**|**AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances**|Dhruv Agarwal et.al.|[2409.11360](http://arxiv.org/abs/2409.11360)|null|
 |**2024-09-17**|**Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers**|Riya Samanta et.al.|[2409.10942](http://arxiv.org/abs/2409.10942)|null|
 |**2024-09-13**|**Pushing the boundaries of event subsampling in event-based video classification using CNNs**|Hesam Araghi et.al.|[2409.08953](http://arxiv.org/abs/2409.08953)|**[link](https://github.com/hesamaraghi/pushing-boundaries-event-subsampling)**|
-|**2024-09-12**|**E-QUARTIC: Energy Efficient Edge Ensemble of Convolutional Neural Networks for Resource-Optimized Learning**|Le Zhang et.al.|[2409.08369](http://arxiv.org/abs/2409.08369)|null|
+|**2024-09-12**|**E-QUARTIC: Energy Efficient Edge Ensemble of Convolutional Neural Networks for Resource-Optimized Learning**|Le Zhang et.al.|[2409.08369](http://arxiv.org/abs/2409.08369)|**[link](https://github.com/lezhangleonard/E-QUARTIC)**|
 |**2024-09-12**|**DiReDi: Distillation and Reverse Distillation for AIoT Applications**|Chen Sun et.al.|[2409.08308](http://arxiv.org/abs/2409.08308)|null|
 |**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114](http://arxiv.org/abs/2409.07114)|null|
 |**2024-09-08**|**Transformer with Leveraged Masked Autoencoder for video-based Pain Assessment**|Minh-Duc Nguyen et.al.|[2409.05088](http://arxiv.org/abs/2409.05088)|null|
@@ -478,7 +478,7 @@
 |**2024-12-28**|**Adaptive Parameter-Efficient Federated Fine-Tuning on Heterogeneous Devices**|Jun Liu et.al.|[2412.20004](http://arxiv.org/abs/2412.20004)|null|
 |**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|**[link](https://github.com/jhhuangkay/gradient-weight-normalized-low-rank-projection-for-efficient-llm-training)**|
 |**2024-12-27**|**Performance Evaluation of IoT LoRa Networks on Mars Through ns-3 Simulations**|Manuele Favero et.al.|[2412.19549](http://arxiv.org/abs/2412.19549)|**[link](https://github.com/manuelefavero/MarsPropagationLoss)**|
-|**2024-12-27**|**KALAHash: Knowledge-Anchored Low-Resource Adaptation for Deep Hashing**|Shu Zhao et.al.|[2412.19417](http://arxiv.org/abs/2412.19417)|null|
+|**2024-12-27**|**KALAHash: Knowledge-Anchored Low-Resource Adaptation for Deep Hashing**|Shu Zhao et.al.|[2412.19417](http://arxiv.org/abs/2412.19417)|**[link](https://github.com/Tree-Shu-Zhao/KALAHash.pytorch)**|
 |**2024-12-25**|**Optimizing Large Language Models with an Enhanced LoRA Fine-Tuning Algorithm for Efficiency and Robustness in NLP Tasks**|Jiacheng Hu et.al.|[2412.18729](http://arxiv.org/abs/2412.18729)|null|
 |**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419](http://arxiv.org/abs/2412.18419)|null|
 |**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|**[link](https://github.com/alonso130r/knowledge-distillation)**|
@@ -550,7 +550,7 @@
 |**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
 |**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
 |**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|**[link](https://github.com/csslc/pisa-sr)**|
-|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
+|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|**[link](https://github.com/realtime-intelligence/evrt-detr)**|
 |**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588](http://arxiv.org/abs/2412.02588)|null|
 |**2024-12-03**|**LoRA Diffusion: Zero-Shot LoRA Synthesis for Diffusion Model Personalization**|Ethan Smith et.al.|[2412.02352](http://arxiv.org/abs/2412.02352)|null|
 |**2024-12-03**|**SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models**|Sabina Martyniak et.al.|[2412.02332](http://arxiv.org/abs/2412.02332)|**[link](https://github.com/sanoscience/simuscope)**|
