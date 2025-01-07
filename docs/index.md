@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning**|Saleh Ashkboos et.al.|[2501.02625](http://arxiv.org/abs/2501.02625)|null|
 |**2024-12-30**|**PQD: Post-training Quantization for Efficient Diffusion Models**|Jiaojiao Ye et.al.|[2501.00124](http://arxiv.org/abs/2501.00124)|null|
 |**2024-12-30**|**Improving Acoustic Scene Classification in Low-Resource Conditions**|Zhi Chen et.al.|[2412.20722](http://arxiv.org/abs/2412.20722)|null|
 |**2024-12-29**|**PTQ4VM: Post-Training Quantization for Visual Mamba**|Younghyun Cho et.al.|[2412.20386](http://arxiv.org/abs/2412.20386)|**[link](https://github.com/younghyun197/ptq4vm)**|
@@ -108,6 +109,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**Efficient Deployment of Large Language Models on Resource-constrained Devices**|Zhiwei Yao et.al.|[2501.02438](http://arxiv.org/abs/2501.02438)|null|
+|**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
+|**2025-01-03**|**Instruction-Following Pruning for Large Language Models**|Bairu Hou et.al.|[2501.02086](http://arxiv.org/abs/2501.02086)|null|
 |**2024-12-24**|**SlimGPT: Layer-wise Structured Pruning for Large Language Models**|Gui Ling et.al.|[2412.18110](http://arxiv.org/abs/2412.18110)|null|
 |**2024-12-23**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference**|Chao Zeng et.al.|[2412.17560](http://arxiv.org/abs/2412.17560)|null|
 |**2024-12-28**|**Lillama: Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|null|
@@ -174,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
 |**2025-01-03**|**DSLR-CNN: Efficient CNN Acceleration using Digit-Serial Left-to-Right Arithmetic**|Malik Zohaib Nisar et.al.|[2501.01737](http://arxiv.org/abs/2501.01737)|null|
 |**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
 |**2024-12-30**|**DeepLL: Considering Linear Logic for the Analysis of Deep Learning Experiments**|Nick Papoulias et.al.|[2501.00169](http://arxiv.org/abs/2501.00169)|null|
@@ -306,11 +311,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**|You Zhou et.al.|[2501.02001](http://arxiv.org/abs/2501.02001)|null|
 |**2024-12-25**|**Tempus Core: Area-Power Efficient Temporal-Unary Convolution Core for Low-Precision Edge DLAs**|Prabhu Vellaisamy et.al.|[2412.19002](http://arxiv.org/abs/2412.19002)|null|
 |**2024-12-23**|**Edge-AI for Agriculture: Lightweight Vision Models for Disease Detection in Resource-Limited Settings**|Harsh Joshi et.al.|[2412.18635](http://arxiv.org/abs/2412.18635)|null|
 |**2024-12-23**|**tuGEMM: Area-Power-Efficient Temporal Unary GEMM Architecture for Low-Precision Edge AI**|Harideep Nair et.al.|[2412.17966](http://arxiv.org/abs/2412.17966)|null|
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-19**|**ElectraSight: Smart Glasses with Fully Onboard Non-Invasive Eye Tracking Using Hybrid Contact and Contactless EOG**|Nicolas Schärer et.al.|[2412.14848](http://arxiv.org/abs/2412.14848)|null|
+|**2025-01-05**|**Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities**|Qimei Cui et.al.|[2412.14538](http://arxiv.org/abs/2412.14538)|null|
 |**2024-12-17**|**Design of an AI-Enhanced Digital Stethoscope: Advancing Cardiovascular Diagnostics Through Smart Auscultation**|Abraham G. Taye et.al.|[2412.14206](http://arxiv.org/abs/2412.14206)|null|
 |**2024-12-16**|**Flex-PE: Flexible and SIMD Multi-Precision Processing Element for AI Workloads**|Mukul Lokhande et.al.|[2412.11702](http://arxiv.org/abs/2412.11702)|**[link](https://github.com/mukullokhande99/cordic-code)**|
 |**2024-12-13**|**Edge AI-based Radio Frequency Fingerprinting for IoT Networks**|Ahmed Mohamed Hussain et.al.|[2412.10553](http://arxiv.org/abs/2412.10553)|null|
@@ -445,6 +452,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
+|**2025-01-06**|**The Scaling Law for LoRA Base on Mutual Information Upper Bound**|Jing Zhang et.al.|[2501.03152](http://arxiv.org/abs/2501.03152)|null|
+|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|null|
+|**2025-01-06**|**FoundPAD: Foundation Models Reloaded for Face Presentation Attack Detection**|Guray Ozgur et.al.|[2501.02892](http://arxiv.org/abs/2501.02892)|null|
+|**2025-01-05**|**LoRaConnect: Unlocking HTTP Potential on LoRa Backbones for Remote Areas and Ad-Hoc Networks**|Atonu Ghosh et.al.|[2501.02469](http://arxiv.org/abs/2501.02469)|null|
+|**2025-01-05**|**Efficient Deployment of Large Language Models on Resource-constrained Devices**|Zhiwei Yao et.al.|[2501.02438](http://arxiv.org/abs/2501.02438)|null|
+|**2025-01-04**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393](http://arxiv.org/abs/2501.02393)|**[link](https://github.com/lamm-mit/graph-aware-transformers)**|
+|**2025-01-04**|**tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation for Medical Image Segmentation**|Guanghua He et.al.|[2501.02227](http://arxiv.org/abs/2501.02227)|null|
 |**2025-01-03**|**SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation**|Mingjie Li et.al.|[2501.01765](http://arxiv.org/abs/2501.01765)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-03**|**Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption**|Zhang Ruoyan et.al.|[2501.01672](http://arxiv.org/abs/2501.01672)|null|
@@ -903,6 +918,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-06**|**Comprehensive Pathological Image Segmentation via Teacher Aggregation for Tumor Microenvironment Analysis**|Daisuke Komura et.al.|[2501.02909](http://arxiv.org/abs/2501.02909)|null|
+|**2025-01-06**|**Knowledge Distillation with Adapted Weight**|Sirong Wu et.al.|[2501.02705](http://arxiv.org/abs/2501.02705)|null|
+|**2025-01-04**|**Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison**|Tsz Kin Lam et.al.|[2501.02370](http://arxiv.org/abs/2501.02370)|null|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
+|**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
+|**2025-01-04**|**KD-MSLRT: Lightweight Sign Language Recognition Model Based on Mediapipe and 3D to 1D Knowledge Distillation**|ulong Li et.al.|[2501.02321](http://arxiv.org/abs/2501.02321)|null|
+|**2025-01-04**|**Distillation-Enhanced Physical Adversarial Attacks**|Wei Liu et.al.|[2501.02232](http://arxiv.org/abs/2501.02232)|null|
 |**2025-01-03**|**Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) for Passive Sonar Classification**|Jarin Ritu et.al.|[2501.01921](http://arxiv.org/abs/2501.01921)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-02**|**DiagrammaticLearning: A Graphical Language for Compositional Training Regimes**|Mason Lary et.al.|[2501.01515](http://arxiv.org/abs/2501.01515)|null|
