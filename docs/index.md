@@ -178,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
 |**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
 |**2025-01-03**|**DSLR-CNN: Efficient CNN Acceleration using Digit-Serial Left-to-Right Arithmetic**|Malik Zohaib Nisar et.al.|[2501.01737](http://arxiv.org/abs/2501.01737)|null|
 |**2025-01-02**|**Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques**|Pelayo Leguina López et.al.|[2501.01338](http://arxiv.org/abs/2501.01338)|null|
@@ -311,6 +312,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
+|**2025-01-01**|**AI-ANNE: (A) (N)eural (N)et for (E)xploration: Transferring Deep Learning Models onto Microcontrollers and Embedded Systems**|Dennis Klinkhammer et.al.|[2501.03256](http://arxiv.org/abs/2501.03256)|null|
 |**2025-01-01**|**Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**|You Zhou et.al.|[2501.02001](http://arxiv.org/abs/2501.02001)|null|
 |**2024-12-25**|**Tempus Core: Area-Power Efficient Temporal-Unary Convolution Core for Low-Precision Edge DLAs**|Prabhu Vellaisamy et.al.|[2412.19002](http://arxiv.org/abs/2412.19002)|null|
 |**2024-12-23**|**Edge-AI for Agriculture: Lightweight Vision Models for Disease Detection in Resource-Limited Settings**|Harsh Joshi et.al.|[2412.18635](http://arxiv.org/abs/2412.18635)|null|
@@ -452,6 +455,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Spectral-Aware Low-Rank Adaptation for Speaker Verification**|Zhe Li et.al.|[2501.03829](http://arxiv.org/abs/2501.03829)|null|
+|**2025-01-07**|**MADation: Face Morphing Attack Detection with Foundation Models**|Eduarda Caldeira et.al.|[2501.03800](http://arxiv.org/abs/2501.03800)|null|
+|**2025-01-07**|**Extending Internet Access Over LoRa for Internet of Things and Critical Applications**|Atonu Ghosh et.al.|[2501.03465](http://arxiv.org/abs/2501.03465)|null|
 |**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
 |**2025-01-06**|**The Scaling Law for LoRA Base on Mutual Information Upper Bound**|Jing Zhang et.al.|[2501.03152](http://arxiv.org/abs/2501.03152)|null|
 |**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|null|
@@ -918,6 +924,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**A Diversity-Enhanced Knowledge Distillation Model for Practical Math Word Problem Solving**|Yi Zhang et.al.|[2501.03670](http://arxiv.org/abs/2501.03670)|**[link](https://github.com/a773938364/divkd)**|
+|**2025-01-07**|**Effective and Efficient Mixed Precision Quantization of Speech Foundation Models**|Haoning Xu et.al.|[2501.03643](http://arxiv.org/abs/2501.03643)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
+|**2025-01-05**|**Strategic Fusion Optimizes Transformer Compression**|Md Shoaibur Rahman et.al.|[2501.03273](http://arxiv.org/abs/2501.03273)|null|
 |**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
 |**2025-01-06**|**Comprehensive Pathological Image Segmentation via Teacher Aggregation for Tumor Microenvironment Analysis**|Daisuke Komura et.al.|[2501.02909](http://arxiv.org/abs/2501.02909)|null|
 |**2025-01-06**|**Knowledge Distillation with Adapted Weight**|Sirong Wu et.al.|[2501.02705](http://arxiv.org/abs/2501.02705)|null|
