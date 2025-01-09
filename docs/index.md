@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**The Power of Negative Zero: Datatype Customization for Quantized Large Language Models**|Yuzong Chen et.al.|[2501.04052](http://arxiv.org/abs/2501.04052)|null|
 |**2025-01-05**|**HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning**|Saleh Ashkboos et.al.|[2501.02625](http://arxiv.org/abs/2501.02625)|null|
 |**2024-12-30**|**PQD: Post-training Quantization for Efficient Diffusion Models**|Jiaojiao Ye et.al.|[2501.00124](http://arxiv.org/abs/2501.00124)|null|
 |**2024-12-30**|**Improving Acoustic Scene Classification in Low-Resource Conditions**|Zhi Chen et.al.|[2412.20722](http://arxiv.org/abs/2412.20722)|null|
@@ -178,6 +179,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Probabilistic Greedy Algorithm Solver Using Magnetic Tunneling Junctions for Traveling Salesman Problem**|Ran Zhang et.al.|[2501.04447](http://arxiv.org/abs/2501.04447)|null|
 |**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
 |**2025-01-04**|**Optimizing Small Language Models for In-Vehicle Function-Calling**|Yahya Sowti Khiabani et.al.|[2501.02342](http://arxiv.org/abs/2501.02342)|null|
 |**2025-01-03**|**DSLR-CNN: Efficient CNN Acceleration using Digit-Serial Left-to-Right Arithmetic**|Malik Zohaib Nisar et.al.|[2501.01737](http://arxiv.org/abs/2501.01737)|null|
@@ -312,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**ChronoLLM: A Framework for Customizing Large Language Model for Digital Twins generalization based on PyChrono**|Jingquan Wang et.al.|[2501.04062](http://arxiv.org/abs/2501.04062)|null|
 |**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
 |**2025-01-01**|**AI-ANNE: (A) (N)eural (N)et for (E)xploration: Transferring Deep Learning Models onto Microcontrollers and Embedded Systems**|Dennis Klinkhammer et.al.|[2501.03256](http://arxiv.org/abs/2501.03256)|null|
 |**2025-01-01**|**Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**|You Zhou et.al.|[2501.02001](http://arxiv.org/abs/2501.02001)|null|
@@ -455,6 +458,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**RoRA: Efficient Fine-Tuning of LLM with Reliability Optimization for Rank Adaptation**|Jun Liu et.al.|[2501.04315](http://arxiv.org/abs/2501.04315)|null|
 |**2025-01-07**|**Spectral-Aware Low-Rank Adaptation for Speaker Verification**|Zhe Li et.al.|[2501.03829](http://arxiv.org/abs/2501.03829)|null|
 |**2025-01-08**|**MADation: Face Morphing Attack Detection with Foundation Models**|Eduarda Caldeira et.al.|[2501.03800](http://arxiv.org/abs/2501.03800)|null|
 |**2025-01-07**|**Extending Internet Access Over LoRa for Internet of Things and Critical Applications**|Atonu Ghosh et.al.|[2501.03465](http://arxiv.org/abs/2501.03465)|null|
@@ -924,6 +928,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He et.al.|[2501.04582](http://arxiv.org/abs/2501.04582)|null|
+|**2025-01-08**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**|Na Yan et.al.|[2501.04436](http://arxiv.org/abs/2501.04436)|null|
+|**2025-01-08**|**Enhancing Scene Classification in Cloudy Image Scenarios: A Collaborative Transfer Method with Information Regulation Mechanism using Optical Cloud-Covered and SAR Remote Sensing Images**|Yuze Wang et.al.|[2501.04283](http://arxiv.org/abs/2501.04283)|null|
+|**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
+|**2025-01-08**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211](http://arxiv.org/abs/2501.04211)|null|
+|**2025-01-08**|**Generative Dataset Distillation Based on Self-knowledge Distillation**|Longzhen Li et.al.|[2501.04202](http://arxiv.org/abs/2501.04202)|null|
+|**2025-01-07**|**FedKD-hybrid: Federated Hybrid Knowledge Distillation for Lithography Hotspot Detection**|Yuqi Li et.al.|[2501.04066](http://arxiv.org/abs/2501.04066)|**[link](https://github.com/itsnotacie/nn-fedkd-hybrid)**|
 |**2025-01-07**|**A Diversity-Enhanced Knowledge Distillation Model for Practical Math Word Problem Solving**|Yi Zhang et.al.|[2501.03670](http://arxiv.org/abs/2501.03670)|**[link](https://github.com/a773938364/divkd)**|
 |**2025-01-07**|**Effective and Efficient Mixed Precision Quantization of Speech Foundation Models**|Haoning Xu et.al.|[2501.03643](http://arxiv.org/abs/2501.03643)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
