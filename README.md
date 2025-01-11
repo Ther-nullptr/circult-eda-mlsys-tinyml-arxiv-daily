@@ -492,7 +492,7 @@
 |**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
 |**2025-01-06**|**The Scaling Law for LoRA Base on Mutual Information Upper Bound**|Jing Zhang et.al.|[2501.03152](http://arxiv.org/abs/2501.03152)|null|
 |**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|**[link](https://github.com/wileewang/TransPixar)**|
-|**2025-01-06**|**FoundPAD: Foundation Models Reloaded for Face Presentation Attack Detection**|Guray Ozgur et.al.|[2501.02892](http://arxiv.org/abs/2501.02892)|**[link](https://github.com/gurayozgur/foundpad)**|
+|**2025-01-06**|**FoundPAD: Foundation Models Reloaded for Face Presentation Attack Detection**|Guray Ozgur et.al.|[2501.02892](http://arxiv.org/abs/2501.02892)|null|
 |**2025-01-05**|**LoRaConnect: Unlocking HTTP Potential on LoRa Backbones for Remote Areas and Ad-Hoc Networks**|Atonu Ghosh et.al.|[2501.02469](http://arxiv.org/abs/2501.02469)|null|
 |**2025-01-05**|**Efficient Deployment of Large Language Models on Resource-constrained Devices**|Zhiwei Yao et.al.|[2501.02438](http://arxiv.org/abs/2501.02438)|null|
 |**2025-01-07**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393](http://arxiv.org/abs/2501.02393)|**[link](https://github.com/lamm-mit/graph-aware-transformers)**|
