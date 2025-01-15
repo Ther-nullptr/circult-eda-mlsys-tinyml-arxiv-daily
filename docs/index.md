@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -482,7 +482,7 @@ layout: default
 |**2025-01-12**|**Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning**|Hanwen Zhong et.al.|[2501.06884](http://arxiv.org/abs/2501.06884)|**[link](https://github.com/yewen1486/emtal)**|
 |**2025-01-12**|**Better Prompt Compression Without Multi-Layer Perceptrons**|Edouardo Honig et.al.|[2501.06730](http://arxiv.org/abs/2501.06730)|null|
 |**2025-01-10**|**Aggregating Low Rank Adapters in Federated Fine-tuning**|Evelyn Trautmann et.al.|[2501.06332](http://arxiv.org/abs/2501.06332)|null|
-|**2025-01-09**|**$\text{Transformer}^2$ : Self-adaptive LLMs**|Qi Sun et.al.|[2501.06252](http://arxiv.org/abs/2501.06252)|null|
+|**2025-01-14**|**$\text{Transformer}^2$ : Self-adaptive LLMs**|Qi Sun et.al.|[2501.06252](http://arxiv.org/abs/2501.06252)|null|
 |**2025-01-10**|**How to Tune a Multilingual Encoder Model for Germanic Languages: A Study of PEFT, Full Fine-Tuning, and Language Adapters**|Romina Oji et.al.|[2501.06025](http://arxiv.org/abs/2501.06025)|**[link](https://github.com/rominaoji/german-language-adapter)**|
 |**2025-01-09**|**LLMQuoter: Enhancing RAG Capabilities Through Efficient Quote Extraction From Large Contexts**|Yuri Facanha Bezerra et.al.|[2501.05554](http://arxiv.org/abs/2501.05554)|**[link](https://github.com/yurifacanha/llmquoter)**|
 |**2025-01-09**|**JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**|Jun-Hyeok Cha et.al.|[2501.04904](http://arxiv.org/abs/2501.04904)|null|
