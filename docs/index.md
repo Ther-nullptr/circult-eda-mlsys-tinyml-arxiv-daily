@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Rethinking Post-Training Quantization: Introducing a Statistical Pre-Calibration Approach**|Alireza Ghaffari et.al.|[2501.09107](http://arxiv.org/abs/2501.09107)|null|
 |**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
 |**2025-01-10**|**Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity**|Navin Ranjan et.al.|[2501.06357](http://arxiv.org/abs/2501.06357)|null|
 |**2025-01-09**|**Neural Architecture Codesign for Fast Physics Applications**|Jason Weitz et.al.|[2501.05515](http://arxiv.org/abs/2501.05515)|**[link](https://github.com/fastmachinelearning/nac-opt)**|
@@ -115,6 +116,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
+|**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
 |**2025-01-15**|**SuperSAM: Crafting a SAM Supernetwork via Structured Pruning and Unstructured Parameter Prioritization**|Waqwoya Abebe et.al.|[2501.08504](http://arxiv.org/abs/2501.08504)|**[link](https://github.com/pnnl/supersam)**|
 |**2025-01-14**|**PolyLUT: Ultra-low Latency Polynomial Inference with Hardware-Aware Structured Pruning**|Marta Andronic et.al.|[2501.08043](http://arxiv.org/abs/2501.08043)|null|
 |**2025-01-09**|**Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient Pruning**|Laura Puccioni et.al.|[2501.05248](http://arxiv.org/abs/2501.05248)|null|
@@ -484,6 +487,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
+|**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284](http://arxiv.org/abs/2501.09284)|null|
 |**2025-01-15**|**Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models**|Zerui Tao et.al.|[2501.08727](http://arxiv.org/abs/2501.08727)|null|
 |**2025-01-15**|**LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**|Yuxuan Hu et.al.|[2501.08582](http://arxiv.org/abs/2501.08582)|null|
 |**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333](http://arxiv.org/abs/2501.08333)|null|
@@ -969,6 +974,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
+|**2025-01-16**|**Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation**|Hanrong Zhang et.al.|[2501.09525](http://arxiv.org/abs/2501.09525)|**[link](https://github.com/zhang-henry/sclifd_tii)**|
+|**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
+|**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
+|**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Feature-based One-For-All: A Universal Framework for Heterogeneous Knowledge Distillation**|Jhe-Hao Lin et.al.|[2501.08885](http://arxiv.org/abs/2501.08885)|null|
