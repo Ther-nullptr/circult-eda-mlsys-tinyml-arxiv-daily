@@ -204,6 +204,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors**|Vasileios Titopoulos et.al.|[2501.10189](http://arxiv.org/abs/2501.10189)|null|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
 |**2025-01-15**|**RouteNet-Gauss: Hardware-Enhanced Network Modeling with Machine Learning**|Carlos Güemes-Palau et.al.|[2501.08848](http://arxiv.org/abs/2501.08848)|null|
 |**2025-01-15**|**Detecting Wildfire Flame and Smoke through Edge Computing using Transfer Learning Enhanced Deep Learning Models**|Giovanny Vazquez et.al.|[2501.08639](http://arxiv.org/abs/2501.08639)|null|
 |**2025-01-14**|**An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer**|Zhengke Li et.al.|[2501.07825](http://arxiv.org/abs/2501.07825)|null|
@@ -351,6 +353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
 |**2025-01-13**|**QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications**|Jeongseok Kim et.al.|[2501.07161](http://arxiv.org/abs/2501.07161)|null|
 |**2025-01-12**|**Integrated Sensing and Edge AI: Realizing Intelligent Perception in 6G**|Zhiyan Liu et.al.|[2501.06726](http://arxiv.org/abs/2501.06726)|null|
 |**2025-01-09**|**Towards smart and adaptive agents for active sensing on edge devices**|Devendra Vyas et.al.|[2501.06262](http://arxiv.org/abs/2501.06262)|null|
@@ -465,6 +468,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
 |**2025-01-13**|**Leveraging ASIC AI Chips for Homomorphic Encryption**|Jianming Tong et.al.|[2501.07047](http://arxiv.org/abs/2501.07047)|**[link](https://github.com/google/jaxite)**|
 |**2025-01-12**|**COMPASS: A Compiler Framework for Resource-Constrained Crossbar-Array Based In-Memory Deep Learning Accelerators**|Jihoon Park et.al.|[2501.06780](http://arxiv.org/abs/2501.06780)|null|
 |**2024-12-21**|**Leveraging Highly Approximated Multipliers in DNN Inference**|Georgios Zervakis et.al.|[2412.16757](http://arxiv.org/abs/2412.16757)|null|
@@ -506,6 +510,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**OMoE: Diversifying Mixture of Low-Rank Adaptation by Orthogonal Finetuning**|Jinyuan Feng et.al.|[2501.10062](http://arxiv.org/abs/2501.10062)|null|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-17**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284](http://arxiv.org/abs/2501.09284)|null|
 |**2025-01-15**|**Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models**|Zerui Tao et.al.|[2501.08727](http://arxiv.org/abs/2501.08727)|null|
@@ -995,6 +1000,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949](http://arxiv.org/abs/2501.09949)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
+|**2025-01-16**|**Enhancing Generalization in Chain of Thought Reasoning for Smaller Models**|Maxwell J. Yin et.al.|[2501.09804](http://arxiv.org/abs/2501.09804)|null|
 |**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
 |**2025-01-16**|**Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation**|Hanrong Zhang et.al.|[2501.09525](http://arxiv.org/abs/2501.09525)|**[link](https://github.com/zhang-henry/sclifd_tii)**|
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
