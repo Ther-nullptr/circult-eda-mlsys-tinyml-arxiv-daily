@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**UAV-Assisted Real-Time Disaster Detection Using Optimized Transformer Model**|Branislava Jankovic et.al.|[2501.12087](http://arxiv.org/abs/2501.12087)|null|
 |**2025-01-15**|**Rethinking Post-Training Quantization: Introducing a Statistical Pre-Calibration Approach**|Alireza Ghaffari et.al.|[2501.09107](http://arxiv.org/abs/2501.09107)|null|
 |**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
 |**2025-01-10**|**Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity**|Navin Ranjan et.al.|[2501.06357](http://arxiv.org/abs/2501.06357)|null|
@@ -204,6 +205,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**Hybrid Photonic-digital Accelerator for Attention Mechanism**|Huize Li et.al.|[2501.11286](http://arxiv.org/abs/2501.11286)|null|
+|**2025-01-20**|**Ditto: Accelerating Diffusion Model via Temporal Value Similarity**|Sungbin Kim et.al.|[2501.11211](http://arxiv.org/abs/2501.11211)|null|
+|**2025-01-18**|**LUT-DLA: Lookup Table as Efficient Extreme Low-Bit Deep Learning Accelerator**|Guoyu Li et.al.|[2501.10658](http://arxiv.org/abs/2501.10658)|null|
 |**2025-01-17**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors**|Vasileios Titopoulos et.al.|[2501.10189](http://arxiv.org/abs/2501.10189)|null|
 |**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
 |**2025-01-15**|**RouteNet-Gauss: Hardware-Enhanced Network Modeling with Machine Learning**|Carlos Güemes-Palau et.al.|[2501.08848](http://arxiv.org/abs/2501.08848)|null|
@@ -357,7 +361,7 @@
 |**2025-01-13**|**QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications**|Jeongseok Kim et.al.|[2501.07161](http://arxiv.org/abs/2501.07161)|null|
 |**2025-01-12**|**Integrated Sensing and Edge AI: Realizing Intelligent Perception in 6G**|Zhiyan Liu et.al.|[2501.06726](http://arxiv.org/abs/2501.06726)|null|
 |**2025-01-09**|**Towards smart and adaptive agents for active sensing on edge devices**|Devendra Vyas et.al.|[2501.06262](http://arxiv.org/abs/2501.06262)|null|
-|**2025-01-10**|**Distilling Calibration via Conformalized Credal Inference**|Jiayi Huang et.al.|[2501.06066](http://arxiv.org/abs/2501.06066)|null|
+|**2025-01-21**|**Distilling Calibration via Conformalized Credal Inference**|Jiayi Huang et.al.|[2501.06066](http://arxiv.org/abs/2501.06066)|null|
 |**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-07**|**ChronoLLM: A Framework for Customizing Large Language Model for Digital Twins generalization based on PyChrono**|Jingquan Wang et.al.|[2501.04062](http://arxiv.org/abs/2501.04062)|null|
 |**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
@@ -510,6 +514,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**EDoRA: Efficient Weight-Decomposed Low-Rank Adaptation via Singular Value Decomposition**|Hamid Nasiri et.al.|[2501.12067](http://arxiv.org/abs/2501.12067)|**[link](https://github.com/hamid-nasiri/edora)**|
+|**2025-01-21**|**ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation**|Peter Devine et.al.|[2501.11929](http://arxiv.org/abs/2501.11929)|**[link](https://github.com/lightblue-tech/aloftrag)**|
+|**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587](http://arxiv.org/abs/2501.11587)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
 |**2025-01-17**|**OMoE: Diversifying Mixture of Low-Rank Adaptation by Orthogonal Finetuning**|Jinyuan Feng et.al.|[2501.10062](http://arxiv.org/abs/2501.10062)|null|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705](http://arxiv.org/abs/2501.09705)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-17**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284](http://arxiv.org/abs/2501.09284)|null|
@@ -1000,6 +1007,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**AI Based Font Pair Suggestion Modelling For Graphic Design**|Aryan Singh et.al.|[2501.10969](http://arxiv.org/abs/2501.10969)|null|
+|**2025-01-18**|**Learning to reconstruct signals with inexact sensing operator via knowledge distillation**|Roman Jacome et.al.|[2501.10794](http://arxiv.org/abs/2501.10794)|null|
+|**2025-01-18**|**DNA 1.0 Technical Report**|Jungyup Lee et.al.|[2501.10648](http://arxiv.org/abs/2501.10648)|null|
 |**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949](http://arxiv.org/abs/2501.09949)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-16**|**Enhancing Generalization in Chain of Thought Reasoning for Smaller Models**|Maxwell J. Yin et.al.|[2501.09804](http://arxiv.org/abs/2501.09804)|null|
 |**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
