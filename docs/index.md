@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -982,7 +982,7 @@ layout: default
 |**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949](http://arxiv.org/abs/2501.09949)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-16**|**Enhancing Generalization in Chain of Thought Reasoning for Smaller Models**|Maxwell J. Yin et.al.|[2501.09804](http://arxiv.org/abs/2501.09804)|null|
 |**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588](http://arxiv.org/abs/2501.09588)|null|
-|**2025-01-16**|**Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation**|Hanrong Zhang et.al.|[2501.09525](http://arxiv.org/abs/2501.09525)|**[link](https://github.com/zhang-henry/sclifd_tii)**|
+|**2025-01-19**|**Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation**|Hanrong Zhang et.al.|[2501.09525](http://arxiv.org/abs/2501.09525)|**[link](https://github.com/zhang-henry/sclifd_tii)**|
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
 |**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
 |**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
