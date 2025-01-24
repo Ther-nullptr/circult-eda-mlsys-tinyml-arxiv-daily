@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**QMamba: Post-Training Quantization for Vision State Space Models**|Yinglong Li et.al.|[2501.13624](http://arxiv.org/abs/2501.13624)|null|
+|**2025-01-23**|**MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods**|Zukang Xu et.al.|[2501.13484](http://arxiv.org/abs/2501.13484)|**[link](https://github.com/mambaquant/mambaquant)**|
 |**2025-01-21**|**UAV-Assisted Real-Time Disaster Detection Using Optimized Transformer Model**|Branislava Jankovic et.al.|[2501.12087](http://arxiv.org/abs/2501.12087)|null|
 |**2025-01-15**|**Rethinking Post-Training Quantization: Introducing a Statistical Pre-Calibration Approach**|Alireza Ghaffari et.al.|[2501.09107](http://arxiv.org/abs/2501.09107)|null|
 |**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
@@ -117,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**One-cycle Structured Pruning with Stability Driven Structure Search**|Deepak Ghimire et.al.|[2501.13439](http://arxiv.org/abs/2501.13439)|null|
 |**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
 |**2025-01-15**|**SuperSAM: Crafting a SAM Supernetwork via Structured Pruning and Unstructured Parameter Prioritization**|Waqwoya Abebe et.al.|[2501.08504](http://arxiv.org/abs/2501.08504)|**[link](https://github.com/pnnl/supersam)**|
@@ -500,6 +503,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
+|**2025-01-23**|**Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Rong Shan et.al.|[2501.13344](http://arxiv.org/abs/2501.13344)|null|
+|**2025-01-23**|**SplitLLM: Hierarchical Split Learning for Large Language Model over Wireless Network**|Songge Zhang et.al.|[2501.13318](http://arxiv.org/abs/2501.13318)|null|
+|**2025-01-22**|**S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning**|Yichen Wu et.al.|[2501.13198](http://arxiv.org/abs/2501.13198)|null|
 |**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/abs/2501.12983)|null|
 |**2025-01-22**|**D-LoRa: a Distributed Parameter Adaptation Scheme for LoRa Network**|Ruiqi Wang et.al.|[2501.12589](http://arxiv.org/abs/2501.12589)|null|
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
@@ -994,6 +1001,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Unlearning Clients, Features and Samples in Vertical Federated Learning**|Ayush K. Varshney et.al.|[2501.13683](http://arxiv.org/abs/2501.13683)|null|
+|**2025-01-23**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
 |**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
 |**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
 |**2025-01-22**|**EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation**|Yifan Yu et.al.|[2501.12689](http://arxiv.org/abs/2501.12689)|null|
