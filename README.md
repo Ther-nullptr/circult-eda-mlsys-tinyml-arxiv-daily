@@ -133,6 +133,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
+|**2025-01-25**|**PIP: Perturbation-based Iterative Pruning for Large Language Models**|Yi Cao et.al.|[2501.15278](http://arxiv.org/abs/2501.15278)|null|
+|**2025-01-25**|**Lightweight and Post-Training Structured Pruning for On-Device Large Lanaguage Models**|Zihuai Xu et.al.|[2501.15255](http://arxiv.org/abs/2501.15255)|null|
 |**2025-01-23**|**One-cycle Structured Pruning with Stability Driven Structure Search**|Deepak Ghimire et.al.|[2501.13439](http://arxiv.org/abs/2501.13439)|null|
 |**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
@@ -367,6 +370,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-25**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
 |**2025-01-21**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
 |**2025-01-20**|**Consolidating TinyML Lifecycle with Large Language Models: Reality, Illusion, or Opportunity?**|Guanghan Wu et.al.|[2501.12420](http://arxiv.org/abs/2501.12420)|null|
 |**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
@@ -527,6 +531,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**FDLLM: A Text Fingerprint Detection Method for LLMs in Multi-Language, Multi-Domain Black-Box Environments**|Zhiyuan Fu et.al.|[2501.16029](http://arxiv.org/abs/2501.16029)|null|
+|**2025-01-26**|**LoRAGuard: An Effective Black-box Watermarking Approach for LoRAs**|Peizhuo Lv et.al.|[2501.15478](http://arxiv.org/abs/2501.15478)|null|
+|**2025-01-26**|**InfoBFR: Real-World Blind Face Restoration via Information Bottleneck**|Nan Gao et.al.|[2501.15443](http://arxiv.org/abs/2501.15443)|null|
+|**2025-01-26**|**Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation**|Reza Akbarian Bafghi et.al.|[2501.15377](http://arxiv.org/abs/2501.15377)|null|
+|**2025-01-26**|**Decentralized Low-Rank Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2501.15361](http://arxiv.org/abs/2501.15361)|null|
+|**2025-01-25**|**Exploring Primitive Visual Measurement Understanding and the Role of Output Format in Learning in Vision-Language Models**|Ankit Yadav et.al.|[2501.15144](http://arxiv.org/abs/2501.15144)|null|
+|**2025-01-25**|**DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach**|Qin Chen et.al.|[2501.15142](http://arxiv.org/abs/2501.15142)|null|
+|**2025-01-25**|**ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation**|Qingtian Bian et.al.|[2501.15118](http://arxiv.org/abs/2501.15118)|**[link](https://github.com/dimarziobian/abxi)**|
+|**2025-01-25**|**Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning**|Ziyu Zhao et.al.|[2501.15103](http://arxiv.org/abs/2501.15103)|null|
 |**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713](http://arxiv.org/abs/2501.14713)|null|
 |**2025-01-21**|**ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification**|Bidhan Roy et.al.|[2501.13965](http://arxiv.org/abs/2501.13965)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
@@ -1029,6 +1043,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
+|**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075](http://arxiv.org/abs/2501.16075)|null|
+|**2025-01-26**|**MimicGait: A Model Agnostic approach for Occluded Gait Recognition using Correlational Knowledge Distillation**|Ayush Gupta et.al.|[2501.15666](http://arxiv.org/abs/2501.15666)|**[link](https://github.com/ayush-00/mimicgait)**|
+|**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
+|**2025-01-25**|**You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning**|Ayan Sengupta et.al.|[2501.15296](http://arxiv.org/abs/2501.15296)|null|
+|**2025-01-25**|**Pre-trained Model Guided Mixture Knowledge Distillation for Adversarial Federated Learning**|Yu Qiao et.al.|[2501.15257](http://arxiv.org/abs/2501.15257)|null|
+|**2025-01-25**|**Quark: Implementing Convolutional Neural Networks Entirely on Programmable Data Plane**|Mai Zhang et.al.|[2501.15100](http://arxiv.org/abs/2501.15100)|null|
+|**2025-01-25**|**Graph-Based Cross-Domain Knowledge Distillation for Cross-Dataset Text-to-Image Person Retrieval**|Bingjun Luo et.al.|[2501.15052](http://arxiv.org/abs/2501.15052)|null|
+|**2025-01-25**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
 |**2025-01-24**|**Remining Hard Negatives for Generative Pseudo Labeled Domain Adaptation**|Goksenin Yuksel et.al.|[2501.14434](http://arxiv.org/abs/2501.14434)|null|
 |**2025-01-24**|**Multimodal Prescriptive Deep Learning**|Dimitris Bertsimas et.al.|[2501.14152](http://arxiv.org/abs/2501.14152)|null|
 |**2025-01-23**|**Unlearning Clients, Features and Samples in Vertical Federated Learning**|Ayush K. Varshney et.al.|[2501.13683](http://arxiv.org/abs/2501.13683)|null|
