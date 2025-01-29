@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Post-Training Quantization for Vision Mamba with k-Scaled Quantization and Reparameterization**|Bo-Yun Shi et.al.|[2501.16738](http://arxiv.org/abs/2501.16738)|null|
 |**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
 |**2025-01-24**|**On Hardening DNNs against Noisy Computations**|Xiao Wang et.al.|[2501.14531](http://arxiv.org/abs/2501.14531)|null|
 |**2025-01-23**|**OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting**|Xing Hu et.al.|[2501.13987](http://arxiv.org/abs/2501.13987)|**[link](https://github.com/brotherhappy/ostquant)**|
@@ -133,6 +134,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**B-FPGM: Lightweight Face Detection via Bayesian-Optimized Soft FPGM Pruning**|Nikolaos Kaparinos et.al.|[2501.16917](http://arxiv.org/abs/2501.16917)|null|
 |**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
 |**2025-01-25**|**PIP: Perturbation-based Iterative Pruning for Large Language Models**|Yi Cao et.al.|[2501.15278](http://arxiv.org/abs/2501.15278)|null|
 |**2025-01-25**|**Lightweight and Post-Training Structured Pruning for On-Device Large Lanaguage Models**|Zihuai Xu et.al.|[2501.15255](http://arxiv.org/abs/2501.15255)|null|
@@ -214,6 +216,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration**|Yuhan Kang et.al.|[2501.16376](http://arxiv.org/abs/2501.16376)|null|
 |**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512](http://arxiv.org/abs/2501.14512)|null|
 |**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
 |**2025-01-22**|**Late Breaking Result: FPGA-Based Emulation and Fault Injection for CNN Inference Accelerators**|Filip Masar et.al.|[2501.12818](http://arxiv.org/abs/2501.12818)|null|
@@ -531,6 +534,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Algorithm for Automatic Legislative Text Consolidation**|Matias Etcheverry et.al.|[2501.16794](http://arxiv.org/abs/2501.16794)|null|
+|**2025-01-28**|**One Head Eight Arms: Block Matrix based Low Rank Adaptation for CLIP-based Few-Shot Learning**|Chunpeng Zhou et.al.|[2501.16720](http://arxiv.org/abs/2501.16720)|null|
+|**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714](http://arxiv.org/abs/2501.16714)|null|
+|**2025-01-27**|**LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation**|Farzad Farhadzadeh et.al.|[2501.16559](http://arxiv.org/abs/2501.16559)|null|
 |**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
 |**2025-01-27**|**FDLLM: A Text Fingerprint Detection Method for LLMs in Multi-Language, Multi-Domain Black-Box Environments**|Zhiyuan Fu et.al.|[2501.16029](http://arxiv.org/abs/2501.16029)|null|
 |**2025-01-26**|**LoRAGuard: An Effective Black-box Watermarking Approach for LoRAs**|Peizhuo Lv et.al.|[2501.15478](http://arxiv.org/abs/2501.15478)|null|
@@ -1043,6 +1050,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992](http://arxiv.org/abs/2501.16992)|null|
+|**2025-01-28**|**Heterogeneity-aware Personalized Federated Learning via Adaptive Dual-Agent Reinforcement Learning**|Xi Chen et.al.|[2501.16966](http://arxiv.org/abs/2501.16966)|null|
+|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-01-28**|**Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**|Pengfei Zhu et.al.|[2501.16767](http://arxiv.org/abs/2501.16767)|null|
+|**2025-01-28**|**Efficient Knowledge Distillation of SAM for Medical Image Segmentation**|Kunal Dasharath Patil et.al.|[2501.16740](http://arxiv.org/abs/2501.16740)|null|
 |**2025-01-27**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
 |**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075](http://arxiv.org/abs/2501.16075)|null|
 |**2025-01-26**|**MimicGait: A Model Agnostic approach for Occluded Gait Recognition using Correlational Knowledge Distillation**|Ayush Gupta et.al.|[2501.15666](http://arxiv.org/abs/2501.15666)|**[link](https://github.com/ayush-00/mimicgait)**|
