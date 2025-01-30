@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines**|Chongyu Qu et.al.|[2501.17343](http://arxiv.org/abs/2501.17343)|null|
 |**2025-01-28**|**Post-Training Quantization for Vision Mamba with k-Scaled Quantization and Reparameterization**|Bo-Yun Shi et.al.|[2501.16738](http://arxiv.org/abs/2501.16738)|null|
 |**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
 |**2025-01-24**|**On Hardening DNNs against Noisy Computations**|Xiao Wang et.al.|[2501.14531](http://arxiv.org/abs/2501.14531)|null|
@@ -134,6 +135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**2SSP: A Two-Stage Framework for Structured Pruning of LLMs**|Fabrizio Sandri et.al.|[2501.17771](http://arxiv.org/abs/2501.17771)|null|
 |**2025-01-28**|**B-FPGM: Lightweight Face Detection via Bayesian-Optimized Soft FPGM Pruning**|Nikolaos Kaparinos et.al.|[2501.16917](http://arxiv.org/abs/2501.16917)|null|
 |**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
 |**2025-01-25**|**PIP: Perturbation-based Iterative Pruning for Large Language Models**|Yi Cao et.al.|[2501.15278](http://arxiv.org/abs/2501.15278)|null|
@@ -534,6 +536,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
+|**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
+|**2025-01-29**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
+|**2025-01-27**|**A Comprehensive Study on Fine-Tuning Large Language Models for Medical Question Answering Using Classification Models and Comparative Analysis**|Aysegul Ucar et.al.|[2501.17190](http://arxiv.org/abs/2501.17190)|null|
 |**2025-01-28**|**Algorithm for Automatic Legislative Text Consolidation**|Matias Etcheverry et.al.|[2501.16794](http://arxiv.org/abs/2501.16794)|null|
 |**2025-01-28**|**One Head Eight Arms: Block Matrix based Low Rank Adaptation for CLIP-based Few-Shot Learning**|Chunpeng Zhou et.al.|[2501.16720](http://arxiv.org/abs/2501.16720)|null|
 |**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714](http://arxiv.org/abs/2501.16714)|null|
@@ -1050,6 +1056,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|null|
+|**2025-01-28**|**A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**|Hossein Mirzaei et.al.|[2501.17289](http://arxiv.org/abs/2501.17289)|null|
 |**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992](http://arxiv.org/abs/2501.16992)|null|
 |**2025-01-28**|**Heterogeneity-aware Personalized Federated Learning via Adaptive Dual-Agent Reinforcement Learning**|Xi Chen et.al.|[2501.16966](http://arxiv.org/abs/2501.16966)|null|
 |**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
