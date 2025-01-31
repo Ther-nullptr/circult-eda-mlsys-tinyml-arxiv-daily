@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models**|Wanlong Liu et.al.|[2501.18154](http://arxiv.org/abs/2501.18154)|null|
 |**2025-01-28**|**Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines**|Chongyu Qu et.al.|[2501.17343](http://arxiv.org/abs/2501.17343)|null|
 |**2025-01-28**|**Post-Training Quantization for Vision Mamba with k-Scaled Quantization and Reparameterization**|Bo-Yun Shi et.al.|[2501.16738](http://arxiv.org/abs/2501.16738)|null|
 |**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
@@ -124,7 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-29**|**2SSP: A Two-Stage Framework for Structured Pruning of LLMs**|Fabrizio Sandri et.al.|[2501.17771](http://arxiv.org/abs/2501.17771)|null|
+|**2025-01-29**|**2SSP: A Two-Stage Framework for Structured Pruning of LLMs**|Fabrizio Sandri et.al.|[2501.17771](http://arxiv.org/abs/2501.17771)|**[link](https://github.com/fabriziosandri/2ssp)**|
 |**2025-01-28**|**B-FPGM: Lightweight Face Detection via Bayesian-Optimized Soft FPGM Pruning**|Nikolaos Kaparinos et.al.|[2501.16917](http://arxiv.org/abs/2501.16917)|null|
 |**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
 |**2025-01-25**|**PIP: Perturbation-based Iterative Pruning for Large Language Models**|Yi Cao et.al.|[2501.15278](http://arxiv.org/abs/2501.15278)|null|
@@ -205,6 +206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**FLASH-FHE: A Heterogeneous Architecture for Fully Homomorphic Encryption Acceleration**|Junxue Zhang et.al.|[2501.18371](http://arxiv.org/abs/2501.18371)|null|
 |**2025-01-24**|**HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration**|Yuhan Kang et.al.|[2501.16376](http://arxiv.org/abs/2501.16376)|null|
 |**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512](http://arxiv.org/abs/2501.14512)|null|
 |**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
@@ -360,6 +362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-28**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
 |**2025-01-21**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
 |**2025-01-20**|**Consolidating TinyML Lifecycle with Large Language Models: Reality, Illusion, or Opportunity?**|Guanghan Wu et.al.|[2501.12420](http://arxiv.org/abs/2501.12420)|null|
@@ -517,6 +520,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|**[link](https://github.com/AozhongZhang/CLoQ)**|
+|**2025-01-30**|**Impact of Reactive Jamming Attacks on LoRaWAN: a Theoretical and Experimental Study**|Amavi Dossa et.al.|[2501.18339](http://arxiv.org/abs/2501.18339)|null|
 |**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
 |**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
 |**2025-01-30**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
@@ -1035,7 +1040,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|null|
+|**2025-01-30**|**Mini-ResEmoteNet: Leveraging Knowledge Distillation for Human-Centered Design**|Amna Murtada et.al.|[2501.18538](http://arxiv.org/abs/2501.18538)|null|
+|**2025-01-30**|**SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer**|Enze Xie et.al.|[2501.18427](http://arxiv.org/abs/2501.18427)|null|
+|**2025-01-29**|**RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems**|Duy A. Nguyen et.al.|[2501.18056](http://arxiv.org/abs/2501.18056)|null|
+|**2025-01-29**|**Perforated Backpropagation: A Neuroscience Inspired Extension to Artificial Neural Networks**|Rorry Brenner et.al.|[2501.18018](http://arxiv.org/abs/2501.18018)|null|
+|**2025-01-29**|**Distilling Knowledge for Designing Computational Imaging Systems**|Leon Suarez-Rodriguez et.al.|[2501.17898](http://arxiv.org/abs/2501.17898)|null|
+|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|**[link](https://github.com/iot-tapor/tapor)**|
 |**2025-01-28**|**A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**|Hossein Mirzaei et.al.|[2501.17289](http://arxiv.org/abs/2501.17289)|null|
 |**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992](http://arxiv.org/abs/2501.16992)|null|
 |**2025-01-28**|**Heterogeneity-aware Personalized Federated Learning via Adaptive Dual-Agent Reinforcement Learning**|Xi Chen et.al.|[2501.16966](http://arxiv.org/abs/2501.16966)|null|
