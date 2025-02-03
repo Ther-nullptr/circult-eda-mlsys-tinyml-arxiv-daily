@@ -179,7 +179,7 @@
 |**2024-10-31**|**Mutual Information Preserving Neural Network Pruning**|Charles Westphal et.al.|[2411.00147](http://arxiv.org/abs/2411.00147)|null|
 |**2024-10-24**|**Tailored-LLaMA: Optimizing Few-Shot Learning in Pruned LLaMA Models with Task-Specific Prompts**|Danyal Aftab et.al.|[2410.19185](http://arxiv.org/abs/2410.19185)|null|
 |**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|**[link](https://github.com/ist-daslab/evopress)**|
-|**2024-11-04**|**DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models**|Shangqian Gao et.al.|[2410.11988](http://arxiv.org/abs/2410.11988)|null|
+|**2024-11-04**|**DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models**|Shangqian Gao et.al.|[2410.11988](http://arxiv.org/abs/2410.11988)|**[link](https://github.com/ZhengaoLi/DISP-LLM-Dimension-Independent-Structural-Pruning)**|
 |**2024-11-12**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
 |**2024-10-11**|**Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients**|Yan Li et.al.|[2410.08457](http://arxiv.org/abs/2410.08457)|null|
 |**2024-10-11**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|**[link](https://github.com/qq-mm/chiptuning)**|
@@ -556,7 +556,7 @@
 |**2025-01-26**|**Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation**|Reza Akbarian Bafghi et.al.|[2501.15377](http://arxiv.org/abs/2501.15377)|null|
 |**2025-01-26**|**Decentralized Low-Rank Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2501.15361](http://arxiv.org/abs/2501.15361)|null|
 |**2025-01-25**|**Exploring Primitive Visual Measurement Understanding and the Role of Output Format in Learning in Vision-Language Models**|Ankit Yadav et.al.|[2501.15144](http://arxiv.org/abs/2501.15144)|null|
-|**2025-01-25**|**DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach**|Qin Chen et.al.|[2501.15142](http://arxiv.org/abs/2501.15142)|null|
+|**2025-01-25**|**DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach**|Qin Chen et.al.|[2501.15142](http://arxiv.org/abs/2501.15142)|**[link](https://github.com/Cqkkkkkk/DAGPrompT)**|
 |**2025-01-25**|**ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation**|Qingtian Bian et.al.|[2501.15118](http://arxiv.org/abs/2501.15118)|**[link](https://github.com/dimarziobian/abxi)**|
 |**2025-01-25**|**Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning**|Ziyu Zhao et.al.|[2501.15103](http://arxiv.org/abs/2501.15103)|null|
 |**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713](http://arxiv.org/abs/2501.14713)|null|
@@ -581,7 +581,7 @@
 |**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890](http://arxiv.org/abs/2501.07890)|null|
 |**2025-01-14**|**Optimizing Language Models for Grammatical Acceptability: A Comparative Study of Fine-Tuning Techniques**|Shobhit Ratan et.al.|[2501.07853](http://arxiv.org/abs/2501.07853)|null|
 |**2025-01-13**|**Implementing LoRa MIMO System for Internet of Things**|Atonu Ghosh et.al.|[2501.07148](http://arxiv.org/abs/2501.07148)|null|
-|**2025-01-12**|**Language Fusion for Parameter-Efficient Cross-lingual Transfer**|Philipp Borchert et.al.|[2501.06892](http://arxiv.org/abs/2501.06892)|null|
+|**2025-01-12**|**Language Fusion for Parameter-Efficient Cross-lingual Transfer**|Philipp Borchert et.al.|[2501.06892](http://arxiv.org/abs/2501.06892)|**[link](https://github.com/pnborchert/flare)**|
 |**2025-01-12**|**Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning**|Hanwen Zhong et.al.|[2501.06884](http://arxiv.org/abs/2501.06884)|**[link](https://github.com/yewen1486/emtal)**|
 |**2025-01-12**|**Better Prompt Compression Without Multi-Layer Perceptrons**|Edouardo Honig et.al.|[2501.06730](http://arxiv.org/abs/2501.06730)|null|
 |**2025-01-10**|**Aggregating Low Rank Adapters in Federated Fine-tuning**|Evelyn Trautmann et.al.|[2501.06332](http://arxiv.org/abs/2501.06332)|null|
@@ -717,7 +717,7 @@
 |**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|**[link](https://github.com/syyunn/finrl-dt)**|
 |**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
 |**2024-11-26**|**PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning**|Zhen Sun et.al.|[2411.17453](http://arxiv.org/abs/2411.17453)|null|
-|**2024-11-26**|**CLOVER: Constrained Learning with Orthonormal Vectors for Eliminating Redundancy**|Fanxu Meng et.al.|[2411.17426](http://arxiv.org/abs/2411.17426)|null|
+|**2024-11-26**|**CLOVER: Constrained Learning with Orthonormal Vectors for Eliminating Redundancy**|Fanxu Meng et.al.|[2411.17426](http://arxiv.org/abs/2411.17426)|**[link](https://github.com/graphpku/pissa)**|
 |**2024-11-26**|**Efficient Deployment of Transformer Models in Analog In-Memory Computing Hardware**|Chen Li et.al.|[2411.17367](http://arxiv.org/abs/2411.17367)|**[link](https://github.com/chenlicodebank/lora_on_analog_hardware)**|
 |**2024-11-26**|**ThreatModeling-LLM: Automating Threat Modeling using Large Language Models for Banking System**|Shuiqiao Yang et.al.|[2411.17058](http://arxiv.org/abs/2411.17058)|null|
 |**2024-11-26**|**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation**|Hengjia Li et.al.|[2411.17048](http://arxiv.org/abs/2411.17048)|null|
@@ -757,7 +757,7 @@
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
 |**2024-11-11**|**Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation**|Ziwei Liu et.al.|[2411.07021](http://arxiv.org/abs/2411.07021)|null|
-|**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971](http://arxiv.org/abs/2411.06971)|null|
+|**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971](http://arxiv.org/abs/2411.06971)|**[link](https://github.com/xue-xia/mapsam)**|
 |**2024-11-11**|**LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models**|Runming Yang et.al.|[2411.06839](http://arxiv.org/abs/2411.06839)|null|
 |**2024-11-10**|**Federated LLMs Fine-tuned with Adaptive Importance-Aware LoRA**|Yang Su et.al.|[2411.06581](http://arxiv.org/abs/2411.06581)|null|
 |**2024-11-10**|**Prompt-Efficient Fine-Tuning for GPT-like Deep Models to Reduce Hallucination and to Improve Reproducibility in Scientific Text Generation Using Stochastic Optimisation Techniques**|Daniil Sulimov et.al.|[2411.06445](http://arxiv.org/abs/2411.06445)|null|
@@ -1073,7 +1073,7 @@
 |**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
 |**2025-01-28**|**Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**|Pengfei Zhu et.al.|[2501.16767](http://arxiv.org/abs/2501.16767)|null|
 |**2025-01-28**|**Efficient Knowledge Distillation of SAM for Medical Image Segmentation**|Kunal Dasharath Patil et.al.|[2501.16740](http://arxiv.org/abs/2501.16740)|null|
-|**2025-01-30**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
+|**2025-01-30**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|**[link](https://github.com/microsoft/encoder-decoder-slm)**|
 |**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075](http://arxiv.org/abs/2501.16075)|null|
 |**2025-01-26**|**MimicGait: A Model Agnostic approach for Occluded Gait Recognition using Correlational Knowledge Distillation**|Ayush Gupta et.al.|[2501.15666](http://arxiv.org/abs/2501.15666)|**[link](https://github.com/ayush-00/mimicgait)**|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
@@ -1085,7 +1085,7 @@
 |**2025-01-24**|**Remining Hard Negatives for Generative Pseudo Labeled Domain Adaptation**|Goksenin Yuksel et.al.|[2501.14434](http://arxiv.org/abs/2501.14434)|null|
 |**2025-01-24**|**Multimodal Prescriptive Deep Learning**|Dimitris Bertsimas et.al.|[2501.14152](http://arxiv.org/abs/2501.14152)|null|
 |**2025-01-23**|**Unlearning Clients, Features and Samples in Vertical Federated Learning**|Ayush K. Varshney et.al.|[2501.13683](http://arxiv.org/abs/2501.13683)|null|
-|**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
+|**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|**[link](https://github.com/taegyeong-lee/makd)**|
 |**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
 |**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
 |**2025-01-24**|**EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation**|Yifan Yu et.al.|[2501.12689](http://arxiv.org/abs/2501.12689)|null|
@@ -1102,7 +1102,7 @@
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412](http://arxiv.org/abs/2501.09412)|null|
 |**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
 |**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
-|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|**[link](https://github.com/ASK-Berkeley/MLFF-distill)**|
 |**2025-01-17**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Feature-based One-For-All: A Universal Framework for Heterogeneous Knowledge Distillation**|Jhe-Hao Lin et.al.|[2501.08885](http://arxiv.org/abs/2501.08885)|null|
 |**2025-01-15**|**SWSC: Shared Weight for Similar Channel in LLM**|Binrui Zeng et.al.|[2501.08631](http://arxiv.org/abs/2501.08631)|null|
