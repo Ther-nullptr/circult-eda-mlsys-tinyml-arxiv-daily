@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1057,7 +1057,7 @@ layout: default
 |**2025-01-31**|**Imagine with the Teacher: Complete Shape in a Multi-View Distillation Way**|Zhanpeng Luo et.al.|[2501.19270](http://arxiv.org/abs/2501.19270)|null|
 |**2025-01-31**|**Position: Curvature Matrices Should Be Democratized via Linear Operators**|Felix Dangel et.al.|[2501.19183](http://arxiv.org/abs/2501.19183)|null|
 |**2025-01-31**|**Pivoting Factorization: A Compact Meta Low-Rank Representation of Sparsity for Efficient Inference in Large Language Models**|Jialin Zhao et.al.|[2501.19090](http://arxiv.org/abs/2501.19090)|null|
-|**2025-01-31**|**Efficient Supernet Training with Orthogonal Softmax for Scalable ASR Model Compression**|Jingjing Xu et.al.|[2501.18895](http://arxiv.org/abs/2501.18895)|null|
+|**2025-02-04**|**Efficient Supernet Training with Orthogonal Softmax for Scalable ASR Model Compression**|Jingjing Xu et.al.|[2501.18895](http://arxiv.org/abs/2501.18895)|null|
 |**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664](http://arxiv.org/abs/2501.18664)|null|
 |**2025-01-30**|**SAFL: Structure-Aware Personalized Federated Learning via Client-Specific Clustering and SCSI-Guided Model Pruning**|Nan Li et.al.|[2501.18659](http://arxiv.org/abs/2501.18659)|null|
 |**2025-01-30**|**Mini-ResEmoteNet: Leveraging Knowledge Distillation for Human-Centered Design**|Amna Murtada et.al.|[2501.18538](http://arxiv.org/abs/2501.18538)|null|
