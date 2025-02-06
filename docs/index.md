@@ -130,6 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
 |**2025-02-03**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|null|
 |**2025-02-02**|**Structural Latency Perturbation in Large Language Models Through Recursive State Induction**|Michael Mangrum et.al.|[2502.00758](http://arxiv.org/abs/2502.00758)|null|
 |**2025-02-02**|**CoNNect: A Swiss-Army-Knife Regularizer for Pruning of Neural Networks**|Christian Franssen et.al.|[2502.00744](http://arxiv.org/abs/2502.00744)|null|
@@ -544,6 +545,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Energy-Efficient Flying LoRa Gateways: A Multi-Agent Reinforcement Learning Approach**|Abdullahi Isa Ahmed et.al.|[2502.03377](http://arxiv.org/abs/2502.03377)|null|
+|**2025-02-05**|**RepLoRA: Reparameterizing Low-Rank Adaptation via the Perspective of Mixture of Experts**|Tuan Truong et.al.|[2502.03044](http://arxiv.org/abs/2502.03044)|null|
+|**2025-02-05**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs**|Dinithi Jayasuriya et.al.|[2502.02909](http://arxiv.org/abs/2502.02909)|null|
 |**2025-02-04**|**Conversation AI Dialog for Medicare powered by Finetuning and Retrieval Augmented Generation**|Atharva Mangeshkumar Agrawal et.al.|[2502.02249](http://arxiv.org/abs/2502.02249)|null|
 |**2025-02-04**|**LoRA-TTT: Low-Rank Test-Time Training for Vision-Language Models**|Yuto Kojima et.al.|[2502.02069](http://arxiv.org/abs/2502.02069)|null|
 |**2025-02-03**|**Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**|Kang Yang et.al.|[2502.01826](http://arxiv.org/abs/2502.01826)|null|
@@ -1082,6 +1086,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Knowledge Distillation from Large Language Models for Household Energy Modeling**|Mohannad Takrouri et.al.|[2502.03034](http://arxiv.org/abs/2502.03034)|null|
+|**2025-02-05**|**Training an LLM-as-a-Judge Model: Pipeline, Insights, and Practical Lessons**|Renjun Hu et.al.|[2502.02988](http://arxiv.org/abs/2502.02988)|null|
+|**2025-02-04**|**Theoretical Guarantees for Low-Rank Compression of Deep Neural Networks**|Shihao Zhang et.al.|[2502.02766](http://arxiv.org/abs/2502.02766)|null|
+|**2025-02-04**|**On Teacher Hacking in Language Model Distillation**|Daniil Tiapkin et.al.|[2502.02671](http://arxiv.org/abs/2502.02671)|null|
 |**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
 |**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
 |**2025-02-03**|**Accelerating Linear Recurrent Neural Networks for the Edge with Unstructured Sparsity**|Alessandro Pierro et.al.|[2502.01330](http://arxiv.org/abs/2502.01330)|null|
