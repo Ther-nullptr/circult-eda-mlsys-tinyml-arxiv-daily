@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -550,7 +550,7 @@ layout: default
 |**2025-02-03**|**Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA**|Shuangyi Chen et.al.|[2502.01755](http://arxiv.org/abs/2502.01755)|null|
 |**2025-02-03**|**Adapter-Based Multi-Agent AVSR Extension for Pre-Trained ASR Models**|Christopher Simic et.al.|[2502.01709](http://arxiv.org/abs/2502.01709)|null|
 |**2025-02-03**|**QLESS: A Quantized Approach for Data Valuation and Selection in Large Language Model Fine-Tuning**|Moses Ananta et.al.|[2502.01703](http://arxiv.org/abs/2502.01703)|null|
-|**2025-02-03**|**MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation**|Yiren Song et.al.|[2502.01572](http://arxiv.org/abs/2502.01572)|null|
+|**2025-02-05**|**MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation**|Yiren Song et.al.|[2502.01572](http://arxiv.org/abs/2502.01572)|null|
 |**2025-02-03**|**CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models**|Guanduo Chen et.al.|[2502.01378](http://arxiv.org/abs/2502.01378)|null|
 |**2025-02-03**|**One-step full gradient suffices for low-rank fine-tuning, provably and efficiently**|Yuanhe Zhang et.al.|[2502.01235](http://arxiv.org/abs/2502.01235)|null|
 |**2025-02-03**|**Joint Localization and Activation Editing for Low-Resource Fine-Tuning**|Wen Lai et.al.|[2502.01179](http://arxiv.org/abs/2502.01179)|null|
@@ -1082,7 +1082,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|null|
+|**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
 |**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
 |**2025-02-03**|**Accelerating Linear Recurrent Neural Networks for the Edge with Unstructured Sparsity**|Alessandro Pierro et.al.|[2502.01330](http://arxiv.org/abs/2502.01330)|null|
 |**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312](http://arxiv.org/abs/2502.01312)|null|
