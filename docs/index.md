@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -386,7 +386,7 @@ layout: default
 |**2025-01-31**|**Infer-EDGE: Dynamic DNN Inference Optimization in 'Just-in-time' Edge-AI Implementations**|Motahare Mounesan et.al.|[2501.18842](http://arxiv.org/abs/2501.18842)|null|
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-28**|**On Accelerating Edge AI: Optimizing Resource-Constrained Environments**|Jacob Sander et.al.|[2501.15014](http://arxiv.org/abs/2501.15014)|null|
-|**2025-01-21**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
+|**2025-02-06**|**SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization**|Jaewoo Song et.al.|[2501.12428](http://arxiv.org/abs/2501.12428)|null|
 |**2025-01-20**|**Consolidating TinyML Lifecycle with Large Language Models: Reality, Illusion, or Opportunity?**|Guanghan Wu et.al.|[2501.12420](http://arxiv.org/abs/2501.12420)|null|
 |**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
 |**2025-01-13**|**QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications**|Jeongseok Kim et.al.|[2501.07161](http://arxiv.org/abs/2501.07161)|null|
