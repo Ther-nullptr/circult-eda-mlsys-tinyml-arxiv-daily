@@ -130,6 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
 |**2025-02-03**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|null|
 |**2025-02-02**|**Structural Latency Perturbation in Large Language Models Through Recursive State Induction**|Michael Mangrum et.al.|[2502.00758](http://arxiv.org/abs/2502.00758)|null|
@@ -501,6 +502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**|Endri Taka et.al.|[2502.03763](http://arxiv.org/abs/2502.03763)|null|
 |**2025-02-01**|**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**|Aikaterini Maria Panteleaki et.al.|[2502.00286](http://arxiv.org/abs/2502.00286)|null|
 |**2025-01-31**|**StruM: Structured Mixed Precision for Efficient Deep Learning Hardware Codesign**|Michael Wu et.al.|[2501.18953](http://arxiv.org/abs/2501.18953)|null|
 |**2025-01-30**|**REDACTOR: eFPGA Redaction for DNN Accelerator Security**|Yazan Baddour et.al.|[2501.18740](http://arxiv.org/abs/2501.18740)|null|
@@ -545,6 +547,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
+|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/abs/2502.03884)|null|
+|**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
 |**2025-02-05**|**Energy-Efficient Flying LoRa Gateways: A Multi-Agent Reinforcement Learning Approach**|Abdullahi Isa Ahmed et.al.|[2502.03377](http://arxiv.org/abs/2502.03377)|null|
 |**2025-02-05**|**RepLoRA: Reparameterizing Low-Rank Adaptation via the Perspective of Mixture of Experts**|Tuan Truong et.al.|[2502.03044](http://arxiv.org/abs/2502.03044)|null|
 |**2025-02-05**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs**|Dinithi Jayasuriya et.al.|[2502.02909](http://arxiv.org/abs/2502.02909)|null|
@@ -1086,6 +1092,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
+|**2025-02-06**|**Towards Unified Music Emotion Recognition across Dimensional and Categorical Models**|Jaeyong Kang et.al.|[2502.03979](http://arxiv.org/abs/2502.03979)|null|
+|**2025-02-06**|**BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**|Bo Pang et.al.|[2502.03860](http://arxiv.org/abs/2502.03860)|null|
+|**2025-02-06**|**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**|Lin Li et.al.|[2502.03856](http://arxiv.org/abs/2502.03856)|null|
 |**2025-02-05**|**Knowledge Distillation from Large Language Models for Household Energy Modeling**|Mohannad Takrouri et.al.|[2502.03034](http://arxiv.org/abs/2502.03034)|null|
 |**2025-02-05**|**Training an LLM-as-a-Judge Model: Pipeline, Insights, and Practical Lessons**|Renjun Hu et.al.|[2502.02988](http://arxiv.org/abs/2502.02988)|null|
 |**2025-02-04**|**Theoretical Guarantees for Low-Rank Compression of Deep Neural Networks**|Shihao Zhang et.al.|[2502.02766](http://arxiv.org/abs/2502.02766)|null|
