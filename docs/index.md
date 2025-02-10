@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -548,7 +548,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
-|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/abs/2502.03884)|null|
 |**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
 |**2025-02-05**|**Energy-Efficient Flying LoRa Gateways: A Multi-Agent Reinforcement Learning Approach**|Abdullahi Isa Ahmed et.al.|[2502.03377](http://arxiv.org/abs/2502.03377)|null|
