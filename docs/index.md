@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003](http://arxiv.org/abs/2502.05003)|**[link](https://github.com/IST-DASLab/QuEST)**|
+|**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
 |**2025-02-04**|**Survey of Quantization Techniques for On-Device Vision-based Crack Detection**|Yuxuan Zhang et.al.|[2502.02269](http://arxiv.org/abs/2502.02269)|null|
 |**2025-02-03**|**Nearly Lossless Adaptive Bit Switching**|Haiduo Huang et.al.|[2502.01199](http://arxiv.org/abs/2502.01199)|**[link](https://github.com/haiduo/Double-Rounding)**|
 |**2025-02-03**|**On the impact of the parametrization of deep convolutional neural networks on post-training quantization**|Samy Houache et.al.|[2502.01156](http://arxiv.org/abs/2502.01156)|null|
@@ -547,6 +549,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087](http://arxiv.org/abs/2502.05087)|null|
+|**2025-02-07**|**SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model**|Jiayang Yu et.al.|[2502.04958](http://arxiv.org/abs/2502.04958)|null|
+|**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923](http://arxiv.org/abs/2502.04923)|null|
+|**2025-02-07**|**SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity**|Yijun Wang et.al.|[2502.04740](http://arxiv.org/abs/2502.04740)|null|
+|**2025-02-07**|**EigenLoRAx: Recycling Adapters to Find Principal Subspaces for Resource-Efficient Adaptation and Inference**|Prakhar Kaushik et.al.|[2502.04700](http://arxiv.org/abs/2502.04700)|null|
+|**2025-02-07**|**Contrastive Learning-Enhanced Large Language Models for Monolith-to-Microservice Decomposition**|Khaled Sellami et.al.|[2502.04604](http://arxiv.org/abs/2502.04604)|null|
+|**2025-02-05**|**FedP $^2$ EFT: Federated Learning to Personalize Parameter Efficient Fine-Tuning for Multilingual LLMs**|Royson Lee et.al.|[2502.04387](http://arxiv.org/abs/2502.04387)|null|
 |**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/abs/2502.03884)|null|
@@ -1092,6 +1101,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Dynamic Frequency-Adaptive Knowledge Distillation for Speech Enhancement**|Xihao Yuan et.al.|[2502.04711](http://arxiv.org/abs/2502.04711)|null|
+|**2025-02-06**|**Multilingual Non-Autoregressive Machine Translation without Knowledge Distillation**|Chenyang Huang et.al.|[2502.04537](http://arxiv.org/abs/2502.04537)|null|
+|**2025-02-06**|**Revisiting Intermediate-Layer Matching in Knowledge Distillation: Layer-Selection Strategy Doesn't Matter (Much)**|Zony Yu et.al.|[2502.04499](http://arxiv.org/abs/2502.04499)|null|
 |**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
 |**2025-02-06**|**Towards Unified Music Emotion Recognition across Dimensional and Categorical Models**|Jaeyong Kang et.al.|[2502.03979](http://arxiv.org/abs/2502.03979)|null|
 |**2025-02-06**|**BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**|Bo Pang et.al.|[2502.03860](http://arxiv.org/abs/2502.03860)|null|
