@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Pruning
 
@@ -145,7 +145,7 @@
 |---|---|---|---|---|
 |**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
-|**2025-02-03**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|**[link](https://github.com/xianglongyan/pbs2p)**|
+|**2025-02-08**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|**[link](https://github.com/xianglongyan/pbs2p)**|
 |**2025-02-02**|**Structural Latency Perturbation in Large Language Models Through Recursive State Induction**|Michael Mangrum et.al.|[2502.00758](http://arxiv.org/abs/2502.00758)|null|
 |**2025-02-02**|**CoNNect: A Swiss-Army-Knife Regularizer for Pruning of Neural Networks**|Christian Franssen et.al.|[2502.00744](http://arxiv.org/abs/2502.00744)|null|
 |**2025-02-01**|**ProxSparse: Regularized Learning of Semi-Structured Sparsity Masks for Pretrained LLMs**|Hongyi Liu et.al.|[2502.00258](http://arxiv.org/abs/2502.00258)|null|
@@ -227,7 +227,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -392,13 +392,13 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## TinyML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-04**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
+|**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
 |**2025-02-03**|**EdgeMark: An Automation and Benchmarking System for Embedded Artificial Intelligence Tools**|Mohammad Amin Hasanpour et.al.|[2502.01700](http://arxiv.org/abs/2502.01700)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
 |**2025-01-31**|**Infer-EDGE: Dynamic DNN Inference Optimization in 'Just-in-time' Edge-AI Implementations**|Motahare Mounesan et.al.|[2501.18842](http://arxiv.org/abs/2501.18842)|null|
@@ -515,7 +515,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -562,7 +562,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -575,7 +575,7 @@
 |**2025-02-07**|**EigenLoRAx: Recycling Adapters to Find Principal Subspaces for Resource-Efficient Adaptation and Inference**|Prakhar Kaushik et.al.|[2502.04700](http://arxiv.org/abs/2502.04700)|null|
 |**2025-02-07**|**Contrastive Learning-Enhanced Large Language Models for Monolith-to-Microservice Decomposition**|Khaled Sellami et.al.|[2502.04604](http://arxiv.org/abs/2502.04604)|null|
 |**2025-02-05**|**FedP $^2$ EFT: Federated Learning to Personalize Parameter Efficient Fine-Tuning for Multilingual LLMs**|Royson Lee et.al.|[2502.04387](http://arxiv.org/abs/2502.04387)|null|
-|**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
+|**2025-02-09**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/abs/2502.03884)|null|
 |**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
@@ -1116,7 +1116,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Model Compression
 
@@ -1737,7 +1737,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -134,7 +134,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
-|**2025-02-03**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|**[link](https://github.com/xianglongyan/pbs2p)**|
+|**2025-02-08**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|**[link](https://github.com/xianglongyan/pbs2p)**|
 |**2025-02-02**|**Structural Latency Perturbation in Large Language Models Through Recursive State Induction**|Michael Mangrum et.al.|[2502.00758](http://arxiv.org/abs/2502.00758)|null|
 |**2025-02-02**|**CoNNect: A Swiss-Army-Knife Regularizer for Pruning of Neural Networks**|Christian Franssen et.al.|[2502.00744](http://arxiv.org/abs/2502.00744)|null|
 |**2025-02-01**|**ProxSparse: Regularized Learning of Semi-Structured Sparsity Masks for Pretrained LLMs**|Hongyi Liu et.al.|[2502.00258](http://arxiv.org/abs/2502.00258)|null|
@@ -383,7 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-04**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
+|**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
 |**2025-02-03**|**EdgeMark: An Automation and Benchmarking System for Embedded Artificial Intelligence Tools**|Mohammad Amin Hasanpour et.al.|[2502.01700](http://arxiv.org/abs/2502.01700)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
 |**2025-01-31**|**Infer-EDGE: Dynamic DNN Inference Optimization in 'Just-in-time' Edge-AI Implementations**|Motahare Mounesan et.al.|[2501.18842](http://arxiv.org/abs/2501.18842)|null|
@@ -556,7 +556,7 @@ layout: default
 |**2025-02-07**|**EigenLoRAx: Recycling Adapters to Find Principal Subspaces for Resource-Efficient Adaptation and Inference**|Prakhar Kaushik et.al.|[2502.04700](http://arxiv.org/abs/2502.04700)|null|
 |**2025-02-07**|**Contrastive Learning-Enhanced Large Language Models for Monolith-to-Microservice Decomposition**|Khaled Sellami et.al.|[2502.04604](http://arxiv.org/abs/2502.04604)|null|
 |**2025-02-05**|**FedP $^2$ EFT: Federated Learning to Personalize Parameter Efficient Fine-Tuning for Multilingual LLMs**|Royson Lee et.al.|[2502.04387](http://arxiv.org/abs/2502.04387)|null|
-|**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
+|**2025-02-09**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/abs/2502.03884)|null|
 |**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
