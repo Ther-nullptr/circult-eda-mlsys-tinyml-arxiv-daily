@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM Inference**|Reena Elangovan et.al.|[2502.05376](http://arxiv.org/abs/2502.05376)|null|
 |**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003](http://arxiv.org/abs/2502.05003)|**[link](https://github.com/IST-DASLab/QuEST)**|
 |**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628](http://arxiv.org/abs/2502.04628)|null|
 |**2025-02-04**|**Survey of Quantization Techniques for On-Device Vision-based Crack Detection**|Yuxuan Zhang et.al.|[2502.02269](http://arxiv.org/abs/2502.02269)|null|
@@ -143,6 +144,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
+|**2025-02-09**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|Wenjie Wei et.al.|[2502.05905](http://arxiv.org/abs/2502.05905)|null|
+|**2025-02-09**|**Synergistic Effects of Knowledge Distillation and Structured Pruning for Self-Supervised Speech Models**|Shiva Kumar C et.al.|[2502.05837](http://arxiv.org/abs/2502.05837)|null|
 |**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
 |**2025-02-08**|**Progressive Binarization with Semi-Structured Pruning for LLMs**|Xianglong Yan et.al.|[2502.01705](http://arxiv.org/abs/2502.01705)|**[link](https://github.com/xianglongyan/pbs2p)**|
@@ -233,6 +237,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**TNIC: A Trusted NIC Architecture**|Dimitra Giantsidi et.al.|[2502.05338](http://arxiv.org/abs/2502.05338)|null|
+|**2025-02-07**|**Gaussian Models to Non-Gaussian Realms of Quantum Photonic Simulators**|Dennis Delali Kwesi Wayo et.al.|[2502.05245](http://arxiv.org/abs/2502.05245)|null|
 |**2025-02-04**|**SpinGlassPEPS.jl: Tensor-network package for Ising-like optimization on quasi-two-dimensional graphs**|Tomasz Śmierzchalski et.al.|[2502.02317](http://arxiv.org/abs/2502.02317)|null|
 |**2025-02-01**|**Life-Cycle Emissions of AI Hardware: A Cradle-To-Grave Approach and Generational Trends**|Ian Schneider et.al.|[2502.01671](http://arxiv.org/abs/2502.01671)|null|
 |**2025-02-01**|**A Hardware-Efficient Photonic Tensor Core: Accelerating Deep Neural Networks with Structured Compression**|Shupeng Ning et.al.|[2502.01670](http://arxiv.org/abs/2502.01670)|null|
@@ -398,6 +404,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine**|Shengyu Duan et.al.|[2502.05640](http://arxiv.org/abs/2502.05640)|null|
+|**2025-02-07**|**Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance**|Alankrit Gupta et.al.|[2502.05384](http://arxiv.org/abs/2502.05384)|null|
 |**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
 |**2025-02-03**|**EdgeMark: An Automation and Benchmarking System for Embedded Artificial Intelligence Tools**|Mohammad Amin Hasanpour et.al.|[2502.01700](http://arxiv.org/abs/2502.01700)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
@@ -521,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**MetaML-Pro: Cross-Stage Design Flow Automation for Efficient Deep Learning Acceleration**|Zhiqiang Que et.al.|[2502.05850](http://arxiv.org/abs/2502.05850)|null|
 |**2025-02-06**|**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**|Endri Taka et.al.|[2502.03763](http://arxiv.org/abs/2502.03763)|null|
 |**2025-02-01**|**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**|Aikaterini Maria Panteleaki et.al.|[2502.00286](http://arxiv.org/abs/2502.00286)|null|
 |**2025-01-31**|**StruM: Structured Mixed Precision for Efficient Deep Learning Hardware Codesign**|Michael Wu et.al.|[2501.18953](http://arxiv.org/abs/2501.18953)|null|
@@ -568,6 +577,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She et.al.|[2502.06527](http://arxiv.org/abs/2502.06527)|null|
+|**2025-02-10**|**Uncertainty-Aware Adaptation of Large Language Models for Protein-Protein Interaction Analysis**|Sanket Jantre et.al.|[2502.06173](http://arxiv.org/abs/2502.06173)|null|
+|**2025-02-09**|**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**|Krishna Sri Ipsit Mantri et.al.|[2502.06029](http://arxiv.org/abs/2502.06029)|null|
+|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
+|**2025-02-09**|**Skill Expansion and Composition in Parameter Space**|Tenglong Liu et.al.|[2502.05932](http://arxiv.org/abs/2502.05932)|null|
+|**2025-02-08**|**Low-Rank Agent-Specific Adaptation (LoRASA) for Multi-Agent Policy Learning**|Beining Zhang et.al.|[2502.05573](http://arxiv.org/abs/2502.05573)|null|
+|**2025-02-08**|**SSH: Sparse Spectrum Adaptation via Discrete Hartley Transformation**|Yixian Shen et.al.|[2502.05539](http://arxiv.org/abs/2502.05539)|null|
 |**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087](http://arxiv.org/abs/2502.05087)|null|
 |**2025-02-07**|**SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model**|Jiayang Yu et.al.|[2502.04958](http://arxiv.org/abs/2502.04958)|null|
 |**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923](http://arxiv.org/abs/2502.04923)|null|
@@ -1122,6 +1138,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759](http://arxiv.org/abs/2502.06759)|null|
+|**2025-02-10**|**Systematic Outliers in Large Language Models**|Yongqi An et.al.|[2502.06415](http://arxiv.org/abs/2502.06415)|null|
+|**2025-02-10**|**Progressive Collaborative and Semantic Knowledge Fusion for Generative Recommendation**|Longtao Xiao et.al.|[2502.06269](http://arxiv.org/abs/2502.06269)|null|
+|**2025-02-10**|**Right Time to Learn:Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation**|Guanglong Sun et.al.|[2502.06192](http://arxiv.org/abs/2502.06192)|null|
+|**2025-02-10**|**Multi-Level Decoupled Relational Distillation for Heterogeneous Architectures**|Yaoxin Yang et.al.|[2502.06189](http://arxiv.org/abs/2502.06189)|null|
+|**2025-02-10**|**A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar**|Seung-Hyun Song et.al.|[2502.06114](http://arxiv.org/abs/2502.06114)|null|
+|**2025-02-09**|**ClinKD: Cross-Modal Clinic Knowledge Distiller For Multi-Task Medical Images**|Hongyu Ge et.al.|[2502.05928](http://arxiv.org/abs/2502.05928)|null|
+|**2025-02-09**|**Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation**|Yunhui Liu et.al.|[2502.05864](http://arxiv.org/abs/2502.05864)|null|
+|**2025-02-09**|**Synergistic Effects of Knowledge Distillation and Structured Pruning for Self-Supervised Speech Models**|Shiva Kumar C et.al.|[2502.05837](http://arxiv.org/abs/2502.05837)|null|
+|**2025-02-09**|**Contrastive Representation Distillation via Multi-Scale Feature Decoupling**|Cuipeng Wang et.al.|[2502.05835](http://arxiv.org/abs/2502.05835)|null|
 |**2025-02-07**|**Dynamic Frequency-Adaptive Knowledge Distillation for Speech Enhancement**|Xihao Yuan et.al.|[2502.04711](http://arxiv.org/abs/2502.04711)|null|
 |**2025-02-06**|**Multilingual Non-Autoregressive Machine Translation without Knowledge Distillation**|Chenyang Huang et.al.|[2502.04537](http://arxiv.org/abs/2502.04537)|null|
 |**2025-02-06**|**Revisiting Intermediate-Layer Matching in Knowledge Distillation: Layer-Selection Strategy Doesn't Matter (Much)**|Zony Yu et.al.|[2502.04499](http://arxiv.org/abs/2502.04499)|null|
