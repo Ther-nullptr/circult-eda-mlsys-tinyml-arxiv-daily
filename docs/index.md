@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -561,7 +561,7 @@ layout: default
 |**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She et.al.|[2502.06527](http://arxiv.org/abs/2502.06527)|null|
 |**2025-02-10**|**Uncertainty-Aware Adaptation of Large Language Models for Protein-Protein Interaction Analysis**|Sanket Jantre et.al.|[2502.06173](http://arxiv.org/abs/2502.06173)|null|
 |**2025-02-09**|**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**|Krishna Sri Ipsit Mantri et.al.|[2502.06029](http://arxiv.org/abs/2502.06029)|null|
-|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
+|**2025-02-11**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-09**|**Skill Expansion and Composition in Parameter Space**|Tenglong Liu et.al.|[2502.05932](http://arxiv.org/abs/2502.05932)|null|
 |**2025-02-08**|**Low-Rank Agent-Specific Adaptation (LoRASA) for Multi-Agent Policy Learning**|Beining Zhang et.al.|[2502.05573](http://arxiv.org/abs/2502.05573)|null|
 |**2025-02-08**|**SSH: Sparse Spectrum Adaptation via Discrete Hartley Transformation**|Yixian Shen et.al.|[2502.05539](http://arxiv.org/abs/2502.05539)|null|
