@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -229,7 +229,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
-|**2025-02-10**|**Accelerating Berends-Giele recursion for gluons in arbitrary dimensions over finite fields**|Juan M. Cruz-Martinez et.al.|[2502.07060](http://arxiv.org/abs/2502.07060)|null|
+|**2025-02-10**|**Accelerating Berends-Giele recursion for gluons in arbitrary dimensions over finite fields**|Juan M. Cruz-Martinez et.al.|[2502.07060](http://arxiv.org/abs/2502.07060)|**[link](https://github.com/amps-gpu/bg-trees)**|
 |**2025-02-07**|**TNIC: A Trusted NIC Architecture**|Dimitra Giantsidi et.al.|[2502.05338](http://arxiv.org/abs/2502.05338)|null|
 |**2025-02-07**|**Gaussian Models to Non-Gaussian Realms of Quantum Photonic Simulators**|Dennis Delali Kwesi Wayo et.al.|[2502.05245](http://arxiv.org/abs/2502.05245)|null|
 |**2025-02-04**|**SpinGlassPEPS.jl: Tensor-network package for Ising-like optimization on quasi-two-dimensional graphs**|Tomasz Śmierzchalski et.al.|[2502.02317](http://arxiv.org/abs/2502.02317)|null|
@@ -396,7 +396,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
-|**2025-02-10**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|null|
+|**2025-02-13**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|**[link](https://github.com/arghadippurdue/xamba)**|
 |**2025-02-08**|**ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine**|Shengyu Duan et.al.|[2502.05640](http://arxiv.org/abs/2502.05640)|null|
 |**2025-02-07**|**Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance**|Alankrit Gupta et.al.|[2502.05384](http://arxiv.org/abs/2502.05384)|null|
 |**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
@@ -520,7 +520,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-10**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|null|
+|**2025-02-13**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|null|
 |**2025-02-09**|**MetaML-Pro: Cross-Stage Design Flow Automation for Efficient Deep Learning Acceleration**|Zhiqiang Que et.al.|[2502.05850](http://arxiv.org/abs/2502.05850)|null|
 |**2025-02-06**|**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**|Endri Taka et.al.|[2502.03763](http://arxiv.org/abs/2502.03763)|null|
 |**2025-02-01**|**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**|Aikaterini Maria Panteleaki et.al.|[2502.00286](http://arxiv.org/abs/2502.00286)|null|
@@ -569,10 +569,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-12**|**LoRa Fine Synchronization with Two-Pass Time and Frequency Offset Estimation**|Joachim Tapparel et.al.|[2502.08485](http://arxiv.org/abs/2502.08485)|null|
 |**2025-02-12**|**LowRA: Accurate and Efficient LoRA Fine-Tuning of LLMs under 2 Bits**|Zikai Zhou et.al.|[2502.08141](http://arxiv.org/abs/2502.08141)|null|
-|**2025-02-11**|**Curvature Tuning: Provable Training-free Model Steering From a Single Parameter**|Leyang Hu et.al.|[2502.07783](http://arxiv.org/abs/2502.07783)|null|
+|**2025-02-11**|**Curvature Tuning: Provable Training-free Model Steering From a Single Parameter**|Leyang Hu et.al.|[2502.07783](http://arxiv.org/abs/2502.07783)|**[link](https://github.com/leon-leyang/curvature-tuning)**|
 |**2025-02-11**|**HRP: High-Rank Preheating for Superior LoRA Initialization**|Yuzhu Chen et.al.|[2502.07739](http://arxiv.org/abs/2502.07739)|null|
 |**2025-02-11**|**LoRP-TTS: Low-Rank Personalized Text-To-Speech**|Łukasz Bondaruk et.al.|[2502.07562](http://arxiv.org/abs/2502.07562)|null|
-|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374](http://arxiv.org/abs/2502.07374)|null|
+|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374](http://arxiv.org/abs/2502.07374)|**[link](https://github.com/novasky-ai/skythought)**|
 |**2025-02-10**|**Hyper Compressed Fine-Tuning of Large Foundation Models with Quantum Inspired Adapters**|Snehal Raj et.al.|[2502.06916](http://arxiv.org/abs/2502.06916)|null|
 |**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She et.al.|[2502.06527](http://arxiv.org/abs/2502.06527)|null|
 |**2025-02-10**|**Uncertainty-Aware Adaptation of Large Language Models for Protein-Protein Interaction Analysis**|Sanket Jantre et.al.|[2502.06173](http://arxiv.org/abs/2502.06173)|null|
@@ -1143,7 +1143,7 @@ layout: default
 |**2025-02-11**|**Life-Code: Central Dogma Modeling with Multi-Omics Sequence Unification**|Zicheng Liu et.al.|[2502.07299](http://arxiv.org/abs/2502.07299)|null|
 |**2025-02-10**|**DROP: Poison Dilution via Knowledge Distillation for Federated Learning**|Georgios Syros et.al.|[2502.07011](http://arxiv.org/abs/2502.07011)|null|
 |**2025-02-10**|**A Simple yet Effective DDG Predictor is An Unsupervised Antibody Optimizer and Explainer**|Lirong Wu et.al.|[2502.06913](http://arxiv.org/abs/2502.06913)|null|
-|**2025-02-10**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759](http://arxiv.org/abs/2502.06759)|null|
+|**2025-02-13**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759](http://arxiv.org/abs/2502.06759)|null|
 |**2025-02-10**|**Systematic Outliers in Large Language Models**|Yongqi An et.al.|[2502.06415](http://arxiv.org/abs/2502.06415)|null|
 |**2025-02-10**|**Progressive Collaborative and Semantic Knowledge Fusion for Generative Recommendation**|Longtao Xiao et.al.|[2502.06269](http://arxiv.org/abs/2502.06269)|null|
 |**2025-02-10**|**Right Time to Learn:Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation**|Guanglong Sun et.al.|[2502.06192](http://arxiv.org/abs/2502.06192)|null|
