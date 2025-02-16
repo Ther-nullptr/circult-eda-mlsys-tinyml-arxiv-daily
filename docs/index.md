@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -524,7 +524,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-13**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|null|
+|**2025-02-13**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|**[link](https://github.com/arghadippurdue/GraNNite)**|
 |**2025-02-09**|**MetaML-Pro: Cross-Stage Design Flow Automation for Efficient Deep Learning Acceleration**|Zhiqiang Que et.al.|[2502.05850](http://arxiv.org/abs/2502.05850)|null|
 |**2025-02-06**|**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**|Endri Taka et.al.|[2502.03763](http://arxiv.org/abs/2502.03763)|null|
 |**2025-02-01**|**Late Breaking Results: Leveraging Approximate Computing for Carbon-Aware DNN Accelerators**|Aikaterini Maria Panteleaki et.al.|[2502.00286](http://arxiv.org/abs/2502.00286)|null|
