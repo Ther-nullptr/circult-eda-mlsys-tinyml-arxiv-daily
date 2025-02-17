@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -571,7 +571,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-13**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
+|**2025-02-14**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
 |**2025-02-13**|**DiffoRA: Enabling Parameter-Efficient LLM Fine-Tuning via Differential Low-Rank Matrix Adaptation**|Tangyu Jiang et.al.|[2502.08905](http://arxiv.org/abs/2502.08905)|null|
 |**2025-02-13**|**BrainWavLM: Fine-tuning Speech Representations with Brain Responses to Language**|Nishitha Vattikonda et.al.|[2502.08866](http://arxiv.org/abs/2502.08866)|null|
 |**2025-02-12**|**LoRa Fine Synchronization with Two-Pass Time and Frequency Offset Estimation**|Joachim Tapparel et.al.|[2502.08485](http://arxiv.org/abs/2502.08485)|null|
