@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?**|Jacob Nielsen et.al.|[2502.11895](http://arxiv.org/abs/2502.11895)|null|
+|**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
 |**2025-02-14**|**Can Post-Training Quantization Benefit from an Additional QLoRA Integration?**|Xiliang Zhu et.al.|[2502.10202](http://arxiv.org/abs/2502.10202)|null|
 |**2025-02-13**|**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs**|Semyon Savkin et.al.|[2502.09720](http://arxiv.org/abs/2502.09720)|null|
 |**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003](http://arxiv.org/abs/2502.09003)|null|
@@ -149,6 +151,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**An Efficient Row-Based Sparse Fine-Tuning**|Cen-Jhih Li et.al.|[2502.11439](http://arxiv.org/abs/2502.11439)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Exploring Neural Network Pruning with Screening Methods**|Mingyuan Wang et.al.|[2502.07189](http://arxiv.org/abs/2502.07189)|null|
 |**2025-02-11**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
@@ -244,6 +247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**SFTs: a scalable data-analysis framework for long-duration gravitational-wave signals**|Rodrigo Tenorio et.al.|[2502.11823](http://arxiv.org/abs/2502.11823)|null|
+|**2025-02-15**|**Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA**|Jindong Li et.al.|[2502.10659](http://arxiv.org/abs/2502.10659)|null|
 |**2025-02-13**|**Recipe: Hardware-Accelerated Replication Protocols**|Dimitra Giantsidi et.al.|[2502.09251](http://arxiv.org/abs/2502.09251)|null|
 |**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603](http://arxiv.org/abs/2502.08603)|null|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
@@ -415,6 +420,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**|Habib Larian et.al.|[2502.11644](http://arxiv.org/abs/2502.11644)|null|
+|**2025-02-17**|**Biases in Edge Language Models: Detection, Analysis, and Mitigation**|Vinamra Sharma et.al.|[2502.11349](http://arxiv.org/abs/2502.11349)|null|
 |**2025-02-14**|**A Hybrid Edge Classifier: Combining TinyML-Optimised CNN with RRAM-CMOS ACAM for Energy-Efficient Inference**|Kieran Woodward et.al.|[2502.10089](http://arxiv.org/abs/2502.10089)|null|
 |**2025-02-13**|**SteROI-D: System Design and Mapping for Stereo Depth Inference on Regions of Interest**|Jack Erhardt et.al.|[2502.09528](http://arxiv.org/abs/2502.09528)|null|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
@@ -593,6 +600,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis**|Xu Wang et.al.|[2502.11812](http://arxiv.org/abs/2502.11812)|null|
+|**2025-02-17**|**DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning**|Huanxuan Liao et.al.|[2502.11482](http://arxiv.org/abs/2502.11482)|null|
+|**2025-02-17**|**An Efficient Row-Based Sparse Fine-Tuning**|Cen-Jhih Li et.al.|[2502.11439](http://arxiv.org/abs/2502.11439)|null|
+|**2025-02-16**|**Integrating Language Models for Enhanced Network State Monitoring in DRL-Based SFC Provisioning**|Parisa Fard Moshiri et.al.|[2502.11298](http://arxiv.org/abs/2502.11298)|null|
+|**2025-02-16**|**AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**|Ming Xie et.al.|[2502.11158](http://arxiv.org/abs/2502.11158)|null|
+|**2025-02-15**|**Generalizable speech deepfake detection via meta-learned LoRA**|Janne Laakkonen et.al.|[2502.10838](http://arxiv.org/abs/2502.10838)|null|
+|**2025-02-15**|**Code-Mixed Telugu-English Hate Speech Detection**|Santhosh Kakarla et.al.|[2502.10632](http://arxiv.org/abs/2502.10632)|null|
+|**2025-02-14**|**Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG, LoRA and DoRA**|Mohammad Baqar et.al.|[2502.10497](http://arxiv.org/abs/2502.10497)|null|
 |**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
 |**2025-02-14**|**Precise Parameter Localization for Textual Generation in Diffusion Models**|Łukasz Staniszewski et.al.|[2502.09935](http://arxiv.org/abs/2502.09935)|null|
 |**2025-02-14**|**Port-LLM: A Port Prediction Method for Fluid Antenna based on Large Language Models**|Yali Zhang et.al.|[2502.09857](http://arxiv.org/abs/2502.09857)|null|
@@ -1169,6 +1185,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control**|Yutong Ye et.al.|[2502.11937](http://arxiv.org/abs/2502.11937)|null|
+|**2025-02-17**|**Warmup-Distill: Bridge the Distribution Mismatch between Teacher and Student before Knowledge Distillation**|Zengkui Sun et.al.|[2502.11766](http://arxiv.org/abs/2502.11766)|null|
+|**2025-02-17**|**Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?**|Leyi Pan et.al.|[2502.11598](http://arxiv.org/abs/2502.11598)|null|
+|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|null|
+|**2025-02-16**|**Smoothing Out Hallucinations: Mitigating LLM Hallucination with Smoothed Knowledge Distillation**|Hieu Nguyen et.al.|[2502.11306](http://arxiv.org/abs/2502.11306)|null|
+|**2025-02-16**|**Leveraging Conditional Mutual Information to Improve Large Language Model Fine-Tuning For Classification**|Thanushon Sivakaran et.al.|[2502.11258](http://arxiv.org/abs/2502.11258)|null|
+|**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|null|
+|**2025-02-16**|**Enhancing Cross-Tokenizer Knowledge Distillation with Contextual Dynamical Mapping**|Yijie Chen et.al.|[2502.11104](http://arxiv.org/abs/2502.11104)|null|
+|**2025-02-15**|**LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs**|Amit Roy et.al.|[2502.10914](http://arxiv.org/abs/2502.10914)|null|
+|**2025-02-15**|**OPTISHEAR: Towards Efficient and Adaptive Pruning of Large Language Models via Evolutionary Optimization**|Shuqi Liu et.al.|[2502.10735](http://arxiv.org/abs/2502.10735)|null|
 |**2025-02-14**|**Forget the Data and Fine-Tuning! Just Fold the Network to Compress**|Dong Wang et.al.|[2502.10216](http://arxiv.org/abs/2502.10216)|null|
 |**2025-02-14**|**Can Post-Training Quantization Benefit from an Additional QLoRA Integration?**|Xiliang Zhu et.al.|[2502.10202](http://arxiv.org/abs/2502.10202)|null|
 |**2025-02-13**|**Automatic Pruning via Structured Lasso with Class-wise Information**|Xiang Liu et.al.|[2502.09125](http://arxiv.org/abs/2502.09125)|null|
