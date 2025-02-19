@@ -247,6 +247,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**RTPD: Penetration Depth calculation using Hardware accelerated Ray-Tracing**|YoungWoo Kim et.al.|[2502.12463](http://arxiv.org/abs/2502.12463)|null|
+|**2025-02-18**|**TherAIssist: Assisting Art Therapy Homework and Client-Practitioner Collaboration through Human-AI Interaction**|Di Liu et.al.|[2502.12443](http://arxiv.org/abs/2502.12443)|null|
+|**2025-02-17**|**Gem5-AcceSys: Enabling System-Level Exploration of Standard Interconnects for Novel Accelerators**|Qunyou Liu et.al.|[2502.12273](http://arxiv.org/abs/2502.12273)|null|
 |**2025-02-17**|**SFTs: a scalable data-analysis framework for long-duration gravitational-wave signals**|Rodrigo Tenorio et.al.|[2502.11823](http://arxiv.org/abs/2502.11823)|null|
 |**2025-02-15**|**Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA**|Jindong Li et.al.|[2502.10659](http://arxiv.org/abs/2502.10659)|null|
 |**2025-02-13**|**Recipe: Hardware-Accelerated Replication Protocols**|Dimitra Giantsidi et.al.|[2502.09251](http://arxiv.org/abs/2502.09251)|null|
@@ -420,6 +423,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Fast Data Aware Neural Architecture Search via Supernet Accelerated Evaluation**|Emil Njor et.al.|[2502.12690](http://arxiv.org/abs/2502.12690)|null|
+|**2025-02-13**|**nanoML for Human Activity Recognition**|Alan T. L. Bacellar et.al.|[2502.12173](http://arxiv.org/abs/2502.12173)|null|
 |**2025-02-17**|**InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**|Habib Larian et.al.|[2502.11644](http://arxiv.org/abs/2502.11644)|null|
 |**2025-02-17**|**Biases in Edge Language Models: Detection, Analysis, and Mitigation**|Vinamra Sharma et.al.|[2502.11349](http://arxiv.org/abs/2502.11349)|null|
 |**2025-02-14**|**A Hybrid Edge Classifier: Combining TinyML-Optimised CNN with RRAM-CMOS ACAM for Energy-Efficient Inference**|Kieran Woodward et.al.|[2502.10089](http://arxiv.org/abs/2502.10089)|null|
@@ -600,6 +605,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning**|Sifan Zhou et.al.|[2502.12913](http://arxiv.org/abs/2502.12913)|null|
+|**2025-02-18**|**Boost, Disentangle, and Customize: A Robust System2-to-System1 Pipeline for Code Generation**|Kounianhua Du et.al.|[2502.12492](http://arxiv.org/abs/2502.12492)|null|
+|**2025-02-16**|**Efficient and Effective Prompt Tuning via Prompt Decomposition and Compressed Outer Product**|Pengxiang Lan et.al.|[2502.12200](http://arxiv.org/abs/2502.12200)|null|
 |**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
 |**2025-02-17**|**Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis**|Xu Wang et.al.|[2502.11812](http://arxiv.org/abs/2502.11812)|null|
 |**2025-02-17**|**DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning**|Huanxuan Liao et.al.|[2502.11482](http://arxiv.org/abs/2502.11482)|null|
@@ -1185,6 +1193,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**|Weizhe Yuan et.al.|[2502.13124](http://arxiv.org/abs/2502.13124)|null|
+|**2025-02-18**|**Does Training with Synthetic Data Truly Protect Privacy?**|Yunpeng Zhao et.al.|[2502.12976](http://arxiv.org/abs/2502.12976)|null|
+|**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/abs/2502.12947)|null|
+|**2025-02-18**|**Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models**|Neeraj Gangwar et.al.|[2502.12855](http://arxiv.org/abs/2502.12855)|null|
+|**2025-02-18**|**PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery**|Bowei He et.al.|[2502.12594](http://arxiv.org/abs/2502.12594)|null|
 |**2025-02-17**|**FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control**|Yutong Ye et.al.|[2502.11937](http://arxiv.org/abs/2502.11937)|null|
 |**2025-02-17**|**Warmup-Distill: Bridge the Distribution Mismatch between Teacher and Student before Knowledge Distillation**|Zengkui Sun et.al.|[2502.11766](http://arxiv.org/abs/2502.11766)|null|
 |**2025-02-17**|**Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?**|Leyi Pan et.al.|[2502.11598](http://arxiv.org/abs/2502.11598)|null|
