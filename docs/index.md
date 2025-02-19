@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -586,7 +586,7 @@ layout: default
 |**2025-02-17**|**DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning**|Huanxuan Liao et.al.|[2502.11482](http://arxiv.org/abs/2502.11482)|null|
 |**2025-02-17**|**An Efficient Row-Based Sparse Fine-Tuning**|Cen-Jhih Li et.al.|[2502.11439](http://arxiv.org/abs/2502.11439)|null|
 |**2025-02-16**|**Integrating Language Models for Enhanced Network State Monitoring in DRL-Based SFC Provisioning**|Parisa Fard Moshiri et.al.|[2502.11298](http://arxiv.org/abs/2502.11298)|null|
-|**2025-02-16**|**AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**|Ming Xie et.al.|[2502.11158](http://arxiv.org/abs/2502.11158)|null|
+|**2025-02-18**|**AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**|Ming Xie et.al.|[2502.11158](http://arxiv.org/abs/2502.11158)|null|
 |**2025-02-15**|**Generalizable speech deepfake detection via meta-learned LoRA**|Janne Laakkonen et.al.|[2502.10838](http://arxiv.org/abs/2502.10838)|null|
 |**2025-02-15**|**Code-Mixed Telugu-English Hate Speech Detection**|Santhosh Kakarla et.al.|[2502.10632](http://arxiv.org/abs/2502.10632)|null|
 |**2025-02-14**|**Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG, LoRA and DoRA**|Mohammad Baqar et.al.|[2502.10497](http://arxiv.org/abs/2502.10497)|null|
