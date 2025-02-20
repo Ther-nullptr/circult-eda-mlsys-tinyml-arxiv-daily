@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**PTQ1.61: Push the Real Limit of Extremely Low-Bit Post-Training Quantization Methods for Large Language Models**|Jiaqi Zhao et.al.|[2502.13179](http://arxiv.org/abs/2502.13179)|null|
+|**2025-02-18**|**Benchmarking Post-Training Quantization in LLMs: Comprehensive Taxonomy, Unified Evaluation, and Comparative Analysis**|Jiaqi Zhao et.al.|[2502.13178](http://arxiv.org/abs/2502.13178)|null|
 |**2025-02-17**|**Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models?**|Jacob Nielsen et.al.|[2502.11895](http://arxiv.org/abs/2502.11895)|null|
 |**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
 |**2025-02-14**|**Can Post-Training Quantization Benefit from an Additional QLoRA Integration?**|Xiliang Zhu et.al.|[2502.10202](http://arxiv.org/abs/2502.10202)|null|
@@ -140,6 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models**|Jun Zhang et.al.|[2502.13533](http://arxiv.org/abs/2502.13533)|null|
 |**2025-02-17**|**An Efficient Row-Based Sparse Fine-Tuning**|Cen-Jhih Li et.al.|[2502.11439](http://arxiv.org/abs/2502.11439)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Exploring Neural Network Pruning with Screening Methods**|Mingyuan Wang et.al.|[2502.07189](http://arxiv.org/abs/2502.07189)|null|
@@ -408,6 +411,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
+|**2025-02-19**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis**|Tianqing Wang et.al.|[2502.13805](http://arxiv.org/abs/2502.13805)|null|
+|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
 |**2025-02-18**|**Fast Data Aware Neural Architecture Search via Supernet Accelerated Evaluation**|Emil Njor et.al.|[2502.12690](http://arxiv.org/abs/2502.12690)|null|
 |**2025-02-13**|**nanoML for Human Activity Recognition**|Alan T. L. Bacellar et.al.|[2502.12173](http://arxiv.org/abs/2502.12173)|null|
 |**2025-02-17**|**InTec: integrated things-edge computing: a framework for distributing machine learning pipelines in edge AI systems**|Habib Larian et.al.|[2502.11644](http://arxiv.org/abs/2502.11644)|null|
@@ -586,6 +592,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**On the Duality between Gradient Transformations and Adapters**|Lucas Torroba-Hennigen et.al.|[2502.13811](http://arxiv.org/abs/2502.13811)|null|
+|**2025-02-19**|**Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method**|Juyuan Zhang et.al.|[2502.13725](http://arxiv.org/abs/2502.13725)|null|
+|**2025-02-19**|**BeamLoRA: Beam-Constraint Low-Rank Adaptation**|Naibin Gu et.al.|[2502.13604](http://arxiv.org/abs/2502.13604)|null|
+|**2025-02-19**|**LSR-Adapt: Ultra-Efficient Parameter Tuning with Matrix Low Separation Rank Kernel Adaptation**|Xin Li et.al.|[2502.13568](http://arxiv.org/abs/2502.13568)|null|
+|**2025-02-19**|**Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models**|Jun Zhang et.al.|[2502.13533](http://arxiv.org/abs/2502.13533)|null|
+|**2025-02-19**|**Towards Lightweight, Adaptive and Attribute-Aware Multi-Aspect Controllable Text Generation with Large Language Models**|Chenyu Zhu et.al.|[2502.13474](http://arxiv.org/abs/2502.13474)|null|
+|**2025-02-19**|**Dynamic directed functional connectivity as a neural biomarker for objective motor skill assessment**|Anil Kamat et.al.|[2502.13362](http://arxiv.org/abs/2502.13362)|null|
+|**2025-02-18**|**Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models**|Soumi Das et.al.|[2502.13313](http://arxiv.org/abs/2502.13313)|null|
 |**2025-02-18**|**GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning**|Sifan Zhou et.al.|[2502.12913](http://arxiv.org/abs/2502.12913)|null|
 |**2025-02-18**|**Boost, Disentangle, and Customize: A Robust System2-to-System1 Pipeline for Code Generation**|Kounianhua Du et.al.|[2502.12492](http://arxiv.org/abs/2502.12492)|null|
 |**2025-02-16**|**Efficient and Effective Prompt Tuning via Prompt Decomposition and Compressed Outer Product**|Pengxiang Lan et.al.|[2502.12200](http://arxiv.org/abs/2502.12200)|null|
@@ -1172,6 +1186,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Capturing Rich Behavior Representations: A Dynamic Action Semantic-Aware Graph Transformer for Video Captioning**|Caihua Liu et.al.|[2502.13754](http://arxiv.org/abs/2502.13754)|null|
+|**2025-02-19**|**JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework**|Ziyuan Liu et.al.|[2502.13407](http://arxiv.org/abs/2502.13407)|null|
 |**2025-02-18**|**NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions**|Weizhe Yuan et.al.|[2502.13124](http://arxiv.org/abs/2502.13124)|null|
 |**2025-02-18**|**Does Training with Synthetic Data Truly Protect Privacy?**|Yunpeng Zhao et.al.|[2502.12976](http://arxiv.org/abs/2502.12976)|null|
 |**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/abs/2502.12947)|null|
