@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -415,7 +415,7 @@ layout: default
 |**2025-02-14**|**A Hybrid Edge Classifier: Combining TinyML-Optimised CNN with RRAM-CMOS ACAM for Energy-Efficient Inference**|Kieran Woodward et.al.|[2502.10089](http://arxiv.org/abs/2502.10089)|null|
 |**2025-02-13**|**SteROI-D: System Design and Mapping for Stereo Depth Inference on Regions of Interest**|Jack Erhardt et.al.|[2502.09528](http://arxiv.org/abs/2502.09528)|null|
 |**2025-02-10**|**Runtime Tunable Tsetlin Machines for Edge Inference on eFPGAs**|Tousif Rahman et.al.|[2502.07823](http://arxiv.org/abs/2502.07823)|null|
-|**2025-02-13**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|**[link](https://github.com/arghadippurdue/xamba)**|
+|**2025-02-18**|**XAMBA: Enabling Efficient State Space Models on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06924](http://arxiv.org/abs/2502.06924)|**[link](https://github.com/arghadippurdue/xamba)**|
 |**2025-02-08**|**ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine**|Shengyu Duan et.al.|[2502.05640](http://arxiv.org/abs/2502.05640)|null|
 |**2025-02-07**|**Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance**|Alankrit Gupta et.al.|[2502.05384](http://arxiv.org/abs/2502.05384)|null|
 |**2025-02-08**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444](http://arxiv.org/abs/2502.02444)|null|
