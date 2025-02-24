@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -146,7 +146,7 @@ layout: default
 |**2025-02-19**|**MaskPrune: Mask-based LLM Pruning for Layer-wise Uniform Structures**|Jiayu Qin et.al.|[2502.14008](http://arxiv.org/abs/2502.14008)|null|
 |**2025-02-19**|**Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models**|Jun Zhang et.al.|[2502.13533](http://arxiv.org/abs/2502.13533)|**[link](https://github.com/junzhang-zj/LoRAM)**|
 |**2025-02-17**|**An Efficient Row-Based Sparse Fine-Tuning**|Cen-Jhih Li et.al.|[2502.11439](http://arxiv.org/abs/2502.11439)|null|
-|**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
+|**2025-02-21**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Exploring Neural Network Pruning with Screening Methods**|Mingyuan Wang et.al.|[2502.07189](http://arxiv.org/abs/2502.07189)|null|
 |**2025-02-11**|**EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models**|Xingrun Xing et.al.|[2502.06663](http://arxiv.org/abs/2502.06663)|null|
 |**2025-02-09**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|Wenjie Wei et.al.|[2502.05905](http://arxiv.org/abs/2502.05905)|null|
@@ -1197,7 +1197,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**Synergistic Fusion of Multi-Source Knowledge via Evidence Theory for High-Entropy Alloy Discovery**|Minh-Quyet Ha et.al.|[2502.14631](http://arxiv.org/abs/2502.14631)|null|
-|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining**|Wonhyeok Choi et.al.|[2502.14573](http://arxiv.org/abs/2502.14573)|null|
 |**2025-02-20**|**Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications**|Kayhan Behdin et.al.|[2502.14305](http://arxiv.org/abs/2502.14305)|null|
 |**2025-02-20**|**Designing Parameter and Compute Efficient Diffusion Transformers using Distillation**|Vignesh Sundaresha et.al.|[2502.14226](http://arxiv.org/abs/2502.14226)|null|
