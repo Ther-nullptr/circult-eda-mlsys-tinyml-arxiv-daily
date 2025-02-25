@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
+|**2025-02-17**|**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer**|Euntae Choi et.al.|[2502.15779](http://arxiv.org/abs/2502.15779)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|null|
 |**2025-02-21**|**LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design**|Renjie Wei et.al.|[2502.15260](http://arxiv.org/abs/2502.15260)|null|
@@ -157,6 +159,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|null|
+|**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
+|**2025-02-23**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
+|**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
 |**2025-02-21**|**Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing**|Qi Le et.al.|[2502.15618](http://arxiv.org/abs/2502.15618)|null|
 |**2025-02-19**|**EvoP: Robust LLM Inference via Evolutionary Pruning**|Shangyu Wu et.al.|[2502.14910](http://arxiv.org/abs/2502.14910)|null|
 |**2025-02-20**|**Towards Efficient Automatic Self-Pruning of Large Language Models**|Weizhong Huang et.al.|[2502.14413](http://arxiv.org/abs/2502.14413)|null|
@@ -258,6 +264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|null|
+|**2025-02-24**|**APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits**|Hyunjun Cho et.al.|[2502.16877](http://arxiv.org/abs/2502.16877)|null|
+|**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-20**|**Micro Blossom: Accelerated Minimum-Weight Perfect Matching Decoding for Quantum Error Correction**|Yue Wu et.al.|[2502.14787](http://arxiv.org/abs/2502.14787)|null|
 |**2025-02-18**|**RTPD: Penetration Depth calculation using Hardware accelerated Ray-Tracing**|YoungWoo Kim et.al.|[2502.12463](http://arxiv.org/abs/2502.12463)|null|
 |**2025-02-20**|**TherAIssist: Assisting Art Therapy Homework and Client-Practitioner Collaboration through Human-AI Interaction**|Di Liu et.al.|[2502.12443](http://arxiv.org/abs/2502.12443)|null|
@@ -435,6 +444,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
 |**2025-02-19**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis**|Tianqing Wang et.al.|[2502.13805](http://arxiv.org/abs/2502.13805)|null|
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
@@ -620,6 +630,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Function-Space Learning Rates**|Edward Milsom et.al.|[2502.17405](http://arxiv.org/abs/2502.17405)|null|
+|**2025-02-24**|**UrduLLaMA 1.0: Dataset Curation, Preprocessing, and Evaluation in Low-Resource Settings**|Layba Fiaz et.al.|[2502.16961](http://arxiv.org/abs/2502.16961)|null|
+|**2025-02-24**|**Design of a communication system Images for identification of vehicle plates**|Fabrizio Andre Farfán Prado et.al.|[2502.16909](http://arxiv.org/abs/2502.16909)|null|
+|**2025-02-24**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
+|**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575](http://arxiv.org/abs/2502.16575)|null|
+|**2025-02-22**|**Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect**|Jikang Deng et.al.|[2502.16179](http://arxiv.org/abs/2502.16179)|null|
+|**2025-02-22**|**MedForge: Building Medical Foundation Models Like Open Source Software Development**|Zheling Tan et.al.|[2502.16055](http://arxiv.org/abs/2502.16055)|null|
+|**2025-02-21**|**Sparsity May Be All You Need: Sparse Random Parameter Adaptation**|Jesus Rios et.al.|[2502.15975](http://arxiv.org/abs/2502.15975)|null|
 |**2025-02-21**|**Pastiche Novel Generation Creating: Fan Fiction You Love in Your Favorite Author's Style**|Xueran Han et.al.|[2502.15616](http://arxiv.org/abs/2502.15616)|null|
 |**2025-02-21**|**R-LoRA: Random Initialization of Multi-Head LoRA for Multi-Task Learning**|Jinda Liu et.al.|[2502.15455](http://arxiv.org/abs/2502.15455)|null|
 |**2025-02-21**|**Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning**|Raghav Singhal et.al.|[2502.15436](http://arxiv.org/abs/2502.15436)|**[link](https://github.com/CERT-Lab/fed-sb)**|
@@ -1228,6 +1246,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|null|
+|**2025-02-24**|**Implicit Word Reordering with Knowledge Distillation for Cross-Lingual Dependency Parsing**|Zhuoran Li et.al.|[2502.17308](http://arxiv.org/abs/2502.17308)|null|
+|**2025-02-24**|**Improving the Transferability of Adversarial Examples by Inverse Knowledge Distillation**|Wenyuan Wu et.al.|[2502.17003](http://arxiv.org/abs/2502.17003)|null|
+|**2025-02-24**|**PQDAST: Depth-Aware Arbitrary Style Transfer for Games via Perceptual Quality-Guided Distillation**|Eleftherios Ioannou et.al.|[2502.16996](http://arxiv.org/abs/2502.16996)|null|
+|**2025-02-24**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
+|**2025-02-24**|**A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition**|Dewan Tauhid Rahman et.al.|[2502.16762](http://arxiv.org/abs/2502.16762)|null|
+|**2025-02-23**|**EDocNet: Efficient Datasheet Layout Analysis Based on Focus and Global Knowledge Distillation**|Hong Cai Chen et.al.|[2502.16541](http://arxiv.org/abs/2502.16541)|null|
+|**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959](http://arxiv.org/abs/2502.15959)|null|
 |**2025-02-21**|**Scaling Sparse and Dense Retrieval in Decoder-Only LLMs**|Hansi Zeng et.al.|[2502.15526](http://arxiv.org/abs/2502.15526)|null|
 |**2025-02-21**|**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models**|Weilan Wang et.al.|[2502.15443](http://arxiv.org/abs/2502.15443)|null|
 |**2025-02-20**|**Optimizing Singular Spectrum for Large Language Model Compression**|Dengjie Li et.al.|[2502.15092](http://arxiv.org/abs/2502.15092)|null|
