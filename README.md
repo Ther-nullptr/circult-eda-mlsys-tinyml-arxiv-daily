@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -153,7 +153,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## Pruning
 
@@ -161,7 +161,7 @@
 |---|---|---|---|---|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
 |**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
-|**2025-02-23**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
+|**2025-02-26**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
 |**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
 |**2025-02-21**|**Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing**|Qi Le et.al.|[2502.15618](http://arxiv.org/abs/2502.15618)|**[link](https://github.com/qi-le1/probe_pruning)**|
 |**2025-02-19**|**EvoP: Robust LLM Inference via Evolutionary Pruning**|Shangyu Wu et.al.|[2502.14910](http://arxiv.org/abs/2502.14910)|null|
@@ -258,7 +258,7 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
@@ -438,7 +438,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## TinyML
 
@@ -576,7 +576,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -625,7 +625,7 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
@@ -633,12 +633,12 @@
 |---|---|---|---|---|
 |**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461](http://arxiv.org/abs/2502.18461)|null|
 |**2025-02-25**|**VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention**|Adnan Iltaf et.al.|[2502.18185](http://arxiv.org/abs/2502.18185)|null|
-|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-26**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-25**|**C-LoRA: Continual Low-Rank Adaptation for Pre-trained Models**|Xin Zhang et.al.|[2502.17920](http://arxiv.org/abs/2502.17920)|null|
 |**2025-02-24**|**Function-Space Learning Rates**|Edward Milsom et.al.|[2502.17405](http://arxiv.org/abs/2502.17405)|null|
 |**2025-02-24**|**UrduLLaMA 1.0: Dataset Curation, Preprocessing, and Evaluation in Low-Resource Settings**|Layba Fiaz et.al.|[2502.16961](http://arxiv.org/abs/2502.16961)|null|
 |**2025-02-24**|**Design of a communication system Images for identification of vehicle plates**|Fabrizio Andre Farfán Prado et.al.|[2502.16909](http://arxiv.org/abs/2502.16909)|null|
-|**2025-02-24**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
+|**2025-02-26**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
 |**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575](http://arxiv.org/abs/2502.16575)|null|
 |**2025-02-22**|**Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect**|Jikang Deng et.al.|[2502.16179](http://arxiv.org/abs/2502.16179)|null|
 |**2025-02-22**|**MedForge: Building Medical Foundation Models Like Open Source Software Development**|Zheling Tan et.al.|[2502.16055](http://arxiv.org/abs/2502.16055)|**[link](https://github.com/tanzheling/medforge)**|
@@ -1245,7 +1245,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## Model Compression
 
@@ -1935,7 +1935,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

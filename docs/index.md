@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -150,7 +150,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
 |**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
-|**2025-02-23**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
+|**2025-02-26**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
 |**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
 |**2025-02-21**|**Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing**|Qi Le et.al.|[2502.15618](http://arxiv.org/abs/2502.15618)|**[link](https://github.com/qi-le1/probe_pruning)**|
 |**2025-02-19**|**EvoP: Robust LLM Inference via Evolutionary Pruning**|Shangyu Wu et.al.|[2502.14910](http://arxiv.org/abs/2502.14910)|null|
@@ -614,12 +614,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461](http://arxiv.org/abs/2502.18461)|null|
 |**2025-02-25**|**VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention**|Adnan Iltaf et.al.|[2502.18185](http://arxiv.org/abs/2502.18185)|null|
-|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-26**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-25**|**C-LoRA: Continual Low-Rank Adaptation for Pre-trained Models**|Xin Zhang et.al.|[2502.17920](http://arxiv.org/abs/2502.17920)|null|
 |**2025-02-24**|**Function-Space Learning Rates**|Edward Milsom et.al.|[2502.17405](http://arxiv.org/abs/2502.17405)|null|
 |**2025-02-24**|**UrduLLaMA 1.0: Dataset Curation, Preprocessing, and Evaluation in Low-Resource Settings**|Layba Fiaz et.al.|[2502.16961](http://arxiv.org/abs/2502.16961)|null|
 |**2025-02-24**|**Design of a communication system Images for identification of vehicle plates**|Fabrizio Andre Farfán Prado et.al.|[2502.16909](http://arxiv.org/abs/2502.16909)|null|
-|**2025-02-24**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
+|**2025-02-26**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
 |**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575](http://arxiv.org/abs/2502.16575)|null|
 |**2025-02-22**|**Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect**|Jikang Deng et.al.|[2502.16179](http://arxiv.org/abs/2502.16179)|null|
 |**2025-02-22**|**MedForge: Building Medical Foundation Models Like Open Source Software Development**|Zheling Tan et.al.|[2502.16055](http://arxiv.org/abs/2502.16055)|**[link](https://github.com/tanzheling/medforge)**|
