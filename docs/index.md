@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -616,10 +616,10 @@ layout: default
 |**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416](http://arxiv.org/abs/2502.19416)|null|
 |**2025-02-26**|**CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**|Ping Zhang et.al.|[2502.18910](http://arxiv.org/abs/2502.18910)|null|
 |**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461](http://arxiv.org/abs/2502.18461)|null|
-|**2025-02-25**|**VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention**|Adnan Iltaf et.al.|[2502.18185](http://arxiv.org/abs/2502.18185)|null|
-|**2025-02-26**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-25**|**VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention**|Adnan Iltaf et.al.|[2502.18185](http://arxiv.org/abs/2502.18185)|**[link](https://github.com/adnan-cas/atrouslora)**|
+|**2025-02-27**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-25**|**C-LoRA: Continual Low-Rank Adaptation for Pre-trained Models**|Xin Zhang et.al.|[2502.17920](http://arxiv.org/abs/2502.17920)|null|
-|**2025-02-24**|**Function-Space Learning Rates**|Edward Milsom et.al.|[2502.17405](http://arxiv.org/abs/2502.17405)|null|
+|**2025-02-24**|**Function-Space Learning Rates**|Edward Milsom et.al.|[2502.17405](http://arxiv.org/abs/2502.17405)|**[link](https://github.com/edwardmilsom/function-space-learning-rates-paper)**|
 |**2025-02-24**|**UrduLLaMA 1.0: Dataset Curation, Preprocessing, and Evaluation in Low-Resource Settings**|Layba Fiaz et.al.|[2502.16961](http://arxiv.org/abs/2502.16961)|null|
 |**2025-02-24**|**Design of a communication system Images for identification of vehicle plates**|Fabrizio Andre Farfán Prado et.al.|[2502.16909](http://arxiv.org/abs/2502.16909)|null|
 |**2025-02-26**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
@@ -1235,7 +1235,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-25**|**AfroXLMR-Comet: Multilingual Knowledge Distillation with Attention Matching for Low-Resource languages**|Joshua Sakthivel Raju et.al.|[2502.18020](http://arxiv.org/abs/2502.18020)|null|
-|**2025-02-25**|**Advantage-Guided Distillation for Preference Alignment in Small Language Models**|Shiping Gao et.al.|[2502.17927](http://arxiv.org/abs/2502.17927)|null|
+|**2025-02-25**|**Advantage-Guided Distillation for Preference Alignment in Small Language Models**|Shiping Gao et.al.|[2502.17927](http://arxiv.org/abs/2502.17927)|**[link](https://github.com/slit-ai/adpa)**|
 |**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|null|
 |**2025-02-24**|**Knowledge Distillation with Training Wheels**|Guanlin Liu et.al.|[2502.17717](http://arxiv.org/abs/2502.17717)|null|
 |**2025-02-24**|**The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?**|Zhenheng Tang et.al.|[2502.17535](http://arxiv.org/abs/2502.17535)|null|
