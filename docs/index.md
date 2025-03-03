@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1240,8 +1240,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
 |**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
-|**2025-02-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
-|**2025-02-27**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
+|**2025-02-28**|**Behind the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
+|**2025-02-28**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
 |**2025-02-27**|**XCOMPS: A Multilingual Benchmark of Conceptual Minimal Pairs**|Linyang He et.al.|[2502.19737](http://arxiv.org/abs/2502.19737)|null|
 |**2025-02-26**|**Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in QA Agents**|Ashley Lewis et.al.|[2502.19545](http://arxiv.org/abs/2502.19545)|null|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
