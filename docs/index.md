@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Q&C: When Quantization Meets Cache in Efficient Image Generation**|Xin Ding et.al.|[2503.02508](http://arxiv.org/abs/2503.02508)|null|
+|**2025-02-28**|**Identifying Sensitive Weights via Post-quantization Integral**|Yuezhou Hu et.al.|[2503.01901](http://arxiv.org/abs/2503.01901)|null|
+|**2025-03-03**|**KurTail : Kurtosis-based LLM Quantization**|Mohammad Sadegh Akhondzadeh et.al.|[2503.01483](http://arxiv.org/abs/2503.01483)|null|
+|**2025-03-03**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
 |**2025-02-27**|**HALO: Hardware-aware quantization with low critical-path-delay weights for LLM acceleration**|Rohan Juneja et.al.|[2502.19662](http://arxiv.org/abs/2502.19662)|null|
 |**2025-02-26**|**Binary Neural Networks for Large Language Model: A Survey**|Liangdong Liu et.al.|[2502.19008](http://arxiv.org/abs/2502.19008)|null|
 |**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
@@ -253,6 +257,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**TFHE-SBC: Software Designs for Fully Homomorphic Encryption over the Torus on Single Board Computers**|Marin Matsumoto et.al.|[2503.02559](http://arxiv.org/abs/2503.02559)|null|
+|**2025-03-04**|**POPGym Arcade: Parallel Pixelated POMDPs**|Zekang Wang et.al.|[2503.01450](http://arxiv.org/abs/2503.01450)|**[link](https://github.com/bolt-research/popgym_arcade)**|
 |**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266](http://arxiv.org/abs/2502.21266)|null|
 |**2025-02-27**|**GreenDFL: a Framework for Assessing the Sustainability of Decentralized Federated Learning Systems**|Chao Feng et.al.|[2502.20242](http://arxiv.org/abs/2502.20242)|null|
 |**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|**[link](https://github.com/pulp-platform/carfield)**|
@@ -433,6 +439,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-03**|**Fine-Tuning Small Language Models for Domain-Specific AI: An Edge AI Perspective**|Rakshit Aralimatti et.al.|[2503.01933](http://arxiv.org/abs/2503.01933)|null|
+|**2025-03-03**|**Dendron: Enhancing Human Activity Recognition with On-Device TinyML Learning**|Hazem Hesham Yousef Shalby et.al.|[2503.01353](http://arxiv.org/abs/2503.01353)|null|
+|**2025-03-03**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
+|**2025-02-28**|**Transforming Cyber Defense: Harnessing Agentic and Frontier AI for Proactive, Ethical Threat Intelligence**|Krti Tallam et.al.|[2503.00164](http://arxiv.org/abs/2503.00164)|null|
+|**2025-02-26**|**AI and Semantic Communication for Infrastructure Monitoring in 6G-Driven Drone Swarms**|Tasnim Ahmed et.al.|[2503.00053](http://arxiv.org/abs/2503.00053)|null|
 |**2025-02-25**|**On-device edge learning for IoT data streams: a survey**|Afonso Lourenço et.al.|[2502.17788](http://arxiv.org/abs/2502.17788)|null|
 |**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
 |**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
@@ -616,6 +627,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**LoRA-Null: Low-Rank Adaptation via Null Space for Large Language Models**|Pengwei Tang et.al.|[2503.02659](http://arxiv.org/abs/2503.02659)|null|
+|**2025-03-04**|**Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction**|Xin Song et.al.|[2503.02542](http://arxiv.org/abs/2503.02542)|null|
+|**2025-03-04**|**AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking**|Iraklis Premptis et.al.|[2503.02443](http://arxiv.org/abs/2503.02443)|null|
+|**2025-03-04**|**Measuring Intrinsic Dimension of Token Embeddings**|Takuya Kataiwa et.al.|[2503.02142](http://arxiv.org/abs/2503.02142)|null|
+|**2025-03-03**|**CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom**|Yisen Li et.al.|[2503.01836](http://arxiv.org/abs/2503.01836)|**[link](https://github.com/listentm/crowdselect)**|
+|**2025-03-03**|**ECG-EmotionNet: Nested Mixture of Expert (NMoE) Adaptation of ECG-Foundation Model for Driver Emotion Recognition**|Nastaran Mansourian et.al.|[2503.01750](http://arxiv.org/abs/2503.01750)|null|
+|**2025-03-03**|**Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs**|Abdelrahman Abouelenin et.al.|[2503.01743](http://arxiv.org/abs/2503.01743)|null|
+|**2025-03-03**|**CoPL: Collaborative Preference Learning for Personalizing LLMs**|Youngbin Choi et.al.|[2503.01658](http://arxiv.org/abs/2503.01658)|null|
+|**2025-03-03**|**Liger: Linearizing Large Language Models to Gated Recurrent Structures**|Disen Lan et.al.|[2503.01496](http://arxiv.org/abs/2503.01496)|null|
+|**2025-03-03**|**Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace**|Jia-Chen Zhang et.al.|[2503.01419](http://arxiv.org/abs/2503.01419)|null|
 |**2025-02-28**|**Unsupervised Parameter Efficient Source-free Post-pretraining**|Abhishek Jha et.al.|[2502.21313](http://arxiv.org/abs/2502.21313)|null|
 |**2025-02-28**|**RuCCoD: Towards Automated ICD Coding in Russian**|Aleksandr Nesterov et.al.|[2502.21263](http://arxiv.org/abs/2502.21263)|null|
 |**2025-02-28**|**Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**|Weixiang Zhao et.al.|[2502.20968](http://arxiv.org/abs/2502.20968)|null|
@@ -1244,6 +1265,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**10K is Enough: An Ultra-Lightweight Binarized Network for Infrared Small-Target Detection**|Biqiao Xin et.al.|[2503.02662](http://arxiv.org/abs/2503.02662)|null|
+|**2025-03-04**|**It Helps to Take a Second Opinion: Teaching Smaller LLMs to Deliberate Mutually via Selective Rationale Optimisation**|Sohan Patnaik et.al.|[2503.02463](http://arxiv.org/abs/2503.02463)|null|
+|**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
+|**2025-03-03**|**Mamba base PKD for efficient knowledge compression**|José Medina et.al.|[2503.01727](http://arxiv.org/abs/2503.01727)|null|
+|**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
+|**2025-03-03**|**Revisiting Large Language Model Pruning using Neuron Semantic Attribution**|Yizhuo Ding et.al.|[2503.01542](http://arxiv.org/abs/2503.01542)|null|
+|**2025-03-01**|**SGC-Net: Stratified Granular Comparison Network for Open-Vocabulary HOI Detection**|Xin Lin et.al.|[2503.00414](http://arxiv.org/abs/2503.00414)|null|
+|**2025-03-01**|**Energy-Efficient Edge Inference in Integrated Sensing, Communication, and Computation Networks**|Jiacheng Yao et.al.|[2503.00298](http://arxiv.org/abs/2503.00298)|null|
 |**2025-02-28**|**Real-Time Aerial Fire Detection on Resource-Constrained Devices Using Knowledge Distillation**|Sabina Jangirova et.al.|[2502.20979](http://arxiv.org/abs/2502.20979)|null|
 |**2025-02-28**|**VRM: Knowledge Distillation via Virtual Relation Matching**|Weijia Zhang et.al.|[2502.20760](http://arxiv.org/abs/2502.20760)|null|
 |**2025-02-27**|**SEKI: Self-Evolution and Knowledge Inspiration based Neural Architecture Search via Large Language Models**|Zicheng Cai et.al.|[2502.20422](http://arxiv.org/abs/2502.20422)|null|
