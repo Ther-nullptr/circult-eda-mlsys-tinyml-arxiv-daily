@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**AHCPTQ: Accurate and Hardware-Compatible Post-Training Quantization for Segment Anything Model**|Wenlun Zhang et.al.|[2503.03088](http://arxiv.org/abs/2503.03088)|null|
 |**2025-03-04**|**Q&C: When Quantization Meets Cache in Efficient Image Generation**|Xin Ding et.al.|[2503.02508](http://arxiv.org/abs/2503.02508)|null|
 |**2025-02-28**|**Identifying Sensitive Weights via Post-quantization Integral**|Yuezhou Hu et.al.|[2503.01901](http://arxiv.org/abs/2503.01901)|null|
 |**2025-03-03**|**KurTail : Kurtosis-based LLM Quantization**|Mohammad Sadegh Akhondzadeh et.al.|[2503.01483](http://arxiv.org/abs/2503.01483)|null|
@@ -270,6 +271,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**DiRe-JAX: A JAX based Dimensionality Reduction Algorithm for Large-scale Data**|Alexander Kolpakov et.al.|[2503.03156](http://arxiv.org/abs/2503.03156)|null|
+|**2025-02-26**|**Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies**|Shaibal Saha et.al.|[2503.02891](http://arxiv.org/abs/2503.02891)|null|
 |**2025-03-04**|**TFHE-SBC: Software Designs for Fully Homomorphic Encryption over the Torus on Single Board Computers**|Marin Matsumoto et.al.|[2503.02559](http://arxiv.org/abs/2503.02559)|null|
 |**2025-03-04**|**POPGym Arcade: Parallel Pixelated POMDPs**|Zekang Wang et.al.|[2503.01450](http://arxiv.org/abs/2503.01450)|**[link](https://github.com/bolt-research/popgym_arcade)**|
 |**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266](http://arxiv.org/abs/2502.21266)|null|
@@ -646,6 +649,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Improving Neutral Point of View Text Generation through Parameter-Efficient Reinforcement Learning and a Small-Scale High-Quality Dataset**|Jessica Hoffmann et.al.|[2503.03654](http://arxiv.org/abs/2503.03654)|null|
+|**2025-03-05**|**WarmFed: Federated Learning with Warm-Start for Globalization and Personalization Via Personalized Diffusion Models**|Tao Feng et.al.|[2503.03110](http://arxiv.org/abs/2503.03110)|null|
 |**2025-03-04**|**LoRA-Null: Low-Rank Adaptation via Null Space for Large Language Models**|Pengwei Tang et.al.|[2503.02659](http://arxiv.org/abs/2503.02659)|null|
 |**2025-03-04**|**Efficient Long Sequential Low-rank Adaptive Attention for Click-through rate Prediction**|Xin Song et.al.|[2503.02542](http://arxiv.org/abs/2503.02542)|null|
 |**2025-03-04**|**AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking**|Iraklis Premptis et.al.|[2503.02443](http://arxiv.org/abs/2503.02443)|null|
@@ -1286,6 +1291,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
+|**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
+|**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144](http://arxiv.org/abs/2503.03144)|null|
 |**2025-03-05**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
 |**2025-03-04**|**10K is Enough: An Ultra-Lightweight Binarized Network for Infrared Small-Target Detection**|Biqiao Xin et.al.|[2503.02662](http://arxiv.org/abs/2503.02662)|null|
 |**2025-03-04**|**It Helps to Take a Second Opinion: Teaching Smaller LLMs to Deliberate Mutually via Selective Rationale Optimisation**|Sohan Patnaik et.al.|[2503.02463](http://arxiv.org/abs/2503.02463)|null|
