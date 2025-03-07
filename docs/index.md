@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -258,7 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-05**|**DiRe-JAX: A JAX based Dimensionality Reduction Algorithm for Large-scale Data**|Alexander Kolpakov et.al.|[2503.03156](http://arxiv.org/abs/2503.03156)|null|
+|**2025-03-06**|**DiRe-JAX: A JAX based Dimensionality Reduction Algorithm for Large-scale Data**|Alexander Kolpakov et.al.|[2503.03156](http://arxiv.org/abs/2503.03156)|null|
 |**2025-02-26**|**Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies**|Shaibal Saha et.al.|[2503.02891](http://arxiv.org/abs/2503.02891)|null|
 |**2025-03-04**|**TFHE-SBC: Software Designs for Fully Homomorphic Encryption over the Torus on Single Board Computers**|Marin Matsumoto et.al.|[2503.02559](http://arxiv.org/abs/2503.02559)|null|
 |**2025-03-04**|**POPGym Arcade: Parallel Pixelated POMDPs**|Zekang Wang et.al.|[2503.01450](http://arxiv.org/abs/2503.01450)|**[link](https://github.com/bolt-research/popgym_arcade)**|
