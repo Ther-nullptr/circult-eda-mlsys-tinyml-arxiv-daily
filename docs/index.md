@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -265,7 +265,7 @@ layout: default
 |**2025-03-04**|**TFHE-SBC: Software Designs for Fully Homomorphic Encryption over the Torus on Single Board Computers**|Marin Matsumoto et.al.|[2503.02559](http://arxiv.org/abs/2503.02559)|null|
 |**2025-03-04**|**POPGym Arcade: Parallel Pixelated POMDPs**|Zekang Wang et.al.|[2503.01450](http://arxiv.org/abs/2503.01450)|**[link](https://github.com/bolt-research/popgym_arcade)**|
 |**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266](http://arxiv.org/abs/2502.21266)|null|
-|**2025-02-27**|**GreenDFL: a Framework for Assessing the Sustainability of Decentralized Federated Learning Systems**|Chao Feng et.al.|[2502.20242](http://arxiv.org/abs/2502.20242)|null|
+|**2025-03-07**|**GreenDFL: a Framework for Assessing the Sustainability of Decentralized Federated Learning Systems**|Chao Feng et.al.|[2502.20242](http://arxiv.org/abs/2502.20242)|null|
 |**2025-02-24**|**Evaluating IOMMU-Based Shared Virtual Addressing for RISC-V Embedded Heterogeneous SoCs**|Cyril Koenig et.al.|[2502.17398](http://arxiv.org/abs/2502.17398)|**[link](https://github.com/pulp-platform/carfield)**|
 |**2025-02-24**|**APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits**|Hyunjun Cho et.al.|[2502.16877](http://arxiv.org/abs/2502.16877)|null|
 |**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[2502.16141](http://arxiv.org/abs/2502.16141)|null|
@@ -635,7 +635,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-06**|**TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models**|Xinyi He et.al.|[2503.04396](http://arxiv.org/abs/2503.04396)|null|
-|**2025-03-06**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|null|
+|**2025-03-07**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|null|
 |**2025-03-06**|**Continual Optimization with Symmetry Teleportation for Multi-Task Learning**|Zhipeng Zhou et.al.|[2503.04046](http://arxiv.org/abs/2503.04046)|null|
 |**2025-03-05**|**Personalized Federated Fine-tuning for Heterogeneous Data: An Automatic Rank Learning Approach via Two-Level LoRA**|Jie Hao et.al.|[2503.03920](http://arxiv.org/abs/2503.03920)|null|
 |**2025-03-05**|**Improving Neutral Point of View Text Generation through Parameter-Efficient Reinforcement Learning and a Small-Scale High-Quality Dataset**|Jessica Hoffmann et.al.|[2503.03654](http://arxiv.org/abs/2503.03654)|null|
@@ -1278,7 +1278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-06**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
+|**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-06**|**CrowdHMTware: A Cross-level Co-adaptation Middleware for Context-aware Mobile DL Deployment**|Sicong Liu et.al.|[2503.04183](http://arxiv.org/abs/2503.04183)|null|
 |**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
 |**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
