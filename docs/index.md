@@ -444,6 +444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Compliance of AI Systems**|Julius Schöning et.al.|[2503.05571](http://arxiv.org/abs/2503.05571)|null|
 |**2025-03-06**|**Dynamic Pricing for On-Demand DNN Inference in the Edge-AI Market**|Songyuan Li et.al.|[2503.04521](http://arxiv.org/abs/2503.04521)|null|
 |**2025-03-03**|**Fine-Tuning Small Language Models for Domain-Specific AI: An Edge AI Perspective**|Rakshit Aralimatti et.al.|[2503.01933](http://arxiv.org/abs/2503.01933)|null|
 |**2025-03-03**|**Dendron: Enhancing Human Activity Recognition with On-Device TinyML Learning**|Hazem Hesham Yousef Shalby et.al.|[2503.01353](http://arxiv.org/abs/2503.01353)|null|
@@ -634,6 +635,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
+|**2025-03-07**|**Nuanced Safety for Generative AI: How Demographics Shape Responsiveness to Severity**|Pushkar Mishra et.al.|[2503.05609](http://arxiv.org/abs/2503.05609)|null|
+|**2025-03-07**|**Quantum-PEFT: Ultra parameter-efficient fine-tuning**|Toshiaki Koike-Akino et.al.|[2503.05431](http://arxiv.org/abs/2503.05431)|null|
+|**2025-03-07**|**LoRACode: LoRA Adapters for Code Embeddings**|Saumya Chaturvedi et.al.|[2503.05315](http://arxiv.org/abs/2503.05315)|null|
+|**2025-03-06**|**Wanda++: Pruning Large Language Models via Regional Gradients**|Yifan Yang et.al.|[2503.04992](http://arxiv.org/abs/2503.04992)|null|
+|**2025-03-06**|**Fine-Tuning Florence2 for Enhanced Object Detection in Un-constructed Environments: Vision-Language Model Approach**|Soumyadeep Ro et.al.|[2503.04918](http://arxiv.org/abs/2503.04918)|null|
+|**2025-03-05**|**Enhancing Collective Intelligence in Large Language Models Through Emotional Integration**|Likith Kadiyala et.al.|[2503.04849](http://arxiv.org/abs/2503.04849)|null|
 |**2025-03-06**|**TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models**|Xinyi He et.al.|[2503.04396](http://arxiv.org/abs/2503.04396)|null|
 |**2025-03-07**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|null|
 |**2025-03-06**|**Continual Optimization with Symmetry Teleportation for Multi-Task Learning**|Zhipeng Zhou et.al.|[2503.04046](http://arxiv.org/abs/2503.04046)|null|
@@ -1278,6 +1286,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning**|Run He et.al.|[2503.05423](http://arxiv.org/abs/2503.05423)|null|
+|**2025-03-07**|**Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification**|Dingkun Liu et.al.|[2503.05349](http://arxiv.org/abs/2503.05349)|null|
+|**2025-03-07**|**Similarity-Based Domain Adaptation with LLMs**|Jie He et.al.|[2503.05281](http://arxiv.org/abs/2503.05281)|null|
+|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982](http://arxiv.org/abs/2503.04982)|null|
+|**2025-03-06**|**TinyR1-32B-Preview: Boosting Accuracy with Branch-Merge Distillation**|Lin Sun et.al.|[2503.04872](http://arxiv.org/abs/2503.04872)|null|
+|**2025-03-05**|**ZAugNet for Z-Slice Augmentation in Bio-Imaging**|Alessandro Pasqui et.al.|[2503.04843](http://arxiv.org/abs/2503.04843)|null|
 |**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-06**|**CrowdHMTware: A Cross-level Co-adaptation Middleware for Context-aware Mobile DL Deployment**|Sicong Liu et.al.|[2503.04183](http://arxiv.org/abs/2503.04183)|null|
 |**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
