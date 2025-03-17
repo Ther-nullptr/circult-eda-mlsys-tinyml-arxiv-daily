@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Stabilizing Quantization-Aware Training by Implicit-Regularization on Hessian Matrix**|Junbiao Pang et.al.|[2503.11159](http://arxiv.org/abs/2503.11159)|null|
+|**2025-03-13**|**OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models**|Akshat Ramachandran et.al.|[2503.10959](http://arxiv.org/abs/2503.10959)|null|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
 |**2025-03-10**|**QuantU-Net: Efficient Wearable Medical Imaging Using Bitwidth as a Trainable Parameter**|Christiaan Boerkamp et.al.|[2503.08719](http://arxiv.org/abs/2503.08719)|null|
 |**2025-03-10**|**Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping**|Ning Ding et.al.|[2503.06930](http://arxiv.org/abs/2503.06930)|null|
@@ -170,6 +172,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity**|Chi Xu et.al.|[2503.11164](http://arxiv.org/abs/2503.11164)|null|
 |**2025-03-12**|**Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization**|Guanchen Li et.al.|[2503.09657](http://arxiv.org/abs/2503.09657)|null|
 |**2025-03-08**|**Sample-aware Adaptive Structured Pruning for Large Language Models**|Jun Kong et.al.|[2503.06184](http://arxiv.org/abs/2503.06184)|null|
 |**2025-03-07**|**IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining**|Yixiao Li et.al.|[2503.05920](http://arxiv.org/abs/2503.05920)|null|
@@ -279,6 +282,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution**|Pelle van de Bor et.al.|[2503.10736](http://arxiv.org/abs/2503.10736)|null|
 |**2025-03-12**|**Hardware.jl - An MLIR-based Julia HLS Flow (Work in Progress)**|Benedict Short et.al.|[2503.09463](http://arxiv.org/abs/2503.09463)|null|
 |**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|**[link](https://github.com/valeoai/v-max)**|
@@ -672,6 +676,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
+|**2025-03-13**|**Phishsense-1B: A Technical Perspective on an AI-Powered Phishing Detection Model**|SE Blake et.al.|[2503.10944](http://arxiv.org/abs/2503.10944)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
 |**2025-03-13**|**Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models**|Andy Zhou et.al.|[2503.10617](http://arxiv.org/abs/2503.10617)|null|
 |**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
@@ -1357,6 +1363,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Exploring Performance-Complexity Trade-Offs in Sound Event Detection**|Tobias Morocutti et.al.|[2503.11373](http://arxiv.org/abs/2503.11373)|null|
+|**2025-03-14**|**Creating a Good Teacher for Knowledge Distillation in Acoustic Scene Classification**|Tobias Morocutti et.al.|[2503.11363](http://arxiv.org/abs/2503.11363)|null|
+|**2025-03-14**|**Enabling Weak Client Participation via On-device Knowledge Distillation in Heterogenous Federated Learning**|Jihyun Lim et.al.|[2503.11151](http://arxiv.org/abs/2503.11151)|null|
 |**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878](http://arxiv.org/abs/2503.09878)|null|
 |**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
 |**2025-03-12**|**xVLM2Vec: Adapting LVLM-based embedding models to multilinguality using Self-Knowledge Distillation**|Elio Musacchio et.al.|[2503.09313](http://arxiv.org/abs/2503.09313)|null|
