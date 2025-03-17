@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -268,7 +268,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-12**|**Hardware.jl - An MLIR-based Julia HLS Flow (Work in Progress)**|Benedict Short et.al.|[2503.09463](http://arxiv.org/abs/2503.09463)|null|
 |**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
-|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|null|
+|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|**[link](https://github.com/valeoai/v-max)**|
 |**2025-03-10**|**Hardware acceleration for next-to-leading order event generation within MadGraph5_aMC@NLO**|Zenny Wettersten et.al.|[2503.07439](http://arxiv.org/abs/2503.07439)|null|
 |**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629](http://arxiv.org/abs/2503.06629)|null|
 |**2025-03-08**|**Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models**|Xubin Wang et.al.|[2503.06027](http://arxiv.org/abs/2503.06027)|null|
@@ -653,7 +653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
 |**2025-03-13**|**Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models**|Andy Zhou et.al.|[2503.10617](http://arxiv.org/abs/2503.10617)|null|
 |**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
 |**2025-03-13**|**Piece it Together: Part-Based Concepting with IP-Priors**|Elad Richardson et.al.|[2503.10365](http://arxiv.org/abs/2503.10365)|null|
