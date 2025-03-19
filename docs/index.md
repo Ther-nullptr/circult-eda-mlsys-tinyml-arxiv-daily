@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -162,7 +162,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-14**|**Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity**|Chi Xu et.al.|[2503.11164](http://arxiv.org/abs/2503.11164)|null|
-|**2025-03-12**|**Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization**|Guanchen Li et.al.|[2503.09657](http://arxiv.org/abs/2503.09657)|null|
+|**2025-03-18**|**Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization**|Guanchen Li et.al.|[2503.09657](http://arxiv.org/abs/2503.09657)|null|
 |**2025-03-08**|**Sample-aware Adaptive Structured Pruning for Large Language Models**|Jun Kong et.al.|[2503.06184](http://arxiv.org/abs/2503.06184)|null|
 |**2025-03-07**|**IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining**|Yixiao Li et.al.|[2503.05920](http://arxiv.org/abs/2503.05920)|null|
 |**2025-03-06**|**How can representation dimension dominate structurally pruned LLMs?**|Mingxue Xu et.al.|[2503.04377](http://arxiv.org/abs/2503.04377)|null|
