@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
 |**2025-03-14**|**Stabilizing Quantization-Aware Training by Implicit-Regularization on Hessian Matrix**|Junbiao Pang et.al.|[2503.11159](http://arxiv.org/abs/2503.11159)|null|
 |**2025-03-13**|**OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models**|Akshat Ramachandran et.al.|[2503.10959](http://arxiv.org/abs/2503.10959)|null|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
@@ -161,6 +162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|null|
 |**2025-03-14**|**Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity**|Chi Xu et.al.|[2503.11164](http://arxiv.org/abs/2503.11164)|null|
 |**2025-03-18**|**Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization**|Guanchen Li et.al.|[2503.09657](http://arxiv.org/abs/2503.09657)|null|
 |**2025-03-08**|**Sample-aware Adaptive Structured Pruning for Large Language Models**|Jun Kong et.al.|[2503.06184](http://arxiv.org/abs/2503.06184)|null|
@@ -269,6 +271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**QEA: An Accelerator for Quantum Circuit Simulation with Resources Efficiency and Flexibility**|Van Duy Tran et.al.|[2503.14951](http://arxiv.org/abs/2503.14951)|null|
 |**2025-03-17**|**Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms**|Elif Dicle Demir et.al.|[2503.12952](http://arxiv.org/abs/2503.12952)|null|
 |**2025-03-12**|**EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer**|Yi Chen et.al.|[2503.11707](http://arxiv.org/abs/2503.11707)|null|
 |**2025-03-13**|**Bridging Machine Learning and Cosmological Simulations: Using Neural Operators to emulate Chemical Evolution**|Pelle van de Bor et.al.|[2503.10736](http://arxiv.org/abs/2503.10736)|null|
@@ -463,6 +466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|null|
 |**2025-03-17**|**Semantic-Relevance Based Sensor Selection for Edge-AI Empowered Sensing Systems**|Zhiyan Liu et.al.|[2503.12785](http://arxiv.org/abs/2503.12785)|null|
 |**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
 |**2025-03-04**|**CORDIC Is All You Need**|Omkar Kokane et.al.|[2503.11685](http://arxiv.org/abs/2503.11685)|null|
@@ -663,6 +667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**|Ziyao Wang et.al.|[2503.14932](http://arxiv.org/abs/2503.14932)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-17**|**Atyaephyra at SemEval-2025 Task 4: Low-Rank NPO**|Jan Bronec et.al.|[2503.13690](http://arxiv.org/abs/2503.13690)|null|
 |**2025-03-17**|**Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model**|Kai Tong et.al.|[2503.13575](http://arxiv.org/abs/2503.13575)|null|
@@ -1361,9 +1366,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-19**|**Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|[2503.14975](http://arxiv.org/abs/2503.14975)|null|
 |**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
 |**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097](http://arxiv.org/abs/2503.14097)|null|
-|**2025-03-18**|**Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection**|Chunlei Li et.al.|[2503.13828](http://arxiv.org/abs/2503.13828)|null|
+|**2025-03-18**|**Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection**|Chunlei Li et.al.|[2503.13828](http://arxiv.org/abs/2503.13828)|**[link](https://github.com/medaitech/scrd4ad)**|
 |**2025-03-17**|**DynSTG-Mamba: Dynamic Spatio-Temporal Graph Mamba with Cross-Graph Knowledge Distillation for Gait Disorders Recognition**|Zakariae Zrimek et.al.|[2503.13156](http://arxiv.org/abs/2503.13156)|null|
 |**2025-03-17**|**ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning**|Baohao Liao et.al.|[2503.13089](http://arxiv.org/abs/2503.13089)|null|
 |**2025-03-17**|**Historic Scripts to Modern Vision: A Novel Dataset and A VLM Framework for Transliteration of Modi Script to Devanagari**|Harshal Kausadikar et.al.|[2503.13060](http://arxiv.org/abs/2503.13060)|null|
