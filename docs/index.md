@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-19**|**PARQ: Piecewise-Affine Regularized Quantization**|Lisa Jin et.al.|[2503.15748](http://arxiv.org/abs/2503.15748)|null|
-|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
+|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|**[link](https://github.com/cccrrrccc/fp4dit)**|
 |**2025-03-14**|**Stabilizing Quantization-Aware Training by Implicit-Regularization on Hessian Matrix**|Junbiao Pang et.al.|[2503.11159](http://arxiv.org/abs/2503.11159)|null|
 |**2025-03-13**|**OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models**|Akshat Ramachandran et.al.|[2503.10959](http://arxiv.org/abs/2503.10959)|null|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
@@ -164,7 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|null|
+|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|**[link](https://github.com/western-oc2-lab/evci-pruning)**|
 |**2025-03-14**|**Towards Extreme Pruning of LLMs with Plug-and-Play Mixed Sparsity**|Chi Xu et.al.|[2503.11164](http://arxiv.org/abs/2503.11164)|null|
 |**2025-03-18**|**Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization**|Guanchen Li et.al.|[2503.09657](http://arxiv.org/abs/2503.09657)|null|
 |**2025-03-08**|**Sample-aware Adaptive Structured Pruning for Large Language Models**|Jun Kong et.al.|[2503.06184](http://arxiv.org/abs/2503.06184)|null|
@@ -273,6 +274,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
+|**2025-03-20**|**Accelerating Transformer Inference and Training with 2:4 Activation Sparsity**|Daniel Haziza et.al.|[2503.16672](http://arxiv.org/abs/2503.16672)|null|
+|**2025-03-20**|**Explainable AI-Guided Efficient Approximate DNN Generation for Multi-Pod Systolic Arrays**|Ayesha Siddique et.al.|[2503.16583](http://arxiv.org/abs/2503.16583)|null|
 |**2025-03-19**|**QEA: An Accelerator for Quantum Circuit Simulation with Resources Efficiency and Flexibility**|Van Duy Tran et.al.|[2503.14951](http://arxiv.org/abs/2503.14951)|**[link](https://github.com/NAIST-Archlab/fast-psr)**|
 |**2025-03-17**|**Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms**|Elif Dicle Demir et.al.|[2503.12952](http://arxiv.org/abs/2503.12952)|null|
 |**2025-03-12**|**EDEA: Efficient Dual-Engine Accelerator for Depthwise Separable Convolution with Direct Data Transfer**|Yi Chen et.al.|[2503.11707](http://arxiv.org/abs/2503.11707)|null|
@@ -468,7 +472,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
+|**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939](http://arxiv.org/abs/2503.16939)|null|
+|**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|null|
+|**2025-03-19**|**Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure**|Fatemeh Dehrouyeh et.al.|[2503.14799](http://arxiv.org/abs/2503.14799)|**[link](https://github.com/western-oc2-lab/evci-pruning)**|
 |**2025-03-17**|**Semantic-Relevance Based Sensor Selection for Edge-AI Empowered Sensing Systems**|Zhiyan Liu et.al.|[2503.12785](http://arxiv.org/abs/2503.12785)|null|
 |**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
 |**2025-03-04**|**CORDIC Is All You Need**|Omkar Kokane et.al.|[2503.11685](http://arxiv.org/abs/2503.11685)|null|
@@ -669,9 +676,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need**|Adam Karvonen et.al.|[2503.17272](http://arxiv.org/abs/2503.17272)|null|
+|**2025-03-21**|**TRACE: Time SeRies PArameter EffiCient FinE-tuning**|Yuze Li et.al.|[2503.16991](http://arxiv.org/abs/2503.16991)|null|
+|**2025-03-21**|**HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis**|Mengtian Li et.al.|[2503.16944](http://arxiv.org/abs/2503.16944)|null|
+|**2025-03-21**|**LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models**|Jian Liang et.al.|[2503.16843](http://arxiv.org/abs/2503.16843)|null|
 |**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
-|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
-|**2025-03-20**|**SALT: Singular Value Adaptation with Low-Rank Transformation**|Abdelrahman Elsayed et.al.|[2503.16055](http://arxiv.org/abs/2503.16055)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|**[link](https://github.com/huage001/urae)**|
+|**2025-03-20**|**SALT: Singular Value Adaptation with Low-Rank Transformation**|Abdelrahman Elsayed et.al.|[2503.16055](http://arxiv.org/abs/2503.16055)|**[link](https://github.com/biomedia-mbzuai/salt)**|
 |**2025-03-20**|**Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras**|Beilei Cui et.al.|[2503.15917](http://arxiv.org/abs/2503.15917)|null|
 |**2025-03-19**|**Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**|Ziyao Wang et.al.|[2503.14932](http://arxiv.org/abs/2503.14932)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
@@ -1372,6 +1383,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336](http://arxiv.org/abs/2503.17336)|null|
+|**2025-03-21**|**Large Language Model Compression via the Nested Activation-Aware Decomposition**|Jun Lu et.al.|[2503.17101](http://arxiv.org/abs/2503.17101)|null|
+|**2025-03-21**|**Distilling Monocular Foundation Model for Fine-grained Depth Completion**|Yingping Liang et.al.|[2503.16970](http://arxiv.org/abs/2503.16970)|null|
+|**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[2503.16916](http://arxiv.org/abs/2503.16916)|null|
+|**2025-03-21**|**Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs**|Anshumann et.al.|[2503.16870](http://arxiv.org/abs/2503.16870)|null|
+|**2025-03-21**|**City2Scene: Improving Acoustic Scene Classification with City Features**|Yiqiang Cai et.al.|[2503.16862](http://arxiv.org/abs/2503.16862)|null|
+|**2025-03-20**|**Bezier Distillation**|Ling Feng et.al.|[2503.16562](http://arxiv.org/abs/2503.16562)|null|
 |**2025-03-20**|**Federated Quantum-Train Long Short-Term Memory for Gravitational Wave Signal**|Chen-Yu Liu et.al.|[2503.16049](http://arxiv.org/abs/2503.16049)|null|
 |**2025-03-20**|**InhibiDistilbert: Knowledge Distillation for a ReLU and Addition-based Transformer**|Tony Zhang et.al.|[2503.15983](http://arxiv.org/abs/2503.15983)|null|
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
