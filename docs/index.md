@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
-|**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
+|**2025-03-22**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-19**|**PARQ: Piecewise-Affine Regularized Quantization**|Lisa Jin et.al.|[2503.15748](http://arxiv.org/abs/2503.15748)|null|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|**[link](https://github.com/cccrrrccc/fp4dit)**|
 |**2025-03-14**|**Stabilizing Quantization-Aware Training by Implicit-Regularization on Hessian Matrix**|Junbiao Pang et.al.|[2503.11159](http://arxiv.org/abs/2503.11159)|null|
