@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
+|**2025-03-24**|**GranQ: Granular Zero-Shot Quantization with Unified Layer-Channel Awareness**|Inpyo Hong et.al.|[2503.18339](http://arxiv.org/abs/2503.18339)|null|
 |**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
 |**2025-03-22**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-19**|**PARQ: Piecewise-Affine Regularized Quantization**|Lisa Jin et.al.|[2503.15748](http://arxiv.org/abs/2503.15748)|null|
@@ -274,6 +276,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**Reliable Replication Protocols on SmartNICs**|M. R. Siavash Katebzadeh et.al.|[2503.18093](http://arxiv.org/abs/2503.18093)|null|
+|**2025-03-21**|**Hardware Acceleration for HPS Algorithms in Two and Three Dimensions**|Owen Melia et.al.|[2503.17535](http://arxiv.org/abs/2503.17535)|null|
 |**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
 |**2025-03-20**|**Accelerating Transformer Inference and Training with 2:4 Activation Sparsity**|Daniel Haziza et.al.|[2503.16672](http://arxiv.org/abs/2503.16672)|null|
 |**2025-03-20**|**Explainable AI-Guided Efficient Approximate DNN Generation for Multi-Pod Systolic Arrays**|Ayesha Siddique et.al.|[2503.16583](http://arxiv.org/abs/2503.16583)|null|
@@ -472,6 +476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Intanify AI Platform: Embedded AI for Automated IP Audit and Due Diligence**|Viktor Dorfler et.al.|[2503.17374](http://arxiv.org/abs/2503.17374)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939](http://arxiv.org/abs/2503.16939)|null|
 |**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|null|
@@ -676,6 +681,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873](http://arxiv.org/abs/2503.18873)|null|
+|**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
+|**2025-03-24**|**Hiding Images in Diffusion Models by Editing Learned Score Functions**|Haoyu Chen et.al.|[2503.18459](http://arxiv.org/abs/2503.18459)|null|
+|**2025-03-24**|**Latent Embedding Adaptation for Human Preference Alignment in Diffusion Planners**|Wen Zheng Terence Ng et.al.|[2503.18347](http://arxiv.org/abs/2503.18347)|null|
+|**2025-03-24**|**Surgical Action Planning with Large Language Models**|Mengya Xu et.al.|[2503.18296](http://arxiv.org/abs/2503.18296)|null|
+|**2025-03-23**|**Decoupling Angles and Strength in Low-rank Adaptation**|Massimo Bini et.al.|[2503.18225](http://arxiv.org/abs/2503.18225)|null|
+|**2025-03-23**|**The Power of Small LLMs in Geometry Generation for Physical Simulations**|Ossama Shafiq et.al.|[2503.18178](http://arxiv.org/abs/2503.18178)|null|
+|**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
+|**2025-03-23**|**Investigating Recent Large Language Models for Vietnamese Machine Reading Comprehension**|Anh Duc Nguyen et.al.|[2503.18062](http://arxiv.org/abs/2503.18062)|null|
+|**2025-03-22**|**Serial Low-rank Adaptation of Vision Transformer**|Houqiang Zhong et.al.|[2503.17750](http://arxiv.org/abs/2503.17750)|null|
 |**2025-03-21**|**Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need**|Adam Karvonen et.al.|[2503.17272](http://arxiv.org/abs/2503.17272)|null|
 |**2025-03-21**|**TRACE: Time SeRies PArameter EffiCient FinE-tuning**|Yuze Li et.al.|[2503.16991](http://arxiv.org/abs/2503.16991)|null|
 |**2025-03-21**|**HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis**|Mengtian Li et.al.|[2503.16944](http://arxiv.org/abs/2503.16944)|null|
@@ -1383,6 +1398,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-24**|**Distilling Stereo Networks for Performant and Efficient Leaner Networks**|Rafia Rahim et.al.|[2503.18544](http://arxiv.org/abs/2503.18544)|**[link](https://github.com/cogsys-tuebingen/Distilling-Stereo-Networks)**|
+|**2025-03-24**|**Plug-and-Play Interpretable Responsible Text-to-Image Generation via Dual-Space Multi-facet Concept Control**|Basim Azam et.al.|[2503.18324](http://arxiv.org/abs/2503.18324)|null|
+|**2025-03-23**|**CustomKD: Customizing Large Vision Foundation for Edge Model Improvement via Knowledge Distillation**|Jungsoo Lee et.al.|[2503.18244](http://arxiv.org/abs/2503.18244)|null|
+|**2025-03-22**|**OmniScience: A Domain-Specialized LLM for Scientific Reasoning and Discovery**|Vignesh Prabhakar et.al.|[2503.17604](http://arxiv.org/abs/2503.17604)|null|
+|**2025-03-21**|**Efficient Knowledge Distillation via Curriculum Extraction**|Shivam Gupta et.al.|[2503.17494](http://arxiv.org/abs/2503.17494)|null|
 |**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336](http://arxiv.org/abs/2503.17336)|null|
 |**2025-03-21**|**Large Language Model Compression via the Nested Activation-Aware Decomposition**|Jun Lu et.al.|[2503.17101](http://arxiv.org/abs/2503.17101)|null|
 |**2025-03-21**|**Distilling Monocular Foundation Model for Fine-grained Depth Completion**|Yingping Liang et.al.|[2503.16970](http://arxiv.org/abs/2503.16970)|null|
