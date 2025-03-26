@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -276,6 +276,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643](http://arxiv.org/abs/2503.19643)|null|
+|**2025-03-25**|**An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators**|Tseng-Jen Li et.al.|[2503.19640](http://arxiv.org/abs/2503.19640)|null|
 |**2025-03-23**|**Reliable Replication Protocols on SmartNICs**|M. R. Siavash Katebzadeh et.al.|[2503.18093](http://arxiv.org/abs/2503.18093)|null|
 |**2025-03-21**|**Hardware Acceleration for HPS Algorithms in Two and Three Dimensions**|Owen Melia et.al.|[2503.17535](http://arxiv.org/abs/2503.17535)|null|
 |**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
@@ -476,6 +478,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Advancing Deep Learning through Probability Engineering: A Pragmatic Paradigm for Modern AI**|Jianyi Zhang et.al.|[2503.18958](http://arxiv.org/abs/2503.18958)|null|
 |**2025-03-12**|**Intanify AI Platform: Embedded AI for Automated IP Audit and Due Diligence**|Viktor Dorfler et.al.|[2503.17374](http://arxiv.org/abs/2503.17374)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**On-Sensor Convolutional Neural Networks with Early-Exits**|Hazem Hesham Yousef Shalby et.al.|[2503.16939](http://arxiv.org/abs/2503.16939)|null|
@@ -681,6 +684,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**An Overview of Low-Rank Structures in the Training and Adaptation of Large Models**|Laura Balzano et.al.|[2503.19859](http://arxiv.org/abs/2503.19859)|null|
+|**2025-03-25**|**fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models**|Saurav Sharma et.al.|[2503.19670](http://arxiv.org/abs/2503.19670)|null|
+|**2025-03-25**|**Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion**|Haim Sawdayee et.al.|[2503.19557](http://arxiv.org/abs/2503.19557)|null|
+|**2025-03-24**|**A Shared Low-Rank Adaptation Approach to Personalized RLHF**|Renpu Liu et.al.|[2503.19201](http://arxiv.org/abs/2503.19201)|null|
 |**2025-03-24**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873](http://arxiv.org/abs/2503.18873)|null|
 |**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
 |**2025-03-24**|**Hiding Images in Diffusion Models by Editing Learned Score Functions**|Haoyu Chen et.al.|[2503.18459](http://arxiv.org/abs/2503.18459)|null|
@@ -1398,7 +1405,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
+|**2025-03-23**|**FedSKD: Aggregation-free Model-heterogeneous Federated Learning using Multi-dimensional Similarity Knowledge Distillation**|Ziqiao Weng et.al.|[2503.18981](http://arxiv.org/abs/2503.18981)|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-24**|**Distilling Stereo Networks for Performant and Efficient Leaner Networks**|Rafia Rahim et.al.|[2503.18544](http://arxiv.org/abs/2503.18544)|**[link](https://github.com/cogsys-tuebingen/Distilling-Stereo-Networks)**|
 |**2025-03-24**|**Plug-and-Play Interpretable Responsible Text-to-Image Generation via Dual-Space Multi-facet Concept Control**|Basim Azam et.al.|[2503.18324](http://arxiv.org/abs/2503.18324)|null|
 |**2025-03-23**|**CustomKD: Customizing Large Vision Foundation for Edge Model Improvement via Knowledge Distillation**|Jungsoo Lee et.al.|[2503.18244](http://arxiv.org/abs/2503.18244)|null|
