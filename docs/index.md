@@ -704,7 +704,7 @@ layout: default
 |**2025-03-24**|**Hiding Images in Diffusion Models by Editing Learned Score Functions**|Haoyu Chen et.al.|[2503.18459](http://arxiv.org/abs/2503.18459)|null|
 |**2025-03-24**|**Latent Embedding Adaptation for Human Preference Alignment in Diffusion Planners**|Wen Zheng Terence Ng et.al.|[2503.18347](http://arxiv.org/abs/2503.18347)|null|
 |**2025-03-24**|**Surgical Action Planning with Large Language Models**|Mengya Xu et.al.|[2503.18296](http://arxiv.org/abs/2503.18296)|null|
-|**2025-03-23**|**Decoupling Angles and Strength in Low-rank Adaptation**|Massimo Bini et.al.|[2503.18225](http://arxiv.org/abs/2503.18225)|null|
+|**2025-03-23**|**Decoupling Angles and Strength in Low-rank Adaptation**|Massimo Bini et.al.|[2503.18225](http://arxiv.org/abs/2503.18225)|**[link](https://github.com/explainableml/delora)**|
 |**2025-03-23**|**The Power of Small LLMs in Geometry Generation for Physical Simulations**|Ossama Shafiq et.al.|[2503.18178](http://arxiv.org/abs/2503.18178)|null|
 |**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
 |**2025-03-23**|**Investigating Recent Large Language Models for Vietnamese Machine Reading Comprehension**|Anh Duc Nguyen et.al.|[2503.18062](http://arxiv.org/abs/2503.18062)|null|
@@ -1057,7 +1057,7 @@ layout: default
 |**2024-12-02**|**CellSeg1: Robust Cell Segmentation with One Training Image**|Peilin Zhou et.al.|[2412.01410](http://arxiv.org/abs/2412.01410)|**[link](https://github.com/Nuisal/cellseg1)**|
 |**2024-12-02**|**Efficient LLM Inference using Dynamic Input Pruning and Cache-Aware Masking**|Marco Federici et.al.|[2412.01380](http://arxiv.org/abs/2412.01380)|null|
 |**2024-12-02**|**MuLan: Adapting Multilingual Diffusion Models for Hundreds of Languages with Negligible Cost**|Sen Xing et.al.|[2412.01271](http://arxiv.org/abs/2412.01271)|null|
-|**2024-12-02**|**RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy**|Geonho Lee et.al.|[2412.01129](http://arxiv.org/abs/2412.01129)|null|
+|**2024-12-02**|**RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy**|Geonho Lee et.al.|[2412.01129](http://arxiv.org/abs/2412.01129)|**[link](https://github.com/aiha-lab/rilq)**|
 |**2024-12-03**|**Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA**|Haodong Lu et.al.|[2412.01004](http://arxiv.org/abs/2412.01004)|null|
 |**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|Kim-Celine Kahl et.al.|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
 |**2024-11-29**|**Initialization using Update Approximation is a Silver Bullet for Extremely Efficient Low-Rank Fine-Tuning**|Kaustubh Ponkshe et.al.|[2411.19557](http://arxiv.org/abs/2411.19557)|**[link](https://github.com/raghavsinghal10/lora-sb)**|
@@ -1409,7 +1409,7 @@ layout: default
 |**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|**[link](https://github.com/razaimam45/ttl-test-time-low-rank-adaptation)**|
 |**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen et.al.|[2407.15415](http://arxiv.org/abs/2407.15415)|**[link](https://github.com/openaudiolab/llast)**|
-|**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
+|**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
 ## Model Compression
@@ -1442,8 +1442,8 @@ layout: default
 |**2025-03-20**|**Federated Quantum-Train Long Short-Term Memory for Gravitational Wave Signal**|Chen-Yu Liu et.al.|[2503.16049](http://arxiv.org/abs/2503.16049)|null|
 |**2025-03-20**|**InhibiDistilbert: Knowledge Distillation for a ReLU and Addition-based Transformer**|Tony Zhang et.al.|[2503.15983](http://arxiv.org/abs/2503.15983)|null|
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
-|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|null|
-|**2025-03-19**|**High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight**|Cédric Vincent et.al.|[2503.15676](http://arxiv.org/abs/2503.15676)|null|
+|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|**[link](https://github.com/panagiotamoraiti/continual-learning-challenge-2024)**|
+|**2025-03-19**|**High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight**|Cédric Vincent et.al.|[2503.15676](http://arxiv.org/abs/2503.15676)|**[link](https://github.com/fraunhoferivi/ssp)**|
 |**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
 |**2025-03-19**|**Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|[2503.14975](http://arxiv.org/abs/2503.14975)|null|
@@ -1503,7 +1503,7 @@ layout: default
 |**2025-03-03**|**Mamba base PKD for efficient knowledge compression**|José Medina et.al.|[2503.01727](http://arxiv.org/abs/2503.01727)|null|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
 |**2025-03-03**|**Revisiting Large Language Model Pruning using Neuron Semantic Attribution**|Yizhuo Ding et.al.|[2503.01542](http://arxiv.org/abs/2503.01542)|null|
-|**2025-03-01**|**SGC-Net: Stratified Granular Comparison Network for Open-Vocabulary HOI Detection**|Xin Lin et.al.|[2503.00414](http://arxiv.org/abs/2503.00414)|null|
+|**2025-03-01**|**SGC-Net: Stratified Granular Comparison Network for Open-Vocabulary HOI Detection**|Xin Lin et.al.|[2503.00414](http://arxiv.org/abs/2503.00414)|**[link](https://github.com/phil0212/sgc-net)**|
 |**2025-03-01**|**Energy-Efficient Edge Inference in Integrated Sensing, Communication, and Computation Networks**|Jiacheng Yao et.al.|[2503.00298](http://arxiv.org/abs/2503.00298)|null|
 |**2025-02-28**|**Real-Time Aerial Fire Detection on Resource-Constrained Devices Using Knowledge Distillation**|Sabina Jangirova et.al.|[2502.20979](http://arxiv.org/abs/2502.20979)|null|
 |**2025-02-28**|**VRM: Knowledge Distillation via Virtual Relation Matching**|Weijia Zhang et.al.|[2502.20760](http://arxiv.org/abs/2502.20760)|null|
