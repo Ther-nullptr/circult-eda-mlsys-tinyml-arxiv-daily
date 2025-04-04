@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-28**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
+|**2025-04-03**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
 |**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
 |**2025-03-24**|**GranQ: Granular Zero-Shot Quantization with Unified Layer-Channel Awareness**|Inpyo Hong et.al.|[2503.18339](http://arxiv.org/abs/2503.18339)|null|
 |**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
@@ -282,7 +282,7 @@ layout: default
 |**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
 |**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356](http://arxiv.org/abs/2503.24356)|null|
 |**2025-03-30**|**FlexMem: High-Parallel Near-Memory Architecture for Flexible Dataflow in Fully Homomorphic Encryption**|Shangyi Shi et.al.|[2503.23496](http://arxiv.org/abs/2503.23496)|null|
-|**2025-03-28**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
+|**2025-04-03**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
 |**2025-03-31**|**Residual-based Chebyshev filtered subspace iteration for sparse Hermitian eigenvalue problems tolerant to inexact matrix-vector products**|Nikhil Kodali et.al.|[2503.22652](http://arxiv.org/abs/2503.22652)|null|
 |**2025-03-27**|**An Efficient Training Algorithm for Models with Block-wise Sparsity**|Ding Zhu et.al.|[2503.21928](http://arxiv.org/abs/2503.21928)|null|
 |**2025-03-27**|**Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization**|Zhenyu Liang et.al.|[2503.20286](http://arxiv.org/abs/2503.20286)|**[link](https://github.com/emi-group/evomo)**|
