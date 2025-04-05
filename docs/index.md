@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-03**|**APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers**|Zhuguanyu Wu et.al.|[2504.02508](http://arxiv.org/abs/2504.02508)|null|
+|**2025-04-03**|**APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers**|Zhuguanyu Wu et.al.|[2504.02508](http://arxiv.org/abs/2504.02508)|**[link](https://github.com/GoatWu/APHQ-ViT)**|
 |**2025-04-02**|**LLMPi: Optimizing LLMs for High-Throughput on Raspberry Pi**|Mahsa Ardakani et.al.|[2504.02118](http://arxiv.org/abs/2504.02118)|null|
 |**2025-04-03**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
 |**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
