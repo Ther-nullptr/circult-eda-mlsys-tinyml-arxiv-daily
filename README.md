@@ -727,7 +727,7 @@
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-03**|**AC-LoRA: Auto Component LoRA for Personalized Artistic Style Image Generation**|Zhipu Cui et.al.|[2504.02231](http://arxiv.org/abs/2504.02231)|null|
-|**2025-04-02**|**CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition**|Sarah Alyami et.al.|[2504.01666](http://arxiv.org/abs/2504.01666)|null|
+|**2025-04-02**|**CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition**|Sarah Alyami et.al.|[2504.01666](http://arxiv.org/abs/2504.01666)|**[link](https://github.com/snalyami/CLIP-SLA)**|
 |**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655](http://arxiv.org/abs/2504.01655)|**[link](https://github.com/yeppp27/q-adapt)**|
 |**2025-04-01**|**Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations**|Chongjie Si et.al.|[2504.00851](http://arxiv.org/abs/2504.00851)|null|
 |**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
