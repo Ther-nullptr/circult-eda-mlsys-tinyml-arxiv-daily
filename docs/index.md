@@ -36,7 +36,7 @@ layout: default
 |**2025-03-05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
 |**2025-02-27**|**HALO: Hardware-aware quantization with low critical-path-delay weights for LLM acceleration**|Rohan Juneja et.al.|[2502.19662](http://arxiv.org/abs/2502.19662)|null|
 |**2025-02-26**|**Binary Neural Networks for Large Language Model: A Survey**|Liangdong Liu et.al.|[2502.19008](http://arxiv.org/abs/2502.19008)|null|
-|**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
+|**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|**[link](https://github.com/microsoft/geta)**|
 |**2025-02-17**|**Rotate, Clip, and Partition: Towards W2A4KV4 Quantization by Integrating Rotation and Learnable Non-uniform Quantizer**|Euntae Choi et.al.|[2502.15779](http://arxiv.org/abs/2502.15779)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478](http://arxiv.org/abs/2502.15478)|**[link](https://github.com/kai-liu001/condiquant)**|
@@ -180,7 +180,7 @@ layout: default
 |**2025-03-07**|**IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining**|Yixiao Li et.al.|[2503.05920](http://arxiv.org/abs/2503.05920)|null|
 |**2025-03-06**|**How can representation dimension dominate structurally pruned LLMs?**|Mingxue Xu et.al.|[2503.04377](http://arxiv.org/abs/2503.04377)|null|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
-|**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|null|
+|**2025-02-23**|**Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression**|Xiaoyi Qu et.al.|[2502.16638](http://arxiv.org/abs/2502.16638)|**[link](https://github.com/microsoft/geta)**|
 |**2025-03-15**|**Energy-Efficient Transformer Inference: Optimization Strategies for Time Series Classification**|Arshia Kermani et.al.|[2502.16627](http://arxiv.org/abs/2502.16627)|null|
 |**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
 |**2025-02-21**|**Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing**|Qi Le et.al.|[2502.15618](http://arxiv.org/abs/2502.15618)|**[link](https://github.com/qi-le1/probe_pruning)**|
@@ -719,7 +719,7 @@ layout: default
 |**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
 |**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|
 |**2025-03-31**|**Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**|Yongle Li et.al.|[2503.23869](http://arxiv.org/abs/2503.23869)|null|
-|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|**[link](https://github.com/SKA-INAF/radio-llava)**|
 |**2025-03-30**|**Mixture of Routers**|Jia-Chen Zhang et.al.|[2503.23362](http://arxiv.org/abs/2503.23362)|null|
 |**2025-03-30**|**Not All LoRA Parameters Are Essential: Insights on Inference Necessity**|Guanhua Chen et.al.|[2503.23360](http://arxiv.org/abs/2503.23360)|null|
 |**2025-03-29**|**Efficient Adaptation For Remote Sensing Visual Grounding**|Hasan Moughnieh et.al.|[2503.23083](http://arxiv.org/abs/2503.23083)|null|
@@ -738,7 +738,7 @@ layout: default
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**Resource-Efficient Federated Fine-Tuning Large Language Models for Heterogeneous Data**|Jun Liu et.al.|[2503.21213](http://arxiv.org/abs/2503.21213)|null|
 |**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
-|**2025-03-26**|**Vision as LoRA**|Han Wang et.al.|[2503.20680](http://arxiv.org/abs/2503.20680)|null|
+|**2025-03-26**|**Vision as LoRA**|Han Wang et.al.|[2503.20680](http://arxiv.org/abs/2503.20680)|**[link](https://github.com/hon-wong/vora)**|
 |**2025-03-26**|**TeleLoRA: Teleporting Model-Specific Alignment Across LLMs**|Xiao Lin et.al.|[2503.20228](http://arxiv.org/abs/2503.20228)|null|
 |**2025-03-26**|**ProtoBERT-LoRA: Parameter-Efficient Prototypical Finetuning for Immunotherapy Study Identification**|Shijia Zhang et.al.|[2503.20179](http://arxiv.org/abs/2503.20179)|null|
 |**2025-03-25**|**iNatAg: Multi-Class Classification Models Enabled by a Large-Scale Benchmark Dataset with 4.7M Images of 2,959 Crop and Weed Species**|Naitik Jain et.al.|[2503.20068](http://arxiv.org/abs/2503.20068)|**[link](https://github.com/project-agml/agml)**|
@@ -746,7 +746,7 @@ layout: default
 |**2025-03-25**|**fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models**|Saurav Sharma et.al.|[2503.19670](http://arxiv.org/abs/2503.19670)|null|
 |**2025-03-25**|**Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion**|Haim Sawdayee et.al.|[2503.19557](http://arxiv.org/abs/2503.19557)|null|
 |**2025-03-24**|**A Shared Low-Rank Adaptation Approach to Personalized RLHF**|Renpu Liu et.al.|[2503.19201](http://arxiv.org/abs/2503.19201)|null|
-|**2025-03-24**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873](http://arxiv.org/abs/2503.18873)|null|
+|**2025-03-24**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873](http://arxiv.org/abs/2503.18873)|**[link](https://github.com/moeinsorkhei/apla)**|
 |**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
 |**2025-03-24**|**Hiding Images in Diffusion Models by Editing Learned Score Functions**|Haoyu Chen et.al.|[2503.18459](http://arxiv.org/abs/2503.18459)|null|
 |**2025-03-24**|**Latent Embedding Adaptation for Human Preference Alignment in Diffusion Planners**|Wen Zheng Terence Ng et.al.|[2503.18347](http://arxiv.org/abs/2503.18347)|null|
@@ -756,7 +756,7 @@ layout: default
 |**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
 |**2025-03-23**|**Investigating Recent Large Language Models for Vietnamese Machine Reading Comprehension**|Anh Duc Nguyen et.al.|[2503.18062](http://arxiv.org/abs/2503.18062)|null|
 |**2025-03-22**|**Serial Low-rank Adaptation of Vision Transformer**|Houqiang Zhong et.al.|[2503.17750](http://arxiv.org/abs/2503.17750)|null|
-|**2025-03-21**|**Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need**|Adam Karvonen et.al.|[2503.17272](http://arxiv.org/abs/2503.17272)|null|
+|**2025-03-21**|**Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need**|Adam Karvonen et.al.|[2503.17272](http://arxiv.org/abs/2503.17272)|**[link](https://github.com/adamkarvonen/sae_kl_finetune)**|
 |**2025-03-21**|**TRACE: Time SeRies PArameter EffiCient FinE-tuning**|Yuze Li et.al.|[2503.16991](http://arxiv.org/abs/2503.16991)|null|
 |**2025-03-21**|**HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis**|Mengtian Li et.al.|[2503.16944](http://arxiv.org/abs/2503.16944)|null|
 |**2025-03-21**|**LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models**|Jian Liang et.al.|[2503.16843](http://arxiv.org/abs/2503.16843)|null|
@@ -768,7 +768,7 @@ layout: default
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-17**|**Atyaephyra at SemEval-2025 Task 4: Low-Rank NPO**|Jan Bronec et.al.|[2503.13690](http://arxiv.org/abs/2503.13690)|**[link](https://github.com/XelfXendr/peft_unlearning)**|
 |**2025-03-17**|**Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model**|Kai Tong et.al.|[2503.13575](http://arxiv.org/abs/2503.13575)|null|
-|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|**[link](https://github.com/yeliudev/VideoMind)**|
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis**|Shitong Shao et.al.|[2503.13319](http://arxiv.org/abs/2503.13319)|null|
 |**2025-03-17**|**Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**|Henghui Du et.al.|[2503.13068](http://arxiv.org/abs/2503.13068)|null|
@@ -777,7 +777,7 @@ layout: default
 |**2025-03-17**|**Quantum-Enhanced LLM Efficient Fine Tuning**|Xiaofei Kong et.al.|[2503.12790](http://arxiv.org/abs/2503.12790)|null|
 |**2025-03-16**|**RaSA: Rank-Sharing Low-Rank Adaptation**|Zhiwei He et.al.|[2503.12576](http://arxiv.org/abs/2503.12576)|null|
 |**2025-03-16**|**Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks**|Mehmet Kerem Turkcan et.al.|[2503.12531](http://arxiv.org/abs/2503.12531)|null|
-|**2025-03-16**|**Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation**|Byung Hyun Lee et.al.|[2503.12356](http://arxiv.org/abs/2503.12356)|null|
+|**2025-03-16**|**Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation**|Byung Hyun Lee et.al.|[2503.12356](http://arxiv.org/abs/2503.12356)|**[link](https://github.com/Hyun1A/GLoCE)**|
 |**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
 |**2025-03-13**|**Phishsense-1B: A Technical Perspective on an AI-Powered Phishing Detection Model**|SE Blake et.al.|[2503.10944](http://arxiv.org/abs/2503.10944)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
@@ -1327,7 +1327,7 @@ layout: default
 |**2024-09-14**|**COMFORT: A Continual Fine-Tuning Framework for Foundation Models Targeted at Consumer Healthcare**|Chia-Hao Li et.al.|[2409.09549](http://arxiv.org/abs/2409.09549)|null|
 |**2024-09-14**|**SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2**|Xinrun Chen et.al.|[2409.09286](http://arxiv.org/abs/2409.09286)|**[link](https://github.com/shellredia/sam-octa2)**|
 |**2024-09-13**|**Data Efficient Child-Adult Speaker Diarization with Simulated Conversations**|Anfeng Xu et.al.|[2409.08881](http://arxiv.org/abs/2409.08881)|**[link](https://github.com/usc-sail/child-adult-diarization)**|
-|**2024-09-13**|**Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions**|Lingwei Meng et.al.|[2409.08596](http://arxiv.org/abs/2409.08596)|null|
+|**2024-09-13**|**Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions**|Lingwei Meng et.al.|[2409.08596](http://arxiv.org/abs/2409.08596)|**[link](https://github.com/cuhealthybrains/mt-llm)**|
 |**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543](http://arxiv.org/abs/2409.08543)|null|
 |**2024-09-13**|**Risks When Sharing LoRA Fine-Tuned Diffusion Model Weights**|Dixi Yao et.al.|[2409.08482](http://arxiv.org/abs/2409.08482)|null|
 |**2024-09-13**|**Toward satisfactory public accessibility: A crowdsourcing approach through online reviews to inclusive urban design**|Lingyao Li et.al.|[2409.08459](http://arxiv.org/abs/2409.08459)|null|
@@ -1408,7 +1408,7 @@ layout: default
 |**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
 |**2024-08-13**|**Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model**|Yongcheng Li et.al.|[2408.06716](http://arxiv.org/abs/2408.06716)|**[link](https://github.com/anok3111/bc-sam)**|
 |**2024-08-13**|**Harnessing Earnings Reports for Stock Predictions: A QLoRA-Enhanced LLM Approach**|Haowei Ni et.al.|[2408.06634](http://arxiv.org/abs/2408.06634)|null|
-|**2024-08-13**|**Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models**|Sungmin Cha et.al.|[2408.06621](http://arxiv.org/abs/2408.06621)|null|
+|**2024-08-13**|**Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models**|Sungmin Cha et.al.|[2408.06621](http://arxiv.org/abs/2408.06621)|**[link](https://github.com/csm9493/efficient-llm-unlearning)**|
 |**2024-08-15**|**ControlNeXt: Powerful and Efficient Control for Image and Video Generation**|Bohao Peng et.al.|[2408.06070](http://arxiv.org/abs/2408.06070)|**[link](https://github.com/dvlab-research/controlnext)**|
 |**2024-08-11**|**Hotfixing Large Language Models for Cod**|Zhou Yang et.al.|[2408.05727](http://arxiv.org/abs/2408.05727)|null|
 |**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|**[link](https://github.com/WoodScene/TaSL)**|
@@ -1496,7 +1496,7 @@ layout: default
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
 |**2025-03-26**|**Modality-Independent Brain Lesion Segmentation with Privacy-aware Continual Learning**|Yousef Sadegheih et.al.|[2503.20326](http://arxiv.org/abs/2503.20326)|**[link](https://github.com/xmindflow/braincl)**|
-|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
+|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|**[link](https://github.com/LifuWang-66/DistillT5)**|
 |**2025-03-23**|**FedSKD: Aggregation-free Model-heterogeneous Federated Learning using Multi-dimensional Similarity Knowledge Distillation**|Ziqiao Weng et.al.|[2503.18981](http://arxiv.org/abs/2503.18981)|null|
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-24**|**Distilling Stereo Networks for Performant and Efficient Leaner Networks**|Rafia Rahim et.al.|[2503.18544](http://arxiv.org/abs/2503.18544)|**[link](https://github.com/cogsys-tuebingen/Distilling-Stereo-Networks)**|
@@ -1909,7 +1909,7 @@ layout: default
 |**2024-11-19**|**FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning**|Qingsong Lv et.al.|[2411.12781](http://arxiv.org/abs/2411.12781)|**[link](https://github.com/fgp-code/fgp)**|
 |**2024-11-19**|**KDC-MAE: Knowledge Distilled Contrastive Mask Auto-Encoder**|Maheswar Bora et.al.|[2411.12270](http://arxiv.org/abs/2411.12270)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
-|**2024-11-18**|**Federated Incremental Named Entity Recognition**|Duzhen Zhang et.al.|[2411.11623](http://arxiv.org/abs/2411.11623)|null|
+|**2024-11-18**|**Federated Incremental Named Entity Recognition**|Duzhen Zhang et.al.|[2411.11623](http://arxiv.org/abs/2411.11623)|**[link](https://github.com/bladedancer957/finer)**|
 |**2024-11-18**|**Bridging the Resource Gap: Deploying Advanced Imitation Learning Models onto Affordable Embedded Platforms**|Haizhou Ge et.al.|[2411.11406](http://arxiv.org/abs/2411.11406)|null|
 |**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
 |**2024-11-16**|**Hybrid Attention Model Using Feature Decomposition and Knowledge Distillation for Glucose Forecasting**|Ebrahim Farahmand et.al.|[2411.10703](http://arxiv.org/abs/2411.10703)|**[link](https://github.com/shovito66/GlucoNet)**|
@@ -2058,7 +2058,7 @@ layout: default
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
 |**2024-10-04**|**DocKD: Knowledge Distillation from LLMs for Open-World Document Understanding Models**|Sungnyun Kim et.al.|[2410.03061](http://arxiv.org/abs/2410.03061)|null|
 |**2024-10-03**|**Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models**|Mingxue Xu et.al.|[2410.03040](http://arxiv.org/abs/2410.03040)|null|
-|**2024-10-03**|**Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks**|Siddharth Joshi et.al.|[2410.02116](http://arxiv.org/abs/2410.02116)|null|
+|**2024-10-03**|**Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks**|Siddharth Joshi et.al.|[2410.02116](http://arxiv.org/abs/2410.02116)|**[link](https://github.com/bigml-cs-ucla/mkdt)**|
 |**2024-10-02**|**Review Non-convex Optimization Method for Machine Learning**|Greg B Fotopoulos et.al.|[2410.02017](http://arxiv.org/abs/2410.02017)|null|
 |**2024-10-02**|**PHI-S: Distribution Balancing for Label-Free Multi-Teacher Distillation**|Mike Ranzinger et.al.|[2410.01680](http://arxiv.org/abs/2410.01680)|null|
 |**2024-10-04**|**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**|Seanie Lee et.al.|[2410.01524](http://arxiv.org/abs/2410.01524)|**[link](https://github.com/imnotkind/HarmAug)**|
@@ -2108,7 +2108,7 @@ layout: default
 |**2024-09-17**|**Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model**|Derek Jollie et.al.|[2409.11609](http://arxiv.org/abs/2409.11609)|**[link](https://github.com/jingminsun/prose_v1)**|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation**|Gerard I. Gállego et.al.|[2409.11003](http://arxiv.org/abs/2409.11003)|null|
-|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362](http://arxiv.org/abs/2409.10362)|null|
+|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362](http://arxiv.org/abs/2409.10362)|**[link](https://github.com/amink8/folk)**|
 |**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095](http://arxiv.org/abs/2409.10095)|null|
 |**2024-09-15**|**ELSA: Exploiting Layer-wise N:M Sparsity for Vision Transformer Acceleration**|Ning-Chi Huang et.al.|[2409.09708](http://arxiv.org/abs/2409.09708)|null|
 |**2024-09-14**|**Effective Pre-Training of Audio Transformers for Sound Event Detection**|Florian Schmid et.al.|[2409.09546](http://arxiv.org/abs/2409.09546)|**[link](https://github.com/fschmid56/pretrainedsed)**|
