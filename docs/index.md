@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-29**|**RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm**|Yongyi Yang et.al.|[2504.03717](http://arxiv.org/abs/2504.03717)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-03**|**APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers**|Zhuguanyu Wu et.al.|[2504.02508](http://arxiv.org/abs/2504.02508)|**[link](https://github.com/GoatWu/APHQ-ViT)**|
 |**2025-04-02**|**LLMPi: Optimizing LLMs for High-Throughput on Raspberry Pi**|Mahsa Ardakani et.al.|[2504.02118](http://arxiv.org/abs/2504.02118)|null|
@@ -171,6 +172,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-05**|**The Effects of Grouped Structural Global Pruning of Vision Transformers on Domain Generalisation**|Hamza Riaz et.al.|[2504.04196](http://arxiv.org/abs/2504.04196)|null|
 |**2025-04-02**|**MDP: Multidimensional Vision Model Pruning with Latency Constraint**|Xinglong Sun et.al.|[2504.02168](http://arxiv.org/abs/2504.02168)|null|
 |**2025-04-01**|**FedPaI: Achieving Extreme Sparsity in Federated Learning via Pruning at Initialization**|Haonan Wang et.al.|[2504.00308](http://arxiv.org/abs/2504.00308)|null|
 |**2025-03-28**|**Neuroplasticity in Artificial Intelligence -- An Overview and Inspirations on Drop In & Out Learning**|Yupei Li et.al.|[2503.21419](http://arxiv.org/abs/2503.21419)|null|
@@ -283,6 +285,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
+|**2025-04-07**|**A High-Performance Curve25519 and Curve448 Unified Elliptic Curve Cryptography Accelerator**|Aniket Banerjee et.al.|[2504.04731](http://arxiv.org/abs/2504.04731)|null|
+|**2025-04-06**|**pc-COP: An Efficient and Configurable 2048-p-Bit Fully-Connected Probabilistic Computing Accelerator for Combinatorial Optimization**|Kiran Magar et.al.|[2504.04543](http://arxiv.org/abs/2504.04543)|null|
+|**2025-04-04**|**Efficient FPGA-accelerated Convolutional Neural Networks for Cloud Detection on CubeSats**|Angela Cratere et.al.|[2504.03891](http://arxiv.org/abs/2504.03891)|null|
+|**2025-04-01**|**Enhancing Biologically Inspired Hierarchical Temporal Memory with Hardware-Accelerated Reflex Memory**|Pavia Bera et.al.|[2504.03746](http://arxiv.org/abs/2504.03746)|null|
 |**2025-03-31**|**PIM-LLM: A High-Throughput Hybrid PIM Architecture for 1-bit LLMs**|Jinendra Malekar et.al.|[2504.01994](http://arxiv.org/abs/2504.01994)|null|
 |**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
 |**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356](http://arxiv.org/abs/2503.24356)|null|
@@ -494,6 +501,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Advancing Air Quality Monitoring: TinyML-Based Real-Time Ozone Prediction with Cost-Effective Edge Devices**|Huam Ming Ken et.al.|[2504.03776](http://arxiv.org/abs/2504.03776)|null|
+|**2025-04-02**|**Efficient Calibration for RRAM-based In-Memory Computing using DoRA**|Weirong Dong et.al.|[2504.03763](http://arxiv.org/abs/2504.03763)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-02**|**Satellite Edge Artificial Intelligence with Large Models: Architectures and Technologies**|Yuanming Shi et.al.|[2504.01676](http://arxiv.org/abs/2504.01676)|null|
 |**2025-04-02**|**HH-PIM: Dynamic Optimization of Power and Performance with Heterogeneous-Hybrid PIM for Edge AI Devices**|Sangmin Jeon et.al.|[2504.01468](http://arxiv.org/abs/2504.01468)|null|
@@ -657,6 +666,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
 |**2025-03-31**|**DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization**|Yi Ren et.al.|[2503.23945](http://arxiv.org/abs/2503.23945)|null|
 |**2025-03-17**|**LIMCA: LLM for Automating Analog In-Memory Computing Architecture Design Exploration**|Deepak Vungarala et.al.|[2503.13301](http://arxiv.org/abs/2503.13301)|null|
 |**2025-03-06**|**FORTALESA: Fault-Tolerant Reconfigurable Systolic Array for DNN Inference**|Natalia Cherezova et.al.|[2503.04426](http://arxiv.org/abs/2503.04426)|null|
@@ -707,6 +717,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
+|**2025-04-07**|**TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment**|Adnan Khan et.al.|[2504.04722](http://arxiv.org/abs/2504.04722)|null|
+|**2025-04-07**|**LEO-MINI: An Efficient Multimodal Large Language Model using Conditional Token Reduction and Mixture of Multi-Modal Experts**|Yimu Wang et.al.|[2504.04653](http://arxiv.org/abs/2504.04653)|null|
+|**2025-04-06**|**KnowsLM: A framework for evaluation of small language models for knowledge augmentation and humanised conversations**|Chitranshu Harbola et.al.|[2504.04569](http://arxiv.org/abs/2504.04569)|null|
+|**2025-04-05**|**FISH-Tuning: Enhancing PEFT Methods with Fisher Information**|Kang Xue et.al.|[2504.04050](http://arxiv.org/abs/2504.04050)|null|
 |**2025-04-03**|**The Self-Learning Agent with a Progressive Neural Network Integrated Transformer**|Ajay Sivakumar et.al.|[2504.02489](http://arxiv.org/abs/2504.02489)|null|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-03**|**AC-LoRA: Auto Component LoRA for Personalized Artistic Style Image Generation**|Zhipu Cui et.al.|[2504.02231](http://arxiv.org/abs/2504.02231)|null|
@@ -1465,6 +1480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224](http://arxiv.org/abs/2504.05224)|null|
+|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
+|**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
+|**2025-04-07**|**Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models**|Yoojin Jung et.al.|[2504.04747](http://arxiv.org/abs/2504.04747)|null|
+|**2025-04-07**|**T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models**|Minki Kang et.al.|[2504.04718](http://arxiv.org/abs/2504.04718)|null|
+|**2025-04-06**|**A Novel Algorithm for Personalized Federated Learning: Knowledge Distillation with Weighted Combination Loss**|Hengrui Hu et.al.|[2504.04642](http://arxiv.org/abs/2504.04642)|null|
+|**2025-04-06**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
+|**2025-04-06**|**Compression Laws for Large Language Models**|Ayan Sengupta et.al.|[2504.04342](http://arxiv.org/abs/2504.04342)|null|
+|**2025-04-05**|**Towards Understanding and Improving Refusal in Compressed Models via Mechanistic Interpretability**|Vishnu Kabir Chhabra et.al.|[2504.04215](http://arxiv.org/abs/2504.04215)|null|
+|**2025-04-05**|**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**|Kai Fang et.al.|[2504.04156](http://arxiv.org/abs/2504.04156)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
 |**2025-04-03**|**Compositionality Unlocks Deep Interpretable Models**|Thomas Dooms et.al.|[2504.02667](http://arxiv.org/abs/2504.02667)|null|
 |**2025-04-03**|**UNDO: Understanding Distillation as Optimization**|Kushal Jain et.al.|[2504.02521](http://arxiv.org/abs/2504.02521)|null|
