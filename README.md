@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Achieving binary weight and activation for LLMs using Post-Training Quantization**|Siqing Song et.al.|[2504.05352](http://arxiv.org/abs/2504.05352)|null|
 |**2025-03-29**|**RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm**|Yongyi Yang et.al.|[2504.03717](http://arxiv.org/abs/2504.03717)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-03**|**APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers**|Zhuguanyu Wu et.al.|[2504.02508](http://arxiv.org/abs/2504.02508)|**[link](https://github.com/GoatWu/APHQ-ViT)**|
@@ -183,6 +184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|null|
 |**2025-04-05**|**The Effects of Grouped Structural Global Pruning of Vision Transformers on Domain Generalisation**|Hamza Riaz et.al.|[2504.04196](http://arxiv.org/abs/2504.04196)|null|
 |**2025-04-02**|**MDP: Multidimensional Vision Model Pruning with Latency Constraint**|Xinglong Sun et.al.|[2504.02168](http://arxiv.org/abs/2504.02168)|null|
 |**2025-04-01**|**FedPaI: Achieving Extreme Sparsity in Federated Learning via Pruning at Initialization**|Haonan Wang et.al.|[2504.00308](http://arxiv.org/abs/2504.00308)|null|
@@ -298,6 +300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
 |**2025-04-07**|**A High-Performance Curve25519 and Curve448 Unified Elliptic Curve Cryptography Accelerator**|Aniket Banerjee et.al.|[2504.04731](http://arxiv.org/abs/2504.04731)|null|
 |**2025-04-06**|**pc-COP: An Efficient and Configurable 2048-p-Bit Fully-Connected Probabilistic Computing Accelerator for Combinatorial Optimization**|Kiran Magar et.al.|[2504.04543](http://arxiv.org/abs/2504.04543)|null|
@@ -516,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039](http://arxiv.org/abs/2504.06039)|null|
 |**2025-04-03**|**Advancing Air Quality Monitoring: TinyML-Based Real-Time Ozone Prediction with Cost-Effective Edge Devices**|Huam Ming Ken et.al.|[2504.03776](http://arxiv.org/abs/2504.03776)|null|
 |**2025-04-02**|**Efficient Calibration for RRAM-based In-Memory Computing using DoRA**|Weirong Dong et.al.|[2504.03763](http://arxiv.org/abs/2504.03763)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
@@ -736,6 +740,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Optuna vs Code Llama: Are LLMs a New Paradigm for Hyperparameter Tuning?**|Roman Kochnev et.al.|[2504.06006](http://arxiv.org/abs/2504.06006)|null|
+|**2025-04-06**|**AROMA: Autonomous Rank-one Matrix Adaptation**|Hao Nan Sheng et.al.|[2504.05343](http://arxiv.org/abs/2504.05343)|null|
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
 |**2025-04-07**|**TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment**|Adnan Khan et.al.|[2504.04722](http://arxiv.org/abs/2504.04722)|null|
 |**2025-04-07**|**LEO-MINI: An Efficient Multimodal Large Language Model using Conditional Token Reduction and Mixture of Multi-Modal Experts**|Yimu Wang et.al.|[2504.04653](http://arxiv.org/abs/2504.04653)|null|
@@ -1501,6 +1507,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Multi-Sense Embeddings for Language Models and Knowledge Distillation**|Qitong Wang et.al.|[2504.06036](http://arxiv.org/abs/2504.06036)|null|
+|**2025-04-08**|**CoA: Towards Real Image Dehazing via Compression-and-Adaptation**|Long Ma et.al.|[2504.05590](http://arxiv.org/abs/2504.05590)|null|
+|**2025-04-07**|**Learning Activity View-invariance Under Extreme Viewpoint Changes via Curriculum Knowledge Distillation**|Arjun Somayazulu et.al.|[2504.05451](http://arxiv.org/abs/2504.05451)|null|
 |**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224](http://arxiv.org/abs/2504.05224)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
 |**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
