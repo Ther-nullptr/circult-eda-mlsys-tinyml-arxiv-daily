@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1486,7 +1486,7 @@ layout: default
 |**2025-04-07**|**Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models**|Yoojin Jung et.al.|[2504.04747](http://arxiv.org/abs/2504.04747)|null|
 |**2025-04-07**|**T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models**|Minki Kang et.al.|[2504.04718](http://arxiv.org/abs/2504.04718)|null|
 |**2025-04-06**|**A Novel Algorithm for Personalized Federated Learning: Knowledge Distillation with Weighted Combination Loss**|Hengrui Hu et.al.|[2504.04642](http://arxiv.org/abs/2504.04642)|null|
-|**2025-04-06**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
+|**2025-04-08**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
 |**2025-04-06**|**Compression Laws for Large Language Models**|Ayan Sengupta et.al.|[2504.04342](http://arxiv.org/abs/2504.04342)|null|
 |**2025-04-05**|**Towards Understanding and Improving Refusal in Compressed Models via Mechanistic Interpretability**|Vishnu Kabir Chhabra et.al.|[2504.04215](http://arxiv.org/abs/2504.04215)|null|
 |**2025-04-05**|**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**|Kai Fang et.al.|[2504.04156](http://arxiv.org/abs/2504.04156)|null|
