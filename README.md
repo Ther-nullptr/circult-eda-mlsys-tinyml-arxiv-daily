@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-10**|**Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**|Hanqi Xiao et.al.|[2504.07389](http://arxiv.org/abs/2504.07389)|null|
+|**2025-04-10**|**Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**|Hanqi Xiao et.al.|[2504.07389](http://arxiv.org/abs/2504.07389)|**[link](https://github.com/the-inscrutable-x/tacq)**|
 |**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
 |**2025-04-07**|**Achieving binary weight and activation for LLMs using Post-Training Quantization**|Siqing Song et.al.|[2504.05352](http://arxiv.org/abs/2504.05352)|null|
 |**2025-03-29**|**RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm**|Yongyi Yang et.al.|[2504.03717](http://arxiv.org/abs/2504.03717)|null|
@@ -749,7 +749,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
-|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|null|
+|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|**[link](https://github.com/mtkresearch/taste-spokenlm)**|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-08**|**Can you Finetune your Binoculars? Embedding Text Watermarks into the Weights of Large Language Models**|Fay Elhassan et.al.|[2504.06446](http://arxiv.org/abs/2504.06446)|null|
 |**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426](http://arxiv.org/abs/2504.06426)|null|
@@ -1521,7 +1521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934](http://arxiv.org/abs/2504.07934)|null|
+|**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934](http://arxiv.org/abs/2504.07934)|**[link](https://github.com/si0wang/thinklite-vl)**|
 |**2025-04-10**|**Distilling Knowledge from Heterogeneous Architectures for Semantic Segmentation**|Yanglin Huang et.al.|[2504.07691](http://arxiv.org/abs/2504.07691)|null|
 |**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
 |**2025-04-10**|**WK-Pnet: FM-Based Positioning via Wavelet Packet Decomposition and Knowledge Distillation**|Shilian Zheng et.al.|[2504.07399](http://arxiv.org/abs/2504.07399)|null|
