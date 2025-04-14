@@ -755,7 +755,7 @@
 |**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426](http://arxiv.org/abs/2504.06426)|null|
 |**2025-04-08**|**Analyzing the Impact of Low-Rank Adaptation for Cross-Domain Few-Shot Object Detection in Aerial Images**|Hicham Talaoubrid et.al.|[2504.06330](http://arxiv.org/abs/2504.06330)|null|
 |**2025-04-08**|**Optuna vs Code Llama: Are LLMs a New Paradigm for Hyperparameter Tuning?**|Roman Kochnev et.al.|[2504.06006](http://arxiv.org/abs/2504.06006)|null|
-|**2025-04-06**|**AROMA: Autonomous Rank-one Matrix Adaptation**|Hao Nan Sheng et.al.|[2504.05343](http://arxiv.org/abs/2504.05343)|null|
+|**2025-04-06**|**AROMA: Autonomous Rank-one Matrix Adaptation**|Hao Nan Sheng et.al.|[2504.05343](http://arxiv.org/abs/2504.05343)|**[link](https://github.com/shudun23/aroma)**|
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
 |**2025-04-07**|**TactileNet: Bridging the Accessibility Gap with AI-Generated Tactile Graphics for Individuals with Vision Impairment**|Adnan Khan et.al.|[2504.04722](http://arxiv.org/abs/2504.04722)|null|
 |**2025-04-07**|**LEO-MINI: An Efficient Multimodal Large Language Model using Conditional Token Reduction and Mixture of Multi-Modal Experts**|Yimu Wang et.al.|[2504.04653](http://arxiv.org/abs/2504.04653)|null|
@@ -1545,9 +1545,9 @@
 |**2025-04-03**|**Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation**|Laibin Chang et.al.|[2504.02391](http://arxiv.org/abs/2504.02391)|null|
 |**2025-04-03**|**Agglomerating Large Vision Encoders via Distillation for VFSS Segmentation**|Chengxi Zeng et.al.|[2504.02351](http://arxiv.org/abs/2504.02351)|null|
 |**2025-04-03**|**Causal Self-supervised Pretrained Frontend with Predictive Code for Speech Separation**|Wupeng Wang et.al.|[2504.02302](http://arxiv.org/abs/2504.02302)|null|
-|**2025-04-03**|**Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation**|Amit Rand et.al.|[2504.02277](http://arxiv.org/abs/2504.02277)|null|
+|**2025-04-03**|**Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation**|Amit Rand et.al.|[2504.02277](http://arxiv.org/abs/2504.02277)|**[link](https://github.com/hadi-m-ibrahim/beyond-conventional-transformers)**|
 |**2025-04-02**|**MDP: Multidimensional Vision Model Pruning with Latency Constraint**|Xinglong Sun et.al.|[2504.02168](http://arxiv.org/abs/2504.02168)|null|
-|**2025-04-02**|**FlowDistill: Scalable Traffic Flow Prediction via Distillation from LLMs**|Chenyang Yu et.al.|[2504.02094](http://arxiv.org/abs/2504.02094)|null|
+|**2025-04-02**|**FlowDistill: Scalable Traffic Flow Prediction via Distillation from LLMs**|Chenyang Yu et.al.|[2504.02094](http://arxiv.org/abs/2504.02094)|**[link](https://github.com/zxc2012/flowdistill)**|
 |**2025-04-02**|**A Novel Approach To Implementing Knowledge Distillation In Tsetlin Machines**|Calvin Kinateder et.al.|[2504.01798](http://arxiv.org/abs/2504.01798)|null|
 |**2025-04-02**|**KD $^{2}$ M: An unifying framework for feature knowledge distillation**|Eduardo Fernandes Montesuma et.al.|[2504.01757](http://arxiv.org/abs/2504.01757)|null|
 |**2025-04-02**|**Style over Substance: Distilled Language Models Reason Via Stylistic Replication**|Philip Lippmann et.al.|[2504.01738](http://arxiv.org/abs/2504.01738)|null|
