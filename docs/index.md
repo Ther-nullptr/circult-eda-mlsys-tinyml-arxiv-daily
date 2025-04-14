@@ -290,6 +290,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**TensorNEAT: A GPU-accelerated Library for NeuroEvolution of Augmenting Topologies**|Lishuang Wang et.al.|[2504.08339](http://arxiv.org/abs/2504.08339)|null|
+|**2025-04-10**|**Improving Multiresource Job Scheduling with Markovian Service Rate Policies**|Zhongrui Chen et.al.|[2504.08094](http://arxiv.org/abs/2504.08094)|null|
 |**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|null|
 |**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197](http://arxiv.org/abs/2504.07197)|null|
 |**2025-04-08**|**Accelerating Hybrid XOR $-$ CNF SAT Problems Natively with In-Memory Computing**|Haesol Im et.al.|[2504.06476](http://arxiv.org/abs/2504.06476)|null|
@@ -511,6 +513,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
 |**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039](http://arxiv.org/abs/2504.06039)|null|
 |**2025-04-03**|**Advancing Air Quality Monitoring: TinyML-Based Real-Time Ozone Prediction with Cost-Effective Edge Devices**|Huam Ming Ken et.al.|[2504.03776](http://arxiv.org/abs/2504.03776)|null|
@@ -729,6 +732,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution**|Danielle Sullivan-Pao et.al.|[2504.08149](http://arxiv.org/abs/2504.08149)|null|
+|**2025-04-08**|**CDM-QTA: Quantized Training Acceleration for Efficient LoRA Fine-Tuning of Diffusion Model**|Jinming Lu et.al.|[2504.07998](http://arxiv.org/abs/2504.07998)|null|
 |**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
 |**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|**[link](https://github.com/mtkresearch/taste-spokenlm)**|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
@@ -1500,6 +1505,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578](http://arxiv.org/abs/2504.08578)|null|
+|**2025-04-11**|**Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery**|Alireza Fathalizadeh et.al.|[2504.08550](http://arxiv.org/abs/2504.08550)|null|
+|**2025-04-11**|**Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images**|Jinghe Yang et.al.|[2504.08253](http://arxiv.org/abs/2504.08253)|null|
+|**2025-04-10**|**Towards Unconstrained 2D Pose Estimation of the Human Spine**|Muhammad Saif Ullah Khan et.al.|[2504.08110](http://arxiv.org/abs/2504.08110)|null|
 |**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934](http://arxiv.org/abs/2504.07934)|**[link](https://github.com/si0wang/thinklite-vl)**|
 |**2025-04-10**|**Distilling Knowledge from Heterogeneous Architectures for Semantic Segmentation**|Yanglin Huang et.al.|[2504.07691](http://arxiv.org/abs/2504.07691)|null|
 |**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
