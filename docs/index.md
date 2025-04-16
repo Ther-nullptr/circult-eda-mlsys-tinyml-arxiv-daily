@@ -293,6 +293,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
+|**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-14**|**FPGA-Optimized Hardware Accelerator for Fast Fourier Transform and Singular Value Decomposition in AI**|Hong Ding et.al.|[2504.10411](http://arxiv.org/abs/2504.10411)|null|
 |**2025-04-14**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-04-11**|**ML For Hardware Design Interpretability: Challenges and Opportunities**|Raymond Baartmans et.al.|[2504.08852](http://arxiv.org/abs/2504.08852)|null|
@@ -519,6 +521,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556](http://arxiv.org/abs/2504.10556)|null|
 |**2025-04-13**|**Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?**|Christophe El Zeinaty et.al.|[2504.09685](http://arxiv.org/abs/2504.09685)|null|
 |**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|null|
 |**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
@@ -741,6 +744,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289](http://arxiv.org/abs/2504.11289)|null|
+|**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
+|**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817](http://arxiv.org/abs/2504.10817)|null|
 |**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
 |**2025-04-14**|**UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval**|Yating Liu et.al.|[2504.10084](http://arxiv.org/abs/2504.10084)|null|
 |**2025-04-13**|**AeroLite: Tag-Guided Lightweight Generation of Aerial Image Captions**|Xing Zi et.al.|[2504.09528](http://arxiv.org/abs/2504.09528)|null|
@@ -1524,6 +1530,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
+|**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
+|**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
+|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903](http://arxiv.org/abs/2504.10903)|null|
+|**2025-04-14**|**Optimising Intrusion Detection Systems in Cloud-Edge Continuum with Knowledge Distillation for Privacy-Preserving and Efficient Communication**|Soad Almabdy et.al.|[2504.10698](http://arxiv.org/abs/2504.10698)|null|
+|**2025-04-14**|**Better Estimation of the KL Divergence Between Language Models**|Afra Amini et.al.|[2504.10637](http://arxiv.org/abs/2504.10637)|null|
 |**2025-04-14**|**Digital Staining with Knowledge Distillation: A Unified Framework for Unpaired and Paired-But-Misaligned Data**|Ziwang Xu et.al.|[2504.09899](http://arxiv.org/abs/2504.09899)|null|
 |**2025-04-14**|**DUDA: Distilled Unsupervised Domain Adaptation for Lightweight Semantic Segmentation**|Beomseok Kang et.al.|[2504.09814](http://arxiv.org/abs/2504.09814)|null|
 |**2025-04-14**|**CUT: Pruning Pre-Trained Multi-Task Models into Compact Models for Edge Devices**|Jingxuan Zhou et.al.|[2504.09803](http://arxiv.org/abs/2504.09803)|null|
