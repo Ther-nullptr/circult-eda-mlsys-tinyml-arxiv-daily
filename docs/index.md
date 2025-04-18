@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -299,7 +299,7 @@ layout: default
 |**2025-04-14**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-04-11**|**ML For Hardware Design Interpretability: Challenges and Opportunities**|Raymond Baartmans et.al.|[2504.08852](http://arxiv.org/abs/2504.08852)|null|
 |**2025-04-11**|**TensorNEAT: A GPU-accelerated Library for NeuroEvolution of Augmenting Topologies**|Lishuang Wang et.al.|[2504.08339](http://arxiv.org/abs/2504.08339)|**[link](https://github.com/emi-group/tensorneat)**|
-|**2025-04-14**|**Improving Multiresource Job Scheduling with Markovian Service Rate Policies**|Zhongrui Chen et.al.|[2504.08094](http://arxiv.org/abs/2504.08094)|null|
+|**2025-04-14**|**Improving Multiresource Job Scheduling with Markovian Service Rate Policies**|Zhongrui Chen et.al.|[2504.08094](http://arxiv.org/abs/2504.08094)|**[link](https://github.com/jcpwfloi/msr-borg)**|
 |**2025-04-11**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
 |**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197](http://arxiv.org/abs/2504.07197)|null|
 |**2025-04-08**|**Accelerating Hybrid XOR $-$ CNF SAT Problems Natively with In-Memory Computing**|Haesol Im et.al.|[2504.06476](http://arxiv.org/abs/2504.06476)|null|
@@ -525,7 +525,7 @@ layout: default
 |**2025-04-10**|**MultiCore+TPU Accelerated Multi-Modal TinyML for Livestock Behaviour Recognition**|Qianxue Zhang et.al.|[2504.11467](http://arxiv.org/abs/2504.11467)|null|
 |**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556](http://arxiv.org/abs/2504.10556)|null|
 |**2025-04-13**|**Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?**|Christophe El Zeinaty et.al.|[2504.09685](http://arxiv.org/abs/2504.09685)|null|
-|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|null|
+|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
 |**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
 |**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039](http://arxiv.org/abs/2504.06039)|null|
