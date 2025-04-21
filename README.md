@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -182,12 +182,13 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Pruning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Enhanced Pruning Strategy for Multi-Component Neural Architectures Using Component-Aware Graph Analysis**|Ganesh Sundaram et.al.|[2504.13296](http://arxiv.org/abs/2504.13296)|null|
 |**2025-04-12**|**Sparse Hybrid Linear-Morphological Networks**|Konstantinos Fotopoulos et.al.|[2504.09289](http://arxiv.org/abs/2504.09289)|null|
 |**2025-04-08**|**Mosaic: Composite Projection Pruning for Resource-efficient LLMs**|Bailey J. Eccles et.al.|[2504.06323](http://arxiv.org/abs/2504.06323)|null|
 |**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|**[link](https://github.com/vectozavr/thanos)**|
@@ -300,12 +301,14 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
+|**2025-04-17**|**CardioFit: A WebGL-Based Tool for Fast and Efficient Parameterization of Cardiac Action Potential Models to Fit User-Provided Data**|Darby I. Cairns et.al.|[2504.13274](http://arxiv.org/abs/2504.13274)|null|
 |**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
 |**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-14**|**FPGA-Optimized Hardware Accelerator for Fast Fourier Transform and Singular Value Decomposition in AI**|Hong Ding et.al.|[2504.10411](http://arxiv.org/abs/2504.10411)|null|
@@ -530,7 +533,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## TinyML
 
@@ -705,7 +708,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -760,12 +763,15 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
+|**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645](http://arxiv.org/abs/2504.13645)|null|
+|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|null|
 |**2025-04-17**|**Mirror, Mirror of the Flow: How Does Regularization Shape Implicit Bias?**|Tom Jacobs et.al.|[2504.12883](http://arxiv.org/abs/2504.12883)|null|
 |**2025-04-17**|**Chinese-Vicuna: A Chinese Instruction-following Llama-based Model**|Chenghao Fan et.al.|[2504.12737](http://arxiv.org/abs/2504.12737)|null|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
@@ -1559,12 +1565,16 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## Model Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs**|Jiliang Ni et.al.|[2504.13471](http://arxiv.org/abs/2504.13471)|null|
+|**2025-04-17**|**ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**|Yan Yang et.al.|[2504.13237](http://arxiv.org/abs/2504.13237)|null|
+|**2025-04-17**|**Scaling Laws for Data-Efficient Visual Transfer Learning**|Wenxuan Yang et.al.|[2504.13219](http://arxiv.org/abs/2504.13219)|null|
 |**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873](http://arxiv.org/abs/2504.11873)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
 |**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
@@ -2410,7 +2420,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

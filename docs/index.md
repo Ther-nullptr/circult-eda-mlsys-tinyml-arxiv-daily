@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -177,6 +177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Enhanced Pruning Strategy for Multi-Component Neural Architectures Using Component-Aware Graph Analysis**|Ganesh Sundaram et.al.|[2504.13296](http://arxiv.org/abs/2504.13296)|null|
 |**2025-04-12**|**Sparse Hybrid Linear-Morphological Networks**|Konstantinos Fotopoulos et.al.|[2504.09289](http://arxiv.org/abs/2504.09289)|null|
 |**2025-04-08**|**Mosaic: Composite Projection Pruning for Resource-efficient LLMs**|Bailey J. Eccles et.al.|[2504.06323](http://arxiv.org/abs/2504.06323)|null|
 |**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|**[link](https://github.com/vectozavr/thanos)**|
@@ -293,6 +294,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
+|**2025-04-17**|**CardioFit: A WebGL-Based Tool for Fast and Efficient Parameterization of Cardiac Action Potential Models to Fit User-Provided Data**|Darby I. Cairns et.al.|[2504.13274](http://arxiv.org/abs/2504.13274)|null|
 |**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
 |**2025-04-14**|**Adaptive Synaptogenesis Implemented on a Nanomagnetic Platform**|Faiyaz Elahi Mullick et.al.|[2504.10767](http://arxiv.org/abs/2504.10767)|null|
 |**2025-04-14**|**FPGA-Optimized Hardware Accelerator for Fast Fourier Transform and Singular Value Decomposition in AI**|Hong Ding et.al.|[2504.10411](http://arxiv.org/abs/2504.10411)|null|
@@ -747,6 +750,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
+|**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645](http://arxiv.org/abs/2504.13645)|null|
+|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|null|
 |**2025-04-17**|**Mirror, Mirror of the Flow: How Does Regularization Shape Implicit Bias?**|Tom Jacobs et.al.|[2504.12883](http://arxiv.org/abs/2504.12883)|null|
 |**2025-04-17**|**Chinese-Vicuna: A Chinese Instruction-following Llama-based Model**|Chenghao Fan et.al.|[2504.12737](http://arxiv.org/abs/2504.12737)|null|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
@@ -1544,6 +1550,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs**|Jiliang Ni et.al.|[2504.13471](http://arxiv.org/abs/2504.13471)|null|
+|**2025-04-17**|**ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**|Yan Yang et.al.|[2504.13237](http://arxiv.org/abs/2504.13237)|null|
+|**2025-04-17**|**Scaling Laws for Data-Efficient Visual Transfer Learning**|Wenxuan Yang et.al.|[2504.13219](http://arxiv.org/abs/2504.13219)|null|
 |**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873](http://arxiv.org/abs/2504.11873)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
 |**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
