@@ -320,7 +320,7 @@
 |**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197](http://arxiv.org/abs/2504.07197)|null|
 |**2025-04-08**|**Accelerating Hybrid XOR $-$ CNF SAT Problems Natively with In-Memory Computing**|Haesol Im et.al.|[2504.06476](http://arxiv.org/abs/2504.06476)|null|
 |**2025-04-08**|**FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training**|Jinming Lu et.al.|[2504.06474](http://arxiv.org/abs/2504.06474)|null|
-|**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|null|
+|**2025-04-06**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|**[link](https://github.com/vectozavr/thanos)**|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
 |**2025-04-07**|**A High-Performance Curve25519 and Curve448 Unified Elliptic Curve Cryptography Accelerator**|Aniket Banerjee et.al.|[2504.04731](http://arxiv.org/abs/2504.04731)|null|
 |**2025-04-06**|**pc-COP: An Efficient and Configurable 2048-p-Bit Fully-Connected Probabilistic Computing Accelerator for Combinatorial Optimization**|Kiran Magar et.al.|[2504.04543](http://arxiv.org/abs/2504.04543)|null|
@@ -782,12 +782,12 @@
 |**2025-04-16**|**ACE: Attentional Concept Erasure in Diffusion Models**|Finn Carter et.al.|[2504.11850](http://arxiv.org/abs/2504.11850)|null|
 |**2025-04-16**|**Résumé abstractif à partir d'une transcription audio**|Ilia Derkach et.al.|[2504.11803](http://arxiv.org/abs/2504.11803)|null|
 |**2025-04-16**|**A Library of LLM Intrinsics for Retrieval-Augmented Generation**|Marina Danilevsky et.al.|[2504.11704](http://arxiv.org/abs/2504.11704)|null|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[2504.11514](http://arxiv.org/abs/2504.11514)|null|
-|**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289](http://arxiv.org/abs/2504.11289)|null|
-|**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
-|**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817](http://arxiv.org/abs/2504.10817)|null|
-|**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
-|**2025-04-14**|**UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval**|Yating Liu et.al.|[2504.10084](http://arxiv.org/abs/2504.10084)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[2504.11514](http://arxiv.org/abs/2504.11514)|**[link](https://github.com/ForzaETH/LLMxRobot)**|
+|**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289](http://arxiv.org/abs/2504.11289)|**[link](https://github.com/ali-vilab/unianimate-dit)**|
+|**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|**[link](https://github.com/yaozzz666/dscf-sr)**|
+|**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817](http://arxiv.org/abs/2504.10817)|**[link](https://github.com/wph6/fhbench)**|
+|**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|**[link](https://github.com/col-tasas/2025-oco-with-iqcs)**|
+|**2025-04-14**|**UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval**|Yating Liu et.al.|[2504.10084](http://arxiv.org/abs/2504.10084)|**[link](https://github.com/liu-yating/up-person)**|
 |**2025-04-13**|**AeroLite: Tag-Guided Lightweight Generation of Aerial Image Captions**|Xing Zi et.al.|[2504.09528](http://arxiv.org/abs/2504.09528)|null|
 |**2025-04-13**|**CamMimic: Zero-Shot Image To Camera Motion Personalized Video Generation Using Diffusion Models**|Pooja Guhan et.al.|[2504.09472](http://arxiv.org/abs/2504.09472)|null|
 |**2025-04-13**|**Vision Transformers Exhibit Human-Like Biases: Evidence of Orientation and Color Selectivity, Categorical Perception, and Phase Transitions**|Nooshin Bahador et.al.|[2504.09393](http://arxiv.org/abs/2504.09393)|null|
@@ -795,8 +795,8 @@
 |**2025-04-12**|**DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models**|Wenjin Ke et.al.|[2504.09223](http://arxiv.org/abs/2504.09223)|null|
 |**2025-04-11**|**Parameter-Free Fine-tuning via Redundancy Elimination for Vision Foundation Models**|Jiahuan Long et.al.|[2504.08915](http://arxiv.org/abs/2504.08915)|null|
 |**2025-04-11**|**Spatial Audio Processing with Large Language Model on Wearable Devices**|Ayushi Mishra et.al.|[2504.08907](http://arxiv.org/abs/2504.08907)|null|
-|**2025-04-11**|**AI-University: An LLM-based platform for instructional alignment to scientific classrooms**|Mostafa Faghih Shojaei et.al.|[2504.08846](http://arxiv.org/abs/2504.08846)|null|
-|**2025-04-10**|**LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution**|Danielle Sullivan-Pao et.al.|[2504.08149](http://arxiv.org/abs/2504.08149)|null|
+|**2025-04-11**|**AI-University: An LLM-based platform for instructional alignment to scientific classrooms**|Mostafa Faghih Shojaei et.al.|[2504.08846](http://arxiv.org/abs/2504.08846)|**[link](https://github.com/my-ai-university/finite-element-method)**|
+|**2025-04-10**|**LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution**|Danielle Sullivan-Pao et.al.|[2504.08149](http://arxiv.org/abs/2504.08149)|**[link](https://github.com/mit-ll/lorax_cil)**|
 |**2025-04-08**|**CDM-QTA: Quantized Training Acceleration for Efficient LoRA Fine-Tuning of Diffusion Model**|Jinming Lu et.al.|[2504.07998](http://arxiv.org/abs/2504.07998)|null|
 |**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
 |**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|**[link](https://github.com/mtkresearch/taste-spokenlm)**|
@@ -1020,7 +1020,7 @@
 |**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087](http://arxiv.org/abs/2502.05087)|**[link](https://github.com/tuneinsight/federated-llms)**|
 |**2025-02-07**|**SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model**|Jiayang Yu et.al.|[2502.04958](http://arxiv.org/abs/2502.04958)|**[link](https://github.com/yuhkalhic/ssmlora)**|
 |**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923](http://arxiv.org/abs/2502.04923)|**[link](https://github.com/Yqcca/CMLoRA)**|
-|**2025-02-07**|**SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity**|Yijun Wang et.al.|[2502.04740](http://arxiv.org/abs/2502.04740)|null|
+|**2025-02-07**|**SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity**|Yijun Wang et.al.|[2502.04740](http://arxiv.org/abs/2502.04740)|**[link](https://github.com/wangyijunlyy/selafd)**|
 |**2025-02-07**|**EigenLoRAx: Recycling Adapters to Find Principal Subspaces for Resource-Efficient Adaptation and Inference**|Prakhar Kaushik et.al.|[2502.04700](http://arxiv.org/abs/2502.04700)|**[link](https://github.com/toshi2k2/EigenLoRA)**|
 |**2025-02-07**|**Contrastive Learning-Enhanced Large Language Models for Monolith-to-Microservice Decomposition**|Khaled Sellami et.al.|[2502.04604](http://arxiv.org/abs/2502.04604)|null|
 |**2025-02-05**|**FedP $^2$ EFT: Federated Learning to Personalize Parameter Efficient Fine-Tuning for Multilingual LLMs**|Royson Lee et.al.|[2502.04387](http://arxiv.org/abs/2502.04387)|null|
@@ -1590,7 +1590,7 @@
 |**2025-04-12**|**Langformers: Unified NLP Pipelines for Language Models**|Rabindra Lamsal et.al.|[2504.09170](http://arxiv.org/abs/2504.09170)|null|
 |**2025-04-12**|**Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization**|Gen Li et.al.|[2504.09039](http://arxiv.org/abs/2504.09039)|null|
 |**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578](http://arxiv.org/abs/2504.08578)|null|
-|**2025-04-11**|**Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery**|Alireza Fathalizadeh et.al.|[2504.08550](http://arxiv.org/abs/2504.08550)|null|
+|**2025-04-11**|**Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery**|Alireza Fathalizadeh et.al.|[2504.08550](http://arxiv.org/abs/2504.08550)|**[link](https://github.com/numone01/categorizer)**|
 |**2025-04-11**|**Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images**|Jinghe Yang et.al.|[2504.08253](http://arxiv.org/abs/2504.08253)|null|
 |**2025-04-10**|**Towards Unconstrained 2D Pose Estimation of the Human Spine**|Muhammad Saif Ullah Khan et.al.|[2504.08110](http://arxiv.org/abs/2504.08110)|null|
 |**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934](http://arxiv.org/abs/2504.07934)|**[link](https://github.com/si0wang/thinklite-vl)**|
@@ -1603,7 +1603,7 @@
 |**2025-04-07**|**Learning Activity View-invariance Under Extreme Viewpoint Changes via Curriculum Knowledge Distillation**|Arjun Somayazulu et.al.|[2504.05451](http://arxiv.org/abs/2504.05451)|null|
 |**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224](http://arxiv.org/abs/2504.05224)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
-|**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
+|**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|**[link](https://github.com/adityashahane10/gotham--graph-based-class-incremental-learning-framework-under-weak-supervision)**|
 |**2025-04-07**|**Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models**|Yoojin Jung et.al.|[2504.04747](http://arxiv.org/abs/2504.04747)|null|
 |**2025-04-07**|**T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models**|Minki Kang et.al.|[2504.04718](http://arxiv.org/abs/2504.04718)|null|
 |**2025-04-06**|**A Novel Algorithm for Personalized Federated Learning: Knowledge Distillation with Weighted Combination Loss**|Hengrui Hu et.al.|[2504.04642](http://arxiv.org/abs/2504.04642)|null|
