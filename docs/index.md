@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -303,7 +303,7 @@ layout: default
 |**2025-04-11**|**ML For Hardware Design Interpretability: Challenges and Opportunities**|Raymond Baartmans et.al.|[2504.08852](http://arxiv.org/abs/2504.08852)|null|
 |**2025-04-11**|**TensorNEAT: A GPU-accelerated Library for NeuroEvolution of Augmenting Topologies**|Lishuang Wang et.al.|[2504.08339](http://arxiv.org/abs/2504.08339)|**[link](https://github.com/emi-group/tensorneat)**|
 |**2025-04-14**|**Improving Multiresource Job Scheduling with Markovian Service Rate Policies**|Zhongrui Chen et.al.|[2504.08094](http://arxiv.org/abs/2504.08094)|**[link](https://github.com/jcpwfloi/msr-borg)**|
-|**2025-04-11**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
+|**2025-04-20**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
 |**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197](http://arxiv.org/abs/2504.07197)|null|
 |**2025-04-08**|**Accelerating Hybrid XOR $-$ CNF SAT Problems Natively with In-Memory Computing**|Haesol Im et.al.|[2504.06476](http://arxiv.org/abs/2504.06476)|null|
 |**2025-04-08**|**FETTA: Flexible and Efficient Hardware Accelerator for Tensorized Neural Network Training**|Jinming Lu et.al.|[2504.06474](http://arxiv.org/abs/2504.06474)|null|
@@ -525,10 +525,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-03**|**Edge Intelligence for Wildlife Conservation: Real-Time Hornbill Call Classification Using TinyML**|Kong Ka Hing et.al.|[2504.12272](http://arxiv.org/abs/2504.12272)|null|
-|**2025-04-10**|**MultiCore+TPU Accelerated Multi-Modal TinyML for Livestock Behaviour Recognition**|Qianxue Zhang et.al.|[2504.11467](http://arxiv.org/abs/2504.11467)|null|
+|**2025-04-19**|**MultiCore+TPU Accelerated Multi-Modal TinyML for Livestock Behaviour Recognition**|Qianxue Zhang et.al.|[2504.11467](http://arxiv.org/abs/2504.11467)|null|
 |**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556](http://arxiv.org/abs/2504.10556)|null|
 |**2025-04-13**|**Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?**|Christophe El Zeinaty et.al.|[2504.09685](http://arxiv.org/abs/2504.09685)|null|
-|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
+|**2025-04-20**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
 |**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
 |**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039](http://arxiv.org/abs/2504.06039)|null|
@@ -752,11 +752,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
 |**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645](http://arxiv.org/abs/2504.13645)|null|
-|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|null|
+|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|**[link](https://github.com/learninginvision/lorac-ipc)**|
 |**2025-04-17**|**Mirror, Mirror of the Flow: How Does Regularization Shape Implicit Bias?**|Tom Jacobs et.al.|[2504.12883](http://arxiv.org/abs/2504.12883)|null|
 |**2025-04-17**|**Chinese-Vicuna: A Chinese Instruction-following Llama-based Model**|Chenghao Fan et.al.|[2504.12737](http://arxiv.org/abs/2504.12737)|null|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
-|**2025-04-16**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474](http://arxiv.org/abs/2504.12474)|null|
+|**2025-04-19**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474](http://arxiv.org/abs/2504.12474)|null|
 |**2025-04-16**|**You Don't Need All Attentions: Distributed Dynamic Fine-Tuning for Foundation Models**|Shiwei Ding et.al.|[2504.12471](http://arxiv.org/abs/2504.12471)|null|
 |**2025-04-16**|**Activated LoRA: Fine-tuned LLMs for Intrinsics**|Kristjan Greenewald et.al.|[2504.12397](http://arxiv.org/abs/2504.12397)|null|
 |**2025-04-16**|**Super-LoRa: Enhancing LoRa Throughput via Payload Superposition**|Salah Abdeljabar et.al.|[2504.11927](http://arxiv.org/abs/2504.11927)|null|
