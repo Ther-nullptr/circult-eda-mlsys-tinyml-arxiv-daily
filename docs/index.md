@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models**|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
+|**2025-04-14**|**Enhancing Ultra-Low-Bit Quantization of Large Language Models Through Saliency-Aware Partial Retraining**|Deyu Cao et.al.|[2504.13932](http://arxiv.org/abs/2504.13932)|null|
 |**2025-04-13**|**Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization**|Yamato Arai et.al.|[2504.09629](http://arxiv.org/abs/2504.09629)|null|
 |**2025-04-12**|**DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models**|Wenjin Ke et.al.|[2504.09223](http://arxiv.org/abs/2504.09223)|null|
 |**2025-04-10**|**Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**|Hanqi Xiao et.al.|[2504.07389](http://arxiv.org/abs/2504.07389)|**[link](https://github.com/the-inscrutable-x/tacq)**|
@@ -177,6 +179,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models**|Lawrence Liu et.al.|[2504.14569](http://arxiv.org/abs/2504.14569)|**[link](https://github.com/lawrencerliu/nowag)**|
+|**2025-04-19**|**Diffusion-based Dynamic Contract for Federated AI Agent Construction in Mobile Metaverses**|Jinbo Wen et.al.|[2504.14326](http://arxiv.org/abs/2504.14326)|null|
+|**2025-04-19**|**A Real-time and Hardware Efficient Artfecat-free Spike Sorting Using Deep Spike Detection**|Xiaoyu Jiang et.al.|[2504.14279](http://arxiv.org/abs/2504.14279)|null|
 |**2025-04-17**|**Enhanced Pruning Strategy for Multi-Component Neural Architectures Using Component-Aware Graph Analysis**|Ganesh Sundaram et.al.|[2504.13296](http://arxiv.org/abs/2504.13296)|null|
 |**2025-04-12**|**Sparse Hybrid Linear-Morphological Networks**|Konstantinos Fotopoulos et.al.|[2504.09289](http://arxiv.org/abs/2504.09289)|null|
 |**2025-04-08**|**Mosaic: Composite Projection Pruning for Resource-efficient LLMs**|Bailey J. Eccles et.al.|[2504.06323](http://arxiv.org/abs/2504.06323)|null|
@@ -294,6 +299,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
+|**2025-04-21**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
+|**2025-04-21**|**vApps: Verifiable Applications at Internet Scale**|Isaac Zhang et.al.|[2504.14809](http://arxiv.org/abs/2504.14809)|null|
+|**2025-04-19**|**FGMP: Fine-Grained Mixed-Precision Weight and Activation Quantization for Hardware-Accelerated LLM Inference**|Coleman Hooper et.al.|[2504.14152](http://arxiv.org/abs/2504.14152)|null|
+|**2025-04-18**|**HyDra: SOT-CAM Based Vector Symbolic Macro for Hyperdimensional Computing**|Md Mizanur Rahaman Nayan et.al.|[2504.14020](http://arxiv.org/abs/2504.14020)|null|
 |**2025-04-18**|**MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**|Zhenkai Qin et.al.|[2504.13574](http://arxiv.org/abs/2504.13574)|null|
 |**2025-04-17**|**CardioFit: A WebGL-Based Tool for Fast and Efficient Parameterization of Cardiac Action Potential Models to Fit User-Provided Data**|Darby I. Cairns et.al.|[2504.13274](http://arxiv.org/abs/2504.13274)|null|
 |**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124](http://arxiv.org/abs/2504.11124)|null|
@@ -524,6 +534,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Time-Series Analysis on Edge-AI Hardware for Healthcare Monitoring**|Jinhai Hu et.al.|[2504.15178](http://arxiv.org/abs/2504.15178)|null|
+|**2025-04-20**|**Explainability for Embedding AI: Aspirations and Actuality**|Thomas Weber et.al.|[2504.14631](http://arxiv.org/abs/2504.14631)|null|
 |**2025-04-03**|**Edge Intelligence for Wildlife Conservation: Real-Time Hornbill Call Classification Using TinyML**|Kong Ka Hing et.al.|[2504.12272](http://arxiv.org/abs/2504.12272)|null|
 |**2025-04-19**|**MultiCore+TPU Accelerated Multi-Modal TinyML for Livestock Behaviour Recognition**|Qianxue Zhang et.al.|[2504.11467](http://arxiv.org/abs/2504.11467)|null|
 |**2025-04-14**|**VAE-based Feature Disentanglement for Data Augmentation and Compression in Generalized GNSS Interference Classification**|Lucas Heublein et.al.|[2504.10556](http://arxiv.org/abs/2504.10556)|null|
@@ -697,6 +709,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
 |**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|
 |**2025-04-14**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
@@ -750,6 +763,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
+|**2025-04-21**|**What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale**|Xiaoyong Yuan et.al.|[2504.14815](http://arxiv.org/abs/2504.14815)|null|
+|**2025-04-21**|**When Cloud Removal Meets Diffusion Model in Remote Sensing**|Zhenyu Yu et.al.|[2504.14785](http://arxiv.org/abs/2504.14785)|null|
+|**2025-04-20**|**Efficient Federated Split Learning for Large Language Models over Communication Networks**|Kai Zhao et.al.|[2504.14667](http://arxiv.org/abs/2504.14667)|null|
+|**2025-04-20**|**TrustLoRA: Low-Rank Adaptation for Failure Detection under Out-of-distribution Data**|Fei Zhu et.al.|[2504.14545](http://arxiv.org/abs/2504.14545)|null|
+|**2025-04-19**|**Cross-attention for State-based model RWKV-7**|Liu Xiao et.al.|[2504.14260](http://arxiv.org/abs/2504.14260)|**[link](https://github.com/torchrwkv/flash-linear-attention)**|
+|**2025-04-18**|**6G WavesFM: A Foundation Model for Sensing, Communication, and Localization**|Ahmed Aboulfotouh et.al.|[2504.14100](http://arxiv.org/abs/2504.14100)|null|
 |**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
 |**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645](http://arxiv.org/abs/2504.13645)|null|
 |**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|**[link](https://github.com/learninginvision/lorac-ipc)**|
@@ -1550,6 +1570,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Linear Item-Item Model with Neural Knowledge for Session-based Recommendation**|Minjin Choi et.al.|[2504.15057](http://arxiv.org/abs/2504.15057)|null|
+|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
+|**2025-04-20**|**Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions**|Luyang Fang et.al.|[2504.14772](http://arxiv.org/abs/2504.14772)|null|
+|**2025-04-20**|**Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis**|Jingjing Ren et.al.|[2504.14470](http://arxiv.org/abs/2504.14470)|null|
+|**2025-04-19**|**Empirical Evaluation of Knowledge Distillation from Transformers to Subquadratic Language Models**|Patrick Haller et.al.|[2504.14366](http://arxiv.org/abs/2504.14366)|null|
+|**2025-04-19**|**Learning from Stochastic Teacher Representations Using Student-Guided Knowledge Distillation**|Muhammad Haseeb Aslam et.al.|[2504.14307](http://arxiv.org/abs/2504.14307)|null|
+|**2025-04-19**|**A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models**|Chengming Wang et.al.|[2504.14241](http://arxiv.org/abs/2504.14241)|null|
+|**2025-04-19**|**Teach Me How to Denoise: A Universal Framework for Denoising Multi-modal Recommender Systems via Guided Calibration**|Hongji Li et.al.|[2504.14214](http://arxiv.org/abs/2504.14214)|**[link](https://github.com/neon-jing/guider)**|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
 |**2025-04-18**|**From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs**|Jiliang Ni et.al.|[2504.13471](http://arxiv.org/abs/2504.13471)|null|
 |**2025-04-17**|**ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs**|Yan Yang et.al.|[2504.13237](http://arxiv.org/abs/2504.13237)|null|
