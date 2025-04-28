@@ -191,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Study on Real-Time Road Surface Reconstruction Using Stereo Vision**|Deepak Ghimire et.al.|[2504.18112](http://arxiv.org/abs/2504.18112)|null|
 |**2025-04-20**|**NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models**|Lawrence Liu et.al.|[2504.14569](http://arxiv.org/abs/2504.14569)|**[link](https://github.com/lawrencerliu/nowag)**|
 |**2025-04-19**|**Diffusion-based Dynamic Contract for Federated AI Agent Construction in Mobile Metaverses**|Jinbo Wen et.al.|[2504.14326](http://arxiv.org/abs/2504.14326)|null|
 |**2025-04-19**|**A Real-time and Hardware Efficient Artfecat-free Spike Sorting Using Deep Spike Detection**|Xiaoyu Jiang et.al.|[2504.14279](http://arxiv.org/abs/2504.14279)|null|
@@ -313,6 +314,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
+|**2025-04-25**|**RapidPIV: Full Flow-Field kHz PIV for Real-Time Display and Control**|Scott A. Bollt et.al.|[2504.17987](http://arxiv.org/abs/2504.17987)|null|
+|**2025-04-24**|**ApproXAI: Energy-Efficient Hardware Acceleration of Explainable AI using Approximate Computing**|Ayesha Siddique et.al.|[2504.17929](http://arxiv.org/abs/2504.17929)|null|
 |**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
 |**2025-04-24**|**Fine-Grained Fusion: The Missing Piece in Area-Efficient State Space Model Acceleration**|Robin Geens et.al.|[2504.17333](http://arxiv.org/abs/2504.17333)|null|
@@ -791,6 +795,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376](http://arxiv.org/abs/2504.18376)|null|
+|**2025-04-25**|**Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding**|Kun Li et.al.|[2504.18204](http://arxiv.org/abs/2504.18204)|null|
+|**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
+|**2025-04-25**|**Automating Function-Level TARA for Automotive Full-Lifecycle Security**|Yuqiao Yang et.al.|[2504.18083](http://arxiv.org/abs/2504.18083)|null|
 |**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
 |**2025-04-23**|**Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**|Abdul Hannaan et.al.|[2504.16515](http://arxiv.org/abs/2504.16515)|null|
 |**2025-04-23**|**EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records**|Shuguang Zhao et.al.|[2504.16448](http://arxiv.org/abs/2504.16448)|null|
@@ -1607,6 +1615,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519](http://arxiv.org/abs/2504.18519)|null|
 |**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
 |**2025-04-24**|**Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation**|Xin Yi et.al.|[2504.17480](http://arxiv.org/abs/2504.17480)|null|
 |**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432](http://arxiv.org/abs/2504.17432)|null|
