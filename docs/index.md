@@ -180,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
 |**2025-04-25**|**Study on Real-Time Road Surface Reconstruction Using Stereo Vision**|Deepak Ghimire et.al.|[2504.18112](http://arxiv.org/abs/2504.18112)|null|
 |**2025-04-20**|**NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models**|Lawrence Liu et.al.|[2504.14569](http://arxiv.org/abs/2504.14569)|**[link](https://github.com/lawrencerliu/nowag)**|
 |**2025-04-19**|**Diffusion-based Dynamic Contract for Federated AI Agent Construction in Mobile Metaverses**|Jinbo Wen et.al.|[2504.14326](http://arxiv.org/abs/2504.14326)|null|
@@ -301,6 +302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Systematic Hardware Integration Testing for Smart Video-based Medical Device Prototypes**|Oliver Bause et.al.|[2504.19533](http://arxiv.org/abs/2504.19533)|null|
 |**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
 |**2025-04-25**|**RapidPIV: Full Flow-Field kHz PIV for Real-Time Display and Control**|Scott A. Bollt et.al.|[2504.17987](http://arxiv.org/abs/2504.17987)|null|
 |**2025-04-24**|**ApproXAI: Energy-Efficient Hardware Acceleration of Explainable AI using Approximate Computing**|Ayesha Siddique et.al.|[2504.17929](http://arxiv.org/abs/2504.17929)|null|
@@ -543,6 +545,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
 |**2025-04-22**|**TinyML for Speech Recognition**|Andrew Barovic et.al.|[2504.16213](http://arxiv.org/abs/2504.16213)|null|
 |**2025-04-21**|**Hybrid Knowledge Transfer through Attention and Logit Distillation for On-Device Vision Systems in Agricultural IoT**|Stanley Mugisha et.al.|[2504.16128](http://arxiv.org/abs/2504.16128)|null|
 |**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
@@ -776,6 +779,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876](http://arxiv.org/abs/2504.19876)|null|
+|**2025-04-27**|**Low-Rank Adaptive Structural Priors for Generalizable Diabetic Retinopathy Grading**|Yunxuan Wang et.al.|[2504.19362](http://arxiv.org/abs/2504.19362)|null|
+|**2025-04-25**|**TLoRA: Tri-Matrix Low-Rank Adaptation of Large Language Models**|Tanvir Islam et.al.|[2504.18735](http://arxiv.org/abs/2504.18735)|null|
 |**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376](http://arxiv.org/abs/2504.18376)|null|
 |**2025-04-25**|**Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding**|Kun Li et.al.|[2504.18204](http://arxiv.org/abs/2504.18204)|null|
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
@@ -1594,6 +1600,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
+|**2025-04-28**|**Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**|Rishika Sen et.al.|[2504.20000](http://arxiv.org/abs/2504.20000)|null|
+|**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882](http://arxiv.org/abs/2504.19882)|null|
+|**2025-04-28**|**Towards Faster and More Compact Foundation Models for Molecular Property Prediction**|Yasir Ghunaim et.al.|[2504.19538](http://arxiv.org/abs/2504.19538)|null|
+|**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101](http://arxiv.org/abs/2504.19101)|null|
+|**2025-04-26**|**KETCHUP: K-Step Return Estimation for Sequential Knowledge Distillation**|Jiabin Fan et.al.|[2504.19024](http://arxiv.org/abs/2504.19024)|null|
+|**2025-04-26**|**Revisiting Transformers through the Lens of Low Entropy and Dynamic Sparsity**|Ruifeng Ren et.al.|[2504.18929](http://arxiv.org/abs/2504.18929)|null|
 |**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519](http://arxiv.org/abs/2504.18519)|null|
 |**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
 |**2025-04-24**|**Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation**|Xin Yi et.al.|[2504.17480](http://arxiv.org/abs/2504.17480)|null|
