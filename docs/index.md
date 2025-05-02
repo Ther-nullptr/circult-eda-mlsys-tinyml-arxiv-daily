@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Pack-PTQ: Advancing Post-training Quantization of Neural Networks by Pack-wise Reconstruction**|Changjun Li et.al.|[2505.00259](http://arxiv.org/abs/2505.00259)|null|
 |**2025-04-24**|**Precision Neural Network Quantization via Learnable Adaptive Modules**|Wenqiang Zhou et.al.|[2504.17263](http://arxiv.org/abs/2504.17263)|null|
 |**2025-04-21**|**StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models**|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
 |**2025-04-14**|**Enhancing Ultra-Low-Bit Quantization of Large Language Models Through Saliency-Aware Partial Retraining**|Deyu Cao et.al.|[2504.13932](http://arxiv.org/abs/2504.13932)|null|
@@ -180,6 +181,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624](http://arxiv.org/abs/2505.00624)|null|
+|**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
 |**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
 |**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
 |**2025-04-25**|**Study on Real-Time Road Surface Reconstruction Using Stereo Vision**|Deepak Ghimire et.al.|[2504.18112](http://arxiv.org/abs/2504.18112)|null|
@@ -303,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Emergent Synaptic Plasticity from Tunable Dynamics of Probabilistic Bits**|Sagnik Banerjee et.al.|[2505.00252](http://arxiv.org/abs/2505.00252)|null|
 |**2025-04-30**|**Low latency FPGA implementation of twisted Edward curve cryptography hardware accelerator over prime field**|Md Rownak Hossain et.al.|[2504.21342](http://arxiv.org/abs/2504.21342)|null|
 |**2025-04-28**|**Systematic Hardware Integration Testing for Smart Video-based Medical Device Prototypes**|Oliver Bause et.al.|[2504.19533](http://arxiv.org/abs/2504.19533)|null|
 |**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
@@ -547,6 +551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics**|Yijie Xia et.al.|[2505.00270](http://arxiv.org/abs/2505.00270)|null|
 |**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
 |**2025-04-27**|**Transcending Dimensions using Generative AI: Real-Time 3D Model Generation in Augmented Reality**|Majid Behravan et.al.|[2504.21033](http://arxiv.org/abs/2504.21033)|null|
 |**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
@@ -786,6 +791,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Block Circulant Adapter for Large Language Models**|Xinyu Ding et.al.|[2505.00582](http://arxiv.org/abs/2505.00582)|null|
+|**2025-05-01**|**Communication-Efficient Wireless Federated Fine-Tuning for Large-Scale AI Models**|Bumjun Kim et.al.|[2505.00333](http://arxiv.org/abs/2505.00333)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
 |**2025-04-30**|**SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks**|Uzair Shah et.al.|[2504.21544](http://arxiv.org/abs/2504.21544)|null|
 |**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
 |**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
@@ -1613,6 +1621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading**|Shuo Tong et.al.|[2505.00592](http://arxiv.org/abs/2505.00592)|null|
 |**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
 |**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
 |**2025-04-30**|**CAE-DFKD: Bridging the Transferability Gap in Data-Free Knowledge Distillation**|Zherui Zhang et.al.|[2504.21478](http://arxiv.org/abs/2504.21478)|null|
@@ -1622,6 +1631,7 @@ layout: default
 |**2025-04-29**|**Federated One-Shot Learning with Data Privacy and Objective-Hiding**|Maximilian Egger et.al.|[2504.21182](http://arxiv.org/abs/2504.21182)|null|
 |**2025-04-29**|**A Brief Review for Compression and Transfer Learning Techniques in DeepFake Detection**|Andreas Karathanasis et.al.|[2504.21066](http://arxiv.org/abs/2504.21066)|null|
 |**2025-04-30**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
+|**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
 |**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
 |**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
 |**2025-04-29**|**SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation**|Jia Wang et.al.|[2504.20501](http://arxiv.org/abs/2504.20501)|null|
