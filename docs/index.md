@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
+|**2025-05-05**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques**|Jie Kong et.al.|[2505.02351](http://arxiv.org/abs/2505.02351)|null|
+|**2025-05-05**|**NeuroSim V1.5: Improved Software Backbone for Benchmarking Compute-in-Memory Accelerators with Device and Circuit-level Non-idealities**|James Read et.al.|[2505.02314](http://arxiv.org/abs/2505.02314)|null|
+|**2025-05-04**|**An Empirical Study of Qwen3 Quantization**|Xingyu Zheng et.al.|[2505.02214](http://arxiv.org/abs/2505.02214)|null|
 |**2025-05-02**|**Efficient Vision-based Vehicle Speed Estimation**|Andrej Macko et.al.|[2505.01203](http://arxiv.org/abs/2505.01203)|null|
 |**2025-05-02**|**Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities**|Zhiwei Hao et.al.|[2505.01043](http://arxiv.org/abs/2505.01043)|null|
 |**2025-05-01**|**ICQuant: Index Coding enables Low-bit LLM Quantization**|Xinlin Li et.al.|[2505.00850](http://arxiv.org/abs/2505.00850)|null|
@@ -561,7 +565,7 @@ layout: default
 |**2025-05-02**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
 |**2025-04-27**|**Transcending Dimensions using Generative AI: Real-Time 3D Model Generation in Augmented Reality**|Majid Behravan et.al.|[2504.21033](http://arxiv.org/abs/2504.21033)|null|
 |**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
-|**2025-04-29**|**CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices**|Varatheepan Paramanayakam et.al.|[2504.20348](http://arxiv.org/abs/2504.20348)|null|
+|**2025-05-02**|**CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices**|Varatheepan Paramanayakam et.al.|[2504.20348](http://arxiv.org/abs/2504.20348)|null|
 |**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
 |**2025-04-22**|**TinyML for Speech Recognition**|Andrew Barovic et.al.|[2504.16213](http://arxiv.org/abs/2504.16213)|null|
@@ -742,6 +746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**DeepHMC : a deep-neural-network acclerated Hamiltonian Monte Carlo algorithm for binary neutron star parameter estimation**|Jules Perret et.al.|[2505.02589](http://arxiv.org/abs/2505.02589)|null|
 |**2025-05-02**|**CIMFlow: An Integrated Framework for Systematic Design and Evaluation of Digital CIM Architectures**|Yingjie Qi et.al.|[2505.01107](http://arxiv.org/abs/2505.01107)|null|
 |**2025-04-23**|**Trends in AI Supercomputers**|Konstantin F. Pilz et.al.|[2504.16026](http://arxiv.org/abs/2504.16026)|null|
 |**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
@@ -798,6 +803,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823](http://arxiv.org/abs/2505.02823)|null|
+|**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
+|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|null|
+|**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
+|**2025-05-03**|**Harnessing the Power of LLMs, Informers and Decision Transformers for Intent-driven RAN Management in 6G**|Md Arafat Habib et.al.|[2505.01841](http://arxiv.org/abs/2505.01841)|null|
+|**2025-05-03**|**PhytoSynth: Leveraging Multi-modal Generative Models for Crop Disease Data Generation with Novel Benchmarking and Prompt Engineering Approach**|Nitin Rai et.al.|[2505.01823](http://arxiv.org/abs/2505.01823)|null|
+|**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
+|**2025-05-03**|**An LLM-Empowered Low-Resolution Vision System for On-Device Human Behavior Understanding**|Siyang Jiang et.al.|[2505.01743](http://arxiv.org/abs/2505.01743)|null|
 |**2025-05-02**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598](http://arxiv.org/abs/2505.00598)|**[link](https://github.com/MAGICS-LAB/GERM)**|
 |**2025-05-01**|**Block Circulant Adapter for Large Language Models**|Xinyu Ding et.al.|[2505.00582](http://arxiv.org/abs/2505.00582)|null|
 |**2025-05-01**|**Communication-Efficient Wireless Federated Fine-Tuning for Large-Scale AI Models**|Bumjun Kim et.al.|[2505.00333](http://arxiv.org/abs/2505.00333)|null|
@@ -1629,6 +1642,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization**|Hongze Li et.al.|[2505.02515](http://arxiv.org/abs/2505.02515)|null|
+|**2025-05-05**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
+|**2025-05-04**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138](http://arxiv.org/abs/2505.02138)|null|
+|**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
+|**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
 |**2025-05-02**|**Improving Group Fairness in Knowledge Distillation via Laplace Approximation of Early Exits**|Edvin Fasth et.al.|[2505.01070](http://arxiv.org/abs/2505.01070)|null|
 |**2025-05-02**|**Toward Data-centric Directed Graph Learning: An Entropy-driven Approach**|Xunkai Li et.al.|[2505.00983](http://arxiv.org/abs/2505.00983)|null|
 |**2025-05-02**|**Llama-Nemotron: Efficient Reasoning Models**|Akhiad Bercovich et.al.|[2505.00949](http://arxiv.org/abs/2505.00949)|null|
