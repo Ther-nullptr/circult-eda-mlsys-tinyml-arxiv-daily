@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-06**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
 |**2025-05-05**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques**|Jie Kong et.al.|[2505.02351](http://arxiv.org/abs/2505.02351)|null|
 |**2025-05-05**|**NeuroSim V1.5: Improved Software Backbone for Benchmarking Compute-in-Memory Accelerators with Device and Circuit-level Non-idealities**|James Read et.al.|[2505.02314](http://arxiv.org/abs/2505.02314)|null|
-|**2025-05-04**|**An Empirical Study of Qwen3 Quantization**|Xingyu Zheng et.al.|[2505.02214](http://arxiv.org/abs/2505.02214)|null|
+|**2025-05-04**|**An Empirical Study of Qwen3 Quantization**|Xingyu Zheng et.al.|[2505.02214](http://arxiv.org/abs/2505.02214)|**[link](https://github.com/efficient-ml/qwen3-quantization)**|
 |**2025-05-02**|**Efficient Vision-based Vehicle Speed Estimation**|Andrej Macko et.al.|[2505.01203](http://arxiv.org/abs/2505.01203)|null|
 |**2025-05-02**|**Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities**|Zhiwei Hao et.al.|[2505.01043](http://arxiv.org/abs/2505.01043)|null|
 |**2025-05-01**|**ICQuant: Index Coding enables Low-bit LLM Quantization**|Xinlin Li et.al.|[2505.00850](http://arxiv.org/abs/2505.00850)|null|
@@ -811,7 +811,7 @@ layout: default
 |**2025-05-06**|**Lightweight Clinical Decision Support System using QLoRA-Fine-Tuned LLMs and Retrieval-Augmented Generation**|Mohammad Shoaib Ansari et.al.|[2505.03406](http://arxiv.org/abs/2505.03406)|null|
 |**2025-05-05**|**Leveraging Protein Language Model Embeddings for Catalytic Turnover Prediction of Adenylate Kinase Orthologs in a Low-Data Regime**|Duncan F. Muir et.al.|[2505.03066](http://arxiv.org/abs/2505.03066)|null|
 |**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
-|**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823](http://arxiv.org/abs/2505.02823)|null|
+|**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823](http://arxiv.org/abs/2505.02823)|**[link](https://github.com/guozinan126/musar)**|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|null|
 |**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
