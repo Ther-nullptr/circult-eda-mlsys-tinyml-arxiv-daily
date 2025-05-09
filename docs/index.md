@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -320,7 +320,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524](http://arxiv.org/abs/2505.04524)|null|
-|**2025-05-07**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108](http://arxiv.org/abs/2505.04108)|null|
+|**2025-05-08**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108](http://arxiv.org/abs/2505.04108)|null|
 |**2025-05-02**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|null|
 |**2025-05-01**|**Emergent Synaptic Plasticity from Tunable Dynamics of Probabilistic Bits**|Sagnik Banerjee et.al.|[2505.00252](http://arxiv.org/abs/2505.00252)|null|
 |**2025-04-30**|**Low latency FPGA implementation of twisted Edward curve cryptography hardware accelerator over prime field**|Md Rownak Hossain et.al.|[2504.21342](http://arxiv.org/abs/2504.21342)|null|
@@ -567,7 +567,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
+|**2025-05-08**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
 |**2025-05-06**|**Edge Large AI Models: Collaborative Deployment and IoT Applications**|Zixin Wang et.al.|[2505.03139](http://arxiv.org/abs/2505.03139)|null|
 |**2025-05-02**|**TActiLE: Tiny Active LEarning for wearable devices**|Massimo Pavan et.al.|[2505.01160](http://arxiv.org/abs/2505.01160)|null|
 |**2025-05-01**|**Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics**|Yijie Xia et.al.|[2505.00270](http://arxiv.org/abs/2505.00270)|null|
