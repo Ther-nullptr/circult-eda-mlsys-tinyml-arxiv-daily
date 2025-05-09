@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861](http://arxiv.org/abs/2505.04861)|null|
 |**2025-05-02**|**Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free**|Euntae Choi et.al.|[2505.03810](http://arxiv.org/abs/2505.03810)|null|
 |**2025-05-02**|**MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance**|Xing Hu et.al.|[2505.03804](http://arxiv.org/abs/2505.03804)|null|
 |**2025-05-02**|**RWKVQuant: Quantizing the RWKV Family with Proxy Guided Hybrid of Scalar and Vector Quantization**|Chen Xu et.al.|[2505.03803](http://arxiv.org/abs/2505.03803)|null|
@@ -567,6 +568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
 |**2025-05-08**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694](http://arxiv.org/abs/2505.03694)|null|
 |**2025-05-06**|**Edge Large AI Models: Collaborative Deployment and IoT Applications**|Zixin Wang et.al.|[2505.03139](http://arxiv.org/abs/2505.03139)|null|
 |**2025-05-02**|**TActiLE: Tiny Active LEarning for wearable devices**|Massimo Pavan et.al.|[2505.01160](http://arxiv.org/abs/2505.01160)|null|
@@ -760,7 +762,7 @@ layout: default
 |**2025-05-02**|**CIMFlow: An Integrated Framework for Systematic Design and Evaluation of Digital CIM Architectures**|Yingjie Qi et.al.|[2505.01107](http://arxiv.org/abs/2505.01107)|null|
 |**2025-04-23**|**Trends in AI Supercomputers**|Konstantin F. Pilz et.al.|[2504.16026](http://arxiv.org/abs/2504.16026)|null|
 |**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
-|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|**[link](https://github.com/stefanpie/hls-eval)**|
 |**2025-04-14**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
 |**2025-03-31**|**DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization**|Yi Ren et.al.|[2503.23945](http://arxiv.org/abs/2503.23945)|null|
@@ -813,10 +815,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**CAG-VLM: Fine-Tuning of a Large-Scale Model to Recognize Angiographic Images for Next-Generation Diagnostic Systems**|Yuto Nakamura et.al.|[2505.04964](http://arxiv.org/abs/2505.04964)|null|
+|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963](http://arxiv.org/abs/2505.04963)|null|
 |**2025-05-07**|**Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm**|Laura Wagner et.al.|[2505.04600](http://arxiv.org/abs/2505.04600)|null|
 |**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
 |**2025-05-06**|**Deepfakes on Demand: the rise of accessible non-consensual deepfake image generators**|Will Hawkins et.al.|[2505.03859](http://arxiv.org/abs/2505.03859)|null|
-|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
+|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|**[link](https://github.com/vlsf/hkmemory)**|
 |**2025-05-06**|**Lightweight Clinical Decision Support System using QLoRA-Fine-Tuned LLMs and Retrieval-Augmented Generation**|Mohammad Shoaib Ansari et.al.|[2505.03406](http://arxiv.org/abs/2505.03406)|null|
 |**2025-05-05**|**Leveraging Protein Language Model Embeddings for Catalytic Turnover Prediction of Adenylate Kinase Orthologs in a Low-Data Regime**|Duncan F. Muir et.al.|[2505.03066](http://arxiv.org/abs/2505.03066)|null|
 |**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
@@ -1659,6 +1663,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
+|**2025-05-08**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979](http://arxiv.org/abs/2505.04979)|null|
 |**2025-05-07**|**ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$ -Divergence**|Guanghui Wang et.al.|[2505.04560](http://arxiv.org/abs/2505.04560)|**[link](https://github.com/ghwang-s/abkd)**|
 |**2025-05-07**|**Theoretical Guarantees for LT-TTD: A Unified Transformer-based Architecture for Two-Level Ranking Systems**|Ayoub Abraich et.al.|[2505.04434](http://arxiv.org/abs/2505.04434)|null|
 |**2025-05-06**|**Knowledge Distillation Inspired Variational Quantum Eigensolver with Virtual Annealing**|Junxu Li et.al.|[2505.03998](http://arxiv.org/abs/2505.03998)|null|
