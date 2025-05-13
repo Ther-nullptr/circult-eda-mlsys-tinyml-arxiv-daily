@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
-|**2025-05-11**|**GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance**|Jinuk Kim et.al.|[2505.07004](http://arxiv.org/abs/2505.07004)|null|
+|**2025-05-11**|**GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance**|Jinuk Kim et.al.|[2505.07004](http://arxiv.org/abs/2505.07004)|**[link](https://github.com/snu-mllab/guidedquant)**|
 |**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861](http://arxiv.org/abs/2505.04861)|null|
 |**2025-05-02**|**Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free**|Euntae Choi et.al.|[2505.03810](http://arxiv.org/abs/2505.03810)|null|
 |**2025-05-02**|**MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance**|Xing Hu et.al.|[2505.03804](http://arxiv.org/abs/2505.03804)|null|
@@ -822,7 +822,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
-|**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|null|
+|**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|**[link](https://github.com/gatina-yone/abs-mamba)**|
 |**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
 |**2025-05-12**|**Private LoRA Fine-tuning of Open-Source LLMs with Homomorphic Encryption**|Jordan Frery et.al.|[2505.07329](http://arxiv.org/abs/2505.07329)|null|
 |**2025-05-11**|**Federated Learning with LoRA Optimized DeiT and Multiscale Patch Embedding for Secure Eye Disease Recognition**|Md. Naimur Asif Borno et.al.|[2505.06982](http://arxiv.org/abs/2505.06982)|null|
