@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -828,7 +828,7 @@ layout: default
 |**2025-05-11**|**Federated Learning with LoRA Optimized DeiT and Multiscale Patch Embedding for Secure Eye Disease Recognition**|Md. Naimur Asif Borno et.al.|[2505.06982](http://arxiv.org/abs/2505.06982)|null|
 |**2025-05-09**|**Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI**|Benjamin Raphael Ernhofer et.al.|[2505.05895](http://arxiv.org/abs/2505.05895)|null|
 |**2025-05-08**|**Fine-Tuning Video-Text Contrastive Model for Primate Behavior Retrieval from Unlabeled Raw Videos**|Giulio Cesare Mastrocinque Santo et.al.|[2505.05681](http://arxiv.org/abs/2505.05681)|null|
-|**2025-05-08**|**Leveraging Large Language Models for enzymatic reaction prediction and characterization**|Lorenzo Di Fruscia et.al.|[2505.05616](http://arxiv.org/abs/2505.05616)|null|
+|**2025-05-08**|**Leveraging Large Language Models for enzymatic reaction prediction and characterization**|Lorenzo Di Fruscia et.al.|[2505.05616](http://arxiv.org/abs/2505.05616)|**[link](https://github.com/intelligent-molecular-systems/llm_finetuning_for_biochemistry)**|
 |**2025-05-08**|**scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction**|Qing Wang et.al.|[2505.05612](http://arxiv.org/abs/2505.05612)|**[link](https://github.com/qsong-github/scdrugmap)**|
 |**2025-05-08**|**CAG-VLM: Fine-Tuning of a Large-Scale Model to Recognize Angiographic Images for Next-Generation Diagnostic Systems**|Yuto Nakamura et.al.|[2505.04964](http://arxiv.org/abs/2505.04964)|null|
 |**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963](http://arxiv.org/abs/2505.04963)|null|
