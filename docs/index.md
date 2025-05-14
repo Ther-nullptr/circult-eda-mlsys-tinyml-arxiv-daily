@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Resource-Efficient Language Models: Quantization for Fast and Accessible Inference**|Tollef Emil Jørgensen et.al.|[2505.08620](http://arxiv.org/abs/2505.08620)|null|
 |**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
 |**2025-05-11**|**GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance**|Jinuk Kim et.al.|[2505.07004](http://arxiv.org/abs/2505.07004)|**[link](https://github.com/snu-mllab/guidedquant)**|
 |**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861](http://arxiv.org/abs/2505.04861)|null|
@@ -196,6 +197,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768](http://arxiv.org/abs/2505.08768)|null|
+|**2025-05-13**|**Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments**|Ibne Farabi Shihab et.al.|[2505.08299](http://arxiv.org/abs/2505.08299)|null|
 |**2025-05-06**|**SPAP: Structured Pruning via Alternating Optimization and Penalty Methods**|Hanyu Hu et.al.|[2505.03373](http://arxiv.org/abs/2505.03373)|null|
 |**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624](http://arxiv.org/abs/2505.00624)|null|
 |**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
@@ -571,6 +574,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**On-Device Crack Segmentation for Edge Structural Health Monitoring**|Yuxuan Zhang et.al.|[2505.07915](http://arxiv.org/abs/2505.07915)|null|
 |**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583](http://arxiv.org/abs/2505.07583)|null|
 |**2025-05-12**|**Empowering the Grid: Collaborative Edge Artificial Intelligence for Decentralized Energy Systems**|Eddie de Paula Jr et.al.|[2505.07170](http://arxiv.org/abs/2505.07170)|null|
 |**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417](http://arxiv.org/abs/2505.06417)|null|
@@ -821,6 +825,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
+|**2025-05-13**|**SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation**|Edoardo Bianchi et.al.|[2505.08665](http://arxiv.org/abs/2505.08665)|null|
+|**2025-05-13**|**An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care**|Zhi Da Soh et.al.|[2505.08414](http://arxiv.org/abs/2505.08414)|null|
+|**2025-05-12**|**MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder**|Bowen Zhang et.al.|[2505.07916](http://arxiv.org/abs/2505.07916)|null|
+|**2025-05-10**|**Efficient Telecom Specific LLM: TSLAM-Mini with QLoRA and Digital Twin Data**|Vignesh Ethiraj et.al.|[2505.07877](http://arxiv.org/abs/2505.07877)|null|
 |**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
 |**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687](http://arxiv.org/abs/2505.07687)|**[link](https://github.com/gatina-yone/abs-mamba)**|
 |**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
@@ -1678,6 +1687,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Scalable UAV Multi-Hop Networking via Multi-Agent Reinforcement Learning with Large Language Models**|Yanggang Xu et.al.|[2505.08448](http://arxiv.org/abs/2505.08448)|null|
+|**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
+|**2025-05-13**|**MoKD: Multi-Task Optimization for Knowledge Distillation**|Zeeshan Hayder et.al.|[2505.08170](http://arxiv.org/abs/2505.08170)|null|
+|**2025-05-13**|**Fusing Bidirectional Chains of Thought and Reward Mechanisms A Method for Enhancing Question-Answering Capabilities of Large Language Models for Chinese Intangible Cultural Heritage**|Ruilin Liu et.al.|[2505.08167](http://arxiv.org/abs/2505.08167)|null|
+|**2025-05-13**|**Foundation Models Knowledge Distillation For Battery Capacity Degradation Forecast**|Joey Chan et.al.|[2505.08151](http://arxiv.org/abs/2505.08151)|**[link](https://github.com/sjtu-chan-joey/battery-timer)**|
+|**2025-05-12**|**Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing**|Luu Tung Hai et.al.|[2505.08101](http://arxiv.org/abs/2505.08101)|**[link](https://github.com/hysonlab/pointdistill)**|
+|**2025-05-12**|**Channel Fingerprint Construction for Massive MIMO: A Deep Conditional Generative Approach**|Zhenzhou Jin et.al.|[2505.07893](http://arxiv.org/abs/2505.07893)|null|
 |**2025-05-12**|**Simple Semi-supervised Knowledge Distillation from Vision-Language Models via $\mathbf{\texttt{D}}$ual-$\mathbf{\texttt{H}}$ead $\mathbf{\texttt{O}}$ ptimization**|Seongjae Kang et.al.|[2505.07675](http://arxiv.org/abs/2505.07675)|null|
 |**2025-05-12**|**Semantic Retention and Extreme Compression in LLMs: Can We Have Both?**|Stanislas Laborde et.al.|[2505.07289](http://arxiv.org/abs/2505.07289)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
