@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**|Mariano Ferrero et.al.|[2505.10198](http://arxiv.org/abs/2505.10198)|null|
 |**2025-05-12**|**An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits**|Cody Steinmetz et.al.|[2505.08823](http://arxiv.org/abs/2505.08823)|null|
 |**2025-05-13**|**Resource-Efficient Language Models: Quantization for Fast and Accessible Inference**|Tollef Emil Jørgensen et.al.|[2505.08620](http://arxiv.org/abs/2505.08620)|null|
 |**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
@@ -575,6 +576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|null|
 |**2025-05-13**|**Dataflow & Tiling Strategies in Edge-AI FPGA Accelerators: A Comprehensive Literature Review**|Zhaoqin Li et.al.|[2505.08992](http://arxiv.org/abs/2505.08992)|null|
 |**2025-05-07**|**Onboard Optimization and Learning: A Survey**|Monirul Islam Pavel et.al.|[2505.08793](http://arxiv.org/abs/2505.08793)|null|
 |**2025-05-12**|**On-Device Crack Segmentation for Edge Structural Health Monitoring**|Yuxuan Zhang et.al.|[2505.07915](http://arxiv.org/abs/2505.07915)|null|
@@ -828,8 +830,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|null|
+|**2025-05-14**|**Contextual Phenotyping of Pediatric Sepsis Cohort Using Large Language Models**|Aditya Nagori et.al.|[2505.09805](http://arxiv.org/abs/2505.09805)|null|
+|**2025-05-14**|**FAS-LLM: Large Language Model-Based Channel Prediction for OTFS-Enabled Satellite-FAS Links**|Halvin Yang et.al.|[2505.09751](http://arxiv.org/abs/2505.09751)|null|
 |**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|null|
-|**2025-05-14**|**UniCAD: Efficient and Extendable Architecture for Multi-Task Computer-Aided Diagnosis System**|Yitao Zhu et.al.|[2505.09178](http://arxiv.org/abs/2505.09178)|null|
+|**2025-05-15**|**UniCAD: Efficient and Extendable Architecture for Multi-Task Computer-Aided Diagnosis System**|Yitao Zhu et.al.|[2505.09178](http://arxiv.org/abs/2505.09178)|null|
 |**2025-05-13**|**Parameter-Efficient Fine-Tuning of Vision Foundation Model for Forest Floor Segmentation from UAV Imagery**|Mohammad Wasil et.al.|[2505.08932](http://arxiv.org/abs/2505.08932)|null|
 |**2025-05-14**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
 |**2025-05-13**|**SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation**|Edoardo Bianchi et.al.|[2505.08665](http://arxiv.org/abs/2505.08665)|null|
@@ -1693,6 +1698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Extension of the consistent $δ^{+}$ -SPH model for multiphase flows considering the compressibility of different phases**|Xiao-Ting Huang et.al.|[2505.10215](http://arxiv.org/abs/2505.10215)|null|
+|**2025-05-15**|**On the elliptic representation of near-wall compressibility correction to k- $ω$ turbulence model**|Zifei Yin et.al.|[2505.10009](http://arxiv.org/abs/2505.10009)|null|
 |**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
 |**2025-05-13**|**ITERA-LLM: Boosting Sub-8-Bit Large Language Model Inference via Iterative Tensor Decomposition**|Keran Zheng et.al.|[2505.08981](http://arxiv.org/abs/2505.08981)|null|
 |**2025-05-12**|**An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits**|Cody Steinmetz et.al.|[2505.08823](http://arxiv.org/abs/2505.08823)|null|
