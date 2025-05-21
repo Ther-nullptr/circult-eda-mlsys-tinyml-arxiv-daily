@@ -877,10 +877,10 @@
 |**2025-05-20**|**Enhancing Learned Knowledge in LoRA Adapters Through Efficient Contrastive Decoding on Ascend NPUs**|Morgan Lindsay Heisler et.al.|[2505.14620](http://arxiv.org/abs/2505.14620)|null|
 |**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537](http://arxiv.org/abs/2505.14537)|null|
 |**2025-05-20**|**ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs**|Yifan Sui et.al.|[2505.14468](http://arxiv.org/abs/2505.14468)|null|
-|**2025-05-20**|**Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models**|Yuqiao Tan et.al.|[2505.14436](http://arxiv.org/abs/2505.14436)|null|
+|**2025-05-20**|**Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models**|Yuqiao Tan et.al.|[2505.14436](http://arxiv.org/abs/2505.14436)|**[link](https://github.com/trae1oung/neural_incompatibility)**|
 |**2025-05-20**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
 |**2025-05-20**|**OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation**|Jialong Han et.al.|[2505.14350](http://arxiv.org/abs/2505.14350)|null|
-|**2025-05-20**|**ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models**|Raghav Singhal et.al.|[2505.14238](http://arxiv.org/abs/2505.14238)|null|
+|**2025-05-20**|**ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models**|Raghav Singhal et.al.|[2505.14238](http://arxiv.org/abs/2505.14238)|**[link](https://github.com/cert-lab/abba)**|
 |**2025-05-20**|**EfficientLLM: Efficiency in Large Language Models**|Zhengqing Yuan et.al.|[2505.13840](http://arxiv.org/abs/2505.13840)|null|
 |**2025-05-19**|**Direction-Aware Neural Acoustic Fields for Few-Shot Interpolation of Ambisonic Impulse Responses**|Christopher Ick et.al.|[2505.13617](http://arxiv.org/abs/2505.13617)|null|
 |**2025-05-19**|**Personalized Fine-Tuning with Controllable Synthetic Speech from LLM-Generated Transcripts for Dysarthric Speech Recognition**|Dominik Wagner et.al.|[2505.12991](http://arxiv.org/abs/2505.12991)|null|
@@ -1769,7 +1769,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-20**|**Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking**|Songhao Wu et.al.|[2505.14180](http://arxiv.org/abs/2505.14180)|null|
-|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
 |**2025-05-20**|**Improved Methods for Model Pruning and Knowledge Distillation**|Wei Jiang et.al.|[2505.14052](http://arxiv.org/abs/2505.14052)|null|
 |**2025-05-20**|**Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation**|Siddhant Bhambri et.al.|[2505.13792](http://arxiv.org/abs/2505.13792)|null|
 |**2025-05-20**|**Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels**|Yongshuo Zong et.al.|[2505.13788](http://arxiv.org/abs/2505.13788)|null|
