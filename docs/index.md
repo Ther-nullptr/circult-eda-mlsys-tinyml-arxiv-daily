@@ -861,7 +861,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
-|**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|null|
+|**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|**[link](https://github.com/zyy-2001/cola)**|
 |**2025-05-21**|**AdUE: Improving uncertainty estimation head for LoRA adapters in LLMs**|Artem Zabolotnyi et.al.|[2505.15443](http://arxiv.org/abs/2505.15443)|null|
 |**2025-05-21**|**Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions**|Zhiwen Li et.al.|[2505.15427](http://arxiv.org/abs/2505.15427)|null|
 |**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425](http://arxiv.org/abs/2505.15425)|null|
@@ -1762,12 +1762,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581](http://arxiv.org/abs/2505.15581)|null|
+|**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581](http://arxiv.org/abs/2505.15581)|**[link](https://github.com/liamlian0727/uiis10k)**|
 |**2025-05-21**|**On the Generalization vs Fidelity Paradox in Knowledge Distillation**|Suhas Kamasetty Ramesh et.al.|[2505.15442](http://arxiv.org/abs/2505.15442)|null|
 |**2025-05-21**|**MentalMAC: Enhancing Large Language Models for Detecting Mental Manipulation via Multi-Task Anti-Curriculum Distillation**|Yuansheng Gao et.al.|[2505.15255](http://arxiv.org/abs/2505.15255)|null|
 |**2025-05-21**|**An Efficient Private GPT Never Autoregressively Decodes**|Zhengyi Li et.al.|[2505.15252](http://arxiv.org/abs/2505.15252)|null|
-|**2025-05-21**|**Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs**|Jie Ma et.al.|[2505.15210](http://arxiv.org/abs/2505.15210)|null|
-|**2025-05-21**|**DeepKD: A Deeply Decoupled and Denoised Knowledge Distillation Trainer**|Haiduo Huang et.al.|[2505.15133](http://arxiv.org/abs/2505.15133)|null|
+|**2025-05-21**|**Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs**|Jie Ma et.al.|[2505.15210](http://arxiv.org/abs/2505.15210)|**[link](https://github.com/reml-group/deliberation-on-priors)**|
+|**2025-05-21**|**DeepKD: A Deeply Decoupled and Denoised Knowledge Distillation Trainer**|Haiduo Huang et.al.|[2505.15133](http://arxiv.org/abs/2505.15133)|**[link](https://github.com/haiduo/deepkd)**|
 |**2025-05-20**|**Saten: Sparse Augmented Tensor Networks for Post-Training Compression of Large Language Models**|Ryan Solgi et.al.|[2505.14871](http://arxiv.org/abs/2505.14871)|null|
 |**2025-05-20**|**Efficient Privacy-Preserving Cross-Silo Federated Learning with Multi-Key Homomorphic Encryption**|Abdullah Al Omar et.al.|[2505.14797](http://arxiv.org/abs/2505.14797)|null|
 |**2025-05-20**|**Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking**|Songhao Wu et.al.|[2505.14180](http://arxiv.org/abs/2505.14180)|null|
