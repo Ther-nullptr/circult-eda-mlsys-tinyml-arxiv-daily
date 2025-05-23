@@ -621,7 +621,7 @@
 |**2025-05-21**|**Benchmarking Energy and Latency in TinyML: A Novel Method for Resource-Constrained AI**|Pietro Bartoli et.al.|[2505.15622](http://arxiv.org/abs/2505.15622)|null|
 |**2025-05-08**|**An Edge AI Solution for Space Object Detection**|Wenxuan Zhang et.al.|[2505.13468](http://arxiv.org/abs/2505.13468)|null|
 |**2025-05-19**|**Learning in Chaos: Efficient Autoscaling and Self-healing for Distributed Training at the Edge**|Wenjiao Feng et.al.|[2505.12815](http://arxiv.org/abs/2505.12815)|null|
-|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
+|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|**[link](https://github.com/tinypart/msf-cnn)**|
 |**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|**[link](https://github.com/egirgin/storaige-b950)**|
 |**2025-05-20**|**Dataflow & Tiling Strategies in Edge-AI FPGA Accelerators: A Comprehensive Literature Review**|Richie Li et.al.|[2505.08992](http://arxiv.org/abs/2505.08992)|null|
 |**2025-05-07**|**Onboard Optimization and Learning: A Survey**|Monirul Islam Pavel et.al.|[2505.08793](http://arxiv.org/abs/2505.08793)|null|
@@ -821,7 +821,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-20**|**Towards Efficient Multi-Scale Deformable Attention on NPU**|Chenghuan Huang et.al.|[2505.14022](http://arxiv.org/abs/2505.14022)|null|
-|**2025-05-20**|**LLM-DSE: Searching Accelerator Parameters with LLM Agents**|Hanyu Wang et.al.|[2505.12188](http://arxiv.org/abs/2505.12188)|null|
+|**2025-05-20**|**LLM-DSE: Searching Accelerator Parameters with LLM Agents**|Hanyu Wang et.al.|[2505.12188](http://arxiv.org/abs/2505.12188)|**[link](https://github.com/nozidoali/llm-dse)**|
 |**2025-04-10**|**APSQ: Additive Partial Sum Quantization with Algorithm-Hardware Co-Design**|Yonghao Tan et.al.|[2505.03748](http://arxiv.org/abs/2505.03748)|null|
 |**2025-05-05**|**DeepHMC : a deep-neural-network acclerated Hamiltonian Monte Carlo algorithm for binary neutron star parameter estimation**|Jules Perret et.al.|[2505.02589](http://arxiv.org/abs/2505.02589)|null|
 |**2025-05-02**|**CIMFlow: An Integrated Framework for Systematic Design and Evaluation of Digital CIM Architectures**|Yingjie Qi et.al.|[2505.01107](http://arxiv.org/abs/2505.01107)|null|
@@ -1800,7 +1800,7 @@
 |**2025-05-22**|**Is Quantum Optimization Ready? An Effort Towards Neural Network Compression using Adiabatic Quantum Computing**|Zhehui Wanga et.al.|[2505.16332](http://arxiv.org/abs/2505.16332)|null|
 |**2025-05-22**|**ToDi: Token-wise Distillation via Fine-Grained Divergence Control**|Seongryong Jung et.al.|[2505.16297](http://arxiv.org/abs/2505.16297)|null|
 |**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581](http://arxiv.org/abs/2505.15581)|**[link](https://github.com/liamlian0727/uiis10k)**|
-|**2025-05-21**|**On the Generalization vs Fidelity Paradox in Knowledge Distillation**|Suhas Kamasetty Ramesh et.al.|[2505.15442](http://arxiv.org/abs/2505.15442)|null|
+|**2025-05-21**|**On the Generalization vs Fidelity Paradox in Knowledge Distillation**|Suhas Kamasetty Ramesh et.al.|[2505.15442](http://arxiv.org/abs/2505.15442)|**[link](https://github.com/LCS2-IIITD/KD_generalization)**|
 |**2025-05-22**|**MentalMAC: Enhancing Large Language Models for Detecting Mental Manipulation via Multi-Task Anti-Curriculum Distillation**|Yuansheng Gao et.al.|[2505.15255](http://arxiv.org/abs/2505.15255)|null|
 |**2025-05-21**|**An Efficient Private GPT Never Autoregressively Decodes**|Zhengyi Li et.al.|[2505.15252](http://arxiv.org/abs/2505.15252)|null|
 |**2025-05-21**|**Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs**|Jie Ma et.al.|[2505.15210](http://arxiv.org/abs/2505.15210)|**[link](https://github.com/reml-group/deliberation-on-priors)**|
