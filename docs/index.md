@@ -213,6 +213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|null|
 |**2025-05-23**|**ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning**|Mingkuan Feng et.al.|[2505.18232](http://arxiv.org/abs/2505.18232)|null|
 |**2025-05-13**|**Constrained Edge AI Deployment: Fine-Tuning vs Distillation for LLM Compression**|Jacob Sander et.al.|[2505.18166](http://arxiv.org/abs/2505.18166)|null|
@@ -886,6 +887,9 @@ layout: default
 |**2025-05-26**|**FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets**|Dannong Wang et.al.|[2505.19819](http://arxiv.org/abs/2505.19819)|null|
 |**2025-05-26**|**Continuous Self-Improvement of Large Language Models by Test-time Training with Verifier-Driven Sample Selection**|Mohammad Mahdi Moradi et.al.|[2505.19475](http://arxiv.org/abs/2505.19475)|null|
 |**2025-05-26**|**Origin Tracer: A Method for Detecting LoRA Fine-Tuning Origins in LLMs**|Hongyu Liang et.al.|[2505.19466](http://arxiv.org/abs/2505.19466)|null|
+|**2025-05-25**|**RetrieveAll: A Multilingual Named Entity Recognition Framework with Large Language Models**|Jin Zhang et.al.|[2505.19128](http://arxiv.org/abs/2505.19128)|null|
+|**2025-05-25**|**FiLLM -- A Filipino-optimized Large Language Model based on Southeast Asia Large Language Model (SEALLM)**|Carlos Jude G. Maminta et.al.|[2505.18995](http://arxiv.org/abs/2505.18995)|null|
+|**2025-05-24**|**RefLoRA: Refactored Low-Rank Adaptation for Efficient Fine-Tuning of Large Models**|Yilang Zhang et.al.|[2505.18877](http://arxiv.org/abs/2505.18877)|null|
 |**2025-05-23**|**SVD-Free Low-Rank Adaptive Gradient Optimization for Large Language Models**|Ionut-Vlad Modoranu et.al.|[2505.17967](http://arxiv.org/abs/2505.17967)|null|
 |**2025-05-23**|**Mixture of Low Rank Adaptation with Partial Parameter Sharing for Time Series Forecasting**|Licheng Pan et.al.|[2505.17872](http://arxiv.org/abs/2505.17872)|null|
 |**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821](http://arxiv.org/abs/2505.17821)|null|
@@ -1814,6 +1818,7 @@ layout: default
 |**2025-05-26**|**ESLM: Risk-Averse Selective Language Modeling for Efficient Pretraining**|Melis Ilayda Bal et.al.|[2505.19893](http://arxiv.org/abs/2505.19893)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
+|**2025-05-26**|**Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation**|Tanjil Hasan Sakib et.al.|[2505.19529](http://arxiv.org/abs/2505.19529)|null|
 |**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
 |**2025-05-23**|**Towards Heterogeneous Continual Graph Learning via Meta-knowledge Distillation**|Guiquan Sun et.al.|[2505.17458](http://arxiv.org/abs/2505.17458)|null|
 |**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
