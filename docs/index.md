@@ -894,7 +894,7 @@ layout: default
 |**2025-05-28**|**Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning**|Haomiao Qiu et.al.|[2505.22389](http://arxiv.org/abs/2505.22389)|null|
 |**2025-05-28**|**SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting**|Haomiao Qiu et.al.|[2505.22370](http://arxiv.org/abs/2505.22370)|null|
 |**2025-05-28**|**What Makes for Text to 360-degree Panorama Generation with Stable Diffusion?**|Jinhong Ni et.al.|[2505.22129](http://arxiv.org/abs/2505.22129)|null|
-|**2025-05-28**|**LoKI: Low-damage Knowledge Implanting of Large Language Models**|Runyu Wang et.al.|[2505.22120](http://arxiv.org/abs/2505.22120)|null|
+|**2025-05-28**|**LoKI: Low-damage Knowledge Implanting of Large Language Models**|Runyu Wang et.al.|[2505.22120](http://arxiv.org/abs/2505.22120)|**[link](https://github.com/Nexround/LoKI)**|
 |**2025-05-28**|**Efficient Ensemble for Fine-tuning Language Models on Multiple Datasets**|Dongyue Li et.al.|[2505.21930](http://arxiv.org/abs/2505.21930)|null|
 |**2025-05-28**|**Compressing Sine-Activated Low-Rank Adapters through Post-Training Quantization**|Cameron Gordon et.al.|[2505.21895](http://arxiv.org/abs/2505.21895)|null|
 |**2025-05-27**|**LaX: Boosting Low-Rank Training of Foundation Models via Latent Crossing**|Ruijie Zhang et.al.|[2505.21732](http://arxiv.org/abs/2505.21732)|null|
