@@ -398,7 +398,7 @@
 |**2025-05-18**|**Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning**|Boxun Xu et.al.|[2505.12281](http://arxiv.org/abs/2505.12281)|null|
 |**2025-05-17**|**AES-RV: Hardware-Efficient RISC-V Accelerator with Low-Latency AES Instruction Extension for IoT Security**|Van Tinh Nguyen et.al.|[2505.11880](http://arxiv.org/abs/2505.11880)|null|
 |**2025-05-16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|Daniel Windhager et.al.|[2505.11252](http://arxiv.org/abs/2505.11252)|null|
-|**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|null|
+|**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|**[link](https://github.com/gt-star-lab/jaxrobotarium)**|
 |**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524](http://arxiv.org/abs/2505.04524)|null|
 |**2025-05-08**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108](http://arxiv.org/abs/2505.04108)|null|
 |**2025-05-08**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386](http://arxiv.org/abs/2505.01386)|**[link](https://github.com/facebookresearch/catransformers)**|
@@ -957,14 +957,14 @@
 |**2025-05-27**|**Multi-objective Large Language Model Alignment with Hierarchical Experts**|Zhuo Li et.al.|[2505.20925](http://arxiv.org/abs/2505.20925)|null|
 |**2025-05-27**|**Test-Time Learning for Large Language Models**|Jinwu Hu et.al.|[2505.20633](http://arxiv.org/abs/2505.20633)|null|
 |**2025-05-26**|**MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance**|Aniket Roy et.al.|[2505.20525](http://arxiv.org/abs/2505.20525)|null|
-|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|null|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
 |**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
 |**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196](http://arxiv.org/abs/2505.20196)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-26**|**Mixture of LoRA Experts for Low-Resourced Multi-Accent Automatic Speech Recognition**|Raphaël Bagat et.al.|[2505.20006](http://arxiv.org/abs/2505.20006)|null|
-|**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|null|
-|**2025-05-26**|**Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging**|Yongxian Wei et.al.|[2505.19892](http://arxiv.org/abs/2505.19892)|null|
-|**2025-05-26**|**FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets**|Dannong Wang et.al.|[2505.19819](http://arxiv.org/abs/2505.19819)|null|
+|**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|**[link](https://github.com/Javihaus/APE-A-Data-Centric-Benchmark-for-Efficient-LLM-Adaptation-in-Text-Summarization)**|
+|**2025-05-26**|**Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging**|Yongxian Wei et.al.|[2505.19892](http://arxiv.org/abs/2505.19892)|**[link](https://github.com/walkerworldpeace/mllmerging)**|
+|**2025-05-26**|**FinLoRA: Benchmarking LoRA Methods for Fine-Tuning LLMs on Financial Datasets**|Dannong Wang et.al.|[2505.19819](http://arxiv.org/abs/2505.19819)|**[link](https://github.com/open-finance-lab/finlora)**|
 |**2025-05-26**|**Continuous Self-Improvement of Large Language Models by Test-time Training with Verifier-Driven Sample Selection**|Mohammad Mahdi Moradi et.al.|[2505.19475](http://arxiv.org/abs/2505.19475)|null|
 |**2025-05-26**|**Origin Tracer: A Method for Detecting LoRA Fine-Tuning Origins in LLMs**|Hongyu Liang et.al.|[2505.19466](http://arxiv.org/abs/2505.19466)|null|
 |**2025-05-25**|**RetrieveAll: A Multilingual Named Entity Recognition Framework with Large Language Models**|Jin Zhang et.al.|[2505.19128](http://arxiv.org/abs/2505.19128)|null|
@@ -976,7 +976,7 @@
 |**2025-05-23**|**C-LoRA: Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models**|Amir Hossein Rahmati et.al.|[2505.17773](http://arxiv.org/abs/2505.17773)|null|
 |**2025-05-23**|**Activation Control for Efficiently Eliciting Long Chain-of-thought Ability of Language Models**|Zekai Zhao et.al.|[2505.17697](http://arxiv.org/abs/2505.17697)|null|
 |**2025-05-23**|**Analyzing Mitigation Strategies for Catastrophic Forgetting in End-to-End Training of Spoken Language Models**|Chi-Yuan Hsiao et.al.|[2505.17496](http://arxiv.org/abs/2505.17496)|null|
-|**2025-05-23**|**Low-Rank Adaptation of Pre-trained Vision Backbones for Energy-Efficient Image Coding for Machine**|Yichi Zhang et.al.|[2505.17366](http://arxiv.org/abs/2505.17366)|null|
+|**2025-05-23**|**Low-Rank Adaptation of Pre-trained Vision Backbones for Energy-Efficient Image Coding for Machine**|Yichi Zhang et.al.|[2505.17366](http://arxiv.org/abs/2505.17366)|**[link](https://gitlab.com/viper-purdue/efficient-compression)**|
 |**2025-05-22**|**Next Token Perception Score: Analytical Assessment of your LLM Perception Skills**|Yu-Ang Cheng et.al.|[2505.17169](http://arxiv.org/abs/2505.17169)|null|
 |**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947](http://arxiv.org/abs/2505.16947)|null|
 |**2025-05-22**|**LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols**|Ziming liu et.al.|[2505.16821](http://arxiv.org/abs/2505.16821)|null|
@@ -990,7 +990,7 @@
 |**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|**[link](https://github.com/zyy-2001/cola)**|
 |**2025-05-21**|**AdUE: Improving uncertainty estimation head for LoRA adapters in LLMs**|Artem Zabolotnyi et.al.|[2505.15443](http://arxiv.org/abs/2505.15443)|null|
 |**2025-05-21**|**Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions**|Zhiwen Li et.al.|[2505.15427](http://arxiv.org/abs/2505.15427)|**[link](https://github.com/lzws/Responsible-Diffusion)**|
-|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425](http://arxiv.org/abs/2505.15425)|null|
+|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425](http://arxiv.org/abs/2505.15425)|**[link](https://github.com/biomedia-mbzuai/robustmedclip)**|
 |**2025-05-21**|**Gated Integration of Low-Rank Adaptation for Continual Learning of Language Models**|Yan-Shuo Liang et.al.|[2505.15424](http://arxiv.org/abs/2505.15424)|**[link](https://github.com/liangyanshuo/gainlora)**|
 |**2025-05-21**|**Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification**|Bernardin Ligan et.al.|[2505.15334](http://arxiv.org/abs/2505.15334)|null|
 |**2025-05-21**|**Few-Shot Adversarial Low-Rank Fine-Tuning of Vision-Language Models**|Sajjad Ghiasvand et.al.|[2505.15130](http://arxiv.org/abs/2505.15130)|null|
@@ -1478,7 +1478,7 @@
 |**2024-12-16**|**IDEA-Bench: How Far are Generative Models from Professional Designing?**|Chen Liang et.al.|[2412.11767](http://arxiv.org/abs/2412.11767)|**[link](https://github.com/ali-vilab/idea-bench)**|
 |**2024-12-16**|**Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing**|Anika Tabassum et.al.|[2412.11381](http://arxiv.org/abs/2412.11381)|**[link](https://github.com/anikat1/sam-material-gan)**|
 |**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|**[link](https://github.com/yangletliu/finlora)**|
-|**2024-12-15**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|null|
+|**2024-12-15**|**Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models**|Di Wu et.al.|[2412.11041](http://arxiv.org/abs/2412.11041)|**[link](https://github.com/pikepokenew/IRR)**|
 |**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026](http://arxiv.org/abs/2412.11026)|null|
 |**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|**[link](https://github.com/ryujimorita/tokyo_whisperers)**|
 |**2024-12-13**|**SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation**|Runtao Liu et.al.|[2412.10493](http://arxiv.org/abs/2412.10493)|null|
@@ -1917,13 +1917,13 @@
 |**2025-05-27**|**Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models**|Zhaoqing Li et.al.|[2505.21237](http://arxiv.org/abs/2505.21237)|null|
 |**2025-05-27**|**Frequency Composition for Compressed and Domain-Adaptive Neural Networks**|Yoojin Kwon et.al.|[2505.20890](http://arxiv.org/abs/2505.20890)|null|
 |**2025-05-27**|**EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models**|Chengyu Wang et.al.|[2505.20888](http://arxiv.org/abs/2505.20888)|null|
-|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|null|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**Model Stitching by Functional Latent Alignment**|Ioannis Athanasiadis et.al.|[2505.20142](http://arxiv.org/abs/2505.20142)|null|
 |**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132](http://arxiv.org/abs/2505.20132)|null|
 |**2025-05-26**|**ResSVD: Residual Compensated SVD for Large Language Model Compression**|Haolei Bai et.al.|[2505.20112](http://arxiv.org/abs/2505.20112)|null|
 |**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106](http://arxiv.org/abs/2505.20106)|null|
-|**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|null|
+|**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|**[link](https://github.com/flanders-make-vzw/hpc2edge)**|
 |**2025-05-26**|**ESLM: Risk-Averse Selective Language Modeling for Efficient Pretraining**|Melis Ilayda Bal et.al.|[2505.19893](http://arxiv.org/abs/2505.19893)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
