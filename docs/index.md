@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Running Conventional Automatic Speech Recognition on Memristor Hardware: A Simulated Approach**|Nick Rossenbach et.al.|[2505.24721](http://arxiv.org/abs/2505.24721)|null|
-|**2025-05-24**|**Mind the Gap: A Practical Attack on GGUF Quantization**|Kazuki Egashira et.al.|[2505.23786](http://arxiv.org/abs/2505.23786)|null|
+|**2025-06-02**|**Mind the Gap: A Practical Attack on GGUF Quantization**|Kazuki Egashira et.al.|[2505.23786](http://arxiv.org/abs/2505.23786)|null|
 |**2025-05-29**|**Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation**|Juncheol Shin et.al.|[2505.23651](http://arxiv.org/abs/2505.23651)|**[link](https://github.com/ewsn1593/hdrq)**|
 |**2025-05-29**|**Model-Preserving Adaptive Rounding**|Albert Tseng et.al.|[2505.22988](http://arxiv.org/abs/2505.22988)|**[link](https://github.com/cornell-relaxml/yaqa)**|
 |**2025-05-28**|**Compressing Sine-Activated Low-Rank Adapters through Post-Training Quantization**|Cameron Gordon et.al.|[2505.21895](http://arxiv.org/abs/2505.21895)|null|
@@ -222,7 +222,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**Fine-tune Before Structured Pruning: Towards Compact and Accurate Self-Supervised Models for Speaker Diarization**|Jiangyu Han et.al.|[2505.24111](http://arxiv.org/abs/2505.24111)|null|
 |**2025-05-29**|**FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression**|Jiayi Tian et.al.|[2505.23966](http://arxiv.org/abs/2505.23966)|null|
 |**2025-05-29**|**Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning**|Lifan Zhao et.al.|[2505.23195](http://arxiv.org/abs/2505.23195)|null|
