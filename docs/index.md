@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -905,7 +905,7 @@ layout: default
 |**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
 |**2025-05-30**|**AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption**|Yajie Zhou et.al.|[2505.24773](http://arxiv.org/abs/2505.24773)|null|
 |**2025-05-30**|**On Fairness of Task Arithmetic: The Role of Task Vectors**|Hiroki Naganuma et.al.|[2505.24262](http://arxiv.org/abs/2505.24262)|null|
-|**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
+|**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-30**|**Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation**|Ryota Miyano et.al.|[2505.24174](http://arxiv.org/abs/2505.24174)|null|
 |**2025-05-30**|**B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining**|Yimin Zhao et.al.|[2505.24140](http://arxiv.org/abs/2505.24140)|null|
 |**2025-05-29**|**Leave it to the Specialist: Repair Sparse LLMs with Sparse Fine-Tuning via Sparsity Evolution**|Qiao Xiao et.al.|[2505.24037](http://arxiv.org/abs/2505.24037)|null|
