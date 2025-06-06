@@ -915,6 +915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
+|**2025-06-05**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191](http://arxiv.org/abs/2506.05191)|null|
+|**2025-06-05**|**Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics**|HaoTian Lan et.al.|[2506.05087](http://arxiv.org/abs/2506.05087)|null|
+|**2025-06-05**|**Predicting ICU In-Hospital Mortality Using Adaptive Transformer Layer Fusion**|Han Wang et.al.|[2506.04924](http://arxiv.org/abs/2506.04924)|null|
+|**2025-06-05**|**Towards Holistic Visual Quality Assessment of AI-Generated Videos: A LLM-Based Multi-Dimensional Evaluation Model**|Zelu Qi et.al.|[2506.04715](http://arxiv.org/abs/2506.04715)|null|
+|**2025-06-05**|**Interpretable Few-Shot Image Classification via Prototypical Concept-Guided Mixture of LoRA Experts**|Zhong Ji et.al.|[2506.04673](http://arxiv.org/abs/2506.04673)|null|
+|**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595](http://arxiv.org/abs/2506.04595)|null|
+|**2025-06-04**|**Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences**|Hadi Hosseini et.al.|[2506.04478](http://arxiv.org/abs/2506.04478)|null|
+|**2025-06-04**|**Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification**|Payel Bhattacharjee et.al.|[2506.04450](http://arxiv.org/abs/2506.04450)|null|
+|**2025-06-04**|**Leveraging Coordinate Momentum in SignSGD and Muon: Memory-Optimized Zero-Order**|Egor Petrov et.al.|[2506.04430](http://arxiv.org/abs/2506.04430)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
 |**2025-06-04**|**Acoustically Precise Hesitation Tagging Is Essential for End-to-End Verbatim Transcription Systems**|Jhen-Ke Lin et.al.|[2506.04076](http://arxiv.org/abs/2506.04076)|null|
@@ -1898,6 +1908,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Static Word Embeddings for Sentence Semantic Representation**|Takashi Wada et.al.|[2506.04624](http://arxiv.org/abs/2506.04624)|null|
+|**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|null|
+|**2025-06-05**|**hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation**|Charles Hong et.al.|[2506.04544](http://arxiv.org/abs/2506.04544)|null|
+|**2025-06-04**|**Building a Few-Shot Cross-Domain Multilingual NLU Model for Customer Care**|Saurabh Kumar et.al.|[2506.04389](http://arxiv.org/abs/2506.04389)|null|
 |**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
 |**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
 |**2025-06-04**|**Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement**|Xiaofeng Zhou et.al.|[2506.03541](http://arxiv.org/abs/2506.03541)|null|
