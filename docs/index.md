@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-04**|**BitTTS: Highly Compact Text-to-Speech Using 1.58-bit Quantization and Weight Indexing**|Masaya Kawamura et.al.|[2506.03515](http://arxiv.org/abs/2506.03515)|null|
 |**2025-06-01**|**QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration**|Jiatong Li et.al.|[2506.00820](http://arxiv.org/abs/2506.00820)|null|
 |**2025-05-30**|**Running Conventional Automatic Speech Recognition on Memristor Hardware: A Simulated Approach**|Nick Rossenbach et.al.|[2505.24721](http://arxiv.org/abs/2505.24721)|null|
-|**2025-06-02**|**Mind the Gap: A Practical Attack on GGUF Quantization**|Kazuki Egashira et.al.|[2505.23786](http://arxiv.org/abs/2505.23786)|null|
+|**2025-06-02**|**Mind the Gap: A Practical Attack on GGUF Quantization**|Kazuki Egashira et.al.|[2505.23786](http://arxiv.org/abs/2505.23786)|**[link](https://github.com/eth-sri/llm-quantization-attack)**|
 |**2025-05-29**|**Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation**|Juncheol Shin et.al.|[2505.23651](http://arxiv.org/abs/2505.23651)|**[link](https://github.com/ewsn1593/hdrq)**|
 |**2025-05-29**|**Model-Preserving Adaptive Rounding**|Albert Tseng et.al.|[2505.22988](http://arxiv.org/abs/2505.22988)|**[link](https://github.com/cornell-relaxml/yaqa)**|
 |**2025-05-28**|**Compressing Sine-Activated Low-Rank Adapters through Post-Training Quantization**|Cameron Gordon et.al.|[2505.21895](http://arxiv.org/abs/2505.21895)|null|
@@ -941,7 +941,7 @@ layout: default
 |**2025-06-02**|**NAVER LABS Europe Submission to the Instruction-following Track**|Beomseok Lee et.al.|[2506.01808](http://arxiv.org/abs/2506.01808)|null|
 |**2025-06-02**|**Enhancing Diffusion-based Unrestricted Adversarial Attacks via Adversary Preferences Alignment**|Kaixun Jiang et.al.|[2506.01511](http://arxiv.org/abs/2506.01511)|null|
 |**2025-06-02**|**Schema as Parameterized Tools for Universal Information Extraction**|Sheng Liang et.al.|[2506.01276](http://arxiv.org/abs/2506.01276)|null|
-|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
+|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|**[link](https://github.com/jiangpenghe/cl-lora)**|
 |**2025-05-30**|**AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption**|Yajie Zhou et.al.|[2505.24773](http://arxiv.org/abs/2505.24773)|null|
 |**2025-05-30**|**On Fairness of Task Arithmetic: The Role of Task Vectors**|Hiroki Naganuma et.al.|[2505.24262](http://arxiv.org/abs/2505.24262)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
@@ -979,7 +979,7 @@ layout: default
 |**2025-05-26**|**MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance**|Aniket Roy et.al.|[2505.20525](http://arxiv.org/abs/2505.20525)|null|
 |**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
 |**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
-|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196](http://arxiv.org/abs/2505.20196)|null|
+|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196](http://arxiv.org/abs/2505.20196)|**[link](https://github.com/uw-nsl/temporal_forgetting)**|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-26**|**Mixture of LoRA Experts for Low-Resourced Multi-Accent Automatic Speech Recognition**|Raphaël Bagat et.al.|[2505.20006](http://arxiv.org/abs/2505.20006)|null|
 |**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|**[link](https://github.com/Javihaus/APE-A-Data-Centric-Benchmark-for-Efficient-LLM-Adaptation-in-Text-Summarization)**|
@@ -1306,7 +1306,7 @@ layout: default
 |**2025-02-21**|**R-LoRA: Random Initialization of Multi-Head LoRA for Multi-Task Learning**|Jinda Liu et.al.|[2502.15455](http://arxiv.org/abs/2502.15455)|**[link](https://github.com/jinda-liu/r-lora)**|
 |**2025-02-21**|**Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning**|Raghav Singhal et.al.|[2502.15436](http://arxiv.org/abs/2502.15436)|**[link](https://github.com/CERT-Lab/fed-sb)**|
 |**2025-02-21**|**On Performance of LoRa Fluid Antenna Systems**|Gaoze Mu et.al.|[2502.15258](http://arxiv.org/abs/2502.15258)|null|
-|**2025-02-21**|**M3-AGIQA: Multimodal, Multi-Round, Multi-Aspect AI-Generated Image Quality Assessment**|Chuan Cui et.al.|[2502.15167](http://arxiv.org/abs/2502.15167)|null|
+|**2025-02-21**|**M3-AGIQA: Multimodal, Multi-Round, Multi-Aspect AI-Generated Image Quality Assessment**|Chuan Cui et.al.|[2502.15167](http://arxiv.org/abs/2502.15167)|**[link](https://github.com/strawhatboy/M3-AGIQA)**|
 |**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844](http://arxiv.org/abs/2502.14844)|null|
 |**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816](http://arxiv.org/abs/2502.14816)|**[link](https://github.com/wzhuang-xmu/losa)**|
 |**2025-02-20**|**Beyond Performance Scores: Directed Functional Connectivity as a Brain-Based Biomarker for Motor Skill Learning and Retention**|Anil Kamat et.al.|[2502.14731](http://arxiv.org/abs/2502.14731)|null|
@@ -1646,7 +1646,7 @@ layout: default
 |**2024-10-28**|**Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA**|Sangmin Bae et.al.|[2410.20672](http://arxiv.org/abs/2410.20672)|null|
 |**2024-10-28**|**PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation**|Leyao Wang et.al.|[2410.20667](http://arxiv.org/abs/2410.20667)|null|
 |**2024-10-28**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642](http://arxiv.org/abs/2410.20642)|null|
-|**2024-10-27**|**LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization**|Jui-Nan Yen et.al.|[2410.20625](http://arxiv.org/abs/2410.20625)|null|
+|**2024-10-27**|**LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization**|Jui-Nan Yen et.al.|[2410.20625](http://arxiv.org/abs/2410.20625)|**[link](https://github.com/gkevinyen5418/LoRA-RITE)**|
 |**2024-10-27**|**FoldMark: Protecting Protein Generative Models with Watermarking**|Zaixi Zhang et.al.|[2410.20354](http://arxiv.org/abs/2410.20354)|**[link](https://github.com/zaixizhang/FoldMark)**|
 |**2024-10-26**|**An Efficient Watermarking Method for Latent Diffusion Models via Low-Rank Adaptation**|Dongdong Lin et.al.|[2410.20202](http://arxiv.org/abs/2410.20202)|null|
 |**2024-10-25**|**Model merging with SVD to tie the Knots**|George Stoica et.al.|[2410.19735](http://arxiv.org/abs/2410.19735)|**[link](https://github.com/gstoica27/knots)**|
@@ -1927,7 +1927,7 @@ layout: default
 |**2025-06-02**|**VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis**|Manas Mehta et.al.|[2506.02229](http://arxiv.org/abs/2506.02229)|null|
 |**2025-06-02**|**KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning**|Hongling Xu et.al.|[2506.02208](http://arxiv.org/abs/2506.02208)|null|
 |**2025-06-02**|**MLLMs Need 3D-Aware Representation Supervision for Scene Understanding**|Xiaohu Huang et.al.|[2506.01946](http://arxiv.org/abs/2506.01946)|null|
-|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
+|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|**[link](https://github.com/jiangpenghe/cl-lora)**|
 |**2025-05-30**|**A Simple Linear Patch Revives Layer-Pruned Large Language Models**|Xinrui Chen et.al.|[2505.24680](http://arxiv.org/abs/2505.24680)|null|
 |**2025-05-30**|**CREFT: Sequential Multi-Agent LLM for Character Relation Extraction**|Ye Eun Chun et.al.|[2505.24553](http://arxiv.org/abs/2505.24553)|null|
 |**2025-05-30**|**Smooth Model Compression without Fine-Tuning**|Christina Runkel et.al.|[2505.24469](http://arxiv.org/abs/2505.24469)|null|
@@ -2178,7 +2178,7 @@ layout: default
 |**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
 |**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|**[link](https://github.com/panagiotamoraiti/continual-learning-challenge-2024)**|
 |**2025-03-19**|**High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight**|Cédric Vincent et.al.|[2503.15676](http://arxiv.org/abs/2503.15676)|**[link](https://github.com/fraunhoferivi/ssp)**|
-|**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
+|**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|**[link](https://github.com/InfLoop111/DCA)**|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
 |**2025-03-19**|**Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|[2503.14975](http://arxiv.org/abs/2503.14975)|null|
 |**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
