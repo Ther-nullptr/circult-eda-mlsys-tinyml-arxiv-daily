@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs**|Patrik Czakó et.al.|[2506.05413](http://arxiv.org/abs/2506.05413)|null|
 |**2025-06-04**|**BitTTS: Highly Compact Text-to-Speech Using 1.58-bit Quantization and Weight Indexing**|Masaya Kawamura et.al.|[2506.03515](http://arxiv.org/abs/2506.03515)|null|
 |**2025-06-01**|**QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration**|Jiatong Li et.al.|[2506.00820](http://arxiv.org/abs/2506.00820)|null|
 |**2025-05-30**|**Running Conventional Automatic Speech Recognition on Memristor Hardware: A Simulated Approach**|Nick Rossenbach et.al.|[2505.24721](http://arxiv.org/abs/2505.24721)|null|
@@ -370,6 +371,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Hardware Accelerated Neural Block Texture Compression with Cooperative Vectors**|Belcour Laurent et.al.|[2506.06040](http://arxiv.org/abs/2506.06040)|null|
+|**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037](http://arxiv.org/abs/2506.06037)|null|
 |**2025-06-03**|**CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge**|Chunlin Tian et.al.|[2506.02847](http://arxiv.org/abs/2506.02847)|null|
 |**2025-06-02**|**FlexiSAGA: A Flexible Systolic Array GEMM Accelerator for Sparse and Dense Processing**|Mika Markus Müller et.al.|[2506.01566](http://arxiv.org/abs/2506.01566)|null|
 |**2025-06-01**|**Towards Edge-Based Idle State Detection in Construction Machinery Using Surveillance Cameras**|Xander Küpers et.al.|[2506.00904](http://arxiv.org/abs/2506.00904)|null|
@@ -642,6 +645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**TinyML-Based Adaptive Pulse Shaping for Edge Intelligence in IoT/IIoT**|Afan Ali et.al.|[2506.05789](http://arxiv.org/abs/2506.05789)|null|
 |**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
 |**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
 |**2025-06-02**|**Composable Building Blocks for Controllable and Transparent Interactive AI Systems**|Sebe Vanbrabant et.al.|[2506.02262](http://arxiv.org/abs/2506.02262)|null|
@@ -915,6 +919,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105](http://arxiv.org/abs/2506.06105)|null|
+|**2025-06-06**|**MoA: Heterogeneous Mixture of Adapters for Parameter-Efficient Fine-Tuning of Large Language Models**|Jie Cao et.al.|[2506.05928](http://arxiv.org/abs/2506.05928)|null|
+|**2025-06-06**|**Multi-Modal Large Models Based Beam Prediction: An Example Empowered by DeepSeek**|Yizhu Zhao et.al.|[2506.05921](http://arxiv.org/abs/2506.05921)|null|
+|**2025-06-06**|**Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance**|Rudransh Agnihotri et.al.|[2506.05748](http://arxiv.org/abs/2506.05748)|null|
+|**2025-06-06**|**Come Together, But Not Right Now: A Progressive Strategy to Boost Low-Rank Adaptation**|Zhan Zhuang et.al.|[2506.05713](http://arxiv.org/abs/2506.05713)|null|
+|**2025-06-06**|**Contextually Guided Transformers via Low-Rank Adaptation**|Andrey Zhmoginov et.al.|[2506.05672](http://arxiv.org/abs/2506.05672)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
+|**2025-06-05**|**Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**|Arian Raje et.al.|[2506.05568](http://arxiv.org/abs/2506.05568)|null|
+|**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
 |**2025-06-05**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191](http://arxiv.org/abs/2506.05191)|null|
 |**2025-06-05**|**Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics**|HaoTian Lan et.al.|[2506.05087](http://arxiv.org/abs/2506.05087)|null|
@@ -1908,6 +1921,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Label-Context-Dependent Internal Language Model Estimation for CTC**|Zijian Yang et.al.|[2506.06096](http://arxiv.org/abs/2506.06096)|null|
+|**2025-06-06**|**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**|Adil Hasan et.al.|[2506.05960](http://arxiv.org/abs/2506.05960)|null|
+|**2025-06-06**|**Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework**|Lingyuan Liu et.al.|[2506.05695](http://arxiv.org/abs/2506.05695)|null|
+|**2025-06-05**|**LFA applied to CNNs: Efficient Singular Value Decomposition of Convolutional Mappings by Local Fourier Analysis**|Antonia van Betteray et.al.|[2506.05617](http://arxiv.org/abs/2506.05617)|null|
+|**2025-06-05**|**Petrov-Galerkin model reduction for collisional-radiative argon plasma**|Ivan Zanardi et.al.|[2506.05483](http://arxiv.org/abs/2506.05483)|null|
+|**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411](http://arxiv.org/abs/2506.05411)|null|
 |**2025-06-05**|**Static Word Embeddings for Sentence Semantic Representation**|Takashi Wada et.al.|[2506.04624](http://arxiv.org/abs/2506.04624)|null|
 |**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|null|
 |**2025-06-05**|**hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation**|Charles Hong et.al.|[2506.04544](http://arxiv.org/abs/2506.04544)|null|
