@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -930,7 +930,7 @@ layout: default
 |**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
 |**2025-06-09**|**LoRMA: Low-Rank Multiplicative Adaptation for LLMs**|Harsh Bihany et.al.|[2506.07621](http://arxiv.org/abs/2506.07621)|null|
 |**2025-06-09**|**Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation**|Roman Kyslyi et.al.|[2506.07617](http://arxiv.org/abs/2506.07617)|null|
-|**2025-06-08**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
+|**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
 |**2025-06-08**|**KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering**|Zhongze Luo et.al.|[2506.07037](http://arxiv.org/abs/2506.07037)|null|
 |**2025-06-07**|**EndoARSS: Adapting Spatially-Aware Foundation Model for Efficient Activity Recognition and Semantic Segmentation in Endoscopic Surgery**|Guankun Wang et.al.|[2506.06830](http://arxiv.org/abs/2506.06830)|null|
 |**2025-06-07**|**A Novel Spreading-Factor-Index-Aided LoRa Scheme: Design and Performance Analysis**|Hao Zeng et.al.|[2506.06758](http://arxiv.org/abs/2506.06758)|null|
