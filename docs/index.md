@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
+|**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782](http://arxiv.org/abs/2506.09782)|null|
+|**2025-06-10**|**Efficient Edge Deployment of Quantized YOLOv4-Tiny for Aerial Emergency Object Detection on Raspberry Pi 5**|Sindhu Boddu et.al.|[2506.09300](http://arxiv.org/abs/2506.09300)|null|
+|**2025-06-10**|**Lightweight Object Detection Using Quantized YOLOv4-Tiny for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2506.09299](http://arxiv.org/abs/2506.09299)|null|
+|**2025-06-10**|**Unifying Block-wise PTQ and Distillation-based QAT for Progressive Quantization toward 2-bit Instruction-Tuned LLMs**|Jung Hyun Lee et.al.|[2506.09104](http://arxiv.org/abs/2506.09104)|null|
+|**2025-06-10**|**Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**|Petar Jakuš et.al.|[2506.08911](http://arxiv.org/abs/2506.08911)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
 |**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[2506.07416](http://arxiv.org/abs/2506.07416)|null|
 |**2025-06-04**|**SmoothRot: Combining Channel-Wise Scaling and Rotation for Quantization-Friendly LLMs**|Patrik Czakó et.al.|[2506.05413](http://arxiv.org/abs/2506.05413)|null|
@@ -227,6 +233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Olica: Efficient Structured Pruning of Large Language Models without Retraining**|Jiujun He et.al.|[2506.08436](http://arxiv.org/abs/2506.08436)|null|
 |**2025-06-09**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
 |**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
 |**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
@@ -373,6 +380,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**The Fast and the Frame-Dragging: Efficient waveforms for asymmetric-mass eccentric equatorial inspirals into rapidly-spinning black holes**|Christian E. A. Chapman-Bird et.al.|[2506.09470](http://arxiv.org/abs/2506.09470)|null|
 |**2025-06-09**|**Towards a Base-Station-on-Chip: RISC-V Hardware Acceleration for wireless communication**|Javier Acevedo et.al.|[2506.07873](http://arxiv.org/abs/2506.07873)|null|
 |**2025-06-08**|**QForce-RL: Quantized FPGA-Optimized Reinforcement Learning Compute Engine**|Anushka Jha et.al.|[2506.07046](http://arxiv.org/abs/2506.07046)|null|
 |**2025-06-07**|**Spark Transformer: Reactivating Sparsity in FFN and Attention**|Chong You et.al.|[2506.06644](http://arxiv.org/abs/2506.06644)|null|
@@ -650,6 +658,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
+|**2025-06-10**|**Efficient Edge Deployment of Quantized YOLOv4-Tiny for Aerial Emergency Object Detection on Raspberry Pi 5**|Sindhu Boddu et.al.|[2506.09300](http://arxiv.org/abs/2506.09300)|null|
 |**2025-06-09**|**SALT: A Lightweight Model Adaptation Method for Closed Split Computing Environments**|Yuya Okada et.al.|[2506.07355](http://arxiv.org/abs/2506.07355)|null|
 |**2025-06-08**|**EdgeSpotter: Multi-Scale Dense Text Spotting for Industrial Panel Monitoring**|Changhong Fu et.al.|[2506.07112](http://arxiv.org/abs/2506.07112)|null|
 |**2025-06-06**|**TinyML-Based Adaptive Pulse Shaping for Edge Intelligence in IoT/IIoT**|Afan Ali et.al.|[2506.05789](http://arxiv.org/abs/2506.05789)|null|
@@ -926,8 +936,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Fine-Tuning Large Audio-Language Models with LoRA for Precise Temporal Localization of Prolonged Exposure Therapy Elements**|Suhas BN et.al.|[2506.09707](http://arxiv.org/abs/2506.09707)|null|
+|**2025-06-10**|**Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models**|Sungwon Hwang et.al.|[2506.09229](http://arxiv.org/abs/2506.09229)|null|
+|**2025-06-10**|**FLoRIST: Singular Value Thresholding for Efficient and Accurate Federated Fine-Tuning of Large Language Models**|Hariharan Ramesh et.al.|[2506.09199](http://arxiv.org/abs/2506.09199)|null|
+|**2025-06-10**|**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**|Javier Lopez-Piqueres et.al.|[2506.09105](http://arxiv.org/abs/2506.09105)|null|
+|**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827](http://arxiv.org/abs/2506.08827)|null|
+|**2025-06-11**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768](http://arxiv.org/abs/2506.08768)|null|
+|**2025-06-10**|**Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs**|Šimon Sedláček et.al.|[2506.08633](http://arxiv.org/abs/2506.08633)|null|
+|**2025-06-11**|**AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin**|Shuo Yang et.al.|[2506.08473](http://arxiv.org/abs/2506.08473)|null|
 |**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|null|
-|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-11**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
 |**2025-06-09**|**LoRMA: Low-Rank Multiplicative Adaptation for LLMs**|Harsh Bihany et.al.|[2506.07621](http://arxiv.org/abs/2506.07621)|null|
 |**2025-06-09**|**Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation**|Roman Kyslyi et.al.|[2506.07617](http://arxiv.org/abs/2506.07617)|null|
 |**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
@@ -1938,6 +1956,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**A Novel Lightweight Transformer with Edge-Aware Fusion for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2506.09429](http://arxiv.org/abs/2506.09429)|null|
+|**2025-06-08**|**ReStNet: A Reusable & Stitchable Network for Dynamic Adaptation on IoT Devices**|Maoyu Wang et.al.|[2506.09066](http://arxiv.org/abs/2506.09066)|null|
+|**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
+|**2025-06-10**|**Multi-Teacher Language-Aware Knowledge Distillation for Multilingual Speech Emotion Recognition**|Mehedi Hasan Bijoy et.al.|[2506.08717](http://arxiv.org/abs/2506.08717)|null|
+|**2025-06-10**|**Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2506.08611](http://arxiv.org/abs/2506.08611)|null|
+|**2025-06-10**|**WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks**|Tingzhi Li et.al.|[2506.08602](http://arxiv.org/abs/2506.08602)|null|
 |**2025-06-09**|**DPFormer: Dynamic Prompt Transformer for Continual Learning**|Sheng-Kai Huang et.al.|[2506.07414](http://arxiv.org/abs/2506.07414)|null|
 |**2025-06-08**|**A Layered Self-Supervised Knowledge Distillation Framework for Efficient Multimodal Learning on the Edge**|Tarique Dahri et.al.|[2506.07055](http://arxiv.org/abs/2506.07055)|null|
 |**2025-06-07**|**DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains**|Zhihui Chen et.al.|[2506.06705](http://arxiv.org/abs/2506.06705)|null|
