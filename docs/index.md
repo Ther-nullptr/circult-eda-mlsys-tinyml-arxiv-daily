@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
+|**2025-06-12**|**Starting Positions Matter: A Study on Better Weight Initialization for Neural Network Quantization**|Stone Yun et.al.|[2506.10463](http://arxiv.org/abs/2506.10463)|null|
+|**2025-06-11**|**AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent**|Jing Liu et.al.|[2506.10205](http://arxiv.org/abs/2506.10205)|null|
 |**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
 |**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782](http://arxiv.org/abs/2506.09782)|null|
 |**2025-06-10**|**Efficient Edge Deployment of Quantized YOLOv4-Tiny for Aerial Emergency Object Detection on Raspberry Pi 5**|Sindhu Boddu et.al.|[2506.09300](http://arxiv.org/abs/2506.09300)|null|
@@ -380,6 +383,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem**|Melina Soysal et.al.|[2506.10931](http://arxiv.org/abs/2506.10931)|null|
+|**2025-06-12**|**Deployment of Containerized Simulations in an API-Driven Distributed Infrastructure**|Tim Kraus et.al.|[2506.10642](http://arxiv.org/abs/2506.10642)|null|
+|**2025-06-12**|**HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration**|Jiaqi Lv et.al.|[2506.10401](http://arxiv.org/abs/2506.10401)|null|
 |**2025-06-11**|**The Fast and the Frame-Dragging: Efficient waveforms for asymmetric-mass eccentric equatorial inspirals into rapidly-spinning black holes**|Christian E. A. Chapman-Bird et.al.|[2506.09470](http://arxiv.org/abs/2506.09470)|null|
 |**2025-06-09**|**Towards a Base-Station-on-Chip: RISC-V Hardware Acceleration for wireless communication**|Javier Acevedo et.al.|[2506.07873](http://arxiv.org/abs/2506.07873)|null|
 |**2025-06-08**|**QForce-RL: Quantized FPGA-Optimized Reinforcement Learning Compute Engine**|Anushka Jha et.al.|[2506.07046](http://arxiv.org/abs/2506.07046)|null|
@@ -658,13 +664,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**6G Infrastructures for Edge AI: An Analytical Perspective**|Kurt Horvath et.al.|[2506.10570](http://arxiv.org/abs/2506.10570)|null|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
 |**2025-06-10**|**Efficient Edge Deployment of Quantized YOLOv4-Tiny for Aerial Emergency Object Detection on Raspberry Pi 5**|Sindhu Boddu et.al.|[2506.09300](http://arxiv.org/abs/2506.09300)|null|
 |**2025-06-09**|**SALT: A Lightweight Model Adaptation Method for Closed Split Computing Environments**|Yuya Okada et.al.|[2506.07355](http://arxiv.org/abs/2506.07355)|null|
 |**2025-06-08**|**EdgeSpotter: Multi-Scale Dense Text Spotting for Industrial Panel Monitoring**|Changhong Fu et.al.|[2506.07112](http://arxiv.org/abs/2506.07112)|null|
 |**2025-06-06**|**TinyML-Based Adaptive Pulse Shaping for Edge Intelligence in IoT/IIoT**|Afan Ali et.al.|[2506.05789](http://arxiv.org/abs/2506.05789)|null|
 |**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
-|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
+|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|**[link](https://github.com/Prithvish04/senMap_paper_submission)**|
 |**2025-06-02**|**Composable Building Blocks for Controllable and Transparent Interactive AI Systems**|Sebe Vanbrabant et.al.|[2506.02262](http://arxiv.org/abs/2506.02262)|null|
 |**2025-06-01**|**VUSA: Virtually Upscaled Systolic Array Architecture to Exploit Unstructured Sparsity in AI Acceleration**|Shereef Helal et.al.|[2506.01166](http://arxiv.org/abs/2506.01166)|null|
 |**2025-05-30**|**Towards a unified user modeling language for engineering human centered AI systems**|Aaron Conrardy et.al.|[2505.24697](http://arxiv.org/abs/2505.24697)|null|
@@ -936,6 +943,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
+|**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
+|**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|null|
+|**2025-06-11**|**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning**|Chenjian Gao et.al.|[2506.10082](http://arxiv.org/abs/2506.10082)|null|
+|**2025-06-10**|**FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training**|Fuhan Cai et.al.|[2506.10035](http://arxiv.org/abs/2506.10035)|null|
 |**2025-06-11**|**Fine-Tuning Large Audio-Language Models with LoRA for Precise Temporal Localization of Prolonged Exposure Therapy Elements**|Suhas BN et.al.|[2506.09707](http://arxiv.org/abs/2506.09707)|null|
 |**2025-06-10**|**Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models**|Sungwon Hwang et.al.|[2506.09229](http://arxiv.org/abs/2506.09229)|null|
 |**2025-06-10**|**FLoRIST: Singular Value Thresholding for Efficient and Accurate Federated Fine-Tuning of Large Language Models**|Hariharan Ramesh et.al.|[2506.09199](http://arxiv.org/abs/2506.09199)|null|
@@ -1956,6 +1968,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
+|**2025-06-12**|**Ground Reaction Force Estimation via Time-aware Knowledge Distillation**|Eun Som Jeon et.al.|[2506.10265](http://arxiv.org/abs/2506.10265)|null|
+|**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207](http://arxiv.org/abs/2506.10207)|null|
+|**2025-06-11**|**AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent**|Jing Liu et.al.|[2506.10205](http://arxiv.org/abs/2506.10205)|null|
 |**2025-06-11**|**A Novel Lightweight Transformer with Edge-Aware Fusion for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2506.09429](http://arxiv.org/abs/2506.09429)|null|
 |**2025-06-08**|**ReStNet: A Reusable & Stitchable Network for Dynamic Adaptation on IoT Devices**|Maoyu Wang et.al.|[2506.09066](http://arxiv.org/abs/2506.09066)|null|
 |**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
