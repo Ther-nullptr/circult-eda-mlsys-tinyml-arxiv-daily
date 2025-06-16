@@ -24,7 +24,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-13**|**GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers**|Guang Liang et.al.|[2506.11784](http://arxiv.org/abs/2506.11784)|null|
-|**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|null|
+|**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|**[link](https://github.com/shihewang/fima-q)**|
 |**2025-06-13**|**TruncQuant: Truncation-Ready Quantization for DNNs with Flexible Weight Bit Precision**|Jinhee Kim et.al.|[2506.11431](http://arxiv.org/abs/2506.11431)|null|
 |**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
 |**2025-06-12**|**Starting Positions Matter: A Study on Better Weight Initialization for Neural Network Quantization**|Stone Yun et.al.|[2506.10463](http://arxiv.org/abs/2506.10463)|null|
@@ -52,7 +52,7 @@
 |**2025-05-24**|**DVD-Quant: Data-free Video Diffusion Transformers Quantization**|Zhiteng Li et.al.|[2505.18663](http://arxiv.org/abs/2505.18663)|**[link](https://github.com/lhxcs/dvd-quant)**|
 |**2025-05-23**|**Beyond Discreteness: Finite-Sample Analysis of Straight-Through Estimator for Quantization**|Halyun Jeong et.al.|[2505.18113](http://arxiv.org/abs/2505.18113)|null|
 |**2025-05-23**|**Automating Versatile Time-Series Analysis with Tiny Transformers on Embedded FPGAs**|Tianheng Ling et.al.|[2505.17662](http://arxiv.org/abs/2505.17662)|null|
-|**2025-05-27**|**NeUQI: Near-Optimal Uniform Quantization Parameter Initialization**|Li Lin et.al.|[2505.17595](http://arxiv.org/abs/2505.17595)|null|
+|**2025-05-27**|**NeUQI: Near-Optimal Uniform Quantization Parameter Initialization**|Li Lin et.al.|[2505.17595](http://arxiv.org/abs/2505.17595)|**[link](https://github.com/efsotr/NeUQI)**|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
 |**2025-05-22**|**Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC**|Qingyu Song et.al.|[2505.15030](http://arxiv.org/abs/2505.15030)|null|
 |**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638](http://arxiv.org/abs/2505.14638)|**[link](https://github.com/intel/neural-compressor)**|
@@ -97,7 +97,7 @@
 |**2025-04-03**|**Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models**|Hung-Yueh Chiang et.al.|[2503.22879](http://arxiv.org/abs/2503.22879)|**[link](https://github.com/enyac-group/quamba)**|
 |**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698](http://arxiv.org/abs/2503.18698)|null|
 |**2025-03-24**|**GranQ: Granular Zero-Shot Quantization with Unified Layer-Channel Awareness**|Inpyo Hong et.al.|[2503.18339](http://arxiv.org/abs/2503.18339)|null|
-|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
+|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|**[link](https://github.com/shawnricecake/quart-depth)**|
 |**2025-03-22**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-19**|**PARQ: Piecewise-Affine Regularized Quantization**|Lisa Jin et.al.|[2503.15748](http://arxiv.org/abs/2503.15748)|null|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|**[link](https://github.com/cccrrrccc/fp4dit)**|
@@ -447,7 +447,7 @@
 |**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
 |**2025-04-24**|**Fine-Grained Fusion: The Missing Piece in Area-Efficient State Space Model Acceleration**|Robin Geens et.al.|[2504.17333](http://arxiv.org/abs/2504.17333)|null|
-|**2025-04-21**|**SCALE-Sim v3: A modular cycle-accurate systolic accelerator simulator for end-to-end system analysis**|Ritik Raj et.al.|[2504.15377](http://arxiv.org/abs/2504.15377)|null|
+|**2025-04-21**|**SCALE-Sim v3: A modular cycle-accurate systolic accelerator simulator for end-to-end system analysis**|Ritik Raj et.al.|[2504.15377](http://arxiv.org/abs/2504.15377)|**[link](https://github.com/scalesim-project/scale-sim-v3)**|
 |**2025-04-21**|**To Offload or Not To Offload: Model-driven Comparison of Edge-native and On-device Processing**|Nathan Ng et.al.|[2504.15162](http://arxiv.org/abs/2504.15162)|null|
 |**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
 |**2025-04-26**|**vApps: Verifiable Applications at Internet Scale**|Isaac Zhang et.al.|[2504.14809](http://arxiv.org/abs/2504.14809)|null|
@@ -485,7 +485,7 @@
 |**2025-03-25**|**An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators**|Tseng-Jen Li et.al.|[2503.19640](http://arxiv.org/abs/2503.19640)|null|
 |**2025-03-23**|**Reliable Replication Protocols on SmartNICs**|M. R. Siavash Katebzadeh et.al.|[2503.18093](http://arxiv.org/abs/2503.18093)|null|
 |**2025-03-21**|**Hardware Acceleration for HPS Algorithms in Two and Three Dimensions**|Owen Melia et.al.|[2503.17535](http://arxiv.org/abs/2503.17535)|null|
-|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|null|
+|**2025-03-20**|**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**|Xuan Shen et.al.|[2503.16709](http://arxiv.org/abs/2503.16709)|**[link](https://github.com/shawnricecake/quart-depth)**|
 |**2025-03-20**|**Accelerating Transformer Inference and Training with 2:4 Activation Sparsity**|Daniel Haziza et.al.|[2503.16672](http://arxiv.org/abs/2503.16672)|null|
 |**2025-03-20**|**Explainable AI-Guided Efficient Approximate DNN Generation for Multi-Pod Systolic Arrays**|Ayesha Siddique et.al.|[2503.16583](http://arxiv.org/abs/2503.16583)|null|
 |**2025-03-19**|**QEA: An Accelerator for Quantum Circuit Simulation with Resources Efficiency and Flexibility**|Van Duy Tran et.al.|[2503.14951](http://arxiv.org/abs/2503.14951)|**[link](https://github.com/NAIST-Archlab/fast-psr)**|
@@ -727,7 +727,7 @@
 |**2025-05-02**|**CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices**|Varatheepan Paramanayakam et.al.|[2504.20348](http://arxiv.org/abs/2504.20348)|null|
 |**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
-|**2025-04-22**|**TinyML for Speech Recognition**|Andrew Barovic et.al.|[2504.16213](http://arxiv.org/abs/2504.16213)|null|
+|**2025-04-22**|**TinyML for Speech Recognition**|Andrew Barovic et.al.|[2504.16213](http://arxiv.org/abs/2504.16213)|**[link](https://github.com/qas-lab/barovicreu)**|
 |**2025-04-21**|**Hybrid Knowledge Transfer through Attention and Logit Distillation for On-Device Vision Systems in Agricultural IoT**|Stanley Mugisha et.al.|[2504.16128](http://arxiv.org/abs/2504.16128)|null|
 |**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
 |**2025-04-21**|**Time-Series Analysis on Edge-AI Hardware for Healthcare Monitoring**|Jinhai Hu et.al.|[2504.15178](http://arxiv.org/abs/2504.15178)|null|
@@ -990,8 +990,8 @@
 |**2025-06-11**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768](http://arxiv.org/abs/2506.08768)|null|
 |**2025-06-10**|**Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs**|Šimon Sedláček et.al.|[2506.08633](http://arxiv.org/abs/2506.08633)|null|
 |**2025-06-11**|**AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin**|Shuo Yang et.al.|[2506.08473](http://arxiv.org/abs/2506.08473)|null|
-|**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|null|
-|**2025-06-11**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|**[link](https://github.com/xudonmao/pairedit)**|
+|**2025-06-11**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|**[link](https://github.com/vchitect/taca)**|
 |**2025-06-09**|**LoRMA: Low-Rank Multiplicative Adaptation for LLMs**|Harsh Bihany et.al.|[2506.07621](http://arxiv.org/abs/2506.07621)|null|
 |**2025-06-09**|**Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation**|Roman Kyslyi et.al.|[2506.07617](http://arxiv.org/abs/2506.07617)|null|
 |**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
@@ -1006,7 +1006,7 @@
 |**2025-06-06**|**Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance**|Rudransh Agnihotri et.al.|[2506.05748](http://arxiv.org/abs/2506.05748)|null|
 |**2025-06-06**|**Come Together, But Not Right Now: A Progressive Strategy to Boost Low-Rank Adaptation**|Zhan Zhuang et.al.|[2506.05713](http://arxiv.org/abs/2506.05713)|null|
 |**2025-06-06**|**Contextually Guided Transformers via Low-Rank Adaptation**|Andrey Zhmoginov et.al.|[2506.05672](http://arxiv.org/abs/2506.05672)|null|
-|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|**[link](https://github.com/solidlabnetwork/fedshield-llm)**|
 |**2025-06-05**|**Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**|Arian Raje et.al.|[2506.05568](http://arxiv.org/abs/2506.05568)|null|
 |**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
@@ -1039,17 +1039,17 @@
 |**2025-05-30**|**AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption**|Yajie Zhou et.al.|[2505.24773](http://arxiv.org/abs/2505.24773)|null|
 |**2025-05-30**|**On Fairness of Task Arithmetic: The Role of Task Vectors**|Hiroki Naganuma et.al.|[2505.24262](http://arxiv.org/abs/2505.24262)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
-|**2025-05-30**|**Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation**|Ryota Miyano et.al.|[2505.24174](http://arxiv.org/abs/2505.24174)|null|
+|**2025-05-30**|**Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation**|Ryota Miyano et.al.|[2505.24174](http://arxiv.org/abs/2505.24174)|**[link](https://github.com/mr0223/adaptive_lora_merge)**|
 |**2025-05-30**|**B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining**|Yimin Zhao et.al.|[2505.24140](http://arxiv.org/abs/2505.24140)|null|
 |**2025-05-29**|**Leave it to the Specialist: Repair Sparse LLMs with Sparse Fine-Tuning via Sparsity Evolution**|Qiao Xiao et.al.|[2505.24037](http://arxiv.org/abs/2505.24037)|null|
 |**2025-05-29**|**Hidden Persuasion: Detecting Manipulative Narratives on Social Media During the 2022 Russian Invasion of Ukraine**|Kateryna Akhynko et.al.|[2505.24028](http://arxiv.org/abs/2505.24028)|null|
-|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
+|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|**[link](https://github.com/osu-starlab/beavertalk)**|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
 |**2025-05-29**|**Adaptive Federated LoRA in Heterogeneous Wireless Networks with Independent Sampling**|Yanzhao Hou et.al.|[2505.23555](http://arxiv.org/abs/2505.23555)|null|
 |**2025-05-29**|**Dynamic Spectral Backpropagation for Efficient Neural Network Training**|Mannmohan Muthuraman et.al.|[2505.23369](http://arxiv.org/abs/2505.23369)|null|
 |**2025-05-29**|**UniTEX: Universal High Fidelity Generative Texturing for 3D Shapes**|Yixun Liang et.al.|[2505.23253](http://arxiv.org/abs/2505.23253)|**[link](https://github.com/yixunliang/unitex)**|
-|**2025-05-29**|**Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics**|Shiwei Li et.al.|[2505.23194](http://arxiv.org/abs/2505.23194)|null|
+|**2025-05-29**|**Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics**|Shiwei Li et.al.|[2505.23194](http://arxiv.org/abs/2505.23194)|**[link](https://github.com/leopold1423/non_zero_lora-icml25)**|
 |**2025-05-29**|**Two Is Better Than One: Rotations Scale LoRAs**|Hongcan Guo et.al.|[2505.23184](http://arxiv.org/abs/2505.23184)|null|
 |**2025-05-29**|**Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking**|Yuatyong Chaichana et.al.|[2505.23117](http://arxiv.org/abs/2505.23117)|null|
 |**2025-05-29**|**Weight Spectra Induced Efficient Model Adaptation**|Chongjie Si et.al.|[2505.23099](http://arxiv.org/abs/2505.23099)|null|
@@ -1092,7 +1092,7 @@
 |**2025-05-23**|**Analyzing Mitigation Strategies for Catastrophic Forgetting in End-to-End Training of Spoken Language Models**|Chi-Yuan Hsiao et.al.|[2505.17496](http://arxiv.org/abs/2505.17496)|null|
 |**2025-05-23**|**Low-Rank Adaptation of Pre-trained Vision Backbones for Energy-Efficient Image Coding for Machine**|Yichi Zhang et.al.|[2505.17366](http://arxiv.org/abs/2505.17366)|**[link](https://gitlab.com/viper-purdue/efficient-compression)**|
 |**2025-05-22**|**Next Token Perception Score: Analytical Assessment of your LLM Perception Skills**|Yu-Ang Cheng et.al.|[2505.17169](http://arxiv.org/abs/2505.17169)|null|
-|**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947](http://arxiv.org/abs/2505.16947)|null|
+|**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947](http://arxiv.org/abs/2505.16947)|**[link](https://github.com/insait-institute/mixat)**|
 |**2025-05-22**|**LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols**|Ziming liu et.al.|[2505.16821](http://arxiv.org/abs/2505.16821)|null|
 |**2025-05-22**|**Training Long-Context LLMs Efficiently via Chunk-wise Optimization**|Wenhao Li et.al.|[2505.16710](http://arxiv.org/abs/2505.16710)|**[link](https://github.com/wenhaoli-xmu/seco)**|
 |**2025-05-22**|**Hybrid Parameterized Quantum States for Variational Quantum Learning**|Chen-Yu Liu et.al.|[2505.16676](http://arxiv.org/abs/2505.16676)|null|
@@ -1191,9 +1191,9 @@
 |**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
 |**2025-04-23**|**Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**|Abdul Hannaan et.al.|[2504.16515](http://arxiv.org/abs/2504.16515)|null|
 |**2025-04-23**|**EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records**|Shuguang Zhao et.al.|[2504.16448](http://arxiv.org/abs/2504.16448)|null|
-|**2025-04-22**|**PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning**|Song Wang et.al.|[2504.16023](http://arxiv.org/abs/2504.16023)|null|
+|**2025-04-22**|**PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning**|Song Wang et.al.|[2504.16023](http://arxiv.org/abs/2504.16023)|**[link](https://github.com/songw-zju/pointlora)**|
 |**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
-|**2025-04-22**|**Tina: Tiny Reasoning Models via LoRA**|Shangshang Wang et.al.|[2504.15777](http://arxiv.org/abs/2504.15777)|null|
+|**2025-04-22**|**Tina: Tiny Reasoning Models via LoRA**|Shangshang Wang et.al.|[2504.15777](http://arxiv.org/abs/2504.15777)|**[link](https://github.com/shangshang-wang/tina)**|
 |**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|**[link](https://github.com/codermillat/StudyAbroadGPT)**|
 |**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
 |**2025-04-21**|**What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale**|Xiaoyong Yuan et.al.|[2504.14815](http://arxiv.org/abs/2504.14815)|null|
@@ -1310,7 +1310,7 @@
 |**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|**[link](https://github.com/yeliudev/VideoMind)**|
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis**|Shitong Shao et.al.|[2503.13319](http://arxiv.org/abs/2503.13319)|null|
-|**2025-03-17**|**Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**|Henghui Du et.al.|[2503.13068](http://arxiv.org/abs/2503.13068)|null|
+|**2025-03-17**|**Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**|Henghui Du et.al.|[2503.13068](http://arxiv.org/abs/2503.13068)|**[link](https://github.com/gewu-lab/crab)**|
 |**2025-03-17**|**ROMA: a Read-Only-Memory-based Accelerator for QLoRA-based On-Device LLM**|Wenqiang Wang et.al.|[2503.12988](http://arxiv.org/abs/2503.12988)|null|
 |**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
 |**2025-03-17**|**Quantum-Enhanced LLM Efficient Fine Tuning**|Xiaofei Kong et.al.|[2503.12790](http://arxiv.org/abs/2503.12790)|null|
@@ -2004,7 +2004,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|null|
+|**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|**[link](https://github.com/shihewang/fima-q)**|
 |**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
 |**2025-06-12**|**Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms**|Soumen Garai et.al.|[2506.11169](http://arxiv.org/abs/2506.11169)|null|
 |**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
@@ -2050,12 +2050,12 @@
 |**2025-05-30**|**A Simple Linear Patch Revives Layer-Pruned Large Language Models**|Xinrui Chen et.al.|[2505.24680](http://arxiv.org/abs/2505.24680)|null|
 |**2025-05-30**|**CREFT: Sequential Multi-Agent LLM for Character Relation Extraction**|Ye Eun Chun et.al.|[2505.24553](http://arxiv.org/abs/2505.24553)|null|
 |**2025-05-30**|**Smooth Model Compression without Fine-Tuning**|Christina Runkel et.al.|[2505.24469](http://arxiv.org/abs/2505.24469)|null|
-|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
+|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|**[link](https://github.com/rogerferrod/crodino-kd)**|
 |**2025-05-30**|**Progressive Class-level Distillation**|Jiayan Li et.al.|[2505.24310](http://arxiv.org/abs/2505.24310)|null|
 |**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
 |**2025-05-30**|**Proactive Guidance of Multi-Turn Conversation in Industrial Search**|Xiaoyu Li et.al.|[2505.24251](http://arxiv.org/abs/2505.24251)|null|
 |**2025-05-30**|**Fine-tune Before Structured Pruning: Towards Compact and Accurate Self-Supervised Models for Speaker Diarization**|Jiangyu Han et.al.|[2505.24111](http://arxiv.org/abs/2505.24111)|null|
-|**2025-05-29**|**FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression**|Jiayi Tian et.al.|[2505.23966](http://arxiv.org/abs/2505.23966)|null|
+|**2025-05-29**|**FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression**|Jiayi Tian et.al.|[2505.23966](http://arxiv.org/abs/2505.23966)|**[link](https://github.com/ttttttris/flat-llm)**|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-29**|**Knowledge Distillation for Reservoir-based Classifier: Human Activity Recognition**|Masaharu Kagiyama et.al.|[2505.22985](http://arxiv.org/abs/2505.22985)|null|
 |**2025-05-28**|**Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates**|Haoning Xu et.al.|[2505.22608](http://arxiv.org/abs/2505.22608)|null|
