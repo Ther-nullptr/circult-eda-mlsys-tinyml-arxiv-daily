@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers**|Guang Liang et.al.|[2506.11784](http://arxiv.org/abs/2506.11784)|null|
+|**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|null|
+|**2025-06-13**|**TruncQuant: Truncation-Ready Quantization for DNNs with Flexible Weight Bit Precision**|Jinhee Kim et.al.|[2506.11431](http://arxiv.org/abs/2506.11431)|null|
 |**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
 |**2025-06-12**|**Starting Positions Matter: A Study on Better Weight Initialization for Neural Network Quantization**|Stone Yun et.al.|[2506.10463](http://arxiv.org/abs/2506.10463)|null|
 |**2025-06-11**|**AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent**|Jing Liu et.al.|[2506.10205](http://arxiv.org/abs/2506.10205)|null|
@@ -236,6 +239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
 |**2025-06-10**|**Olica: Efficient Structured Pruning of Large Language Models without Retraining**|Jiujun He et.al.|[2506.08436](http://arxiv.org/abs/2506.08436)|null|
 |**2025-06-09**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
 |**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
@@ -383,6 +387,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**FractalSync: Lightweight Scalable Global Synchronization of Massive Bulk Synchronous Parallel AI Accelerators**|Victor Isachi et.al.|[2506.11668](http://arxiv.org/abs/2506.11668)|null|
+|**2025-06-12**|**On Ray Reordering Techniques for Faster GPU Ray Tracing**|Daniel Meister et.al.|[2506.11273](http://arxiv.org/abs/2506.11273)|null|
 |**2025-06-12**|**MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem**|Melina Soysal et.al.|[2506.10931](http://arxiv.org/abs/2506.10931)|null|
 |**2025-06-12**|**Deployment of Containerized Simulations in an API-Driven Distributed Infrastructure**|Tim Kraus et.al.|[2506.10642](http://arxiv.org/abs/2506.10642)|null|
 |**2025-06-12**|**HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration**|Jiaqi Lv et.al.|[2506.10401](http://arxiv.org/abs/2506.10401)|null|
@@ -664,6 +670,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Black-Box Edge AI Model Selection with Conformal Latency and Accuracy Guarantees**|Anders E. Kalør et.al.|[2506.11391](http://arxiv.org/abs/2506.11391)|null|
+|**2025-06-12**|**Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms**|Soumen Garai et.al.|[2506.11169](http://arxiv.org/abs/2506.11169)|null|
 |**2025-06-12**|**6G Infrastructures for Edge AI: An Analytical Perspective**|Kurt Horvath et.al.|[2506.10570](http://arxiv.org/abs/2506.10570)|null|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
 |**2025-06-10**|**Efficient Edge Deployment of Quantized YOLOv4-Tiny for Aerial Emergency Object Detection on Raspberry Pi 5**|Sindhu Boddu et.al.|[2506.09300](http://arxiv.org/abs/2506.09300)|null|
@@ -943,6 +951,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
+|**2025-06-13**|**Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning**|Chendi Ge et.al.|[2506.11672](http://arxiv.org/abs/2506.11672)|null|
+|**2025-06-13**|**LoRA-Gen: Specializing Large Language Model via Online LoRA Generation**|Yicheng Xiao et.al.|[2506.11638](http://arxiv.org/abs/2506.11638)|null|
+|**2025-06-13**|**Convergent Linear Representations of Emergent Misalignment**|Anna Soligo et.al.|[2506.11618](http://arxiv.org/abs/2506.11618)|null|
+|**2025-06-13**|**Model Organisms for Emergent Misalignment**|Edward Turner et.al.|[2506.11613](http://arxiv.org/abs/2506.11613)|null|
+|**2025-06-13**|**Are LLMs Good Text Diacritizers? An Arabic and Yorùbá Case Study**|Hawau Olamide Toyin et.al.|[2506.11602](http://arxiv.org/abs/2506.11602)|null|
+|**2025-06-13**|**LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model**|Pradyut Sekhsaria et.al.|[2506.11402](http://arxiv.org/abs/2506.11402)|null|
 |**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
 |**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|null|
@@ -1968,6 +1983,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|null|
+|**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
+|**2025-06-12**|**Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms**|Soumen Garai et.al.|[2506.11169](http://arxiv.org/abs/2506.11169)|null|
 |**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
 |**2025-06-12**|**Ground Reaction Force Estimation via Time-aware Knowledge Distillation**|Eun Som Jeon et.al.|[2506.10265](http://arxiv.org/abs/2506.10265)|null|
 |**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207](http://arxiv.org/abs/2506.10207)|null|
