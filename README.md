@@ -937,7 +937,7 @@
 |**2025-05-05**|**DeepHMC : a deep-neural-network acclerated Hamiltonian Monte Carlo algorithm for binary neutron star parameter estimation**|Jules Perret et.al.|[2505.02589](http://arxiv.org/abs/2505.02589)|null|
 |**2025-05-02**|**CIMFlow: An Integrated Framework for Systematic Design and Evaluation of Digital CIM Architectures**|Yingjie Qi et.al.|[2505.01107](http://arxiv.org/abs/2505.01107)|null|
 |**2025-04-23**|**Trends in AI Supercomputers**|Konstantin F. Pilz et.al.|[2504.16026](http://arxiv.org/abs/2504.16026)|null|
-|**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|null|
+|**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|**[link](https://code.stanford.edu/tambe-lab/gainsight.git)**|
 |**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|**[link](https://github.com/stefanpie/hls-eval)**|
 |**2025-05-29**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
