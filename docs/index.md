@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN**|Jianhang Xie et.al.|[2506.17870](http://arxiv.org/abs/2506.17870)|null|
 |**2025-06-18**|**J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor**|Benoit Tain et.al.|[2506.15316](http://arxiv.org/abs/2506.15316)|null|
 |**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|
 |**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|**[link](https://github.com/darren-fzq/eaquant)**|
@@ -243,6 +244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models**|Jiangyu Han et.al.|[2506.18623](http://arxiv.org/abs/2506.18623)|null|
+|**2025-06-23**|**SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation**|Zichong Li et.al.|[2506.18349](http://arxiv.org/abs/2506.18349)|null|
+|**2025-06-21**|**RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models**|Yuxuan Chen et.al.|[2506.17639](http://arxiv.org/abs/2506.17639)|null|
 |**2025-06-19**|**SparseDPD: A Sparse Neural Network-based Digital Predistortion FPGA Accelerator for RF Power Amplifier Linearization**|Manno Versluis et.al.|[2506.16591](http://arxiv.org/abs/2506.16591)|null|
 |**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727](http://arxiv.org/abs/2506.13727)|**[link](https://github.com/erfanhatefi/sparc3)**|
 |**2025-06-15**|**LOP: Learning Optimal Pruning for Efficient On-Demand MLLMs Scaling**|Zhihan Zhang et.al.|[2506.12826](http://arxiv.org/abs/2506.12826)|null|
@@ -687,6 +691,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530](http://arxiv.org/abs/2506.18530)|null|
 |**2025-06-18**|**J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor**|Benoit Tain et.al.|[2506.15316](http://arxiv.org/abs/2506.15316)|null|
 |**2025-06-14**|**Deploying and Evaluating Multiple Deep Learning Models on Edge Devices for Diabetic Retinopathy Detection**|Akwasi Asare et.al.|[2506.14834](http://arxiv.org/abs/2506.14834)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
@@ -923,7 +928,7 @@ layout: default
 |**2025-05-05**|**DeepHMC : a deep-neural-network acclerated Hamiltonian Monte Carlo algorithm for binary neutron star parameter estimation**|Jules Perret et.al.|[2505.02589](http://arxiv.org/abs/2505.02589)|null|
 |**2025-05-02**|**CIMFlow: An Integrated Framework for Systematic Design and Evaluation of Digital CIM Architectures**|Yingjie Qi et.al.|[2505.01107](http://arxiv.org/abs/2505.01107)|null|
 |**2025-04-23**|**Trends in AI Supercomputers**|Konstantin F. Pilz et.al.|[2504.16026](http://arxiv.org/abs/2504.16026)|null|
-|**2025-04-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|**[link](https://code.stanford.edu/tambe-lab/gainsight.git)**|
+|**2025-06-22**|**GainSight: Application-Guided Profiling for Composing Heterogeneous On-Chip Memories in AI Hardware Accelerators**|Peijing Li et.al.|[2504.14866](http://arxiv.org/abs/2504.14866)|**[link](https://code.stanford.edu/tambe-lab/gainsight.git)**|
 |**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|**[link](https://github.com/stefanpie/hls-eval)**|
 |**2025-05-29**|**Carbon-Efficient 3D DNN Acceleration: Optimizing Performance and Sustainability**|Aikaterini Maria Panteleaki et.al.|[2504.09851](http://arxiv.org/abs/2504.09851)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
@@ -977,6 +982,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
+|**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
+|**2025-06-23**|**When Fine-Tuning Fails: Lessons from MS MARCO Passage Ranking**|Manu Pande et.al.|[2506.18535](http://arxiv.org/abs/2506.18535)|null|
+|**2025-06-23**|**Benchmarking Foundation Models and Parameter-Efficient Fine-Tuning for Prognosis Prediction in Medical Imaging**|Filippo Ruffini et.al.|[2506.18434](http://arxiv.org/abs/2506.18434)|null|
+|**2025-06-23**|**How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models**|Feng He et.al.|[2506.18428](http://arxiv.org/abs/2506.18428)|null|
+|**2025-06-23**|**ARD-LoRA: Dynamic Rank Allocation for Parameter-Efficient Fine-Tuning of Foundation Models with Heterogeneous Adaptation Needs**|Haseeb Ullah Khan Shinwari et.al.|[2506.18267](http://arxiv.org/abs/2506.18267)|null|
+|**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208](http://arxiv.org/abs/2506.18208)|null|
+|**2025-06-22**|**Memba: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**|Donghyun Lee et.al.|[2506.18184](http://arxiv.org/abs/2506.18184)|null|
+|**2025-06-21**|**LoLA-SpecViT: Local Attention SwiGLU Vision Transformer with LoRA for Hyperspectral Imaging**|Fadi Abdeladhim Zidi et.al.|[2506.17759](http://arxiv.org/abs/2506.17759)|null|
+|**2025-06-21**|**TPTT: Transforming Pretrained Transformer into Titans**|Fabien Furfaro et.al.|[2506.17671](http://arxiv.org/abs/2506.17671)|null|
 |**2025-06-20**|**Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps**|Jiashun Cheng et.al.|[2506.16787](http://arxiv.org/abs/2506.16787)|null|
 |**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600](http://arxiv.org/abs/2506.16600)|null|
 |**2025-06-19**|**Weight Factorization and Centralization for Continual Learning in Speech Recognition**|Enes Yavuz Ugan et.al.|[2506.16574](http://arxiv.org/abs/2506.16574)|null|
@@ -2033,6 +2048,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
+|**2025-06-23**|**Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation**|Jie Li et.al.|[2506.18716](http://arxiv.org/abs/2506.18716)|**[link](https://github.com/JieLi-dd/MAGTKD)**|
+|**2025-06-23**|**Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models**|Jiangyu Han et.al.|[2506.18623](http://arxiv.org/abs/2506.18623)|null|
+|**2025-06-23**|**Biased Teacher, Balanced Student**|Seonghak Kim et.al.|[2506.18496](http://arxiv.org/abs/2506.18496)|null|
+|**2025-06-23**|**Dual-Forward Path Teacher Knowledge Distillation: Bridging the Capacity Gap Between Teacher and Student**|Tong Li et.al.|[2506.18244](http://arxiv.org/abs/2506.18244)|null|
+|**2025-06-23**|**Cross-Architecture Knowledge Distillation (KD) for Retinal Fundus Image Anomaly Detection on NVIDIA Jetson Nano**|Berk Yilmaz et.al.|[2506.18220](http://arxiv.org/abs/2506.18220)|null|
+|**2025-06-22**|**Multimodal Fusion SLAM with Fourier Attention**|Youjie Zhou et.al.|[2506.18204](http://arxiv.org/abs/2506.18204)|null|
+|**2025-06-21**|**Enhancing Few-shot Keyword Spotting Performance through Pre-Trained Self-supervised Speech Models**|Alican Gok et.al.|[2506.17686](http://arxiv.org/abs/2506.17686)|null|
+|**2025-06-21**|**RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models**|Yuxuan Chen et.al.|[2506.17639](http://arxiv.org/abs/2506.17639)|null|
 |**2025-06-20**|**RocketStack: A level-aware deep recursive ensemble learning framework with exploratory feature fusion and model pruning dynamics**|Çağatay Demirel et.al.|[2506.16965](http://arxiv.org/abs/2506.16965)|null|
 |**2025-06-19**|**A compressible Reynolds-averaged mixing model considering turbulent entropy and heat flux**|Hansong Xie et.al.|[2506.16296](http://arxiv.org/abs/2506.16296)|null|
 |**2025-06-19**|**Fine-grained Image Retrieval via Dual-Vision Adaptation**|Xin Jiang et.al.|[2506.16273](http://arxiv.org/abs/2506.16273)|null|
