@@ -247,7 +247,7 @@ layout: default
 |**2025-06-25**|**GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching**|Guinan Su et.al.|[2506.20480](http://arxiv.org/abs/2506.20480)|null|
 |**2025-06-25**|**DipSVD: Dual-importance Protected SVD for Efficient LLM Compression**|Xuan Ding et.al.|[2506.20353](http://arxiv.org/abs/2506.20353)|null|
 |**2025-06-25**|**DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**|Ruokai Yin et.al.|[2506.20194](http://arxiv.org/abs/2506.20194)|null|
-|**2025-06-25**|**Loss-Aware Automatic Selection of Structured Pruning Criteria for Deep Neural Network Acceleration**|Deepak Ghimire et.al.|[2506.20152](http://arxiv.org/abs/2506.20152)|null|
+|**2025-06-25**|**Loss-Aware Automatic Selection of Structured Pruning Criteria for Deep Neural Network Acceleration**|Deepak Ghimire et.al.|[2506.20152](http://arxiv.org/abs/2506.20152)|**[link](https://github.com/ghimiredhikura/laasp)**|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
 |**2025-06-23**|**Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models**|Jiangyu Han et.al.|[2506.18623](http://arxiv.org/abs/2506.18623)|null|
 |**2025-06-23**|**SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation**|Zichong Li et.al.|[2506.18349](http://arxiv.org/abs/2506.18349)|null|
