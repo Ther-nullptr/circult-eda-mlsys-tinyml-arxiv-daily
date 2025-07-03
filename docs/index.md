@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
+|**2025-06-18**|**DBellQuant: Breaking the Bell with Double-Bell Transformation for LLMs Post Training Binarization**|Zijian Ye et.al.|[2507.01027](http://arxiv.org/abs/2507.01027)|null|
 |**2025-06-28**|**Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models**|Tejas Vaidhya et.al.|[2506.23025](http://arxiv.org/abs/2506.23025)|null|
 |**2025-06-18**|**Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization**|Weizhi Gao et.al.|[2506.22463](http://arxiv.org/abs/2506.22463)|null|
 |**2025-06-22**|**NestQuant: Post-Training Integer-Nesting Quantization for On-Device DNN**|Jianhang Xie et.al.|[2506.17870](http://arxiv.org/abs/2506.17870)|null|
@@ -246,6 +248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
+|**2025-07-01**|**MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE**|Geng Zhang et.al.|[2507.00390](http://arxiv.org/abs/2507.00390)|null|
 |**2025-06-25**|**GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching**|Guinan Su et.al.|[2506.20480](http://arxiv.org/abs/2506.20480)|null|
 |**2025-06-25**|**DipSVD: Dual-importance Protected SVD for Efficient LLM Compression**|Xuan Ding et.al.|[2506.20353](http://arxiv.org/abs/2506.20353)|null|
 |**2025-06-25**|**DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**|Ruokai Yin et.al.|[2506.20194](http://arxiv.org/abs/2506.20194)|null|
@@ -405,6 +409,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-01**|**HERCULES: Hardware accElerator foR stoChastic schedULing in hEterogeneous Systems**|Vairavan Palaniappan et.al.|[2507.01113](http://arxiv.org/abs/2507.01113)|null|
+|**2025-07-01**|**Presto: Hardware Acceleration of Ciphers for Hybrid Homomorphic Encryption**|Yeonsoo Jeon et.al.|[2507.00367](http://arxiv.org/abs/2507.00367)|null|
 |**2025-06-27**|**Ludax: A GPU-Accelerated Domain Specific Language for Board Games**|Graham Todd et.al.|[2506.22609](http://arxiv.org/abs/2506.22609)|null|
 |**2025-06-27**|**Hardware acceleration for ultra-fast Neural Network training on FPGA for MRF map reconstruction**|Mattia Ricchi et.al.|[2506.22156](http://arxiv.org/abs/2506.22156)|null|
 |**2025-06-27**|**Power- and Area-Efficient Unary Sorting Architecture Using FSM-Based Unary Number Generator**|Amir Hossein Jalilvand et.al.|[2506.22107](http://arxiv.org/abs/2506.22107)|null|
@@ -703,6 +710,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Towards Decentralized and Sustainable Foundation Model Training with the Edge**|Leyang Xue et.al.|[2507.01803](http://arxiv.org/abs/2507.01803)|null|
+|**2025-07-02**|**Hardware-software co-exploration with racetrack memory based in-memory computing for CNN inference in embedded systems**|Benjamin Chen Ming Choong et.al.|[2507.01429](http://arxiv.org/abs/2507.01429)|null|
+|**2025-07-01**|**Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration**|Haoxiang Luo et.al.|[2507.00672](http://arxiv.org/abs/2507.00672)|null|
+|**2025-07-01**|**Twill: Scheduling Compound AI Systems on Heterogeneous Mobile Edge Platforms**|Zain Taufique et.al.|[2507.00491](http://arxiv.org/abs/2507.00491)|null|
+|**2025-06-30**|**Federated Learning-Enabled Hybrid Language Models for Communication-Efficient Token Transmission**|Faranaksadat Solat et.al.|[2507.00082](http://arxiv.org/abs/2507.00082)|null|
 |**2025-06-30**|**Harnessing AI Agents to Advance Research on Refugee Child Mental Health**|Aditya Shrivastava et.al.|[2506.23992](http://arxiv.org/abs/2506.23992)|null|
 |**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190](http://arxiv.org/abs/2506.22190)|null|
 |**2025-06-25**|**From Tiny Machine Learning to Tiny Deep Learning: A Survey**|Shriyank Somvanshi et.al.|[2506.18927](http://arxiv.org/abs/2506.18927)|null|
@@ -933,6 +945,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis**|Runkai Li et.al.|[2507.00642](http://arxiv.org/abs/2507.00642)|null|
 |**2025-06-20**|**Lookup Table-based Multiplication-free All-digital DNN Accelerator Featuring Self-Synchronous Pipeline Accumulation**|Hiroto Tagata et.al.|[2506.16800](http://arxiv.org/abs/2506.16800)|null|
 |**2025-06-18**|**Engineering Supercomputing Platforms for Biomolecular Applications**|Robert Welch et.al.|[2506.15585](http://arxiv.org/abs/2506.15585)|**[link](https://github.com/hecbiosim/benchmark-results)**|
 |**2025-06-18**|**J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor**|Benoit Tain et.al.|[2506.15316](http://arxiv.org/abs/2506.15316)|null|
@@ -997,6 +1010,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization**|Yihang Gao et.al.|[2507.01841](http://arxiv.org/abs/2507.01841)|null|
+|**2025-07-02**|**LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**|Reza Arabpour et.al.|[2507.01806](http://arxiv.org/abs/2507.01806)|null|
+|**2025-07-02**|**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**|Peng Zheng et.al.|[2507.01792](http://arxiv.org/abs/2507.01792)|null|
+|**2025-07-02**|**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation**|Bryan Constantine Sadihin et.al.|[2507.01586](http://arxiv.org/abs/2507.01586)|null|
+|**2025-07-02**|**EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices**|Zheyu Shen et.al.|[2507.01438](http://arxiv.org/abs/2507.01438)|null|
+|**2025-07-02**|**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**|Worameth Chinchuthakun et.al.|[2507.01305](http://arxiv.org/abs/2507.01305)|null|
+|**2025-07-01**|**Are Large Brainwave Foundation Models Capable Yet? Insights from Fine-tuning**|Na Lee et.al.|[2507.01196](http://arxiv.org/abs/2507.01196)|null|
+|**2025-07-01**|**Language-Unlocked ViT (LUViT): Empowering Self-Supervised Vision Transformers with LLMs**|Selim Kuzucu et.al.|[2507.00754](http://arxiv.org/abs/2507.00754)|null|
+|**2025-07-01**|**Improving the Reasoning of Multi-Image Grounding in MLLMs via Reinforcement Learning**|Bob Zhang et.al.|[2507.00748](http://arxiv.org/abs/2507.00748)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
 |**2025-07-01**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|
 |**2025-06-30**|**GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models**|Hamza Rasaee et.al.|[2506.23903](http://arxiv.org/abs/2506.23903)|null|
@@ -2086,6 +2109,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
+|**2025-07-01**|**Simulation-Efficient Cosmological Inference with Multi-Fidelity SBI**|Leander Thiele et.al.|[2507.00514](http://arxiv.org/abs/2507.00514)|null|
+|**2025-07-01**|**MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE**|Geng Zhang et.al.|[2507.00390](http://arxiv.org/abs/2507.00390)|null|
 |**2025-06-30**|**The Trilemma of Truth in Large Language Models**|Germans Savcisens et.al.|[2506.23921](http://arxiv.org/abs/2506.23921)|null|
 |**2025-06-30**|**Efficient Interleaved Speech Modeling through Knowledge Distillation**|Mohammadmahdi Nouriborji et.al.|[2506.23670](http://arxiv.org/abs/2506.23670)|null|
 |**2025-06-30**|**When Test-Time Adaptation Meets Self-Supervised Models**|Jisu Han et.al.|[2506.23529](http://arxiv.org/abs/2506.23529)|null|
