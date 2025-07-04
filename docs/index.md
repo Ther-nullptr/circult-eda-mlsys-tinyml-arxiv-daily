@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -409,6 +409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Hardware-Accelerated Algorithm for Complex Function Roots Density Graph Plotting**|Ruibai Tang et.al.|[2507.02164](http://arxiv.org/abs/2507.02164)|null|
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-01**|**HERCULES: Hardware accElerator foR stoChastic schedULing in hEterogeneous Systems**|Vairavan Palaniappan et.al.|[2507.01113](http://arxiv.org/abs/2507.01113)|null|
 |**2025-07-01**|**Presto: Hardware Acceleration of Ciphers for Hybrid Homomorphic Encryption**|Yeonsoo Jeon et.al.|[2507.00367](http://arxiv.org/abs/2507.00367)|null|
@@ -1010,6 +1011,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**RetrySQL: text-to-SQL training with retry data for self-correcting query generation**|Alicja Rączkowska et.al.|[2507.02529](http://arxiv.org/abs/2507.02529)|null|
+|**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
+|**2025-07-03**|**Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis**|Byung Hyun Lee et.al.|[2507.02395](http://arxiv.org/abs/2507.02395)|null|
+|**2025-07-03**|**DoMIX: An Efficient Framework for Exploiting Domain Knowledge in Fine-Tuning**|Dohoon Kim et.al.|[2507.02302](http://arxiv.org/abs/2507.02302)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
 |**2025-07-02**|**Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization**|Yihang Gao et.al.|[2507.01841](http://arxiv.org/abs/2507.01841)|null|
 |**2025-07-02**|**LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**|Reza Arabpour et.al.|[2507.01806](http://arxiv.org/abs/2507.01806)|null|

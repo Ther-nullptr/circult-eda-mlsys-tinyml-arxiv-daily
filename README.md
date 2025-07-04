@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -253,7 +253,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Pruning
 
@@ -416,12 +416,13 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Hardware-Accelerated Algorithm for Complex Function Roots Density Graph Plotting**|Ruibai Tang et.al.|[2507.02164](http://arxiv.org/abs/2507.02164)|null|
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-01**|**HERCULES: Hardware accElerator foR stoChastic schedULing in hEterogeneous Systems**|Vairavan Palaniappan et.al.|[2507.01113](http://arxiv.org/abs/2507.01113)|null|
 |**2025-07-01**|**Presto: Hardware Acceleration of Ciphers for Hybrid Homomorphic Encryption**|Yeonsoo Jeon et.al.|[2507.00367](http://arxiv.org/abs/2507.00367)|null|
@@ -719,7 +720,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## TinyML
 
@@ -956,7 +957,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -1023,12 +1024,17 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**RetrySQL: text-to-SQL training with retry data for self-correcting query generation**|Alicja Rączkowska et.al.|[2507.02529](http://arxiv.org/abs/2507.02529)|null|
+|**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
+|**2025-07-03**|**Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis**|Byung Hyun Lee et.al.|[2507.02395](http://arxiv.org/abs/2507.02395)|null|
+|**2025-07-03**|**DoMIX: An Efficient Framework for Exploiting Domain Knowledge in Fine-Tuning**|Dohoon Kim et.al.|[2507.02302](http://arxiv.org/abs/2507.02302)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
 |**2025-07-02**|**Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization**|Yihang Gao et.al.|[2507.01841](http://arxiv.org/abs/2507.01841)|null|
 |**2025-07-02**|**LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**|Reza Arabpour et.al.|[2507.01806](http://arxiv.org/abs/2507.01806)|null|
@@ -2124,7 +2130,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Model Compression
 
@@ -3240,7 +3246,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
