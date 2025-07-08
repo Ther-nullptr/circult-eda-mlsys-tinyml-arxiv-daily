@@ -248,6 +248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**The Case for Instance-Optimized LLMs in OLAP Databases**|Bardia Mohammadi et.al.|[2507.04967](http://arxiv.org/abs/2507.04967)|null|
+|**2025-06-28**|**SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning**|Hui Xie et.al.|[2507.02945](http://arxiv.org/abs/2507.02945)|null|
 |**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
 |**2025-07-01**|**MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE**|Geng Zhang et.al.|[2507.00390](http://arxiv.org/abs/2507.00390)|null|
 |**2025-06-25**|**GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching**|Guinan Su et.al.|[2506.20480](http://arxiv.org/abs/2506.20480)|null|
@@ -409,6 +411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**A High-Level Compiler Integration Approach for Deep Learning Accelerators Supporting Abstraction and Optimization**|Samira Ahmadifarsani et.al.|[2507.04828](http://arxiv.org/abs/2507.04828)|null|
 |**2025-07-02**|**Hardware-Accelerated Algorithm for Complex Function Roots Density Graph Plotting**|Ruibai Tang et.al.|[2507.02164](http://arxiv.org/abs/2507.02164)|null|
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-01**|**HERCULES: Hardware accElerator foR stoChastic schedULing in hEterogeneous Systems**|Vairavan Palaniappan et.al.|[2507.01113](http://arxiv.org/abs/2507.01113)|null|
@@ -711,6 +714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
 |**2025-07-02**|**Towards Decentralized and Sustainable Foundation Model Training with the Edge**|Leyang Xue et.al.|[2507.01803](http://arxiv.org/abs/2507.01803)|null|
 |**2025-07-02**|**Hardware-software co-exploration with racetrack memory based in-memory computing for CNN inference in embedded systems**|Benjamin Chen Ming Choong et.al.|[2507.01429](http://arxiv.org/abs/2507.01429)|null|
 |**2025-07-01**|**Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration**|Haoxiang Luo et.al.|[2507.00672](http://arxiv.org/abs/2507.00672)|null|
@@ -1011,6 +1015,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Semantic Frame Interpolation**|Yijia Hong et.al.|[2507.05173](http://arxiv.org/abs/2507.05173)|null|
+|**2025-07-07**|**ViPSN 2.0: A Reconfigurable Battery-free IoT Platform for Vibration Energy Harvesting**|Xin Li et.al.|[2507.05081](http://arxiv.org/abs/2507.05081)|null|
+|**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
+|**2025-07-07**|**Fine-tuning on simulated data outperforms prompting for agent tone of voice**|Ingo Marquardt et.al.|[2507.04889](http://arxiv.org/abs/2507.04889)|null|
+|**2025-07-07**|**Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**|Yun Wang et.al.|[2507.04631](http://arxiv.org/abs/2507.04631)|null|
+|**2025-07-07**|**QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation**|Jiahui Yang et.al.|[2507.04599](http://arxiv.org/abs/2507.04599)|null|
+|**2025-07-06**|**LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization**|Xujia Wang. Yunjia Qi et.al.|[2507.04487](http://arxiv.org/abs/2507.04487)|null|
+|**2025-07-06**|**ESSA: Evolutionary Strategies for Scalable Alignment**|Daria Korotyshova et.al.|[2507.04453](http://arxiv.org/abs/2507.04453)|null|
+|**2025-07-06**|**MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation**|Weilun Feng et.al.|[2507.04290](http://arxiv.org/abs/2507.04290)|null|
+|**2025-07-05**|**Dissecting Clinical Reasoning in Language Models: A Comparative Study of Prompts and Model Adaptation Strategies**|Mael Jullien et.al.|[2507.04142](http://arxiv.org/abs/2507.04142)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**RetrySQL: text-to-SQL training with retry data for self-correcting query generation**|Alicja Rączkowska et.al.|[2507.02529](http://arxiv.org/abs/2507.02529)|null|
 |**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
@@ -2115,6 +2129,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Model Compression using Progressive Channel Pruning**|Jinyang Guo et.al.|[2507.04792](http://arxiv.org/abs/2507.04792)|null|
+|**2025-07-07**|**Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework**|Maolin Wang et.al.|[2507.04636](http://arxiv.org/abs/2507.04636)|null|
+|**2025-07-06**|**DOTResize: Reducing LLM Width via Discrete Optimal Transport-based Neuron Merging**|Neha Verma et.al.|[2507.04517](http://arxiv.org/abs/2507.04517)|null|
+|**2025-07-06**|**Tractable Representation Learning with Probabilistic Circuits**|Steven Braun et.al.|[2507.04385](http://arxiv.org/abs/2507.04385)|null|
+|**2025-07-06**|**MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**|Liman Wang et.al.|[2507.04351](http://arxiv.org/abs/2507.04351)|null|
+|**2025-07-05**|**When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need**|Ziming Hong et.al.|[2507.04119](http://arxiv.org/abs/2507.04119)|null|
+|**2025-07-04**|**IMPACT: Importance-Aware Activation Space Reconstruction**|Md Mokarram Chowdhury et.al.|[2507.03828](http://arxiv.org/abs/2507.03828)|null|
+|**2025-07-04**|**MGAA: Multi-Granular Adaptive Allocation fof Low-Rank Compression of LLMs**|Guangyan Li et.al.|[2507.03294](http://arxiv.org/abs/2507.03294)|null|
+|**2025-07-04**|**Dual-frequency Selected Knowledge Distillation with Statistical-based Sample Rectification for PolSAR Image Classification**|Xinyue Xin et.al.|[2507.03268](http://arxiv.org/abs/2507.03268)|null|
 |**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
 |**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
 |**2025-07-01**|**Simulation-Efficient Cosmological Inference with Multi-Fidelity SBI**|Leander Thiele et.al.|[2507.00514](http://arxiv.org/abs/2507.00514)|null|
