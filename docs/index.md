@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -1021,7 +1021,7 @@ layout: default
 |**2025-07-07**|**Fine-tuning on simulated data outperforms prompting for agent tone of voice**|Ingo Marquardt et.al.|[2507.04889](http://arxiv.org/abs/2507.04889)|null|
 |**2025-07-07**|**Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**|Yun Wang et.al.|[2507.04631](http://arxiv.org/abs/2507.04631)|null|
 |**2025-07-07**|**QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation**|Jiahui Yang et.al.|[2507.04599](http://arxiv.org/abs/2507.04599)|null|
-|**2025-07-06**|**LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization**|Xujia Wang. Yunjia Qi et.al.|[2507.04487](http://arxiv.org/abs/2507.04487)|null|
+|**2025-07-08**|**LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization**|Xujia Wang et.al.|[2507.04487](http://arxiv.org/abs/2507.04487)|null|
 |**2025-07-06**|**ESSA: Evolutionary Strategies for Scalable Alignment**|Daria Korotyshova et.al.|[2507.04453](http://arxiv.org/abs/2507.04453)|null|
 |**2025-07-06**|**MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation**|Weilun Feng et.al.|[2507.04290](http://arxiv.org/abs/2507.04290)|null|
 |**2025-07-05**|**Dissecting Clinical Reasoning in Language Models: A Comparative Study of Prompts and Model Adaptation Strategies**|Mael Jullien et.al.|[2507.04142](http://arxiv.org/abs/2507.04142)|null|
