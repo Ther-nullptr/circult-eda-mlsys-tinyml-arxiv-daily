@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
 |**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
@@ -250,6 +251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**UnIT: Scalable Unstructured Inference-Time Pruning for MAC-efficient Neural Inference on MCUs**|Ashe Neth et.al.|[2507.07885](http://arxiv.org/abs/2507.07885)|null|
 |**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449](http://arxiv.org/abs/2507.06449)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
 |**2025-07-07**|**The Case for Instance-Optimized LLMs in OLAP Databases**|Bardia Mohammadi et.al.|[2507.04967](http://arxiv.org/abs/2507.04967)|null|
@@ -1025,9 +1027,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**HaLert: A Resilient Smart City Architecture for Post-Disaster Based on Wi-Fi HaLow Mesh and SDN**|Ana Rita Ortigoso et.al.|[2507.07841](http://arxiv.org/abs/2507.07841)|null|
+|**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
+|**2025-07-09**|**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**|Samin Yeasar Arnob et.al.|[2507.07140](http://arxiv.org/abs/2507.07140)|null|
 |**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813](http://arxiv.org/abs/2507.06813)|null|
 |**2025-07-09**|**The Primacy of Magnitude in Low-Rank Adaptation**|Zicheng Zhang et.al.|[2507.06558](http://arxiv.org/abs/2507.06558)|null|
-|**2025-07-09**|**Large Language Model for Extracting Complex Contract Information in Industrial Scenes**|Yunyang Cao et.al.|[2507.06539](http://arxiv.org/abs/2507.06539)|null|
+|**2025-07-10**|**Large Language Model for Extracting Complex Contract Information in Industrial Scenes**|Yunyang Cao et.al.|[2507.06539](http://arxiv.org/abs/2507.06539)|null|
 |**2025-07-08**|**PERK: Long-Context Reasoning as Parameter-Efficient Test-Time Learning**|Zeming Chen et.al.|[2507.06415](http://arxiv.org/abs/2507.06415)|null|
 |**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
 |**2025-07-08**|**T-LoRA: Single Image Diffusion Model Customization Without Overfitting**|Vera Soboleva et.al.|[2507.05964](http://arxiv.org/abs/2507.05964)|null|
@@ -2151,6 +2156,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
+|**2025-07-10**|**Exploring the Limits of Model Compression in LLMs: A Knowledge Distillation Study on QA Tasks**|Joyeeta Datta et.al.|[2507.07630](http://arxiv.org/abs/2507.07630)|null|
+|**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**MST-Distill: Mixture of Specialized Teachers for Cross-Modal Knowledge Distillation**|Hui Li et.al.|[2507.07015](http://arxiv.org/abs/2507.07015)|null|
 |**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
