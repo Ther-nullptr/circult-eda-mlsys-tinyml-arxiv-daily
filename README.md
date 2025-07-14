@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -256,7 +256,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Pruning
 
@@ -424,12 +424,14 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**CCSS: Hardware-Accelerated RTL Simulation with Fast Combinational Logic Computing and Sequential Logic Synchronization**|Weigang Feng et.al.|[2507.08406](http://arxiv.org/abs/2507.08406)|null|
+|**2025-07-10**|**PDE-aware Optimizer for Physics-informed Neural Networks**|Hardik Shukla et.al.|[2507.08118](http://arxiv.org/abs/2507.08118)|null|
 |**2025-07-09**|**Energy-Efficient Supervised Learning with a Binary Stochastic Forward-Forward Algorithm**|Risi Jaiswal et.al.|[2507.06461](http://arxiv.org/abs/2507.06461)|null|
 |**2025-07-08**|**PaddleOCR 3.0 Technical Report**|Cheng Cui et.al.|[2507.05595](http://arxiv.org/abs/2507.05595)|null|
 |**2025-07-07**|**Bit-Flip Fault Attack: Crushing Graph Neural Networks via Gradual Bit Search**|Sanaz Kazemi Abharian et.al.|[2507.05531](http://arxiv.org/abs/2507.05531)|null|
@@ -732,12 +734,13 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## TinyML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence**|Yun Tang et.al.|[2507.08164](http://arxiv.org/abs/2507.08164)|null|
 |**2025-07-09**|**Beyond Connectivity: An Open Architecture for AI-RAN Convergence in 6G**|Michele Polese et.al.|[2507.06911](http://arxiv.org/abs/2507.06911)|null|
 |**2025-07-08**|**Secure and Storage-Efficient Deep Learning Models for Edge AI Using Automatic Weight Generation**|Habibur Rahaman et.al.|[2507.06380](http://arxiv.org/abs/2507.06380)|null|
 |**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
@@ -972,7 +975,7 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
@@ -1040,12 +1043,16 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**ILT-Iterative LoRA Training through Focus-Feedback-Fix for Multilingual Speech Recognition**|Qingliang Meng et.al.|[2507.08477](http://arxiv.org/abs/2507.08477)|null|
+|**2025-07-10**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
+|**2025-07-10**|**Low-rank Momentum Factorization for Memory Efficient Training**|Pouria Mahdavinia et.al.|[2507.08091](http://arxiv.org/abs/2507.08091)|null|
+|**2025-07-09**|**ConsNoTrainLoRA: Data-driven Weight Initialization of Low-rank Adapters using Constraints**|Debasmit Das et.al.|[2507.08044](http://arxiv.org/abs/2507.08044)|null|
 |**2025-07-10**|**HaLert: A Resilient Smart City Architecture for Post-Disaster Based on Wi-Fi HaLow Mesh and SDN**|Ana Rita Ortigoso et.al.|[2507.07841](http://arxiv.org/abs/2507.07841)|null|
 |**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
 |**2025-07-09**|**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**|Samin Yeasar Arnob et.al.|[2507.07140](http://arxiv.org/abs/2507.07140)|null|
@@ -2171,16 +2178,22 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Model Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
+|**2025-07-11**|**Forget Me Not: Fighting Local Overfitting with Knowledge Fusion and Distillation**|Uri Stern et.al.|[2507.08686](http://arxiv.org/abs/2507.08686)|null|
+|**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617](http://arxiv.org/abs/2507.08617)|null|
+|**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
+|**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508](http://arxiv.org/abs/2507.08508)|null|
+|**2025-07-11**|**Distillation versus Contrastive Learning: How to Train Your Rerankers**|Zhichao Xu et.al.|[2507.08336](http://arxiv.org/abs/2507.08336)|null|
+|**2025-07-11**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
+|**2025-07-11**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
 |**2025-07-10**|**Exploring the Limits of Model Compression in LLMs: A Knowledge Distillation Study on QA Tasks**|Joyeeta Datta et.al.|[2507.07630](http://arxiv.org/abs/2507.07630)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
-|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-11**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**MST-Distill: Mixture of Specialized Teachers for Cross-Modal Knowledge Distillation**|Hui Li et.al.|[2507.07015](http://arxiv.org/abs/2507.07015)|null|
 |**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
 |**2025-07-07**|**Model Compression using Progressive Channel Pruning**|Jinyang Guo et.al.|[2507.04792](http://arxiv.org/abs/2507.04792)|null|
@@ -3302,7 +3315,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

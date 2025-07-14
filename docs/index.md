@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
@@ -417,6 +417,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**CCSS: Hardware-Accelerated RTL Simulation with Fast Combinational Logic Computing and Sequential Logic Synchronization**|Weigang Feng et.al.|[2507.08406](http://arxiv.org/abs/2507.08406)|null|
+|**2025-07-10**|**PDE-aware Optimizer for Physics-informed Neural Networks**|Hardik Shukla et.al.|[2507.08118](http://arxiv.org/abs/2507.08118)|null|
 |**2025-07-09**|**Energy-Efficient Supervised Learning with a Binary Stochastic Forward-Forward Algorithm**|Risi Jaiswal et.al.|[2507.06461](http://arxiv.org/abs/2507.06461)|null|
 |**2025-07-08**|**PaddleOCR 3.0 Technical Report**|Cheng Cui et.al.|[2507.05595](http://arxiv.org/abs/2507.05595)|null|
 |**2025-07-07**|**Bit-Flip Fault Attack: Crushing Graph Neural Networks via Gradual Bit Search**|Sanaz Kazemi Abharian et.al.|[2507.05531](http://arxiv.org/abs/2507.05531)|null|
@@ -723,6 +725,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence**|Yun Tang et.al.|[2507.08164](http://arxiv.org/abs/2507.08164)|null|
 |**2025-07-09**|**Beyond Connectivity: An Open Architecture for AI-RAN Convergence in 6G**|Michele Polese et.al.|[2507.06911](http://arxiv.org/abs/2507.06911)|null|
 |**2025-07-08**|**Secure and Storage-Efficient Deep Learning Models for Edge AI Using Automatic Weight Generation**|Habibur Rahaman et.al.|[2507.06380](http://arxiv.org/abs/2507.06380)|null|
 |**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
@@ -1027,6 +1030,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**ILT-Iterative LoRA Training through Focus-Feedback-Fix for Multilingual Speech Recognition**|Qingliang Meng et.al.|[2507.08477](http://arxiv.org/abs/2507.08477)|null|
+|**2025-07-10**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
+|**2025-07-10**|**Low-rank Momentum Factorization for Memory Efficient Training**|Pouria Mahdavinia et.al.|[2507.08091](http://arxiv.org/abs/2507.08091)|null|
+|**2025-07-09**|**ConsNoTrainLoRA: Data-driven Weight Initialization of Low-rank Adapters using Constraints**|Debasmit Das et.al.|[2507.08044](http://arxiv.org/abs/2507.08044)|null|
 |**2025-07-10**|**HaLert: A Resilient Smart City Architecture for Post-Disaster Based on Wi-Fi HaLow Mesh and SDN**|Ana Rita Ortigoso et.al.|[2507.07841](http://arxiv.org/abs/2507.07841)|null|
 |**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
 |**2025-07-09**|**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**|Samin Yeasar Arnob et.al.|[2507.07140](http://arxiv.org/abs/2507.07140)|null|
@@ -2156,10 +2163,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
+|**2025-07-11**|**Forget Me Not: Fighting Local Overfitting with Knowledge Fusion and Distillation**|Uri Stern et.al.|[2507.08686](http://arxiv.org/abs/2507.08686)|null|
+|**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617](http://arxiv.org/abs/2507.08617)|null|
+|**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
+|**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508](http://arxiv.org/abs/2507.08508)|null|
+|**2025-07-11**|**Distillation versus Contrastive Learning: How to Train Your Rerankers**|Zhichao Xu et.al.|[2507.08336](http://arxiv.org/abs/2507.08336)|null|
+|**2025-07-11**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
+|**2025-07-11**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
 |**2025-07-10**|**Exploring the Limits of Model Compression in LLMs: A Knowledge Distillation Study on QA Tasks**|Joyeeta Datta et.al.|[2507.07630](http://arxiv.org/abs/2507.07630)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
-|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-11**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**MST-Distill: Mixture of Specialized Teachers for Cross-Modal Knowledge Distillation**|Hui Li et.al.|[2507.07015](http://arxiv.org/abs/2507.07015)|null|
 |**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
 |**2025-07-07**|**Model Compression using Progressive Channel Pruning**|Jinyang Guo et.al.|[2507.04792](http://arxiv.org/abs/2507.04792)|null|
