@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**Post-Training Quantization of Generative and Discriminative LSTM Text Classifiers: A Study of Calibration, Class Balance, and Robustness**|Md Mushfiqur Rahaman et.al.|[2507.09687](http://arxiv.org/abs/2507.09687)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
@@ -251,6 +252,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**GeLaCo: An Evolutionary Approach to Layer Compression**|David Ponce et.al.|[2507.10059](http://arxiv.org/abs/2507.10059)|null|
+|**2025-07-12**|**Heterogeneous Graph Prompt Learning via Adaptive Weight Pruning**|Chu-Yuan Wei et.al.|[2507.09132](http://arxiv.org/abs/2507.09132)|null|
 |**2025-07-10**|**UnIT: Scalable Unstructured Inference-Time Pruning for MAC-efficient Neural Inference on MCUs**|Ashe Neth et.al.|[2507.07885](http://arxiv.org/abs/2507.07885)|null|
 |**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449](http://arxiv.org/abs/2507.06449)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
@@ -417,6 +420,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**MQFQ-Sticky: Fair Queueing For Serverless GPU Functions**|Alexander Fuerst et.al.|[2507.08954](http://arxiv.org/abs/2507.08954)|null|
 |**2025-07-11**|**CCSS: Hardware-Accelerated RTL Simulation with Fast Combinational Logic Computing and Sequential Logic Synchronization**|Weigang Feng et.al.|[2507.08406](http://arxiv.org/abs/2507.08406)|null|
 |**2025-07-10**|**PDE-aware Optimizer for Physics-informed Neural Networks**|Hardik Shukla et.al.|[2507.08118](http://arxiv.org/abs/2507.08118)|null|
 |**2025-07-09**|**Energy-Efficient Supervised Learning with a Binary Stochastic Forward-Forward Algorithm**|Risi Jaiswal et.al.|[2507.06461](http://arxiv.org/abs/2507.06461)|null|
@@ -725,6 +729,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI**|Phat Nguyen et.al.|[2507.09702](http://arxiv.org/abs/2507.09702)|null|
 |**2025-07-10**|**KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence**|Yun Tang et.al.|[2507.08164](http://arxiv.org/abs/2507.08164)|null|
 |**2025-07-09**|**Beyond Connectivity: An Open Architecture for AI-RAN Convergence in 6G**|Michele Polese et.al.|[2507.06911](http://arxiv.org/abs/2507.06911)|null|
 |**2025-07-08**|**Secure and Storage-Efficient Deep Learning Models for Edge AI Using Automatic Weight Generation**|Habibur Rahaman et.al.|[2507.06380](http://arxiv.org/abs/2507.06380)|null|
@@ -964,6 +969,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**BitParticle: Partializing Sparse Dual-Factors to Build Quasi-Synchronizing MAC Arrays for Energy-efficient DNNs**|Feilong Qiaoyuan et.al.|[2507.09780](http://arxiv.org/abs/2507.09780)|null|
 |**2025-07-08**|**Domestic frontier AI regulation, an IAEA for AI, an NPT for AI, and a US-led Allied Public-Private Partnership for AI: Four institutions for governing and developing frontier AI**|Haydn Belfield et.al.|[2507.06379](http://arxiv.org/abs/2507.06379)|null|
 |**2025-07-01**|**ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis**|Runkai Li et.al.|[2507.00642](http://arxiv.org/abs/2507.00642)|null|
 |**2025-06-20**|**Lookup Table-based Multiplication-free All-digital DNN Accelerator Featuring Self-Synchronous Pipeline Accumulation**|Hiroto Tagata et.al.|[2506.16800](http://arxiv.org/abs/2506.16800)|null|
@@ -1030,6 +1036,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
+|**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
+|**2025-07-14**|**Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix**|Ming Wen et.al.|[2507.09990](http://arxiv.org/abs/2507.09990)|null|
+|**2025-07-14**|**Tiny Reward Models**|Sarah Pan et.al.|[2507.09973](http://arxiv.org/abs/2507.09973)|null|
+|**2025-07-14**|**Mechanistic Interpretability of LoRA-Adapted Language Models for Nuclear Reactor Safety Applications**|Yoon Pyo Lee et.al.|[2507.09931](http://arxiv.org/abs/2507.09931)|null|
+|**2025-07-14**|**MixLoRA-DSI: Dynamically Expandable Mixture-of-LoRA Experts for Rehearsal-Free Generative Retrieval over Dynamic Corpora**|Tuan-Luc Huynh et.al.|[2507.09924](http://arxiv.org/abs/2507.09924)|null|
+|**2025-07-13**|**Low-Rank Adaptation of Deep Prior Neural Networks For Room Impulse Response Reconstruction**|Mirco Pezzoli et.al.|[2507.09806](http://arxiv.org/abs/2507.09806)|null|
+|**2025-07-13**|**Advancing Text-to-3D Generation with Linearized Lookahead Variational Score Distillation**|Yu Lei et.al.|[2507.09748](http://arxiv.org/abs/2507.09748)|null|
+|**2025-07-13**|**The DKU System for Multi-Speaker Automatic Speech Recognition in MLC-SLM Challenge**|Yuke Lin et.al.|[2507.09499](http://arxiv.org/abs/2507.09499)|null|
 |**2025-07-11**|**ILT-Iterative LoRA Training through Focus-Feedback-Fix for Multilingual Speech Recognition**|Qingliang Meng et.al.|[2507.08477](http://arxiv.org/abs/2507.08477)|null|
 |**2025-07-10**|**Simple Mechanistic Explanations for Out-Of-Context Reasoning**|Atticus Wang et.al.|[2507.08218](http://arxiv.org/abs/2507.08218)|null|
 |**2025-07-10**|**Low-rank Momentum Factorization for Memory Efficient Training**|Pouria Mahdavinia et.al.|[2507.08091](http://arxiv.org/abs/2507.08091)|null|
@@ -2163,6 +2179,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
+|**2025-07-14**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
+|**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348](http://arxiv.org/abs/2507.10348)|null|
+|**2025-07-14**|**Task-Based Flexible Feature Distillation for LLMs**|Khouloud Saadi et.al.|[2507.10155](http://arxiv.org/abs/2507.10155)|null|
+|**2025-07-14**|**Compression Method for Deep Diagonal State Space Model Based on $H^2$ Optimal Reduction**|Hiroki Sakamoto et.al.|[2507.10078](http://arxiv.org/abs/2507.10078)|null|
+|**2025-07-14**|**GeLaCo: An Evolutionary Approach to Layer Compression**|David Ponce et.al.|[2507.10059](http://arxiv.org/abs/2507.10059)|null|
+|**2025-07-13**|**Lightweight Federated Learning over Wireless Edge Networks**|Xiangwang Hou et.al.|[2507.09546](http://arxiv.org/abs/2507.09546)|null|
+|**2025-07-13**|**HMID-Net: An Exploration of Masked Image Modeling and Knowledge Distillation in Hyperbolic Space**|Changli Wang et.al.|[2507.09487](http://arxiv.org/abs/2507.09487)|null|
+|**2025-07-12**|**On Information Geometry and Iterative Optimization in Model Compression: Operator Factorization**|Zakhar Shumaylov et.al.|[2507.09428](http://arxiv.org/abs/2507.09428)|null|
+|**2025-07-12**|**Cross Knowledge Distillation between Artificial and Spiking Neural Networks**|Shuhan Ye et.al.|[2507.09269](http://arxiv.org/abs/2507.09269)|null|
 |**2025-07-11**|**Forget Me Not: Fighting Local Overfitting with Knowledge Fusion and Distillation**|Uri Stern et.al.|[2507.08686](http://arxiv.org/abs/2507.08686)|null|
 |**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617](http://arxiv.org/abs/2507.08617)|null|
 |**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
