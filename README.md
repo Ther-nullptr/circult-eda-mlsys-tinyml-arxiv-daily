@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
+|**2025-07-15**|**Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification**|Yejun Yoon et.al.|[2507.11004](http://arxiv.org/abs/2507.11004)|null|
 |**2025-07-13**|**Post-Training Quantization of Generative and Discriminative LSTM Text Classifiers: A Study of Calibration, Class Balance, and Robustness**|Md Mushfiqur Rahaman et.al.|[2507.09687](http://arxiv.org/abs/2507.09687)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
@@ -257,7 +259,7 @@
 |**2024-07-11**|**Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients**|Zhenyu Zhang et.al.|[2407.08296](http://arxiv.org/abs/2407.08296)|**[link](https://github.com/VITA-Group/Q-GaLore)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Pruning
 
@@ -427,12 +429,13 @@
 |**2024-07-16**|**MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models**|Hongrong Cheng et.al.|[2407.11681](http://arxiv.org/abs/2407.11681)|null|
 |**2024-07-15**|**DDFAD: Dataset Distillation Framework for Audio Data**|Wenbo Jiang et.al.|[2407.10446](http://arxiv.org/abs/2407.10446)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Hardware-Software Co-Design
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
 |**2025-07-11**|**MQFQ-Sticky: Fair Queueing For Serverless GPU Functions**|Alexander Fuerst et.al.|[2507.08954](http://arxiv.org/abs/2507.08954)|null|
 |**2025-07-11**|**CCSS: Hardware-Accelerated RTL Simulation with Fast Combinational Logic Computing and Sequential Logic Synchronization**|Weigang Feng et.al.|[2507.08406](http://arxiv.org/abs/2507.08406)|null|
 |**2025-07-10**|**PDE-aware Optimizer for Physics-informed Neural Networks**|Hardik Shukla et.al.|[2507.08118](http://arxiv.org/abs/2507.08118)|null|
@@ -738,7 +741,7 @@
 |**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
 |**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975](http://arxiv.org/abs/2407.08975)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## TinyML
 
@@ -980,12 +983,14 @@
 |**2024-07-13**|**Characterizing Disparity Between Edge Models and High-Accuracy Base Models for Vision Tasks**|Zhenyu Wang et.al.|[2407.10016](http://arxiv.org/abs/2407.10016)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Domain Specific Accelerator
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
+|**2025-07-14**|**OpenGCRAM: An Open-Source Gain Cell Compiler Enabling Design-Space Exploration for AI Workloads**|Xinxin Wang et.al.|[2507.10849](http://arxiv.org/abs/2507.10849)|null|
 |**2025-07-13**|**BitParticle: Partializing Sparse Dual-Factors to Build Quasi-Synchronizing MAC Arrays for Energy-efficient DNNs**|Feilong Qiaoyuan et.al.|[2507.09780](http://arxiv.org/abs/2507.09780)|null|
 |**2025-07-08**|**Domestic frontier AI regulation, an IAEA for AI, an NPT for AI, and a US-led Allied Public-Private Partnership for AI: Four institutions for governing and developing frontier AI**|Haydn Belfield et.al.|[2507.06379](http://arxiv.org/abs/2507.06379)|null|
 |**2025-07-01**|**ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis**|Runkai Li et.al.|[2507.00642](http://arxiv.org/abs/2507.00642)|null|
@@ -1049,12 +1054,18 @@
 |**2024-06-05**|**HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerator**|Zhewen Yu et.al.|[2406.03088](http://arxiv.org/abs/2406.03088)|**[link](https://github.com/yu-zhewen/hass)**|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Low-Rank Adaptation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**A Robust Incomplete Multimodal Low-Rank Adaptation Approach for Emotion Recognition**|Xinkui Zhao et.al.|[2507.11202](http://arxiv.org/abs/2507.11202)|null|
+|**2025-07-15**|**LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection**|Isaiah Thompson Ocansey et.al.|[2507.11071](http://arxiv.org/abs/2507.11071)|null|
+|**2025-07-15**|**Mario at EXIST 2025: A Simple Gateway to Effective Multilingual Sexism Detection**|Lin Tian et.al.|[2507.10996](http://arxiv.org/abs/2507.10996)|null|
+|**2025-07-15**|**StellarF: A Lora-Adapter Integrated Large Model Framework for Stellar Flare Forecasting with Historical & Statistical Data**|Tianyu Su et.al.|[2507.10986](http://arxiv.org/abs/2507.10986)|null|
+|**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|
 |**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
 |**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
 |**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
@@ -2194,14 +2205,15 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Model Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**HanjaBridge: Resolving Semantic Ambiguity in Korean LLMs via Hanja-Augmented Pre-Training**|Seungho Choi et.al.|[2507.10920](http://arxiv.org/abs/2507.10920)|null|
 |**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
-|**2025-07-14**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
+|**2025-07-15**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
 |**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348](http://arxiv.org/abs/2507.10348)|null|
 |**2025-07-14**|**Task-Based Flexible Feature Distillation for LLMs**|Khouloud Saadi et.al.|[2507.10155](http://arxiv.org/abs/2507.10155)|null|
 |**2025-07-14**|**Compression Method for Deep Diagonal State Space Model Based on $H^2$ Optimal Reduction**|Hiroki Sakamoto et.al.|[2507.10078](http://arxiv.org/abs/2507.10078)|null|
@@ -3341,7 +3353,7 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|**[link](https://github.com/pku-liang/origen)**|
 |**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154](http://arxiv.org/abs/2407.16154)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

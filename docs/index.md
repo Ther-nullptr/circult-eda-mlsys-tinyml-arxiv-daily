@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
+|**2025-07-15**|**Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification**|Yejun Yoon et.al.|[2507.11004](http://arxiv.org/abs/2507.11004)|null|
 |**2025-07-13**|**Post-Training Quantization of Generative and Discriminative LSTM Text Classifiers: A Study of Calibration, Class Balance, and Robustness**|Md Mushfiqur Rahaman et.al.|[2507.09687](http://arxiv.org/abs/2507.09687)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
@@ -420,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
 |**2025-07-11**|**MQFQ-Sticky: Fair Queueing For Serverless GPU Functions**|Alexander Fuerst et.al.|[2507.08954](http://arxiv.org/abs/2507.08954)|null|
 |**2025-07-11**|**CCSS: Hardware-Accelerated RTL Simulation with Fast Combinational Logic Computing and Sequential Logic Synchronization**|Weigang Feng et.al.|[2507.08406](http://arxiv.org/abs/2507.08406)|null|
 |**2025-07-10**|**PDE-aware Optimizer for Physics-informed Neural Networks**|Hardik Shukla et.al.|[2507.08118](http://arxiv.org/abs/2507.08118)|null|
@@ -969,6 +972,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
+|**2025-07-14**|**OpenGCRAM: An Open-Source Gain Cell Compiler Enabling Design-Space Exploration for AI Workloads**|Xinxin Wang et.al.|[2507.10849](http://arxiv.org/abs/2507.10849)|null|
 |**2025-07-13**|**BitParticle: Partializing Sparse Dual-Factors to Build Quasi-Synchronizing MAC Arrays for Energy-efficient DNNs**|Feilong Qiaoyuan et.al.|[2507.09780](http://arxiv.org/abs/2507.09780)|null|
 |**2025-07-08**|**Domestic frontier AI regulation, an IAEA for AI, an NPT for AI, and a US-led Allied Public-Private Partnership for AI: Four institutions for governing and developing frontier AI**|Haydn Belfield et.al.|[2507.06379](http://arxiv.org/abs/2507.06379)|null|
 |**2025-07-01**|**ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis**|Runkai Li et.al.|[2507.00642](http://arxiv.org/abs/2507.00642)|null|
@@ -1036,6 +1041,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**A Robust Incomplete Multimodal Low-Rank Adaptation Approach for Emotion Recognition**|Xinkui Zhao et.al.|[2507.11202](http://arxiv.org/abs/2507.11202)|null|
+|**2025-07-15**|**LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection**|Isaiah Thompson Ocansey et.al.|[2507.11071](http://arxiv.org/abs/2507.11071)|null|
+|**2025-07-15**|**Mario at EXIST 2025: A Simple Gateway to Effective Multilingual Sexism Detection**|Lin Tian et.al.|[2507.10996](http://arxiv.org/abs/2507.10996)|null|
+|**2025-07-15**|**StellarF: A Lora-Adapter Integrated Large Model Framework for Stellar Flare Forecasting with Historical & Statistical Data**|Tianyu Su et.al.|[2507.10986](http://arxiv.org/abs/2507.10986)|null|
+|**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|
 |**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
 |**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
 |**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
@@ -2179,8 +2190,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**HanjaBridge: Resolving Semantic Ambiguity in Korean LLMs via Hanja-Augmented Pre-Training**|Seungho Choi et.al.|[2507.10920](http://arxiv.org/abs/2507.10920)|null|
 |**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
-|**2025-07-14**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
+|**2025-07-15**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
 |**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348](http://arxiv.org/abs/2507.10348)|null|
 |**2025-07-14**|**Task-Based Flexible Feature Distillation for LLMs**|Khouloud Saadi et.al.|[2507.10155](http://arxiv.org/abs/2507.10155)|null|
 |**2025-07-14**|**Compression Method for Deep Diagonal State Space Model Based on $H^2$ Optimal Reduction**|Hiroki Sakamoto et.al.|[2507.10078](http://arxiv.org/abs/2507.10078)|null|
