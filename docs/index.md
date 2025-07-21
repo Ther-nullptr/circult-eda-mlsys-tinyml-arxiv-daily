@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-17**|**DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization**|Dongyeun Lee et.al.|[2507.12933](http://arxiv.org/abs/2507.12933)|null|
 |**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
 |**2025-07-15**|**Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification**|Yejun Yoon et.al.|[2507.11004](http://arxiv.org/abs/2507.11004)|null|
@@ -738,6 +739,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**A segmented robot grasping perception neural network for edge AI**|Casper Bröcheler et.al.|[2507.13970](http://arxiv.org/abs/2507.13970)|null|
 |**2025-07-09**|**The AI Shadow War: SaaS vs. Edge Computing Architectures**|Rhea Pritham Marpu et.al.|[2507.11545](http://arxiv.org/abs/2507.11545)|null|
 |**2025-07-13**|**Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI**|Phat Nguyen et.al.|[2507.09702](http://arxiv.org/abs/2507.09702)|null|
 |**2025-07-10**|**KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence**|Yun Tang et.al.|[2507.08164](http://arxiv.org/abs/2507.08164)|null|
@@ -1049,6 +1051,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation**|Weiqi Yang et.al.|[2507.13803](http://arxiv.org/abs/2507.13803)|null|
+|**2025-07-18**|**PRIDE -- Parameter-Efficient Reduction of Identity Discrimination for Equality in LLMs**|Maluna Menke et.al.|[2507.13743](http://arxiv.org/abs/2507.13743)|null|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
+|**2025-07-17**|**LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning**|Kaihong Wang et.al.|[2507.13568](http://arxiv.org/abs/2507.13568)|null|
 |**2025-07-17**|**Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy**|Yiting Yang et.al.|[2507.13260](http://arxiv.org/abs/2507.13260)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
 |**2025-07-17**|**Emotional Support with LLM-based Empathetic Dialogue Generation**|Shiquan Wang et.al.|[2507.12820](http://arxiv.org/abs/2507.12820)|null|
@@ -2207,8 +2213,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**TGIF: Talker Group-Informed Familiarization of Target Speaker Extraction**|Tsun-An Hsieh et.al.|[2507.14044](http://arxiv.org/abs/2507.14044)|null|
+|**2025-07-18**|**Efficient Burst Super-Resolution with One-step Diffusion**|Kento Kawai et.al.|[2507.13607](http://arxiv.org/abs/2507.13607)|null|
 |**2025-07-17**|**Uncertainty-Aware Cross-Modal Knowledge Distillation with Prototype Learning for Multimodal Brain-Computer Interfaces**|Hyo-Jeong Jang et.al.|[2507.13092](http://arxiv.org/abs/2507.13092)|null|
-|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-18**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
 |**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-16**|**Fine-Grained Image Recognition from Scratch with Teacher-Guided Data Augmentation**|Edwin Arkel Rios et.al.|[2507.12157](http://arxiv.org/abs/2507.12157)|null|
 |**2025-07-15**|**HanjaBridge: Resolving Semantic Ambiguity in Korean LLMs via Hanja-Augmented Pre-Training**|Seungho Choi et.al.|[2507.10920](http://arxiv.org/abs/2507.10920)|null|
