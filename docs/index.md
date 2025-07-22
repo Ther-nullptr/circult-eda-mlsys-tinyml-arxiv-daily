@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**Performance Analysis of Post-Training Quantization for CNN-based Conjunctival Pallor Anemia Detection**|Sebastian A. Cruz Romero et.al.|[2507.15151](http://arxiv.org/abs/2507.15151)|null|
+|**2025-07-20**|**SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**|Jiaji Zhang et.al.|[2507.14811](http://arxiv.org/abs/2507.14811)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-17**|**DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization**|Dongyeun Lee et.al.|[2507.12933](http://arxiv.org/abs/2507.12933)|null|
 |**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
@@ -256,6 +258,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**Application-Specific Component-Aware Structured Pruning of Deep Neural Networks via Soft Coefficient Optimization**|Ganesh Sundaram et.al.|[2507.14882](http://arxiv.org/abs/2507.14882)|null|
+|**2025-07-10**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
+|**2025-07-10**|**Catalyst: a Novel Regularizer for Structured Pruning with Auxiliary Extension of Parameter Space**|Jaeheun Jung et.al.|[2507.14170](http://arxiv.org/abs/2507.14170)|null|
 |**2025-07-17**|**Variance-Based Pruning for Accelerating and Compressing Trained Networks**|Uranik Berisha et.al.|[2507.12988](http://arxiv.org/abs/2507.12988)|null|
 |**2025-07-14**|**GeLaCo: An Evolutionary Approach to Layer Compression**|David Ponce et.al.|[2507.10059](http://arxiv.org/abs/2507.10059)|null|
 |**2025-07-12**|**Heterogeneous Graph Prompt Learning via Adaptive Weight Pruning**|Chu-Yuan Wei et.al.|[2507.09132](http://arxiv.org/abs/2507.09132)|null|
@@ -425,8 +430,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**AMPED: Accelerating MTTKRP for Billion-Scale Sparse Tensor Decomposition on Multiple GPUs**|Sasindu Wijeratne et.al.|[2507.15121](http://arxiv.org/abs/2507.15121)|null|
+|**2025-07-19**|**Enabling Efficient Hardware Acceleration of Hybrid Vision Transformer (ViT) Networks at the Edge**|Joren Dumoulin et.al.|[2507.14651](http://arxiv.org/abs/2507.14651)|null|
 |**2025-07-17**|**MC $^2$ A: Enabling Algorithm-Hardware Co-Design for Efficient Markov Chain Monte Carlo Acceleration**|Shirui Zhao et.al.|[2507.12935](http://arxiv.org/abs/2507.12935)|null|
-|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
+|**2025-07-19**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
 |**2025-07-17**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418](http://arxiv.org/abs/2507.12418)|null|
 |**2025-07-16**|**Selective Quantization Tuning for ONNX Models**|Nikolaos Louloudakis et.al.|[2507.12196](http://arxiv.org/abs/2507.12196)|null|
 |**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
@@ -739,6 +746,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications**|Yujia Shi et.al.|[2507.15545](http://arxiv.org/abs/2507.15545)|null|
+|**2025-07-20**|**Quantum Machine Learning for Secure Cooperative Multi-Layer Edge AI with Proportional Fairness**|Thai T. Vu et.al.|[2507.15145](http://arxiv.org/abs/2507.15145)|null|
+|**2025-07-20**|**Beyond Visual Line of Sight: UAVs with Edge AI, Connected LLMs, and VR for Autonomous Aerial Intelligence**|Andres Navarro et.al.|[2507.15049](http://arxiv.org/abs/2507.15049)|null|
+|**2025-07-20**|**Strategic Integration of AI Chatbots in Physics Teacher Preparation: A TPACK-SWOT Analysis of Pedagogical, Epistemic, and Cybersecurity Dimensions**|N. Mohammadipour et.al.|[2507.14860](http://arxiv.org/abs/2507.14860)|null|
 |**2025-07-18**|**A segmented robot grasping perception neural network for edge AI**|Casper Bröcheler et.al.|[2507.13970](http://arxiv.org/abs/2507.13970)|null|
 |**2025-07-09**|**The AI Shadow War: SaaS vs. Edge Computing Architectures**|Rhea Pritham Marpu et.al.|[2507.11545](http://arxiv.org/abs/2507.11545)|null|
 |**2025-07-13**|**Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI**|Phat Nguyen et.al.|[2507.09702](http://arxiv.org/abs/2507.09702)|null|
@@ -1051,6 +1062,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793](http://arxiv.org/abs/2507.15793)|null|
+|**2025-07-20**|**Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices**|Saeid Ghafouri et.al.|[2507.14959](http://arxiv.org/abs/2507.14959)|null|
+|**2025-07-20**|**Parameter-Efficient Fine-Tuning of Foundation Models for CLP Speech Classification**|Susmita Bhattacharjee et.al.|[2507.14898](http://arxiv.org/abs/2507.14898)|null|
+|**2025-07-18**|**Solo Connection: A Parameter Efficient Fine-Tuning Technique for Transformers**|Harsh Nilesh Pathak et.al.|[2507.14353](http://arxiv.org/abs/2507.14353)|null|
 |**2025-07-18**|**GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation**|Weiqi Yang et.al.|[2507.13803](http://arxiv.org/abs/2507.13803)|null|
 |**2025-07-18**|**PRIDE -- Parameter-Efficient Reduction of Identity Discrimination for Equality in LLMs**|Maluna Menke et.al.|[2507.13743](http://arxiv.org/abs/2507.13743)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
@@ -2213,6 +2228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Efficient Face Image Quality Assessment via Self-training and Knowledge Distillation**|Wei Sun et.al.|[2507.15709](http://arxiv.org/abs/2507.15709)|null|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
+|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-21**|**Optimal Transceiver Design in Over-the-Air Federated Distillation**|Zihao Hu et.al.|[2507.15256](http://arxiv.org/abs/2507.15256)|null|
+|**2025-07-20**|**Application-Specific Component-Aware Structured Pruning of Deep Neural Networks via Soft Coefficient Optimization**|Ganesh Sundaram et.al.|[2507.14882](http://arxiv.org/abs/2507.14882)|null|
+|**2025-07-19**|**Generative Distribution Distillation**|Jiequan Cui et.al.|[2507.14503](http://arxiv.org/abs/2507.14503)|null|
 |**2025-07-18**|**TGIF: Talker Group-Informed Familiarization of Target Speaker Extraction**|Tsun-An Hsieh et.al.|[2507.14044](http://arxiv.org/abs/2507.14044)|null|
 |**2025-07-18**|**Efficient Burst Super-Resolution with One-step Diffusion**|Kento Kawai et.al.|[2507.13607](http://arxiv.org/abs/2507.13607)|null|
 |**2025-07-17**|**Uncertainty-Aware Cross-Modal Knowledge Distillation with Prototype Learning for Multimodal Brain-Computer Interfaces**|Hyo-Jeong Jang et.al.|[2507.13092](http://arxiv.org/abs/2507.13092)|null|
