@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
+|**2025-07-21**|**TorchAO: PyTorch-Native Training-to-Serving Model Optimization**|Andrew Or et.al.|[2507.16099](http://arxiv.org/abs/2507.16099)|null|
 |**2025-07-20**|**Performance Analysis of Post-Training Quantization for CNN-based Conjunctival Pallor Anemia Detection**|Sebastian A. Cruz Romero et.al.|[2507.15151](http://arxiv.org/abs/2507.15151)|null|
 |**2025-07-20**|**SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**|Jiaji Zhang et.al.|[2507.14811](http://arxiv.org/abs/2507.14811)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
@@ -259,7 +261,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-20**|**Application-Specific Component-Aware Structured Pruning of Deep Neural Networks via Soft Coefficient Optimization**|Ganesh Sundaram et.al.|[2507.14882](http://arxiv.org/abs/2507.14882)|null|
-|**2025-07-10**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
+|**2025-07-22**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
 |**2025-07-10**|**Catalyst: a Novel Regularizer for Structured Pruning with Auxiliary Extension of Parameter Space**|Jaeheun Jung et.al.|[2507.14170](http://arxiv.org/abs/2507.14170)|null|
 |**2025-07-17**|**Variance-Based Pruning for Accelerating and Compressing Trained Networks**|Uranik Berisha et.al.|[2507.12988](http://arxiv.org/abs/2507.12988)|null|
 |**2025-07-14**|**GeLaCo: An Evolutionary Approach to Layer Compression**|David Ponce et.al.|[2507.10059](http://arxiv.org/abs/2507.10059)|null|
@@ -430,6 +432,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MTU: The Multifunction Tree Unit in zkSpeed for Accelerating HyperPlonk**|Jianqiao Mo et.al.|[2507.16793](http://arxiv.org/abs/2507.16793)|null|
+|**2025-07-22**|**Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers**|Vasileios Titopoulos et.al.|[2507.16676](http://arxiv.org/abs/2507.16676)|null|
 |**2025-07-20**|**AMPED: Accelerating MTTKRP for Billion-Scale Sparse Tensor Decomposition on Multiple GPUs**|Sasindu Wijeratne et.al.|[2507.15121](http://arxiv.org/abs/2507.15121)|null|
 |**2025-07-19**|**Enabling Efficient Hardware Acceleration of Hybrid Vision Transformer (ViT) Networks at the Edge**|Joren Dumoulin et.al.|[2507.14651](http://arxiv.org/abs/2507.14651)|null|
 |**2025-07-17**|**MC $^2$ A: Enabling Algorithm-Hardware Co-Design for Efficient Markov Chain Monte Carlo Acceleration**|Shirui Zhao et.al.|[2507.12935](http://arxiv.org/abs/2507.12935)|null|
@@ -746,6 +750,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**An Experimental Study of Split-Learning TinyML on Ultra-Low-Power Edge/IoT Nodes**|Zied Jenhani et.al.|[2507.16594](http://arxiv.org/abs/2507.16594)|null|
 |**2025-07-21**|**Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications**|Yujia Shi et.al.|[2507.15545](http://arxiv.org/abs/2507.15545)|null|
 |**2025-07-20**|**Quantum Machine Learning for Secure Cooperative Multi-Layer Edge AI with Proportional Fairness**|Thai T. Vu et.al.|[2507.15145](http://arxiv.org/abs/2507.15145)|null|
 |**2025-07-20**|**Beyond Visual Line of Sight: UAVs with Edge AI, Connected LLMs, and VR for Autonomous Aerial Intelligence**|Andres Navarro et.al.|[2507.15049](http://arxiv.org/abs/2507.15049)|null|
@@ -992,6 +997,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Verifying International Agreements on AI: Six Layers of Verification for Rules on Large-Scale AI Development and Deployment**|Mauricio Baker et.al.|[2507.15916](http://arxiv.org/abs/2507.15916)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
 |**2025-07-14**|**OpenGCRAM: An Open-Source Gain Cell Compiler Enabling Design-Space Exploration for AI Workloads**|Xinxin Wang et.al.|[2507.10849](http://arxiv.org/abs/2507.10849)|null|
@@ -1062,6 +1068,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**"Just a strange pic": Evaluating 'safety' in GenAI Image safety annotation tasks from diverse annotators' perspectives**|Ding Wang et.al.|[2507.16033](http://arxiv.org/abs/2507.16033)|null|
 |**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793](http://arxiv.org/abs/2507.15793)|null|
 |**2025-07-20**|**Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices**|Saeid Ghafouri et.al.|[2507.14959](http://arxiv.org/abs/2507.14959)|null|
 |**2025-07-20**|**Parameter-Efficient Fine-Tuning of Foundation Models for CLP Speech Classification**|Susmita Bhattacharjee et.al.|[2507.14898](http://arxiv.org/abs/2507.14898)|null|
@@ -2228,9 +2235,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
+|**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556](http://arxiv.org/abs/2507.16556)|null|
+|**2025-07-22**|**Cross-Modal Distillation For Widely Differing Modalities**|Cairong Zhao et.al.|[2507.16296](http://arxiv.org/abs/2507.16296)|null|
+|**2025-07-22**|**Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments**|Jiyue Jiang et.al.|[2507.16155](http://arxiv.org/abs/2507.16155)|null|
+|**2025-07-21**|**Interpretable Embeddings of Speech Enhance and Explain Brain Encoding Performance of Audio Models**|Riki Shimizu et.al.|[2507.16080](http://arxiv.org/abs/2507.16080)|null|
+|**2025-07-21**|**Local Dense Logit Relations for Enhanced Knowledge Distillation**|Liuchi Xu et.al.|[2507.15911](http://arxiv.org/abs/2507.15911)|null|
 |**2025-07-21**|**Efficient Face Image Quality Assessment via Self-training and Knowledge Distillation**|Wei Sun et.al.|[2507.15709](http://arxiv.org/abs/2507.15709)|null|
 |**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
-|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**Optimal Transceiver Design in Over-the-Air Federated Distillation**|Zihao Hu et.al.|[2507.15256](http://arxiv.org/abs/2507.15256)|null|
 |**2025-07-20**|**Application-Specific Component-Aware Structured Pruning of Deep Neural Networks via Soft Coefficient Optimization**|Ganesh Sundaram et.al.|[2507.14882](http://arxiv.org/abs/2507.14882)|null|
 |**2025-07-19**|**Generative Distribution Distillation**|Jiequan Cui et.al.|[2507.14503](http://arxiv.org/abs/2507.14503)|null|
