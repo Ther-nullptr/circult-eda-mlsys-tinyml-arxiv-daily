@@ -7,17 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Quantization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**A Comprehensive Evaluation on Quantization Techniques for Large Language Models**|Yutong Liu et.al.|[2507.17417](http://arxiv.org/abs/2507.17417)|null|
+|**2025-07-23**|**Computer Vision for Real-Time Monkeypox Diagnosis on Embedded Systems**|Jacob M. Delgado-López et.al.|[2507.17123](http://arxiv.org/abs/2507.17123)|null|
+|**2025-07-22**|**SiLQ: Simple Large Language Model Quantization-Aware Training**|Steven K. Esser et.al.|[2507.16933](http://arxiv.org/abs/2507.16933)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
 |**2025-07-21**|**TorchAO: PyTorch-Native Training-to-Serving Model Optimization**|Andrew Or et.al.|[2507.16099](http://arxiv.org/abs/2507.16099)|null|
 |**2025-07-20**|**Performance Analysis of Post-Training Quantization for CNN-based Conjunctival Pallor Anemia Detection**|Sebastian A. Cruz Romero et.al.|[2507.15151](http://arxiv.org/abs/2507.15151)|null|
-|**2025-07-20**|**SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**|Jiaji Zhang et.al.|[2507.14811](http://arxiv.org/abs/2507.14811)|null|
+|**2025-07-23**|**SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**|Jiaji Zhang et.al.|[2507.14811](http://arxiv.org/abs/2507.14811)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-17**|**DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization**|Dongyeun Lee et.al.|[2507.12933](http://arxiv.org/abs/2507.12933)|null|
 |**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
@@ -432,6 +435,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Spintronic Bayesian Hardware Driven by Stochastic Magnetic Domain Wall Dynamics**|Tianyi Wang et.al.|[2507.17193](http://arxiv.org/abs/2507.17193)|null|
+|**2025-07-23**|**Efficient and Distortion-less Spectrum Multiplexer via Neural Network-based Filter Banks**|Jiazhao Wang et.al.|[2507.17106](http://arxiv.org/abs/2507.17106)|null|
 |**2025-07-22**|**MTU: The Multifunction Tree Unit in zkSpeed for Accelerating HyperPlonk**|Jianqiao Mo et.al.|[2507.16793](http://arxiv.org/abs/2507.16793)|null|
 |**2025-07-22**|**Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers**|Vasileios Titopoulos et.al.|[2507.16676](http://arxiv.org/abs/2507.16676)|null|
 |**2025-07-20**|**AMPED: Accelerating MTTKRP for Billion-Scale Sparse Tensor Decomposition on Multiple GPUs**|Sasindu Wijeratne et.al.|[2507.15121](http://arxiv.org/abs/2507.15121)|null|
@@ -1068,6 +1073,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651](http://arxiv.org/abs/2507.17651)|null|
+|**2025-07-23**|**Vec2Face+ for Face Dataset Generation**|Haiyu Wu et.al.|[2507.17192](http://arxiv.org/abs/2507.17192)|null|
+|**2025-07-23**|**Maintenance-free condition monitoring system based on lora**|Honglin Zhang et.al.|[2507.17156](http://arxiv.org/abs/2507.17156)|null|
+|**2025-07-23**|**FedVLM: Scalable Personalized Vision-Language Models through Federated Learning**|Arkajyoti Mitra et.al.|[2507.17088](http://arxiv.org/abs/2507.17088)|null|
+|**2025-07-22**|**LoRA is All You Need for Safety Alignment of Reasoning LLMs**|Yihao Xue et.al.|[2507.17075](http://arxiv.org/abs/2507.17075)|null|
+|**2025-07-22**|**BiLO: Bilevel Local Operator Learning for PDE Inverse Problems. Part II: Efficient Uncertainty Quantification with Low-Rank Adaptation**|Ray Zirui Zhang et.al.|[2507.17019](http://arxiv.org/abs/2507.17019)|null|
 |**2025-07-21**|**"Just a strange pic": Evaluating 'safety' in GenAI Image safety annotation tasks from diverse annotators' perspectives**|Ding Wang et.al.|[2507.16033](http://arxiv.org/abs/2507.16033)|null|
 |**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793](http://arxiv.org/abs/2507.15793)|null|
 |**2025-07-20**|**Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices**|Saeid Ghafouri et.al.|[2507.14959](http://arxiv.org/abs/2507.14959)|null|
@@ -2235,6 +2247,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**MaskedCLIP: Bridging the Masked and CLIP Space for Semi-Supervised Medical Vision-Language Pre-training**|Lei Zhu et.al.|[2507.17239](http://arxiv.org/abs/2507.17239)|null|
+|**2025-07-23**|**Model Compression Engine for Wearable Devices Skin Cancer Diagnosis**|Jacob M. Delgado-López et.al.|[2507.17125](http://arxiv.org/abs/2507.17125)|null|
+|**2025-07-22**|**Sensor Drift Compensation in Electronic-Nose-Based Gas Recognition Using Knowledge Distillation**|Juntao Lin et.al.|[2507.17071](http://arxiv.org/abs/2507.17071)|null|
+|**2025-07-22**|**CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage**|Na Li et.al.|[2507.16872](http://arxiv.org/abs/2507.16872)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
 |**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556](http://arxiv.org/abs/2507.16556)|null|
 |**2025-07-22**|**Cross-Modal Distillation For Widely Differing Modalities**|Cairong Zhao et.al.|[2507.16296](http://arxiv.org/abs/2507.16296)|null|
